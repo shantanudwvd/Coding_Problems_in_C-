@@ -45,6 +45,8 @@ CMakeFiles/AveoRenzhio.dir/FindTheRunningMedianOptimized.cpp.o: ../FindTheRunnin
 
 CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotifications.cpp.o: ../FraudulentActivityNotifications.cpp
 
+CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.o: ../FraudulentActivityNotificationsOptimized.cpp
+
 CMakeFiles/AveoRenzhio.dir/GameofThrones.cpp.o: ../GameofThrones.cpp
 
 CMakeFiles/AveoRenzhio.dir/GameofTwoStacks.cpp.o: ../GameofTwoStacks.cpp

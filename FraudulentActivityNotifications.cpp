@@ -7,26 +7,26 @@
 #include <cmath>
 #include <cstring>
 using namespace std;
-int arr[200000];
+float arr[200000];
 int length,heapsize;
 float median;
-void increase_value(int arr[],int i,int val)
+void increase_value(float arr[],int i,int val)
 {
     arr[i]=val;
     while(i>1 && arr[i]<arr[i/2])
     {
-        int temp=arr[i];
+        float temp=arr[i];
         arr[i]=arr[i/2];
         arr[i/2]=temp;
         i=i/2;
     }
 }
-void insert_element(int arr[], int val)
+void insert_element(float arr[], int val)
 {
     length=length+1;
     increase_value(arr,length,val);
 }
-void min_heapify(int arr[],int i)
+void min_heapify(float arr[],int i)
 {
     int l=(2*i);
     int r=(2*i+1);
@@ -47,13 +47,13 @@ void min_heapify(int arr[],int i)
         return;
     if(smallest!=i)
     {
-        int swap=arr[i];
+        float swap=arr[i];
         arr[i]=arr[smallest];
         arr[smallest]=swap;
     }
     min_heapify(arr,smallest);
 }
-void heapsort(int arr[],int td)
+void heapsort(float arr[],int td)
 {
     int count=0;
     float temp=0;
@@ -83,7 +83,7 @@ int main()
 {
     int n,td,notif=0;
     cin>>n>>td;
-    int a[n+1];
+    float a[n+1];
     for(int i=1;i<=n;i++)
     {
         cin>>a[i];
@@ -98,9 +98,9 @@ int main()
             insert_element(arr,a[j]);
             count++;
         }
-        int nota=a[j];
+        float nota=a[j];
         //First time swapping of elements in the windows of size td.
-        int temp=arr[1];
+        float temp=arr[1];
         arr[1]=arr[td];
         arr[td]=temp;
         length--;

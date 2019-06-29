@@ -1682,6 +1682,33 @@ FraudulentActivityNotifications.cpp.s:
 	$(MAKE) -f CMakeFiles/FraudulentActivityNotifications.dir/build.make CMakeFiles/FraudulentActivityNotifications.dir/FraudulentActivityNotifications.cpp.s
 .PHONY : FraudulentActivityNotifications.cpp.s
 
+FraudulentActivityNotificationsOptimized.o: FraudulentActivityNotificationsOptimized.cpp.o
+
+.PHONY : FraudulentActivityNotificationsOptimized.o
+
+# target to build an object file
+FraudulentActivityNotificationsOptimized.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.o
+.PHONY : FraudulentActivityNotificationsOptimized.cpp.o
+
+FraudulentActivityNotificationsOptimized.i: FraudulentActivityNotificationsOptimized.cpp.i
+
+.PHONY : FraudulentActivityNotificationsOptimized.i
+
+# target to preprocess a source file
+FraudulentActivityNotificationsOptimized.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.i
+.PHONY : FraudulentActivityNotificationsOptimized.cpp.i
+
+FraudulentActivityNotificationsOptimized.s: FraudulentActivityNotificationsOptimized.cpp.s
+
+.PHONY : FraudulentActivityNotificationsOptimized.s
+
+# target to generate assembly for a file
+FraudulentActivityNotificationsOptimized.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.s
+.PHONY : FraudulentActivityNotificationsOptimized.cpp.s
+
 GameofThrones.o: GameofThrones.cpp.o
 
 .PHONY : GameofThrones.o
@@ -3085,6 +3112,9 @@ help:
 	@echo "... FraudulentActivityNotifications.o"
 	@echo "... FraudulentActivityNotifications.i"
 	@echo "... FraudulentActivityNotifications.s"
+	@echo "... FraudulentActivityNotificationsOptimized.o"
+	@echo "... FraudulentActivityNotificationsOptimized.i"
+	@echo "... FraudulentActivityNotificationsOptimized.s"
 	@echo "... GameofThrones.o"
 	@echo "... GameofThrones.i"
 	@echo "... GameofThrones.s"

@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug
 CMakeFiles/FibonacciModified.dir/all:
 	$(MAKE) -f CMakeFiles/FibonacciModified.dir/build.make CMakeFiles/FibonacciModified.dir/depend
 	$(MAKE) -f CMakeFiles/FibonacciModified.dir/build.make CMakeFiles/FibonacciModified.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=53 "Built target FibonacciModified"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=54 "Built target FibonacciModified"
 .PHONY : CMakeFiles/FibonacciModified.dir/all
 
 # Include target in all.
@@ -1181,7 +1181,7 @@ clean: CMakeFiles/AveoRenzhio.dir/clean
 CMakeFiles/CuttheSticks.dir/all:
 	$(MAKE) -f CMakeFiles/CuttheSticks.dir/build.make CMakeFiles/CuttheSticks.dir/depend
 	$(MAKE) -f CMakeFiles/CuttheSticks.dir/build.make CMakeFiles/CuttheSticks.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=49 "Built target CuttheSticks"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target CuttheSticks"
 .PHONY : CMakeFiles/CuttheSticks.dir/all
 
 # Include target in all.
@@ -1191,7 +1191,7 @@ all: CMakeFiles/CuttheSticks.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CuttheSticks.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CuttheSticks.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CuttheSticks.dir/rule
@@ -1588,7 +1588,7 @@ clean: CMakeFiles/ClimbingTheLeaderboard.dir/clean
 CMakeFiles/Deque-STL-Alternate.dir/all:
 	$(MAKE) -f CMakeFiles/Deque-STL-Alternate.dir/build.make CMakeFiles/Deque-STL-Alternate.dir/depend
 	$(MAKE) -f CMakeFiles/Deque-STL-Alternate.dir/build.make CMakeFiles/Deque-STL-Alternate.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=50 "Built target Deque-STL-Alternate"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=51 "Built target Deque-STL-Alternate"
 .PHONY : CMakeFiles/Deque-STL-Alternate.dir/all
 
 # Include target in all.
@@ -1625,7 +1625,7 @@ clean: CMakeFiles/Deque-STL-Alternate.dir/clean
 CMakeFiles/FraudulentActivityNotifications.dir/all:
 	$(MAKE) -f CMakeFiles/FraudulentActivityNotifications.dir/build.make CMakeFiles/FraudulentActivityNotifications.dir/depend
 	$(MAKE) -f CMakeFiles/FraudulentActivityNotifications.dir/build.make CMakeFiles/FraudulentActivityNotifications.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=57 "Built target FraudulentActivityNotifications"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=58 "Built target FraudulentActivityNotifications"
 .PHONY : CMakeFiles/FraudulentActivityNotifications.dir/all
 
 # Include target in all.
@@ -1662,7 +1662,7 @@ clean: CMakeFiles/FraudulentActivityNotifications.dir/clean
 CMakeFiles/DequeSTL.dir/all:
 	$(MAKE) -f CMakeFiles/DequeSTL.dir/build.make CMakeFiles/DequeSTL.dir/depend
 	$(MAKE) -f CMakeFiles/DequeSTL.dir/build.make CMakeFiles/DequeSTL.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=51 "Built target DequeSTL"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=52 "Built target DequeSTL"
 .PHONY : CMakeFiles/DequeSTL.dir/all
 
 # Include target in all.
@@ -1847,7 +1847,7 @@ clean: CMakeFiles/AlmostSorted.dir/clean
 CMakeFiles/FindTheRunningMedian.dir/all:
 	$(MAKE) -f CMakeFiles/FindTheRunningMedian.dir/build.make CMakeFiles/FindTheRunningMedian.dir/depend
 	$(MAKE) -f CMakeFiles/FindTheRunningMedian.dir/build.make CMakeFiles/FindTheRunningMedian.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=54 "Built target FindTheRunningMedian"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=55 "Built target FindTheRunningMedian"
 .PHONY : CMakeFiles/FindTheRunningMedian.dir/all
 
 # Include target in all.
@@ -1884,7 +1884,7 @@ clean: CMakeFiles/FindTheRunningMedian.dir/clean
 CMakeFiles/FindTheRunningMedianAlternate.dir/all:
 	$(MAKE) -f CMakeFiles/FindTheRunningMedianAlternate.dir/build.make CMakeFiles/FindTheRunningMedianAlternate.dir/depend
 	$(MAKE) -f CMakeFiles/FindTheRunningMedianAlternate.dir/build.make CMakeFiles/FindTheRunningMedianAlternate.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=55 "Built target FindTheRunningMedianAlternate"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=56 "Built target FindTheRunningMedianAlternate"
 .PHONY : CMakeFiles/FindTheRunningMedianAlternate.dir/all
 
 # Include target in all.
@@ -1958,7 +1958,7 @@ clean: CMakeFiles/TwoCharacters.dir/clean
 CMakeFiles/Encryption.dir/all:
 	$(MAKE) -f CMakeFiles/Encryption.dir/build.make CMakeFiles/Encryption.dir/depend
 	$(MAKE) -f CMakeFiles/Encryption.dir/build.make CMakeFiles/Encryption.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=52 "Built target Encryption"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=53 "Built target Encryption"
 .PHONY : CMakeFiles/Encryption.dir/all
 
 # Include target in all.
@@ -2069,7 +2069,7 @@ clean: CMakeFiles/LilyHomeworkAlternate.dir/clean
 CMakeFiles/FindTheRunningMedianOptimized.dir/all:
 	$(MAKE) -f CMakeFiles/FindTheRunningMedianOptimized.dir/build.make CMakeFiles/FindTheRunningMedianOptimized.dir/depend
 	$(MAKE) -f CMakeFiles/FindTheRunningMedianOptimized.dir/build.make CMakeFiles/FindTheRunningMedianOptimized.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=56 "Built target FindTheRunningMedianOptimized"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=57 "Built target FindTheRunningMedianOptimized"
 .PHONY : CMakeFiles/FindTheRunningMedianOptimized.dir/all
 
 # Include target in all.
@@ -2328,7 +2328,7 @@ clean: CMakeFiles/IntegerTypes.dir/clean
 CMakeFiles/GameofThrones.dir/all:
 	$(MAKE) -f CMakeFiles/GameofThrones.dir/build.make CMakeFiles/GameofThrones.dir/depend
 	$(MAKE) -f CMakeFiles/GameofThrones.dir/build.make CMakeFiles/GameofThrones.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=58 "Built target GameofThrones"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=59 "Built target GameofThrones"
 .PHONY : CMakeFiles/GameofThrones.dir/all
 
 # Include target in all.
@@ -2476,7 +2476,7 @@ clean: CMakeFiles/2DArrays.dir/clean
 CMakeFiles/GameofTwoStacks.dir/all:
 	$(MAKE) -f CMakeFiles/GameofTwoStacks.dir/build.make CMakeFiles/GameofTwoStacks.dir/depend
 	$(MAKE) -f CMakeFiles/GameofTwoStacks.dir/build.make CMakeFiles/GameofTwoStacks.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=59,60 "Built target GameofTwoStacks"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=60 "Built target GameofTwoStacks"
 .PHONY : CMakeFiles/GameofTwoStacks.dir/all
 
 # Include target in all.
@@ -2486,7 +2486,7 @@ all: CMakeFiles/GameofTwoStacks.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/GameofTwoStacks.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/GameofTwoStacks.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/GameofTwoStacks.dir/rule
