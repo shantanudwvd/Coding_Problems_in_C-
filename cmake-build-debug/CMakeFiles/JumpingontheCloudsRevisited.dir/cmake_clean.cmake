@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/JumpingontheCloudsRevisited.dir/JumpingontheCloudsRevisited.cpp.obj"
+  "CMakeFiles/JumpingontheCloudsRevisited.dir/JumpingontheCloudsRevisited.cpp.o"
   "JumpingontheCloudsRevisited.pdb"
-  "JumpingontheCloudsRevisited.exe"
-  "JumpingontheCloudsRevisited.exe.manifest"
-  "libJumpingontheCloudsRevisited.dll.a"
+  "JumpingontheCloudsRevisited"
 )
 
 # Per-language clean rules from dependency scanning.

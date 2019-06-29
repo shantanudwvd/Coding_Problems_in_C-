@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\FibonacciModified.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\FibonacciModified.dir/objects.a @CMakeFiles\FibonacciModified.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\FibonacciModified.dir/objects.a -Wl,--no-whole-archive  -o FibonacciModified.exe -Wl,--out-implib,libFibonacciModified.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FibonacciModified.dir\linklibs.rsp
+/usr/bin/c++  -g   CMakeFiles/FibonacciModified.dir/FibonacciModified_.cpp.o  -o FibonacciModified 

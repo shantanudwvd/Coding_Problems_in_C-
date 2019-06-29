@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LittleMonkandStevieSmith.dir/LittleMonkandStevieSmith.cpp.obj"
+  "CMakeFiles/LittleMonkandStevieSmith.dir/LittleMonkandStevieSmith.cpp.o"
   "LittleMonkandStevieSmith.pdb"
-  "LittleMonkandStevieSmith.exe"
-  "LittleMonkandStevieSmith.exe.manifest"
-  "libLittleMonkandStevieSmith.dll.a"
+  "LittleMonkandStevieSmith"
 )
 
 # Per-language clean rules from dependency scanning.

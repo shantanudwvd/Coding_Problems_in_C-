@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aveorenzhio/CLionProjects/AveoRenzhio/FraudulentActivityNotifications.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+cstring
+-
+

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/shant/CLionProjects/AveoRenzhio/SherlockandSquares.cpp" "C:/Users/shant/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/SherlockandSquares.cpp.obj"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/SherlockandSquares.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/SherlockandSquares.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

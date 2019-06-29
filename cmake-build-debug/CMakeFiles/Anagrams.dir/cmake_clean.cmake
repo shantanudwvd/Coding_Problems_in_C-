@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Anagrams.dir/Anagrams.cpp.obj"
+  "CMakeFiles/Anagrams.dir/Anagrams.cpp.o"
   "Anagrams.pdb"
-  "Anagrams.exe"
-  "Anagrams.exe.manifest"
-  "libAnagrams.dll.a"
+  "Anagrams"
 )
 
 # Per-language clean rules from dependency scanning.

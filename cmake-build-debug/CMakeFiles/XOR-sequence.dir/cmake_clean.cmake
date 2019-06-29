@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.obj"
+  "CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.o"
   "XOR-sequence.pdb"
-  "XOR-sequence.exe"
-  "XOR-sequence.exe.manifest"
-  "libXOR-sequence.dll.a"
+  "XOR-sequence"
 )
 
 # Per-language clean rules from dependency scanning.

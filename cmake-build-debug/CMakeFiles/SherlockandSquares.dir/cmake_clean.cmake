@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SherlockandSquares.dir/SherlockandSquares.cpp.obj"
+  "CMakeFiles/SherlockandSquares.dir/SherlockandSquares.cpp.o"
   "SherlockandSquares.pdb"
-  "SherlockandSquares.exe"
-  "SherlockandSquares.exe.manifest"
-  "libSherlockandSquares.dll.a"
+  "SherlockandSquares"
 )
 
 # Per-language clean rules from dependency scanning.

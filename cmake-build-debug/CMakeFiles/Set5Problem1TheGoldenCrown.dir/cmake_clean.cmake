@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Set5Problem1TheGoldenCrown.dir/Set5Problem1TheGoldenCrown.cpp.obj"
+  "CMakeFiles/Set5Problem1TheGoldenCrown.dir/Set5Problem1TheGoldenCrown.cpp.o"
   "Set5Problem1TheGoldenCrown.pdb"
-  "Set5Problem1TheGoldenCrown.exe"
-  "Set5Problem1TheGoldenCrown.exe.manifest"
-  "libSet5Problem1TheGoldenCrown.dll.a"
+  "Set5Problem1TheGoldenCrown"
 )
 
 # Per-language clean rules from dependency scanning.

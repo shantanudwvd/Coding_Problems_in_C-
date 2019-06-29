@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/IntegerTypes.dir/IntegerTypes.cpp.obj"
+  "CMakeFiles/IntegerTypes.dir/IntegerTypes.cpp.o"
   "IntegerTypes.pdb"
-  "IntegerTypes.exe"
-  "IntegerTypes.exe.manifest"
-  "libIntegerTypes.dll.a"
+  "IntegerTypes"
 )
 
 # Per-language clean rules from dependency scanning.

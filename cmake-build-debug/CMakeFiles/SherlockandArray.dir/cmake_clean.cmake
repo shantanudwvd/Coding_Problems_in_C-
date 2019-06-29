@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SherlockandArray.dir/SherlockandArray.cpp.obj"
+  "CMakeFiles/SherlockandArray.dir/SherlockandArray.cpp.o"
   "SherlockandArray.pdb"
-  "SherlockandArray.exe"
-  "SherlockandArray.exe.manifest"
-  "libSherlockandArray.dll.a"
+  "SherlockandArray"
 )
 
 # Per-language clean rules from dependency scanning.

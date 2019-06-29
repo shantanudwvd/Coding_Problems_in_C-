@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FindTheRunningMedianOptimized.dir/FindTheRunningMedianOptimized.cpp.obj"
+  "CMakeFiles/FindTheRunningMedianOptimized.dir/FindTheRunningMedianOptimized.cpp.o"
   "FindTheRunningMedianOptimized.pdb"
-  "FindTheRunningMedianOptimized.exe"
-  "FindTheRunningMedianOptimized.exe.manifest"
-  "libFindTheRunningMedianOptimized.dll.a"
+  "FindTheRunningMedianOptimized"
 )
 
 # Per-language clean rules from dependency scanning.

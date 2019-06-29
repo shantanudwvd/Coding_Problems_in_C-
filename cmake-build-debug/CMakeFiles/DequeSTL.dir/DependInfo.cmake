@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/shant/CLionProjects/AveoRenzhio/DequeSTL.cpp" "C:/Users/shant/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/DequeSTL.dir/DequeSTL.cpp.obj"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/DequeSTL.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/DequeSTL.dir/DequeSTL.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

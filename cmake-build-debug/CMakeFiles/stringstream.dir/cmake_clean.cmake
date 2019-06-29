@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/stringstream.dir/stringstream.cpp.obj"
+  "CMakeFiles/stringstream.dir/stringstream.cpp.o"
   "stringstream.pdb"
-  "stringstream.exe"
-  "stringstream.exe.manifest"
-  "libstringstream.dll.a"
+  "stringstream"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/flatlandspacestations.dir/flatlandspacestations.cpp.obj"
+  "CMakeFiles/flatlandspacestations.dir/flatlandspacestations.cpp.o"
   "flatlandspacestations.pdb"
-  "flatlandspacestations.exe"
-  "flatlandspacestations.exe.manifest"
-  "libflatlandspacestations.dll.a"
+  "flatlandspacestations"
 )
 
 # Per-language clean rules from dependency scanning.

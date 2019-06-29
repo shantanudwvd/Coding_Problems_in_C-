@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LarryArray.dir/LarryArray.cpp.obj"
+  "CMakeFiles/LarryArray.dir/LarryArray.cpp.o"
   "LarryArray.pdb"
-  "LarryArray.exe"
-  "LarryArray.exe.manifest"
-  "libLarryArray.dll.a"
+  "LarryArray"
 )
 
 # Per-language clean rules from dependency scanning.

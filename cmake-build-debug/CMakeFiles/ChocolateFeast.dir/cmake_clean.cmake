@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ChocolateFeast.dir/ChocolateFeast.cpp.obj"
+  "CMakeFiles/ChocolateFeast.dir/ChocolateFeast.cpp.o"
   "ChocolateFeast.pdb"
-  "ChocolateFeast.exe"
-  "ChocolateFeast.exe.manifest"
-  "libChocolateFeast.dll.a"
+  "ChocolateFeast"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/shant/CLionProjects/AveoRenzhio/BalancedBrackets.cpp" "C:/Users/shant/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/BalancedBrackets.cpp.obj"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/BalancedBrackets.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/BalancedBrackets.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

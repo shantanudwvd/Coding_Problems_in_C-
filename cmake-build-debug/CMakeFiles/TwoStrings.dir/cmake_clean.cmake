@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TwoStrings.dir/TwoStrings.cpp.obj"
+  "CMakeFiles/TwoStrings.dir/TwoStrings.cpp.o"
   "TwoStrings.pdb"
-  "TwoStrings.exe"
-  "TwoStrings.exe.manifest"
-  "libTwoStrings.dll.a"
+  "TwoStrings"
 )
 
 # Per-language clean rules from dependency scanning.

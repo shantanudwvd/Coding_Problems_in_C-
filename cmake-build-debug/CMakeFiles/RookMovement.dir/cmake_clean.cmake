@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/RookMovement.dir/RookMovement.cpp.obj"
+  "CMakeFiles/RookMovement.dir/RookMovement.cpp.o"
   "RookMovement.pdb"
-  "RookMovement.exe"
-  "RookMovement.exe.manifest"
-  "libRookMovement.dll.a"
+  "RookMovement"
 )
 
 # Per-language clean rules from dependency scanning.

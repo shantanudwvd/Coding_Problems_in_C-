@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BalancedBrackets.dir/BalancedBrackets.cpp.obj"
+  "CMakeFiles/BalancedBrackets.dir/BalancedBrackets.cpp.o"
   "BalancedBrackets.pdb"
-  "BalancedBrackets.exe"
-  "BalancedBrackets.exe.manifest"
-  "libBalancedBrackets.dll.a"
+  "BalancedBrackets"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LisaWorkbook.dir/LisaWorkbook.cpp.obj"
+  "CMakeFiles/LisaWorkbook.dir/LisaWorkbook.cpp.o"
   "LisaWorkbook.pdb"
-  "LisaWorkbook.exe"
-  "LisaWorkbook.exe.manifest"
-  "libLisaWorkbook.dll.a"
+  "LisaWorkbook"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ACM-ICPC_Team.dir/ACM-ICPC_Team.cpp.obj"
+  "CMakeFiles/ACM-ICPC_Team.dir/ACM-ICPC_Team.cpp.o"
   "ACM-ICPC_Team.pdb"
-  "ACM-ICPC_Team.exe"
-  "ACM-ICPC_Team.exe.manifest"
-  "libACM-ICPC_Team.dll.a"
+  "ACM-ICPC_Team"
 )
 
 # Per-language clean rules from dependency scanning.

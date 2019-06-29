@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/shant/CLionProjects/AveoRenzhio/SetProblem2BreakerOfChains.cpp" "C:/Users/shant/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/SetProblem2BreakerOfChains.cpp.obj"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/SetProblem2BreakerOfChains.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/SetProblem2BreakerOfChains.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/GameofTwoStacks.dir/GameofTwoStacks.cpp.obj"
+  "CMakeFiles/GameofTwoStacks.dir/GameofTwoStacks.cpp.o"
   "GameofTwoStacks.pdb"
-  "GameofTwoStacks.exe"
-  "GameofTwoStacks.exe.manifest"
-  "libGameofTwoStacks.dll.a"
+  "GameofTwoStacks"
 )
 
 # Per-language clean rules from dependency scanning.

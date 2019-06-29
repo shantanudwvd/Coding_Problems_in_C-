@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ClimbingTheLeaderboard.dir/ClimbingTheLeaderboard.cpp.obj"
+  "CMakeFiles/ClimbingTheLeaderboard.dir/ClimbingTheLeaderboard.cpp.o"
   "ClimbingTheLeaderboard.pdb"
-  "ClimbingTheLeaderboard.exe"
-  "ClimbingTheLeaderboard.exe.manifest"
-  "libClimbingTheLeaderboard.dll.a"
+  "ClimbingTheLeaderboard"
 )
 
 # Per-language clean rules from dependency scanning.

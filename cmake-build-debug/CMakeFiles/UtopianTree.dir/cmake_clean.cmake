@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/UtopianTree.dir/UtopianTree.cpp.obj"
+  "CMakeFiles/UtopianTree.dir/UtopianTree.cpp.o"
   "UtopianTree.pdb"
-  "UtopianTree.exe"
-  "UtopianTree.exe.manifest"
-  "libUtopianTree.dll.a"
+  "UtopianTree"
 )
 
 # Per-language clean rules from dependency scanning.

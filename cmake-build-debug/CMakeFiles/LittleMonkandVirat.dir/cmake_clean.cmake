@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LittleMonkandVirat.dir/LittleMonkandVirat.cpp.obj"
+  "CMakeFiles/LittleMonkandVirat.dir/LittleMonkandVirat.cpp.o"
   "LittleMonkandVirat.pdb"
-  "LittleMonkandVirat.exe"
-  "LittleMonkandVirat.exe.manifest"
-  "libLittleMonkandVirat.dll.a"
+  "LittleMonkandVirat"
 )
 
 # Per-language clean rules from dependency scanning.

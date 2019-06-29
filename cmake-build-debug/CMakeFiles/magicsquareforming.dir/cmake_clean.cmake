@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.obj"
+  "CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.o"
   "magicsquareforming.pdb"
-  "magicsquareforming.exe"
-  "magicsquareforming.exe.manifest"
-  "libmagicsquareforming.dll.a"
+  "magicsquareforming"
 )
 
 # Per-language clean rules from dependency scanning.
