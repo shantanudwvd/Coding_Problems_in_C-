@@ -85,7 +85,7 @@ void insert_valuein_maxheap(double maxh[], int i, double val)
 }
 void insert_element(double maxh[], double minh[], double val, int size)
 {
-    if(val<maxh[1])
+    if(val<=maxh[1])
     {
         maxlen+=1;
         insert_valuein_maxheap(maxh,maxlen,val);
@@ -132,12 +132,13 @@ int main()
     {
         cin>>array[i];
     }
-    double first,second,median;
+    double first,second,median=0;
     for(int i=1,j;i<=n-td;i++)
     {
         int count=0;
-        cin>>first>>second;
-        if(first<second)
+        first=array[1];
+        second=array[2];
+        if(first<=second)
         {
             maxh[1]=first;
             minh[1]=second;

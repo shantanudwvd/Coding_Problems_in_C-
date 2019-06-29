@@ -917,6 +917,19 @@ GameofThrones/fast:
 .PHONY : GameofThrones/fast
 
 #=============================================================================
+# Target rules for targets named FraudulentActivityNotificationsOptimized
+
+# Build rule for target.
+FraudulentActivityNotificationsOptimized: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 FraudulentActivityNotificationsOptimized
+.PHONY : FraudulentActivityNotificationsOptimized
+
+# fast build rule for target.
+FraudulentActivityNotificationsOptimized/fast:
+	$(MAKE) -f CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build.make CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build
+.PHONY : FraudulentActivityNotificationsOptimized/fast
+
+#=============================================================================
 # Target rules for targets named TheBombermanGame
 
 # Build rule for target.
@@ -1689,6 +1702,7 @@ FraudulentActivityNotificationsOptimized.o: FraudulentActivityNotificationsOptim
 # target to build an object file
 FraudulentActivityNotificationsOptimized.cpp.o:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.o
+	$(MAKE) -f CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build.make CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.o
 .PHONY : FraudulentActivityNotificationsOptimized.cpp.o
 
 FraudulentActivityNotificationsOptimized.i: FraudulentActivityNotificationsOptimized.cpp.i
@@ -1698,6 +1712,7 @@ FraudulentActivityNotificationsOptimized.i: FraudulentActivityNotificationsOptim
 # target to preprocess a source file
 FraudulentActivityNotificationsOptimized.cpp.i:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.i
+	$(MAKE) -f CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build.make CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.i
 .PHONY : FraudulentActivityNotificationsOptimized.cpp.i
 
 FraudulentActivityNotificationsOptimized.s: FraudulentActivityNotificationsOptimized.cpp.s
@@ -1707,6 +1722,7 @@ FraudulentActivityNotificationsOptimized.s: FraudulentActivityNotificationsOptim
 # target to generate assembly for a file
 FraudulentActivityNotificationsOptimized.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.s
+	$(MAKE) -f CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build.make CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.s
 .PHONY : FraudulentActivityNotificationsOptimized.cpp.s
 
 GameofThrones.o: GameofThrones.cpp.o
@@ -3036,6 +3052,7 @@ help:
 	@echo "... RookMovement"
 	@echo "... IntegerTypes"
 	@echo "... GameofThrones"
+	@echo "... FraudulentActivityNotificationsOptimized"
 	@echo "... TheBombermanGame"
 	@echo "... simpletexteditorusingvectors"
 	@echo "... 2DArrays"

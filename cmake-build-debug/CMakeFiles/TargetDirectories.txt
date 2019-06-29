@@ -62,6 +62,7 @@
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/RookMovement.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/IntegerTypes.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/GameofThrones.dir
+/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/TheBombermanGame.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/simpletexteditorusingvectors.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/2DArrays.dir
