@@ -89,38 +89,69 @@ void insert_element(double maxh[], double minh[], double val, int size)
     {
         maxlen+=1;
         insert_valuein_maxheap(maxh,maxlen,val);
+        cout<<"MAXHEAP IS: "<<endl;
+        for(int i=1;i<=maxlen;i++)
+        {
+            cout<<maxh[i]<<" ";
+        }
+        cout<<endl;
     }
     else
     {
         minlen+=1;
         insert_valuein_minheap(minh,minlen,val);
-    }
-    if(maxlen==minlen)
-    {
-        cout<<(maxh[1]+minh[1])/2<<endl;
-        return;
+        cout<<"MINHEAP IS: "<<endl;
+        for(int i=1;i<=minlen;i++)
+        {
+            cout<<minh[i]<<" ";
+        }
+        cout<<endl;
     }
     if(maxlen<minlen)
     {
         maxlen+=1;
         insert_valuein_maxheap(maxh,maxlen,minh[1]);
+        cout<<"MAXHEAP IS: "<<endl;
+        for(int i=1;i<=maxlen;i++)
+        {
+            cout<<maxh[i]<<" ";
+        }
+        cout<<endl;
         double temp=minh[1];
         minh[1]=minh[minlen];
         minh[minlen]=temp;
         minlen-=1;
         heapsize=minlen;
         min_heapify(minh,1);
+        cout<<"MINHEAP IS: "<<endl;
+        for(int i=1;i<=minlen;i++)
+        {
+            cout<<minh[i]<<" ";
+        }
+        cout<<endl;
     }
     else
     {
         minlen+=1;
         insert_valuein_minheap(minh,minlen,maxh[1]);
+        cout<<"MINHEAP IS: "<<endl;
+        for(int i=1;i<=minlen;i++)
+        {
+            cout<<minh[i]<<" ";
+        }
+        cout<<endl;
         double temp=maxh[1];
         maxh[1]=maxh[maxlen];
         maxh[maxlen]=temp;
         maxlen-=1;
         heapsize=maxlen;
         max_heapify(maxh,1);
+        cout<<"MAXHEAP IS: "<<endl;
+        for(int i=1;i<=maxlen;i++)
+        {
+            cout<<maxh[i]<<" ";
+        }
+        cout<<endl;
     }
 }
 int main()
@@ -149,9 +180,9 @@ int main()
             minh[1]=second;
         }
         maxlen=1;minlen=1;
-        for(j=i;count!=td;j++)
+        for(j=i+2;count!=td;j++)
         {
-            insert_element(maxh,minh,array[i],j);
+            insert_element(maxh,minh,array[j],j);
             count++;
         }
         if(td%2!=0)
