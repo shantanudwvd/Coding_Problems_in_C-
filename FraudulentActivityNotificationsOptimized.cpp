@@ -7,6 +7,7 @@
 #include <cstring>
 using namespace std;
 int maxlen=1,minlen=1,heapsize;
+double median=0,ct=0;
 void min_heapify(double arr[],int i)
 {
     int l=(2*i);
@@ -89,69 +90,75 @@ void insert_element(double maxh[], double minh[], double val, int size)
     {
         maxlen+=1;
         insert_valuein_maxheap(maxh,maxlen,val);
-        cout<<"MAXHEAP IS: "<<endl;
-        for(int i=1;i<=maxlen;i++)
-        {
-            cout<<maxh[i]<<" ";
-        }
-        cout<<endl;
+//        cout<<"MAXHEAP IS: "<<endl;
+//        for(int i=1;i<=maxlen;i++)
+//        {
+//            cout<<maxh[i]<<" ";
+//        }
+//        cout<<endl;
     }
     else
     {
         minlen+=1;
         insert_valuein_minheap(minh,minlen,val);
-        cout<<"MINHEAP IS: "<<endl;
-        for(int i=1;i<=minlen;i++)
-        {
-            cout<<minh[i]<<" ";
-        }
-        cout<<endl;
+//        cout<<"MINHEAP IS: "<<endl;
+//        for(int i=1;i<=minlen;i++)
+//        {
+//            cout<<minh[i]<<" ";
+//        }
+//        cout<<endl;
+    }
+    if(maxlen==minlen)
+    {
+        median=(maxh[1]+minh[1])/2;
+        ct=1;
+        return;
     }
     if(maxlen<minlen)
     {
         maxlen+=1;
         insert_valuein_maxheap(maxh,maxlen,minh[1]);
-        cout<<"MAXHEAP IS: "<<endl;
-        for(int i=1;i<=maxlen;i++)
-        {
-            cout<<maxh[i]<<" ";
-        }
-        cout<<endl;
+//        cout<<"MAXHEAP IS: "<<endl;
+//        for(int i=1;i<=maxlen;i++)
+//        {
+//            cout<<maxh[i]<<" ";
+//        }
+//        cout<<endl;
         double temp=minh[1];
         minh[1]=minh[minlen];
         minh[minlen]=temp;
         minlen-=1;
         heapsize=minlen;
         min_heapify(minh,1);
-        cout<<"MINHEAP IS: "<<endl;
-        for(int i=1;i<=minlen;i++)
-        {
-            cout<<minh[i]<<" ";
-        }
-        cout<<endl;
+//        cout<<"MINHEAP IS: "<<endl;
+//        for(int i=1;i<=minlen;i++)
+//        {
+//            cout<<minh[i]<<" ";
+//        }
+//        cout<<endl;
     }
     else
     {
         minlen+=1;
         insert_valuein_minheap(minh,minlen,maxh[1]);
-        cout<<"MINHEAP IS: "<<endl;
-        for(int i=1;i<=minlen;i++)
-        {
-            cout<<minh[i]<<" ";
-        }
-        cout<<endl;
+//        cout<<"MINHEAP IS: "<<endl;
+//        for(int i=1;i<=minlen;i++)
+//        {
+//            cout<<minh[i]<<" ";
+//        }
+//        cout<<endl;
         double temp=maxh[1];
         maxh[1]=maxh[maxlen];
         maxh[maxlen]=temp;
         maxlen-=1;
         heapsize=maxlen;
         max_heapify(maxh,1);
-        cout<<"MAXHEAP IS: "<<endl;
-        for(int i=1;i<=maxlen;i++)
-        {
-            cout<<maxh[i]<<" ";
-        }
-        cout<<endl;
+//        cout<<"MAXHEAP IS: "<<endl;
+//        for(int i=1;i<=maxlen;i++)
+//        {
+//            cout<<maxh[i]<<" ";
+//        }
+//        cout<<endl;
     }
 }
 int main()
@@ -163,10 +170,10 @@ int main()
     {
         cin>>array[i];
     }
-    double first,second,median=0;
+    double first,second;
     for(int i=1,j;i<=n-td;i++)
     {
-        int count=0;
+        int count=2;
         first=array[1];
         second=array[2];
         if(first<=second)
@@ -179,7 +186,7 @@ int main()
             maxh[1]=first;
             minh[1]=second;
         }
-        maxlen=1;minlen=1;
+        maxlen=1;minlen=1;ct=0;
         for(j=i+2;count!=td;j++)
         {
             insert_element(maxh,minh,array[j],j);
@@ -192,7 +199,7 @@ int main()
             else
                 median=minh[1];
         }
-        else
+        else if(ct==0)
         {
             median=(maxh[1]+minh[1])/2;
         }
