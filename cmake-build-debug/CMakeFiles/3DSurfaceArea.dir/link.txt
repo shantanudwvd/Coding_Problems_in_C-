@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/3DSurfaceArea.dir/3DSurfaceArea.cpp.o  -o 3DSurfaceArea 
+/usr/bin/c++   -O0 -g   CMakeFiles/3DSurfaceArea.dir/3DSurfaceArea.cpp.o  -o 3DSurfaceArea 

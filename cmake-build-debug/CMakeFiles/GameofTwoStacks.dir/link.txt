@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/GameofTwoStacks.dir/GameofTwoStacks.cpp.o  -o GameofTwoStacks 
+/usr/bin/c++   -O0 -g   CMakeFiles/GameofTwoStacks.dir/GameofTwoStacks.cpp.o  -o GameofTwoStacks 

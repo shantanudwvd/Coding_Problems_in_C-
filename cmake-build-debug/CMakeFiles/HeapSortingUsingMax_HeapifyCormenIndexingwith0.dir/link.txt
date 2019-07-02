@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp.o  -o HeapSortingUsingMax_HeapifyCormenIndexingwith0 
+/usr/bin/c++   -O0 -g   CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp.o  -o HeapSortingUsingMax_HeapifyCormenIndexingwith0 

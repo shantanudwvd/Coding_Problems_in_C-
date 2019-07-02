@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/LittleMonkandVirat.dir/LittleMonkandVirat.cpp.o  -o LittleMonkandVirat 
+/usr/bin/c++   -O0 -g   CMakeFiles/LittleMonkandVirat.dir/LittleMonkandVirat.cpp.o  -o LittleMonkandVirat 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/AngryProfessor.dir/AngryProfessor.cpp.o  -o AngryProfessor 
+/usr/bin/c++   -O0 -g   CMakeFiles/AngryProfessor.dir/AngryProfessor.cpp.o  -o AngryProfessor 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Anagrams.dir/Anagrams.cpp.o  -o Anagrams 
+/usr/bin/c++   -O0 -g   CMakeFiles/Anagrams.dir/Anagrams.cpp.o  -o Anagrams 

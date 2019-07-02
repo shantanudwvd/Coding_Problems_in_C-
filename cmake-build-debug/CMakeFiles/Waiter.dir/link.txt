@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Waiter.dir/Waiter.cpp.o  -o Waiter 
+/usr/bin/c++   -O0 -g   CMakeFiles/Waiter.dir/Waiter.cpp.o  -o Waiter 

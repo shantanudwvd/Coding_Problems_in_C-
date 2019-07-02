@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/TheBombermanGame.dir/TheBombermanGame.cpp.o  -o TheBombermanGame 
+/usr/bin/c++   -O0 -g   CMakeFiles/TheBombermanGame.dir/TheBombermanGame.cpp.o  -o TheBombermanGame 

@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 3.13)
 project(AveoRenzhio)
 
 set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -O0")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O0")
 
 add_executable(AveoRenzhio main.cpp Thoughts2BinarySampleProblem1.cpp 2DArrays.cpp 3DSurfaceArea.cpp ACM-ICPC_Team ACM-ICPC_Team.cpp AlmostSorted.cpp AlternatingCharacters.cpp Anagrams.cpp AndProduct.cpp AngryProfessor.cpp AppendandDelete.cpp ArrayManipulation.cpp BalancedBrackets.cpp BeautifulTriplets.cpp betweeentwosets.cpp CalvinsGame.cpp ChocolateFeast.cpp ClimbingTheLeaderboard.cpp DequeSTL.cpp Deque-STL-Alternate.cpp dictionariesandmaps.cpp Encryption.cpp fairrations.cpp FindTheRunningMedian.cpp FindTheRunningMedianAlternate.cpp FindTheRunningMedianOptimized.cpp flatlandspacestations.cpp FraudulentActivityNotifications.cpp funnystring.cpp GameofThrones.cpp GameofTwoStacks.cpp GamingArray.cpp halloweensale.cpp HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp heapsortingusingmaxheapifycormen.cpp heapsortingusingminheapifycormen.cpp IntegerTypes.cpp JesseandCookies.cpp JumpingontheCloudsRevisited.cpp LarryArray.cpp LilyHomeworkAlternate.cpp LilysHomework.cpp LisaWorkbook.cpp LittleMonkandABD.cpp LittleMonkandStevieSmith.cpp LittleMonkandVirat.cpp LittleMonkandWilliamson.cpp magicsquareforming.cpp RookMovement.cpp Set5Problem1TheGoldenCrown.cpp SetProblem2BreakerOfChains.cpp SherlockandArray.cpp SherlockandSquares.cpp simpletexteditorusingvectors.cpp strangecode.cpp stringstream.cpp StrongPassword.cpp TaumAndBday.cpp TheBombermanGame.cpp TwoCharacters.cpp TwoStrings.cpp UtopianTree.cpp Waiter.cpp WordsScore.py XOR-sequence.cpp FraudulentActivityNotificationsOptimized.cpp)
 add_executable(Thoughts2BinarySampleProblem1 Thoughts2BinarySampleProblem1.cpp)

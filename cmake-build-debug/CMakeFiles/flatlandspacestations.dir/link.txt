@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/flatlandspacestations.dir/flatlandspacestations.cpp.o  -o flatlandspacestations 
+/usr/bin/c++   -O0 -g   CMakeFiles/flatlandspacestations.dir/flatlandspacestations.cpp.o  -o flatlandspacestations 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/TwoCharacters.dir/TwoCharacters.cpp.o  -o TwoCharacters 
+/usr/bin/c++   -O0 -g   CMakeFiles/TwoCharacters.dir/TwoCharacters.cpp.o  -o TwoCharacters 

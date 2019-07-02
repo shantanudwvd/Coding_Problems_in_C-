@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Deque-STL-Alternate.dir/Deque-STL-Alternate.cpp.o  -o Deque-STL-Alternate 
+/usr/bin/c++   -O0 -g   CMakeFiles/Deque-STL-Alternate.dir/Deque-STL-Alternate.cpp.o  -o Deque-STL-Alternate 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/CuttheSticks.dir/CuttheSticks.cpp.o  -o CuttheSticks 
+/usr/bin/c++   -O0 -g   CMakeFiles/CuttheSticks.dir/CuttheSticks.cpp.o  -o CuttheSticks 

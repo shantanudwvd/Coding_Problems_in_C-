@@ -1,13 +1,13 @@
 //
 // Created by Shantanu Dwivedi on 5/4/2019.
 //
-using namespace std;
 #include<iostream>
 #include<vector>
 #include<algorithm>
 #include<cmath>
 #include<cstdio>
 #include<cstring>
+using namespace std;
 int heapsize,length,m;
 void min_heapify(signed long long int arr[],int i)
 {

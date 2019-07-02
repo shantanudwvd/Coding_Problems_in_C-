@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/LisaWorkbook.dir/LisaWorkbook.cpp.o  -o LisaWorkbook 
+/usr/bin/c++   -O0 -g   CMakeFiles/LisaWorkbook.dir/LisaWorkbook.cpp.o  -o LisaWorkbook 

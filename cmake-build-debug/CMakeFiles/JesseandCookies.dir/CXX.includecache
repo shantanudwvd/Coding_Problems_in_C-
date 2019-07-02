@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aveorenzhio/CLionProjects/AveoRenzhio/JesseandCookies.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+cstdio
+-
+cstring
+-
+

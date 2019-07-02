@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/LarryArray.dir/LarryArray.cpp.o  -o LarryArray 
+/usr/bin/c++   -O0 -g   CMakeFiles/LarryArray.dir/LarryArray.cpp.o  -o LarryArray 

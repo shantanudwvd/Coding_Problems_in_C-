@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/TaumAndBday.dir/TaumAndBday.cpp.o  -o TaumAndBday 
+/usr/bin/c++   -O0 -g   CMakeFiles/TaumAndBday.dir/TaumAndBday.cpp.o  -o TaumAndBday 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/UtopianTree.dir/UtopianTree.cpp.o  -o UtopianTree 
+/usr/bin/c++   -O0 -g   CMakeFiles/UtopianTree.dir/UtopianTree.cpp.o  -o UtopianTree 

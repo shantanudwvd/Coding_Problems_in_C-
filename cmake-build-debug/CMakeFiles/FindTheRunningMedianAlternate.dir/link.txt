@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o  -o FindTheRunningMedianAlternate 
+/usr/bin/c++   -O0 -g   CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o  -o FindTheRunningMedianAlternate 

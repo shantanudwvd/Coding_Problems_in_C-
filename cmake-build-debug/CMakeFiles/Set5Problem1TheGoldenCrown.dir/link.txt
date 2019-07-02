@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Set5Problem1TheGoldenCrown.dir/Set5Problem1TheGoldenCrown.cpp.o  -o Set5Problem1TheGoldenCrown 
+/usr/bin/c++   -O0 -g   CMakeFiles/Set5Problem1TheGoldenCrown.dir/Set5Problem1TheGoldenCrown.cpp.o  -o Set5Problem1TheGoldenCrown 

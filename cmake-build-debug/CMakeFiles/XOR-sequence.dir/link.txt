@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.o  -o XOR-sequence 
+/usr/bin/c++   -O0 -g   CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.o  -o XOR-sequence 

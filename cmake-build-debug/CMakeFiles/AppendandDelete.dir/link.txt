@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/AppendandDelete.dir/AppendandDelete.cpp.o  -o AppendandDelete 
+/usr/bin/c++   -O0 -g   CMakeFiles/AppendandDelete.dir/AppendandDelete.cpp.o  -o AppendandDelete 

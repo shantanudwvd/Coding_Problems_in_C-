@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/GameofThrones.dir/GameofThrones.cpp.o  -o GameofThrones 
+/usr/bin/c++   -O0 -g   CMakeFiles/GameofThrones.dir/GameofThrones.cpp.o  -o GameofThrones 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/funnystring.dir/funnystring.cpp.o  -o funnystring 
+/usr/bin/c++   -O0 -g   CMakeFiles/funnystring.dir/funnystring.cpp.o  -o funnystring 

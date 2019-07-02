@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/dictionariesandmaps.dir/dictionariesandmaps.cpp.o  -o dictionariesandmaps 
+/usr/bin/c++   -O0 -g   CMakeFiles/dictionariesandmaps.dir/dictionariesandmaps.cpp.o  -o dictionariesandmaps 

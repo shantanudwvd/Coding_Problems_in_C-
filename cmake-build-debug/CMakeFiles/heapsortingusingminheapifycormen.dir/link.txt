@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/heapsortingusingminheapifycormen.dir/heapsortingusingminheapifycormen.cpp.o  -o heapsortingusingminheapifycormen 
+/usr/bin/c++   -O0 -g   CMakeFiles/heapsortingusingminheapifycormen.dir/heapsortingusingminheapifycormen.cpp.o  -o heapsortingusingminheapifycormen 

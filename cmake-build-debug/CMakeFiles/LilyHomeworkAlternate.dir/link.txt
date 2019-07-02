@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/LilyHomeworkAlternate.dir/LilyHomeworkAlternate.cpp.o  -o LilyHomeworkAlternate 
+/usr/bin/c++   -O0 -g   CMakeFiles/LilyHomeworkAlternate.dir/LilyHomeworkAlternate.cpp.o  -o LilyHomeworkAlternate 

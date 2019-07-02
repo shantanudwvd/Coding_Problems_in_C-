@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/JesseandCookies.dir/JesseandCookies.cpp.o  -o JesseandCookies 
+/usr/bin/c++   -O0 -g   CMakeFiles/JesseandCookies.dir/JesseandCookies.cpp.o  -o JesseandCookies 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/SherlockandArray.dir/SherlockandArray.cpp.o  -o SherlockandArray 
+/usr/bin/c++   -O0 -g   CMakeFiles/SherlockandArray.dir/SherlockandArray.cpp.o  -o SherlockandArray 

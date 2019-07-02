@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/LittleMonkandABD.dir/LittleMonkandABD.cpp.o  -o LittleMonkandABD 
+/usr/bin/c++   -O0 -g   CMakeFiles/LittleMonkandABD.dir/LittleMonkandABD.cpp.o  -o LittleMonkandABD 

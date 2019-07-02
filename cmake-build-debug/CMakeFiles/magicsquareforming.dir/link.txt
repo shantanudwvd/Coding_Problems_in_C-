@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.o  -o magicsquareforming 
+/usr/bin/c++   -O0 -g   CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.o  -o magicsquareforming 

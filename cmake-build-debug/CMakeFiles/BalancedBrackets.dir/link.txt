@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/BalancedBrackets.dir/BalancedBrackets.cpp.o  -o BalancedBrackets 
+/usr/bin/c++   -O0 -g   CMakeFiles/BalancedBrackets.dir/BalancedBrackets.cpp.o  -o BalancedBrackets 

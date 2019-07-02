@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/LittleMonkandStevieSmith.dir/LittleMonkandStevieSmith.cpp.o  -o LittleMonkandStevieSmith 
+/usr/bin/c++   -O0 -g   CMakeFiles/LittleMonkandStevieSmith.dir/LittleMonkandStevieSmith.cpp.o  -o LittleMonkandStevieSmith 

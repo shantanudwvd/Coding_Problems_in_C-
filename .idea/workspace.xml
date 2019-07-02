@@ -2,73 +2,73 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="AveoRenzhio" targetName="CuttheSticks" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandStevieSmith" />
+      <config projectName="AveoRenzhio" targetName="TwoCharacters" />
+      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
+      <config projectName="AveoRenzhio" targetName="XOR-sequence" />
+      <config projectName="AveoRenzhio" targetName="AlternatingCharacters" />
+      <config projectName="AveoRenzhio" targetName="StrongPassword" />
+      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
+      <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
+      <config projectName="AveoRenzhio" targetName="IntegerTypes" />
+      <config projectName="AveoRenzhio" targetName="stringstream" />
       <config projectName="AveoRenzhio" targetName="LarryArray" />
+      <config projectName="AveoRenzhio" targetName="AngryProfessor" />
+      <config projectName="AveoRenzhio" targetName="DequeSTL" />
+      <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
+      <config projectName="AveoRenzhio" targetName="AndProduct" />
+      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
+      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
+      <config projectName="AveoRenzhio" targetName="TaumAndBday" />
+      <config projectName="AveoRenzhio" targetName="Encryption" />
+      <config projectName="AveoRenzhio" targetName="fairrations" />
+      <config projectName="AveoRenzhio" targetName="flatlandspacestations" />
+      <config projectName="AveoRenzhio" targetName="magicsquareforming" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
+      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
+      <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
+      <config projectName="AveoRenzhio" targetName="Anagrams" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
       <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
-      <config projectName="AveoRenzhio" targetName="ClimbingTheLeaderboard" />
-      <config projectName="AveoRenzhio" targetName="Waiter" />
+      <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
       <config projectName="AveoRenzhio" targetName="Thoughts2BinarySampleProblem1" />
-      <config projectName="AveoRenzhio" targetName="TwoStrings" />
-      <config projectName="AveoRenzhio" targetName="FibonacciModified" />
-      <config projectName="AveoRenzhio" targetName="CalvinsGame" />
+      <config projectName="AveoRenzhio" targetName="TheBombermanGame" />
+      <config projectName="AveoRenzhio" targetName="CuttheSticks" />
+      <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
+      <config projectName="AveoRenzhio" targetName="2DArrays" />
+      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
+      <config projectName="AveoRenzhio" targetName="LilyHomeworkAlternate" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
       <config projectName="AveoRenzhio" targetName="strangecode" />
       <config projectName="AveoRenzhio" targetName="AlmostSorted" />
-      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
-      <config projectName="AveoRenzhio" targetName="stringstream" />
-      <config projectName="AveoRenzhio" targetName="JumpingontheCloudsRevisited" />
-      <config projectName="AveoRenzhio" targetName="BeautifulTriplets" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandVirat" />
-      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
-      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianAlternate" />
-      <config projectName="AveoRenzhio" targetName="simpletexteditorusingvectors" />
-      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
-      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
-      <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
-      <config projectName="AveoRenzhio" targetName="AngryProfessor" />
-      <config projectName="AveoRenzhio" targetName="UtopianTree" />
-      <config projectName="AveoRenzhio" targetName="GameofThrones" />
-      <config projectName="AveoRenzhio" targetName="DequeSTL" />
-      <config projectName="AveoRenzhio" targetName="AlternatingCharacters" />
-      <config projectName="AveoRenzhio" targetName="TwoCharacters" />
-      <config projectName="AveoRenzhio" targetName="halloweensale" />
-      <config projectName="AveoRenzhio" targetName="XOR-sequence" />
-      <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
-      <config projectName="AveoRenzhio" targetName="flatlandspacestations" />
-      <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
-      <config projectName="AveoRenzhio" targetName="betweeentwosets" />
-      <config projectName="AveoRenzhio" targetName="Anagrams" />
-      <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
-      <config projectName="AveoRenzhio" targetName="RookMovement" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
-      <config projectName="AveoRenzhio" targetName="AppendandDelete" />
-      <config projectName="AveoRenzhio" targetName="2DArrays" />
-      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifications" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandWilliamson" />
       <config projectName="AveoRenzhio" targetName="LilysHomework" />
-      <config projectName="AveoRenzhio" targetName="StrongPassword" />
-      <config projectName="AveoRenzhio" targetName="Encryption" />
-      <config projectName="AveoRenzhio" targetName="magicsquareforming" />
-      <config projectName="AveoRenzhio" targetName="TheBombermanGame" />
+      <config projectName="AveoRenzhio" targetName="UtopianTree" />
+      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
+      <config projectName="AveoRenzhio" targetName="simpletexteditorusingvectors" />
       <config projectName="AveoRenzhio" targetName="SherlockandArray" />
+      <config projectName="AveoRenzhio" targetName="ClimbingTheLeaderboard" />
+      <config projectName="AveoRenzhio" targetName="GameofThrones" />
+      <config projectName="AveoRenzhio" targetName="funnystring" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandStevieSmith" />
+      <config projectName="AveoRenzhio" targetName="TwoStrings" />
+      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifications" />
+      <config projectName="AveoRenzhio" targetName="FibonacciModified" />
+      <config projectName="AveoRenzhio" targetName="JumpingontheCloudsRevisited" />
+      <config projectName="AveoRenzhio" targetName="GamingArray" />
+      <config projectName="AveoRenzhio" targetName="betweeentwosets" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandWilliamson" />
+      <config projectName="AveoRenzhio" targetName="CalvinsGame" />
+      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
+      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
+      <config projectName="AveoRenzhio" targetName="BeautifulTriplets" />
+      <config projectName="AveoRenzhio" targetName="Waiter" />
+      <config projectName="AveoRenzhio" targetName="halloweensale" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandVirat" />
+      <config projectName="AveoRenzhio" targetName="RookMovement" />
+      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianAlternate" />
+      <config projectName="AveoRenzhio" targetName="AppendandDelete" />
       <config projectName="AveoRenzhio" targetName="SherlockandSquares" />
       <config projectName="AveoRenzhio" targetName="dictionariesandmaps" />
-      <config projectName="AveoRenzhio" targetName="TaumAndBday" />
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedian" />
-      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
-      <config projectName="AveoRenzhio" targetName="IntegerTypes" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
-      <config projectName="AveoRenzhio" targetName="LilyHomeworkAlternate" />
-      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
-      <config projectName="AveoRenzhio" targetName="fairrations" />
-      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
-      <config projectName="AveoRenzhio" targetName="GamingArray" />
-      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
-      <config projectName="AveoRenzhio" targetName="AndProduct" />
-      <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
-      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
-      <config projectName="AveoRenzhio" targetName="funnystring" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -77,7 +77,146 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3808d112-d453-472a-8139-a6ba367a30e5" name="Default Changelist" comment="" />
+    <list default="true" id="3808d112-d453-472a-8139-a6ba367a30e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JesseandCookies.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/JesseandCookies.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2DArrays.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2DArrays.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2DArrays.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2DArrays.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3DSurfaceArea.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3DSurfaceArea.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3DSurfaceArea.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3DSurfaceArea.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ACM-ICPC_Team.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ACM-ICPC_Team.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ACM-ICPC_Team.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ACM-ICPC_Team.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlmostSorted.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlmostSorted.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlmostSorted.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlmostSorted.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlternatingCharacters.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlternatingCharacters.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlternatingCharacters.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlternatingCharacters.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Anagrams.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Anagrams.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Anagrams.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Anagrams.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AngryProfessor.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AngryProfessor.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AngryProfessor.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AngryProfessor.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AppendandDelete.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AppendandDelete.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AppendandDelete.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AppendandDelete.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ArrayManipulation.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ArrayManipulation.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ArrayManipulation.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ArrayManipulation.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Encryption.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Encryption.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Encryption.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Encryption.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoCharacters.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoCharacters.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoCharacters.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoCharacters.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/betweeentwosets.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/betweeentwosets.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/betweeentwosets.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/betweeentwosets.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flatlandspacestations.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flatlandspacestations.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flatlandspacestations.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flatlandspacestations.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/magicsquareforming.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/magicsquareforming.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/magicsquareforming.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/magicsquareforming.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simpletexteditorusingvectors.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simpletexteditorusingvectors.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simpletexteditorusingvectors.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simpletexteditorusingvectors.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/strangecode.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/strangecode.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/strangecode.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/strangecode.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stringstream.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stringstream.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stringstream.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stringstream.dir/link.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,24 +231,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FindTheRunningMedianOptimized.cpp">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="93" selection-start-line="93" selection-end-line="97" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="434">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FraudulentActivityNotificationsOptimized.cpp">
+        <entry file="file://$PROJECT_DIR$/JesseandCookies.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3751">
-              <caret line="121" column="27" selection-start-line="121" selection-start-column="27" selection-end-line="121" selection-end-column="27" />
+            <state relative-caret-position="155">
+              <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
               <folding>
-                <element signature="e#44#63#0" expanded="true" />
+                <element signature="e#50#68#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,10 +272,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/GoogleFooBarChallengeProblem1.py" />
         <option value="$PROJECT_DIR$/FraudulentActivityNotifications.cpp" />
         <option value="$PROJECT_DIR$/FraudulentActivityNotificationsOptimized.cpp" />
+        <option value="$PROJECT_DIR$/JesseandCookies.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
       </list>
     </option>
   </component>
@@ -175,7 +312,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
@@ -193,7 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.FraudulentActivityNotificationsOptimized">
+  <component name="RunManager" selected="CMake Application.JesseandCookies">
     <configuration name="2DArrays" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="2DArrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="2DArrays">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -541,6 +681,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GoogleFooBarChallengeProblem1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -575,8 +716,8 @@
       <item itemvalue="CMake Application.FindTheRunningMedianAlternate" />
       <item itemvalue="CMake Application.FindTheRunningMedianOptimized" />
       <item itemvalue="CMake Application.FindTheRunningMedian" />
-      <item itemvalue="CMake Application.FraudulentActivityNotifications" />
       <item itemvalue="CMake Application.FraudulentActivityNotificationsOptimized" />
+      <item itemvalue="CMake Application.FraudulentActivityNotifications" />
       <item itemvalue="CMake Application.GameofThrones" />
       <item itemvalue="CMake Application.GameofTwoStacks" />
       <item itemvalue="CMake Application.GamingArray" />
@@ -637,22 +778,29 @@
       <workItem from="1561814169763" duration="6129000" />
       <workItem from="1561830436062" duration="4097000" />
       <workItem from="1561869415725" duration="7290000" />
+      <workItem from="1561885504792" duration="83000" />
+      <workItem from="1561893141408" duration="201000" />
+      <workItem from="1561902137199" duration="1632000" />
+      <workItem from="1561918006684" duration="22000" />
+      <workItem from="1562078052836" duration="90000" />
+      <workItem from="1562078212470" duration="312000" />
+      <workItem from="1562084500776" duration="838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21245000" />
+    <option name="totallyTimeSpent" value="24423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.207502" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23224261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36482084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40716612" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -663,12 +811,17 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="CMake" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
-      <window_info anchor="bottom" id="Profiler" order="13" weight="0.32899022" />
+      <window_info anchor="bottom" id="Profiler" order="13" weight="0.40065145" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Cargo" order="4" weight="0.32960895" />
+      <window_info anchor="right" id="R Graphics" order="5" />
+      <window_info anchor="right" id="R Packages" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
@@ -699,17 +852,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/FraudulentActivityNotifications.cpp</url>
-          <line>90</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GameofTwoStacks.cpp">
@@ -758,13 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JesseandCookies.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -971,13 +1106,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2170">
-          <caret line="70" column="59" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
@@ -1046,22 +1174,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FindTheRunningMedianOptimized.cpp">
+    <entry file="file://$PROJECT_DIR$/FraudulentActivityNotificationsOptimized.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="93" selection-start-line="93" selection-end-line="97" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="499">
+          <caret line="116" column="20" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FraudulentActivityNotificationsOptimized.cpp">
+    <entry file="file://$PROJECT_DIR$/FindTheRunningMedianOptimized.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3751">
-          <caret line="121" column="27" selection-start-line="121" selection-start-column="27" selection-end-line="121" selection-end-column="27" />
+        <state relative-caret-position="1829">
+          <caret line="80" column="1" lean-forward="true" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JesseandCookies.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
           <folding>
-            <element signature="e#44#63#0" expanded="true" />
+            <element signature="e#50#68#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/FibonacciModified.dir/FibonacciModified_.cpp.o  -o FibonacciModified 
+/usr/bin/c++   -O0 -g   CMakeFiles/FibonacciModified.dir/FibonacciModified_.cpp.o  -o FibonacciModified 
