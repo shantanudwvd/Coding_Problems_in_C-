@@ -3178,6 +3178,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="ACM-ICPC_Team"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/AVeryBigSum.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/AlmostSorted.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="AlmostSorted"/>
@@ -3226,8 +3229,23 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="ClimbingTheLeaderboard"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/ClosestNumbers.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/CompareTheTriplets.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Contacts.cpp">
 			<Option target="Contacts"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Correctness and the Loop Invariant.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Counting Sort 1.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Counting Sort 2.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/CuttheSticks.cpp">
@@ -3241,12 +3259,24 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="DequeSTL"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/DiagonalDifference.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Encryption.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="Encryption"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/ExtraLongFactorials.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/FibonacciModified .cpp">
 			<Option target="FibonacciModified"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/FibonacciModified.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Find the Median.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/FindTheRunningMedian.cpp">
 			<Option target="AveoRenzhio"/>
@@ -3268,6 +3298,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="FraudulentActivityNotificationsOptimized"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/GameOfTwoStacks.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/GameofThrones.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="GameofThrones"/>
@@ -3284,6 +3317,12 @@
 			<Option target="HeapSortingUsingMax_HeapifyCormenIndexingwith0"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/InsertionSortPart-1.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/InsertionSortPart-2.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/IntegerTypes.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="IntegerTypes"/>
@@ -3297,6 +3336,9 @@
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/JumpingontheCloudsRevisited.cpp">
 			<Option target="JumpingontheCloudsRevisited"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/KindergartenAdventures.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/LarryArray.cpp">
@@ -3331,9 +3373,42 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="LittleMonkandWilliamson"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Making Anagrams.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Mark and Toys.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Maximizing XOR.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/MrXandhisShots.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/NewYearChaos.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/PoisnousPlants.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/PoisnousPlantsAlternate.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Queen&apos;sAttackII.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/QueueUsingTwoStacks.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/RecursiveDigitSum.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/RookMovement.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="RookMovement"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Running Time of Algorithms.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Set5Problem1TheGoldenCrown.cpp">
 			<Option target="Set5Problem1TheGoldenCrown"/>
@@ -3349,6 +3424,15 @@
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/SherlockandSquares.cpp">
 			<Option target="SherlockandSquares"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/SimpleArraySum.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/SolveMeFirst.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/SparseArrays.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/StrongPassword.cpp">
