@@ -902,6 +902,32 @@ CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.s: cmake
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/FraudulentActivityNotificationsOptimized.cpp -o CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/Contacts.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Contacts.cpp.o: ../Contacts.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/AveoRenzhio.dir/Contacts.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/Contacts.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/Contacts.cpp
+
+CMakeFiles/AveoRenzhio.dir/Contacts.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Contacts.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/Contacts.cpp > CMakeFiles/AveoRenzhio.dir/Contacts.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Contacts.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Contacts.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/Contacts.cpp -o CMakeFiles/AveoRenzhio.dir/Contacts.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.o: ../JimandtheSkyscrapers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/JimandtheSkyscrapers.cpp
+
+CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/JimandtheSkyscrapers.cpp > CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/JimandtheSkyscrapers.cpp -o CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/main.cpp.o" \
@@ -968,7 +994,9 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/UtopianTree.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/Waiter.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/XOR-sequence.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.o"
+"CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/Contacts.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.o"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -1038,9 +1066,11 @@ AveoRenzhio: CMakeFiles/AveoRenzhio.dir/UtopianTree.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Waiter.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/XOR-sequence.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Contacts.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Linking CXX executable AveoRenzhio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Linking CXX executable AveoRenzhio"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AveoRenzhio.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

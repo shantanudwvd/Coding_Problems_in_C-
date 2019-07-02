@@ -48,6 +48,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/Contacts.dir/DependInfo.cmake"
   "CMakeFiles/FibonacciModified.dir/DependInfo.cmake"
   "CMakeFiles/XOR-sequence.dir/DependInfo.cmake"
   "CMakeFiles/Waiter.dir/DependInfo.cmake"

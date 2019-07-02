@@ -64,6 +64,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/Waiter.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/XOR-sequence.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotificationsOptimized.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/Contacts.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.o"
   "AveoRenzhio.pdb"
   "AveoRenzhio"
 )

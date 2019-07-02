@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named Contacts
+
+# Build rule for target.
+Contacts: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Contacts
+.PHONY : Contacts
+
+# fast build rule for target.
+Contacts/fast:
+	$(MAKE) -f CMakeFiles/Contacts.dir/build.make CMakeFiles/Contacts.dir/build
+.PHONY : Contacts/fast
+
+#=============================================================================
 # Target rules for targets named FibonacciModified
 
 # Build rule for target.
@@ -1431,6 +1444,36 @@ ClimbingTheLeaderboard.cpp.s:
 	$(MAKE) -f CMakeFiles/ClimbingTheLeaderboard.dir/build.make CMakeFiles/ClimbingTheLeaderboard.dir/ClimbingTheLeaderboard.cpp.s
 .PHONY : ClimbingTheLeaderboard.cpp.s
 
+Contacts.o: Contacts.cpp.o
+
+.PHONY : Contacts.o
+
+# target to build an object file
+Contacts.cpp.o:
+	$(MAKE) -f CMakeFiles/Contacts.dir/build.make CMakeFiles/Contacts.dir/Contacts.cpp.o
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Contacts.cpp.o
+.PHONY : Contacts.cpp.o
+
+Contacts.i: Contacts.cpp.i
+
+.PHONY : Contacts.i
+
+# target to preprocess a source file
+Contacts.cpp.i:
+	$(MAKE) -f CMakeFiles/Contacts.dir/build.make CMakeFiles/Contacts.dir/Contacts.cpp.i
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Contacts.cpp.i
+.PHONY : Contacts.cpp.i
+
+Contacts.s: Contacts.cpp.s
+
+.PHONY : Contacts.s
+
+# target to generate assembly for a file
+Contacts.cpp.s:
+	$(MAKE) -f CMakeFiles/Contacts.dir/build.make CMakeFiles/Contacts.dir/Contacts.cpp.s
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Contacts.cpp.s
+.PHONY : Contacts.cpp.s
+
 CuttheSticks.o: CuttheSticks.cpp.o
 
 .PHONY : CuttheSticks.o
@@ -1904,6 +1947,33 @@ JesseandCookies.cpp.s:
 	$(MAKE) -f CMakeFiles/JesseandCookies.dir/build.make CMakeFiles/JesseandCookies.dir/JesseandCookies.cpp.s
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/JesseandCookies.cpp.s
 .PHONY : JesseandCookies.cpp.s
+
+JimandtheSkyscrapers.o: JimandtheSkyscrapers.cpp.o
+
+.PHONY : JimandtheSkyscrapers.o
+
+# target to build an object file
+JimandtheSkyscrapers.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.o
+.PHONY : JimandtheSkyscrapers.cpp.o
+
+JimandtheSkyscrapers.i: JimandtheSkyscrapers.cpp.i
+
+.PHONY : JimandtheSkyscrapers.i
+
+# target to preprocess a source file
+JimandtheSkyscrapers.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.i
+.PHONY : JimandtheSkyscrapers.cpp.i
+
+JimandtheSkyscrapers.s: JimandtheSkyscrapers.cpp.s
+
+.PHONY : JimandtheSkyscrapers.s
+
+# target to generate assembly for a file
+JimandtheSkyscrapers.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/JimandtheSkyscrapers.cpp.s
+.PHONY : JimandtheSkyscrapers.cpp.s
 
 JumpingontheCloudsRevisited.o: JumpingontheCloudsRevisited.cpp.o
 
@@ -2988,6 +3058,7 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... Contacts"
 	@echo "... FibonacciModified"
 	@echo "... XOR-sequence"
 	@echo "... Waiter"
@@ -3102,6 +3173,9 @@ help:
 	@echo "... ClimbingTheLeaderboard.o"
 	@echo "... ClimbingTheLeaderboard.i"
 	@echo "... ClimbingTheLeaderboard.s"
+	@echo "... Contacts.o"
+	@echo "... Contacts.i"
+	@echo "... Contacts.s"
 	@echo "... CuttheSticks.o"
 	@echo "... CuttheSticks.i"
 	@echo "... CuttheSticks.s"
@@ -3150,6 +3224,9 @@ help:
 	@echo "... JesseandCookies.o"
 	@echo "... JesseandCookies.i"
 	@echo "... JesseandCookies.s"
+	@echo "... JimandtheSkyscrapers.o"
+	@echo "... JimandtheSkyscrapers.i"
+	@echo "... JimandtheSkyscrapers.s"
 	@echo "... JumpingontheCloudsRevisited.o"
 	@echo "... JumpingontheCloudsRevisited.i"
 	@echo "... JumpingontheCloudsRevisited.s"

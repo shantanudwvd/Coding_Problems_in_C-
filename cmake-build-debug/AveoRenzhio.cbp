@@ -17,6 +17,52 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Contacts">
+				<Option output="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Contacts" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 Contacts"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Contacts/fast">
+				<Option output="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Contacts" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 Contacts/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="FibonacciModified">
 				<Option output="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/FibonacciModified" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug"/>
@@ -3180,6 +3226,10 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="ClimbingTheLeaderboard"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Contacts.cpp">
+			<Option target="Contacts"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/CuttheSticks.cpp">
 			<Option target="CuttheSticks"/>
 		</Unit>
@@ -3240,6 +3290,9 @@
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/JesseandCookies.cpp">
 			<Option target="JesseandCookies"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/JimandtheSkyscrapers.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/JumpingontheCloudsRevisited.cpp">
