@@ -65,7 +65,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/NewYearChaos.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/NewYearChaos.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/PoisnousPlants.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/PoisnousPlants.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/PoisnousPlantsAlternate.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.o"
-  "/home/aveorenzhio/CLionProjects/AveoRenzhio/Queen'sAttackII.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.o"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/QueensAttackII.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/QueueUsingTwoStacks.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/QueueUsingTwoStacks.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/RecursiveDigitSum.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/RecursiveDigitSum.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/RookMovement.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/RookMovement.cpp.o"

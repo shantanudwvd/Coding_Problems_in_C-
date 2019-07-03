@@ -1,6 +1,7 @@
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/Contacts.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/FibonacciModified.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/XOR-sequence.dir
+/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/QueensAttackII.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/Waiter.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/UtopianTree.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir

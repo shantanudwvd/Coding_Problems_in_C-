@@ -76,7 +76,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/KindergartenAdventures.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.o"
-  "CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.o"

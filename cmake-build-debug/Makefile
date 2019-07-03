@@ -150,6 +150,19 @@ XOR-sequence/fast:
 .PHONY : XOR-sequence/fast
 
 #=============================================================================
+# Target rules for targets named QueensAttackII
+
+# Build rule for target.
+QueensAttackII: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 QueensAttackII
+.PHONY : QueensAttackII
+
+# fast build rule for target.
+QueensAttackII/fast:
+	$(MAKE) -f CMakeFiles/QueensAttackII.dir/build.make CMakeFiles/QueensAttackII.dir/build
+.PHONY : QueensAttackII/fast
+
+#=============================================================================
 # Target rules for targets named Waiter
 
 # Build rule for target.
@@ -2812,32 +2825,35 @@ PoisnousPlantsAlternate.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.s
 .PHONY : PoisnousPlantsAlternate.cpp.s
 
-Queen'sAttackII.o: Queen'sAttackII.cpp.o
+QueensAttackII.o: QueensAttackII.cpp.o
 
-.PHONY : Queen'sAttackII.o
+.PHONY : QueensAttackII.o
 
 # target to build an object file
-Queen'sAttackII.cpp.o:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make "CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.o"
-.PHONY : Queen'sAttackII.cpp.o
+QueensAttackII.cpp.o:
+	$(MAKE) -f CMakeFiles/QueensAttackII.dir/build.make CMakeFiles/QueensAttackII.dir/QueensAttackII.cpp.o
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.o
+.PHONY : QueensAttackII.cpp.o
 
-Queen'sAttackII.i: Queen'sAttackII.cpp.i
+QueensAttackII.i: QueensAttackII.cpp.i
 
-.PHONY : Queen'sAttackII.i
+.PHONY : QueensAttackII.i
 
 # target to preprocess a source file
-Queen'sAttackII.cpp.i:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make "CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.i"
-.PHONY : Queen'sAttackII.cpp.i
+QueensAttackII.cpp.i:
+	$(MAKE) -f CMakeFiles/QueensAttackII.dir/build.make CMakeFiles/QueensAttackII.dir/QueensAttackII.cpp.i
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.i
+.PHONY : QueensAttackII.cpp.i
 
-Queen'sAttackII.s: Queen'sAttackII.cpp.s
+QueensAttackII.s: QueensAttackII.cpp.s
 
-.PHONY : Queen'sAttackII.s
+.PHONY : QueensAttackII.s
 
 # target to generate assembly for a file
-Queen'sAttackII.cpp.s:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make "CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.s"
-.PHONY : Queen'sAttackII.cpp.s
+QueensAttackII.cpp.s:
+	$(MAKE) -f CMakeFiles/QueensAttackII.dir/build.make CMakeFiles/QueensAttackII.dir/QueensAttackII.cpp.s
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.s
+.PHONY : QueensAttackII.cpp.s
 
 QueueUsingTwoStacks.o: QueueUsingTwoStacks.cpp.o
 
@@ -3817,6 +3833,7 @@ help:
 	@echo "... Contacts"
 	@echo "... FibonacciModified"
 	@echo "... XOR-sequence"
+	@echo "... QueensAttackII"
 	@echo "... Waiter"
 	@echo "... UtopianTree"
 	@echo "... SetProblem2BreakerOfChains"
@@ -4073,9 +4090,9 @@ help:
 	@echo "... PoisnousPlantsAlternate.o"
 	@echo "... PoisnousPlantsAlternate.i"
 	@echo "... PoisnousPlantsAlternate.s"
-	@echo "... Queen'sAttackII.o"
-	@echo "... Queen'sAttackII.i"
-	@echo "... Queen'sAttackII.s"
+	@echo "... QueensAttackII.o"
+	@echo "... QueensAttackII.i"
+	@echo "... QueensAttackII.s"
 	@echo "... QueueUsingTwoStacks.o"
 	@echo "... QueueUsingTwoStacks.i"
 	@echo "... QueueUsingTwoStacks.s"

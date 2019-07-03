@@ -1058,18 +1058,18 @@ CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/ExtraLongFactorials.cpp -o CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.s
 
-CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
-CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.o: ../Queen'sAttackII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.o" -c "/home/aveorenzhio/CLionProjects/AveoRenzhio/Queen'sAttackII.cpp"
+CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.o: ../QueensAttackII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/QueensAttackII.cpp
 
-CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/aveorenzhio/CLionProjects/AveoRenzhio/Queen'sAttackII.cpp" > "CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.i"
+CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/QueensAttackII.cpp > CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.i
 
-CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/aveorenzhio/CLionProjects/AveoRenzhio/Queen'sAttackII.cpp" -o "CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.s"
+CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/QueensAttackII.cpp -o CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.s
 
 CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.o: ../FibonacciModified.cpp
@@ -1371,7 +1371,7 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/KindergartenAdventures.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.o" \
@@ -1470,7 +1470,7 @@ AveoRenzhio: CMakeFiles/AveoRenzhio.dir/GameOfTwoStacks.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/KindergartenAdventures.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.o
-AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Queen'sAttackII.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.o

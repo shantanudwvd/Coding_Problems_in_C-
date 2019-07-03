@@ -1,7 +1,4 @@
 //
-// Created by aveorenzhio on 2/7/19.
-//
-//
 // Created by Shantanu Dwivedi on 5/29/2019.
 //
 #include <iostream>

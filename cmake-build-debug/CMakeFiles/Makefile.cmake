@@ -51,6 +51,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Contacts.dir/DependInfo.cmake"
   "CMakeFiles/FibonacciModified.dir/DependInfo.cmake"
   "CMakeFiles/XOR-sequence.dir/DependInfo.cmake"
+  "CMakeFiles/QueensAttackII.dir/DependInfo.cmake"
   "CMakeFiles/Waiter.dir/DependInfo.cmake"
   "CMakeFiles/UtopianTree.dir/DependInfo.cmake"
   "CMakeFiles/SetProblem2BreakerOfChains.dir/DependInfo.cmake"
