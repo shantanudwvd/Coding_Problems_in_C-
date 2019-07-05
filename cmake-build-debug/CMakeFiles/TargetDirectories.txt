@@ -8,6 +8,7 @@
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/magicsquareforming.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/TimeinWords.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/TwoStrings.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/TaumAndBday.dir

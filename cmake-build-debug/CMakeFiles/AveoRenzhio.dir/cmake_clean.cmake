@@ -94,6 +94,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/Making_Anagrams.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.o"
   "AveoRenzhio.pdb"
   "AveoRenzhio"
 )

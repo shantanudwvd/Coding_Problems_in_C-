@@ -228,6 +228,19 @@ LittleMonkandVirat/fast:
 .PHONY : LittleMonkandVirat/fast
 
 #=============================================================================
+# Target rules for targets named TimeinWords
+
+# Build rule for target.
+TimeinWords: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TimeinWords
+.PHONY : TimeinWords
+
+# fast build rule for target.
+TimeinWords/fast:
+	$(MAKE) -f CMakeFiles/TimeinWords.dir/build.make CMakeFiles/TimeinWords.dir/build
+.PHONY : TimeinWords/fast
+
+#=============================================================================
 # Target rules for targets named TwoStrings
 
 # Build rule for target.
@@ -3287,6 +3300,36 @@ Thoughts2BinarySampleProblem1.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Thoughts2BinarySampleProblem1.cpp.s
 .PHONY : Thoughts2BinarySampleProblem1.cpp.s
 
+TimeinWords.o: TimeinWords.cpp.o
+
+.PHONY : TimeinWords.o
+
+# target to build an object file
+TimeinWords.cpp.o:
+	$(MAKE) -f CMakeFiles/TimeinWords.dir/build.make CMakeFiles/TimeinWords.dir/TimeinWords.cpp.o
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.o
+.PHONY : TimeinWords.cpp.o
+
+TimeinWords.i: TimeinWords.cpp.i
+
+.PHONY : TimeinWords.i
+
+# target to preprocess a source file
+TimeinWords.cpp.i:
+	$(MAKE) -f CMakeFiles/TimeinWords.dir/build.make CMakeFiles/TimeinWords.dir/TimeinWords.cpp.i
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.i
+.PHONY : TimeinWords.cpp.i
+
+TimeinWords.s: TimeinWords.cpp.s
+
+.PHONY : TimeinWords.s
+
+# target to generate assembly for a file
+TimeinWords.cpp.s:
+	$(MAKE) -f CMakeFiles/TimeinWords.dir/build.make CMakeFiles/TimeinWords.dir/TimeinWords.cpp.s
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.s
+.PHONY : TimeinWords.cpp.s
+
 TwoCharacters.o: TwoCharacters.cpp.o
 
 .PHONY : TwoCharacters.o
@@ -3840,6 +3883,7 @@ help:
 	@echo "... magicsquareforming"
 	@echo "... LittleMonkandVirat"
 	@echo "... rebuild_cache"
+	@echo "... TimeinWords"
 	@echo "... TwoStrings"
 	@echo "... LittleMonkandStevieSmith"
 	@echo "... TaumAndBday"
@@ -4138,6 +4182,9 @@ help:
 	@echo "... Thoughts2BinarySampleProblem1.o"
 	@echo "... Thoughts2BinarySampleProblem1.i"
 	@echo "... Thoughts2BinarySampleProblem1.s"
+	@echo "... TimeinWords.o"
+	@echo "... TimeinWords.i"
+	@echo "... TimeinWords.s"
 	@echo "... TwoCharacters.o"
 	@echo "... TwoCharacters.i"
 	@echo "... TwoCharacters.s"

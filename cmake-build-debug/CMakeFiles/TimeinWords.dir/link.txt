@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -g   CMakeFiles/TimeinWords.dir/TimeinWords.cpp.o  -o TimeinWords 

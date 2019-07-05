@@ -81,6 +81,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/TaumAndBday.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/TaumAndBday.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/TheBombermanGame.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/TheBombermanGame.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/Thoughts2BinarySampleProblem1.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Thoughts2BinarySampleProblem1.cpp.o"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/TimeinWords.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/TwoCharacters.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/TwoCharacters.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/TwoStrings.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/TwoStrings.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/UtopianTree.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/UtopianTree.cpp.o"
