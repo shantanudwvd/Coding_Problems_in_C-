@@ -97,9 +97,9 @@ def print_median(max_heap, min_heap, idx):
     global maxh, minh
     if idx % 2 != 0:
         if maxh > minh:
-            print(max_heap[1])
+            print(float(max_heap[1]))
         else:
-            print(min_heap[1])
+            print(float(min_heap[1]))
     else:
         print(float((max_heap[1]+min_heap[1])/2))
 
@@ -108,7 +108,7 @@ size = int(input())
 max_heap = size*[0]
 min_heap = size*[0]
 a = int(input())
-print(a)
+print(float(a))
 b = int(input())
 print(float((a+b)/2))
 if a < b:
