@@ -2,76 +2,76 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="AveoRenzhio" targetName="TwoCharacters" />
-      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
-      <config projectName="AveoRenzhio" targetName="XOR-sequence" />
-      <config projectName="AveoRenzhio" targetName="Contacts" />
-      <config projectName="AveoRenzhio" targetName="StrongPassword" />
-      <config projectName="AveoRenzhio" targetName="AlternatingCharacters" />
-      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
-      <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
-      <config projectName="AveoRenzhio" targetName="IntegerTypes" />
-      <config projectName="AveoRenzhio" targetName="stringstream" />
-      <config projectName="AveoRenzhio" targetName="LarryArray" />
-      <config projectName="AveoRenzhio" targetName="AngryProfessor" />
-      <config projectName="AveoRenzhio" targetName="DequeSTL" />
-      <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
-      <config projectName="AveoRenzhio" targetName="AndProduct" />
-      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
-      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
-      <config projectName="AveoRenzhio" targetName="TaumAndBday" />
-      <config projectName="AveoRenzhio" targetName="Encryption" />
-      <config projectName="AveoRenzhio" targetName="fairrations" />
-      <config projectName="AveoRenzhio" targetName="flatlandspacestations" />
-      <config projectName="AveoRenzhio" targetName="magicsquareforming" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
-      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
-      <config projectName="AveoRenzhio" targetName="Anagrams" />
-      <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
-      <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
-      <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
-      <config projectName="AveoRenzhio" targetName="Thoughts2BinarySampleProblem1" />
-      <config projectName="AveoRenzhio" targetName="TheBombermanGame" />
       <config projectName="AveoRenzhio" targetName="CuttheSticks" />
-      <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
-      <config projectName="AveoRenzhio" targetName="2DArrays" />
-      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
-      <config projectName="AveoRenzhio" targetName="LilyHomeworkAlternate" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
-      <config projectName="AveoRenzhio" targetName="strangecode" />
-      <config projectName="AveoRenzhio" targetName="TimeinWords" />
-      <config projectName="AveoRenzhio" targetName="AlmostSorted" />
-      <config projectName="AveoRenzhio" targetName="LilysHomework" />
-      <config projectName="AveoRenzhio" targetName="UtopianTree" />
-      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
-      <config projectName="AveoRenzhio" targetName="simpletexteditorusingvectors" />
-      <config projectName="AveoRenzhio" targetName="SherlockandArray" />
-      <config projectName="AveoRenzhio" targetName="GameofThrones" />
-      <config projectName="AveoRenzhio" targetName="ClimbingTheLeaderboard" />
-      <config projectName="AveoRenzhio" targetName="funnystring" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandStevieSmith" />
-      <config projectName="AveoRenzhio" targetName="TwoStrings" />
-      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifications" />
-      <config projectName="AveoRenzhio" targetName="FibonacciModified" />
-      <config projectName="AveoRenzhio" targetName="QueensAttackII" />
-      <config projectName="AveoRenzhio" targetName="GamingArray" />
-      <config projectName="AveoRenzhio" targetName="JumpingontheCloudsRevisited" />
-      <config projectName="AveoRenzhio" targetName="betweeentwosets" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandWilliamson" />
-      <config projectName="AveoRenzhio" targetName="CalvinsGame" />
-      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
-      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
-      <config projectName="AveoRenzhio" targetName="BeautifulTriplets" />
+      <config projectName="AveoRenzhio" targetName="LarryArray" />
+      <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
+      <config projectName="AveoRenzhio" targetName="ClimbingTheLeaderboard" />
       <config projectName="AveoRenzhio" targetName="Waiter" />
-      <config projectName="AveoRenzhio" targetName="halloweensale" />
+      <config projectName="AveoRenzhio" targetName="Contacts" />
+      <config projectName="AveoRenzhio" targetName="Thoughts2BinarySampleProblem1" />
+      <config projectName="AveoRenzhio" targetName="TwoStrings" />
+      <config projectName="AveoRenzhio" targetName="FibonacciModified" />
+      <config projectName="AveoRenzhio" targetName="CalvinsGame" />
+      <config projectName="AveoRenzhio" targetName="strangecode" />
+      <config projectName="AveoRenzhio" targetName="AlmostSorted" />
+      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
+      <config projectName="AveoRenzhio" targetName="stringstream" />
+      <config projectName="AveoRenzhio" targetName="JumpingontheCloudsRevisited" />
+      <config projectName="AveoRenzhio" targetName="BeautifulTriplets" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandVirat" />
-      <config projectName="AveoRenzhio" targetName="RookMovement" />
+      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
+      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
+      <config projectName="AveoRenzhio" targetName="simpletexteditorusingvectors" />
+      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
+      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedianAlternate" />
+      <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
+      <config projectName="AveoRenzhio" targetName="AngryProfessor" />
+      <config projectName="AveoRenzhio" targetName="UtopianTree" />
+      <config projectName="AveoRenzhio" targetName="GameofThrones" />
+      <config projectName="AveoRenzhio" targetName="DequeSTL" />
+      <config projectName="AveoRenzhio" targetName="AlternatingCharacters" />
+      <config projectName="AveoRenzhio" targetName="TwoCharacters" />
+      <config projectName="AveoRenzhio" targetName="halloweensale" />
+      <config projectName="AveoRenzhio" targetName="XOR-sequence" />
+      <config projectName="AveoRenzhio" targetName="TimeinWords" />
+      <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
+      <config projectName="AveoRenzhio" targetName="flatlandspacestations" />
+      <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
+      <config projectName="AveoRenzhio" targetName="betweeentwosets" />
+      <config projectName="AveoRenzhio" targetName="Anagrams" />
+      <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
+      <config projectName="AveoRenzhio" targetName="RookMovement" />
+      <config projectName="AveoRenzhio" targetName="QueensAttackII" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
       <config projectName="AveoRenzhio" targetName="AppendandDelete" />
+      <config projectName="AveoRenzhio" targetName="2DArrays" />
+      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifications" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandWilliamson" />
+      <config projectName="AveoRenzhio" targetName="LilysHomework" />
+      <config projectName="AveoRenzhio" targetName="StrongPassword" />
+      <config projectName="AveoRenzhio" targetName="Encryption" />
+      <config projectName="AveoRenzhio" targetName="magicsquareforming" />
+      <config projectName="AveoRenzhio" targetName="TheBombermanGame" />
+      <config projectName="AveoRenzhio" targetName="SherlockandArray" />
       <config projectName="AveoRenzhio" targetName="SherlockandSquares" />
       <config projectName="AveoRenzhio" targetName="dictionariesandmaps" />
+      <config projectName="AveoRenzhio" targetName="TaumAndBday" />
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedian" />
+      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
+      <config projectName="AveoRenzhio" targetName="IntegerTypes" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
+      <config projectName="AveoRenzhio" targetName="LilyHomeworkAlternate" />
+      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
+      <config projectName="AveoRenzhio" targetName="fairrations" />
+      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
+      <config projectName="AveoRenzhio" targetName="GamingArray" />
+      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
+      <config projectName="AveoRenzhio" targetName="AndProduct" />
+      <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
+      <config projectName="AveoRenzhio" targetName="funnystring" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -81,66 +81,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3808d112-d453-472a-8139-a6ba367a30e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TimeinWords.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FindTheRunningMedian.py" beforeDir="false" afterPath="$PROJECT_DIR$/FindTheRunningMedian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/AveoRenzhio.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/AveoRenzhio.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlmostSorted.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlmostSorted.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AngryProfessor.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AngryProfessor.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Encryption.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Encryption.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/magicsquareforming.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/magicsquareforming.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,30 +94,24 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FindTheRunningMedian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="86" column="43" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
+            <state relative-caret-position="-943">
+              <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Set5Problem1TheGoldenCrown.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TimeinWords.cpp">
+        <entry file="file://$PROJECT_DIR$/FindTheRunningMedianOptimized.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="63" column="4" selection-end-line="75" selection-end-column="1" />
+            <state relative-caret-position="-1456">
+              <caret line="95" column="23" lean-forward="true" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
               <folding>
-                <element signature="e#43#62#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -238,8 +174,8 @@
         <option value="$PROJECT_DIR$/Queen'sAttackII.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/QueensAttackII.cpp" />
-        <option value="$PROJECT_DIR$/FindTheRunningMedian.py" />
         <option value="$PROJECT_DIR$/TimeinWords.cpp" />
+        <option value="$PROJECT_DIR$/FindTheRunningMedian.py" />
       </list>
     </option>
   </component>
@@ -261,7 +197,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,6 +208,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.TimeinWords">
+  <component name="RunManager" selected="Python.FindTheRunningMedian">
     <configuration name="2DArrays" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="2DArrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="2DArrays">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -794,18 +730,19 @@
       <workItem from="1562084500776" duration="6201000" />
       <workItem from="1562163629289" duration="9030000" />
       <workItem from="1562261223492" duration="1747000" />
-      <workItem from="1562336777803" duration="5990000" />
+      <workItem from="1562336777803" duration="6575000" />
+      <workItem from="1562491132126" duration="4215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46553000" />
+    <option name="totallyTimeSpent" value="51353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1811652" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18435754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -873,14 +810,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FindTheRunningMedian.py</url>
-          <line>102</line>
-          <option name="timeStamp" value="3" />
+          <line>110</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FibonacciNumbers.cpp" />
     <entry file="file://$PROJECT_DIR$/3DSurfaceArea.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -1250,16 +1186,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FindTheRunningMedianOptimized.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1828">
-          <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/QueensAttackII.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
@@ -1284,23 +1210,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FindTheRunningMedian.py">
+    <entry file="file://$PROJECT_DIR$/Set5Problem1TheGoldenCrown.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="86" column="43" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
+        <state relative-caret-position="-1501">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#51#70#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Set5Problem1TheGoldenCrown.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TimeinWords.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="63" column="4" selection-end-line="75" selection-end-column="1" />
+        <state relative-caret-position="2015">
+          <caret line="65" column="22" lean-forward="true" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
           <folding>
             <element signature="e#43#62#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindTheRunningMedian.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindTheRunningMedianOptimized.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1456">
+          <caret line="95" column="23" lean-forward="true" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindTheRunningMedian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-943">
+          <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
         </state>
       </provider>
     </entry>
