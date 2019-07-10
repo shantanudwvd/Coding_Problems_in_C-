@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named SheldonandValidString
+
+# Build rule for target.
+SheldonandValidString: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SheldonandValidString
+.PHONY : SheldonandValidString
+
+# fast build rule for target.
+SheldonandValidString/fast:
+	$(MAKE) -f CMakeFiles/SheldonandValidString.dir/build.make CMakeFiles/SheldonandValidString.dir/build
+.PHONY : SheldonandValidString/fast
+
+#=============================================================================
 # Target rules for targets named Contacts
 
 # Build rule for target.
@@ -3039,6 +3052,36 @@ SetProblem2BreakerOfChains.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SetProblem2BreakerOfChains.cpp.s
 .PHONY : SetProblem2BreakerOfChains.cpp.s
 
+SheldonandValidString.o: SheldonandValidString.cpp.o
+
+.PHONY : SheldonandValidString.o
+
+# target to build an object file
+SheldonandValidString.cpp.o:
+	$(MAKE) -f CMakeFiles/SheldonandValidString.dir/build.make CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.o
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.o
+.PHONY : SheldonandValidString.cpp.o
+
+SheldonandValidString.i: SheldonandValidString.cpp.i
+
+.PHONY : SheldonandValidString.i
+
+# target to preprocess a source file
+SheldonandValidString.cpp.i:
+	$(MAKE) -f CMakeFiles/SheldonandValidString.dir/build.make CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.i
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.i
+.PHONY : SheldonandValidString.cpp.i
+
+SheldonandValidString.s: SheldonandValidString.cpp.s
+
+.PHONY : SheldonandValidString.s
+
+# target to generate assembly for a file
+SheldonandValidString.cpp.s:
+	$(MAKE) -f CMakeFiles/SheldonandValidString.dir/build.make CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.s
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.s
+.PHONY : SheldonandValidString.cpp.s
+
 SherlockandArray.o: SherlockandArray.cpp.o
 
 .PHONY : SherlockandArray.o
@@ -3873,6 +3916,7 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... SheldonandValidString"
 	@echo "... Contacts"
 	@echo "... FibonacciModified"
 	@echo "... XOR-sequence"
@@ -4155,6 +4199,9 @@ help:
 	@echo "... SetProblem2BreakerOfChains.o"
 	@echo "... SetProblem2BreakerOfChains.i"
 	@echo "... SetProblem2BreakerOfChains.s"
+	@echo "... SheldonandValidString.o"
+	@echo "... SheldonandValidString.i"
+	@echo "... SheldonandValidString.s"
 	@echo "... SherlockandArray.o"
 	@echo "... SherlockandArray.i"
 	@echo "... SherlockandArray.s"

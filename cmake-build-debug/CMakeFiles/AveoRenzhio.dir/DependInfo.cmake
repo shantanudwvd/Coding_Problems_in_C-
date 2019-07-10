@@ -72,6 +72,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/Running Time of Algorithms.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Running_Time_of_Algorithms.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/Set5Problem1TheGoldenCrown.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Set5Problem1TheGoldenCrown.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/SetProblem2BreakerOfChains.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/SetProblem2BreakerOfChains.cpp.o"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/SheldonandValidString.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/SherlockandArray.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/SherlockandArray.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/SherlockandSquares.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/SherlockandSquares.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/SimpleArraySum.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.o"

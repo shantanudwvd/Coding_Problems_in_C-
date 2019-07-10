@@ -1,3 +1,4 @@
+/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/SheldonandValidString.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/Contacts.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/FibonacciModified.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/XOR-sequence.dir
