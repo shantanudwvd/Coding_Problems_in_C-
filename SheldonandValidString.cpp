@@ -37,6 +37,10 @@ int main()
         comp.insert(pair<char, int>(chr, count));
         deq.pop_front();
     }
+    for(auto idx=comp.begin();idx!=comp.end();idx++)
+    {
+        cout<<idx->first<<": "<<idx->second<<endl;
+    }
     int val1,val2;
     val1=comp.begin()->second;
     int c1=0,c2=0;
@@ -49,7 +53,6 @@ int main()
             c1++;
         }
     }
-//    cout<<c1<<endl;
     for(auto idx=comp.begin();idx!=comp.end();idx++)
     {
         if(idx->second==val1)
@@ -59,8 +62,7 @@ int main()
             c2++;
         }
     }
-//    cout<<c2<<endl;
-    if(c1==1 || c2==1 || c1==c2 && comp.size()==0)
+    if(c1==1 || c2==1)
         cout<<"YES"<<endl;
     else
         cout<<"NO"<<endl;

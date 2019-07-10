@@ -2716,6 +2716,33 @@ Mark_and_Toys.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.s
 .PHONY : Mark_and_Toys.cpp.s
 
+MaxMin.o: MaxMin.cpp.o
+
+.PHONY : MaxMin.o
+
+# target to build an object file
+MaxMin.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.o
+.PHONY : MaxMin.cpp.o
+
+MaxMin.i: MaxMin.cpp.i
+
+.PHONY : MaxMin.i
+
+# target to preprocess a source file
+MaxMin.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.i
+.PHONY : MaxMin.cpp.i
+
+MaxMin.s: MaxMin.cpp.s
+
+.PHONY : MaxMin.s
+
+# target to generate assembly for a file
+MaxMin.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.s
+.PHONY : MaxMin.cpp.s
+
 Maximizing_XOR.o: Maximizing_XOR.cpp.o
 
 .PHONY : Maximizing_XOR.o
@@ -4163,6 +4190,9 @@ help:
 	@echo "... Mark_and_Toys.o"
 	@echo "... Mark_and_Toys.i"
 	@echo "... Mark_and_Toys.s"
+	@echo "... MaxMin.o"
+	@echo "... MaxMin.i"
+	@echo "... MaxMin.s"
 	@echo "... Maximizing_XOR.o"
 	@echo "... Maximizing_XOR.i"
 	@echo "... Maximizing_XOR.s"

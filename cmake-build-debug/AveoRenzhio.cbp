@@ -3517,6 +3517,9 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Mark and Toys.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/MaxMin.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Maximizing XOR.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
