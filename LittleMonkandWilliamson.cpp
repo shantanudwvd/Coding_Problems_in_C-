@@ -4,7 +4,6 @@
 #include <iostream>
 #include <cmath>
 #include <algorithm>
-#include <bits/stdc++.h>
 using namespace std;
 int heapsize,lengtha=0,lengthb=0;
 void min_heapify(int brr[],int i)

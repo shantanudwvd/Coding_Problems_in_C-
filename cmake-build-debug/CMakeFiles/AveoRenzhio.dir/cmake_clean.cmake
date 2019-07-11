@@ -7,7 +7,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/AlmostSorted.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/AlternatingCharacters.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/Anagrams.cpp.o"
-  "CMakeFiles/AveoRenzhio.dir/AndProduct.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/ANDProduct.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/AngryProfessor.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/AppendandDelete.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/ArrayManipulation.cpp.o"
@@ -97,6 +97,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.o"
   "AveoRenzhio.pdb"
   "AveoRenzhio"
 )

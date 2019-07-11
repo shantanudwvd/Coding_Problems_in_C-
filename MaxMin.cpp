@@ -14,5 +14,4 @@ int main()
         cin>>val;
         array.push_back(val);
     }
-    for(int )
 }

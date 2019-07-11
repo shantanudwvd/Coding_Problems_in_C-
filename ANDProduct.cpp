@@ -40,26 +40,14 @@ int main()
         int sum=0;
         cin>>l>>r;
         f1(a,l);
-        /*for(int c=0;c<v.size();c++)
-        {
-            a.push_back(v[c]);
-		}*/
         for(int j=l+1;j<=r;j++)
         {
             f2(b,j);
-            /*for(int c=0;c<v.size();c++)
-            {
-                b.push_back(v[c]);
-            }*/
             for(int c=0;c<a.size() && c<b.size();c++)
             {
                 a.at(c)=(a.at(c) & b.at(c));
             }
         }
-        /*for(int k=0;k<a.size();k++)
-        {
-            cout<<a.at(k);
-        }*/
         for(int k=a.size()-1,m=1;k>=0;k--)
         {
             sum=(sum+(m*a.at(k)));

@@ -3316,6 +3316,10 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="ACM-ICPC_Team"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/ANDProduct.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="AndProduct"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/AVeryBigSum.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -3330,10 +3334,6 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Anagrams.cpp">
 			<Option target="Anagrams"/>
 			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/AndProduct.cpp">
-			<Option target="AveoRenzhio"/>
-			<Option target="AndProduct"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/AngryProfessor.cpp">
 			<Option target="AveoRenzhio"/>
@@ -3523,6 +3523,9 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Maximizing XOR.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/MonkandtheMagicalCandyBags.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/MrXandhisShots.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -3537,6 +3540,9 @@
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/QueensAttackII.cpp">
 			<Option target="QueensAttackII"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/QuerieswithFixedLength.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/QueueUsingTwoStacks.cpp">

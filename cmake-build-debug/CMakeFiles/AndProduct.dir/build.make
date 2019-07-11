@@ -57,27 +57,27 @@ include CMakeFiles/AndProduct.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/AndProduct.dir/flags.make
 
-CMakeFiles/AndProduct.dir/AndProduct.cpp.o: CMakeFiles/AndProduct.dir/flags.make
-CMakeFiles/AndProduct.dir/AndProduct.cpp.o: ../AndProduct.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AndProduct.dir/AndProduct.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AndProduct.dir/AndProduct.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/AndProduct.cpp
+CMakeFiles/AndProduct.dir/ANDProduct.cpp.o: CMakeFiles/AndProduct.dir/flags.make
+CMakeFiles/AndProduct.dir/ANDProduct.cpp.o: ../ANDProduct.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AndProduct.dir/ANDProduct.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AndProduct.dir/ANDProduct.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/ANDProduct.cpp
 
-CMakeFiles/AndProduct.dir/AndProduct.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AndProduct.dir/AndProduct.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/AndProduct.cpp > CMakeFiles/AndProduct.dir/AndProduct.cpp.i
+CMakeFiles/AndProduct.dir/ANDProduct.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AndProduct.dir/ANDProduct.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/ANDProduct.cpp > CMakeFiles/AndProduct.dir/ANDProduct.cpp.i
 
-CMakeFiles/AndProduct.dir/AndProduct.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AndProduct.dir/AndProduct.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/AndProduct.cpp -o CMakeFiles/AndProduct.dir/AndProduct.cpp.s
+CMakeFiles/AndProduct.dir/ANDProduct.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AndProduct.dir/ANDProduct.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/ANDProduct.cpp -o CMakeFiles/AndProduct.dir/ANDProduct.cpp.s
 
 # Object files for target AndProduct
 AndProduct_OBJECTS = \
-"CMakeFiles/AndProduct.dir/AndProduct.cpp.o"
+"CMakeFiles/AndProduct.dir/ANDProduct.cpp.o"
 
 # External object files for target AndProduct
 AndProduct_EXTERNAL_OBJECTS =
 
-AndProduct: CMakeFiles/AndProduct.dir/AndProduct.cpp.o
+AndProduct: CMakeFiles/AndProduct.dir/ANDProduct.cpp.o
 AndProduct: CMakeFiles/AndProduct.dir/build.make
 AndProduct: CMakeFiles/AndProduct.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable AndProduct"

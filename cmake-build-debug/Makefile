@@ -1123,6 +1123,36 @@ ACM-ICPC_Team.cpp.s:
 	$(MAKE) -f CMakeFiles/ACM-ICPC_Team.dir/build.make CMakeFiles/ACM-ICPC_Team.dir/ACM-ICPC_Team.cpp.s
 .PHONY : ACM-ICPC_Team.cpp.s
 
+ANDProduct.o: ANDProduct.cpp.o
+
+.PHONY : ANDProduct.o
+
+# target to build an object file
+ANDProduct.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ANDProduct.cpp.o
+	$(MAKE) -f CMakeFiles/AndProduct.dir/build.make CMakeFiles/AndProduct.dir/ANDProduct.cpp.o
+.PHONY : ANDProduct.cpp.o
+
+ANDProduct.i: ANDProduct.cpp.i
+
+.PHONY : ANDProduct.i
+
+# target to preprocess a source file
+ANDProduct.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ANDProduct.cpp.i
+	$(MAKE) -f CMakeFiles/AndProduct.dir/build.make CMakeFiles/AndProduct.dir/ANDProduct.cpp.i
+.PHONY : ANDProduct.cpp.i
+
+ANDProduct.s: ANDProduct.cpp.s
+
+.PHONY : ANDProduct.s
+
+# target to generate assembly for a file
+ANDProduct.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ANDProduct.cpp.s
+	$(MAKE) -f CMakeFiles/AndProduct.dir/build.make CMakeFiles/AndProduct.dir/ANDProduct.cpp.s
+.PHONY : ANDProduct.cpp.s
+
 AVeryBigSum.o: AVeryBigSum.cpp.o
 
 .PHONY : AVeryBigSum.o
@@ -1239,36 +1269,6 @@ Anagrams.cpp.s:
 	$(MAKE) -f CMakeFiles/Anagrams.dir/build.make CMakeFiles/Anagrams.dir/Anagrams.cpp.s
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Anagrams.cpp.s
 .PHONY : Anagrams.cpp.s
-
-AndProduct.o: AndProduct.cpp.o
-
-.PHONY : AndProduct.o
-
-# target to build an object file
-AndProduct.cpp.o:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AndProduct.cpp.o
-	$(MAKE) -f CMakeFiles/AndProduct.dir/build.make CMakeFiles/AndProduct.dir/AndProduct.cpp.o
-.PHONY : AndProduct.cpp.o
-
-AndProduct.i: AndProduct.cpp.i
-
-.PHONY : AndProduct.i
-
-# target to preprocess a source file
-AndProduct.cpp.i:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AndProduct.cpp.i
-	$(MAKE) -f CMakeFiles/AndProduct.dir/build.make CMakeFiles/AndProduct.dir/AndProduct.cpp.i
-.PHONY : AndProduct.cpp.i
-
-AndProduct.s: AndProduct.cpp.s
-
-.PHONY : AndProduct.s
-
-# target to generate assembly for a file
-AndProduct.cpp.s:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AndProduct.cpp.s
-	$(MAKE) -f CMakeFiles/AndProduct.dir/build.make CMakeFiles/AndProduct.dir/AndProduct.cpp.s
-.PHONY : AndProduct.cpp.s
 
 AngryProfessor.o: AngryProfessor.cpp.o
 
@@ -2770,6 +2770,33 @@ Maximizing_XOR.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.s
 .PHONY : Maximizing_XOR.cpp.s
 
+MonkandtheMagicalCandyBags.o: MonkandtheMagicalCandyBags.cpp.o
+
+.PHONY : MonkandtheMagicalCandyBags.o
+
+# target to build an object file
+MonkandtheMagicalCandyBags.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.o
+.PHONY : MonkandtheMagicalCandyBags.cpp.o
+
+MonkandtheMagicalCandyBags.i: MonkandtheMagicalCandyBags.cpp.i
+
+.PHONY : MonkandtheMagicalCandyBags.i
+
+# target to preprocess a source file
+MonkandtheMagicalCandyBags.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.i
+.PHONY : MonkandtheMagicalCandyBags.cpp.i
+
+MonkandtheMagicalCandyBags.s: MonkandtheMagicalCandyBags.cpp.s
+
+.PHONY : MonkandtheMagicalCandyBags.s
+
+# target to generate assembly for a file
+MonkandtheMagicalCandyBags.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.s
+.PHONY : MonkandtheMagicalCandyBags.cpp.s
+
 MrXandhisShots.o: MrXandhisShots.cpp.o
 
 .PHONY : MrXandhisShots.o
@@ -2907,6 +2934,33 @@ QueensAttackII.cpp.s:
 	$(MAKE) -f CMakeFiles/QueensAttackII.dir/build.make CMakeFiles/QueensAttackII.dir/QueensAttackII.cpp.s
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.s
 .PHONY : QueensAttackII.cpp.s
+
+QuerieswithFixedLength.o: QuerieswithFixedLength.cpp.o
+
+.PHONY : QuerieswithFixedLength.o
+
+# target to build an object file
+QuerieswithFixedLength.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.o
+.PHONY : QuerieswithFixedLength.cpp.o
+
+QuerieswithFixedLength.i: QuerieswithFixedLength.cpp.i
+
+.PHONY : QuerieswithFixedLength.i
+
+# target to preprocess a source file
+QuerieswithFixedLength.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.i
+.PHONY : QuerieswithFixedLength.cpp.i
+
+QuerieswithFixedLength.s: QuerieswithFixedLength.cpp.s
+
+.PHONY : QuerieswithFixedLength.s
+
+# target to generate assembly for a file
+QuerieswithFixedLength.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.s
+.PHONY : QuerieswithFixedLength.cpp.s
 
 QueueUsingTwoStacks.o: QueueUsingTwoStacks.cpp.o
 
@@ -4025,6 +4079,9 @@ help:
 	@echo "... ACM-ICPC_Team.o"
 	@echo "... ACM-ICPC_Team.i"
 	@echo "... ACM-ICPC_Team.s"
+	@echo "... ANDProduct.o"
+	@echo "... ANDProduct.i"
+	@echo "... ANDProduct.s"
 	@echo "... AVeryBigSum.o"
 	@echo "... AVeryBigSum.i"
 	@echo "... AVeryBigSum.s"
@@ -4037,9 +4094,6 @@ help:
 	@echo "... Anagrams.o"
 	@echo "... Anagrams.i"
 	@echo "... Anagrams.s"
-	@echo "... AndProduct.o"
-	@echo "... AndProduct.i"
-	@echo "... AndProduct.s"
 	@echo "... AngryProfessor.o"
 	@echo "... AngryProfessor.i"
 	@echo "... AngryProfessor.s"
@@ -4196,6 +4250,9 @@ help:
 	@echo "... Maximizing_XOR.o"
 	@echo "... Maximizing_XOR.i"
 	@echo "... Maximizing_XOR.s"
+	@echo "... MonkandtheMagicalCandyBags.o"
+	@echo "... MonkandtheMagicalCandyBags.i"
+	@echo "... MonkandtheMagicalCandyBags.s"
 	@echo "... MrXandhisShots.o"
 	@echo "... MrXandhisShots.i"
 	@echo "... MrXandhisShots.s"
@@ -4211,6 +4268,9 @@ help:
 	@echo "... QueensAttackII.o"
 	@echo "... QueensAttackII.i"
 	@echo "... QueensAttackII.s"
+	@echo "... QuerieswithFixedLength.o"
+	@echo "... QuerieswithFixedLength.i"
+	@echo "... QuerieswithFixedLength.s"
 	@echo "... QueueUsingTwoStacks.o"
 	@echo "... QueueUsingTwoStacks.i"
 	@echo "... QueueUsingTwoStacks.s"
