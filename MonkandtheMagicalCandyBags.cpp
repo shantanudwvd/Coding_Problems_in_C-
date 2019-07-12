@@ -1,15 +1,10 @@
 //
 // Created by aveorenzhio on 11/7/19.
 //
-
-
+#include <iostream>
+#include <cmath>
+#include <algorithm>
 using namespace std;
-#include<iostream>
-#include<cmath>
-#include<vector>
-#include<algorithm>
-#include<deque>
-#include<set>
 int length=0,heapsize;
 void max_heapify(unsigned long long int arr[],int i)
 {
@@ -38,13 +33,13 @@ void max_heapify(unsigned long long int arr[],int i)
     }
     max_heapify(arr,largest);
 }
-/*void build_maxheap(int arr[])
-{
-    for(int k=floor(heapsize/2);k>=1;k--)
-    {
-        max_heapify(arr,k);
-    }
-}*/
+//void build_maxheap(unsigned long long int arr[])
+//{
+//    for(int k=floor(heapsize/2);k>=1;k--)
+//    {
+//        max_heapify(arr,k);
+//    }
+//}
 void increase_value(unsigned long long int arr[], int i, int val)
 {
     arr[i]=val;

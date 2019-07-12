@@ -81,7 +81,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3808d112-d453-472a-8139-a6ba367a30e5" name="Default Changelist" comment="" />
+    <list default="true" id="3808d112-d453-472a-8139-a6ba367a30e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MonkandtheMagicalCandyBags.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MonkandtheMagicalCandyBags.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,10 +101,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MonkandtheMagicalCandyBags.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+            <state relative-caret-position="31">
+              <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
               <folding>
-                <element signature="e#67#85#0" expanded="true" />
+                <element signature="e#44#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,7 +184,7 @@
   <component name="OCResolveContextSettings">
     <option name="configuration" value="0-AveoRenzhio" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -741,18 +744,18 @@
       <workItem from="1562691381768" duration="6046000" />
       <workItem from="1562770250214" duration="826000" />
       <workItem from="1562778907968" duration="2125000" />
-      <workItem from="1562860449043" duration="2487000" />
+      <workItem from="1562860449043" duration="3589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72612000" />
+    <option name="totallyTimeSpent" value="73714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20031923" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20031923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1274,10 +1277,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MonkandtheMagicalCandyBags.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        <state relative-caret-position="31">
+          <caret line="60" column="12" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
           <folding>
-            <element signature="e#67#85#0" expanded="true" />
+            <element signature="e#44#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
