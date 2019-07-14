@@ -3622,6 +3622,9 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Maximizing XOR.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/MinimumSwaps2.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/MonkandtheMagicalCandyBags.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>

@@ -2853,6 +2853,33 @@ Maximizing_XOR.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.s
 .PHONY : Maximizing_XOR.cpp.s
 
+MinimumSwaps2.o: MinimumSwaps2.cpp.o
+
+.PHONY : MinimumSwaps2.o
+
+# target to build an object file
+MinimumSwaps2.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o
+.PHONY : MinimumSwaps2.cpp.o
+
+MinimumSwaps2.i: MinimumSwaps2.cpp.i
+
+.PHONY : MinimumSwaps2.i
+
+# target to preprocess a source file
+MinimumSwaps2.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.i
+.PHONY : MinimumSwaps2.cpp.i
+
+MinimumSwaps2.s: MinimumSwaps2.cpp.s
+
+.PHONY : MinimumSwaps2.s
+
+# target to generate assembly for a file
+MinimumSwaps2.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.s
+.PHONY : MinimumSwaps2.cpp.s
+
 MonkandtheMagicalCandyBags.o: MonkandtheMagicalCandyBags.cpp.o
 
 .PHONY : MonkandtheMagicalCandyBags.o
@@ -4371,6 +4398,9 @@ help:
 	@echo "... Maximizing_XOR.o"
 	@echo "... Maximizing_XOR.i"
 	@echo "... Maximizing_XOR.s"
+	@echo "... MinimumSwaps2.o"
+	@echo "... MinimumSwaps2.i"
+	@echo "... MinimumSwaps2.s"
 	@echo "... MonkandtheMagicalCandyBags.o"
 	@echo "... MonkandtheMagicalCandyBags.i"
 	@echo "... MonkandtheMagicalCandyBags.s"
