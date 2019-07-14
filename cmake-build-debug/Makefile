@@ -735,6 +735,19 @@ FraudulentActivityNotifications/fast:
 .PHONY : FraudulentActivityNotifications/fast
 
 #=============================================================================
+# Target rules for targets named QueenAttackIIAlternate
+
+# Build rule for target.
+QueenAttackIIAlternate: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 QueenAttackIIAlternate
+.PHONY : QueenAttackIIAlternate
+
+# fast build rule for target.
+QueenAttackIIAlternate/fast:
+	$(MAKE) -f CMakeFiles/QueenAttackIIAlternate.dir/build.make CMakeFiles/QueenAttackIIAlternate.dir/build
+.PHONY : QueenAttackIIAlternate/fast
+
+#=============================================================================
 # Target rules for targets named DequeSTL
 
 # Build rule for target.
@@ -2955,6 +2968,7 @@ QueenAttackIIAlternate.o: QueenAttackIIAlternate.cpp.o
 # target to build an object file
 QueenAttackIIAlternate.cpp.o:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o
+	$(MAKE) -f CMakeFiles/QueenAttackIIAlternate.dir/build.make CMakeFiles/QueenAttackIIAlternate.dir/QueenAttackIIAlternate.cpp.o
 .PHONY : QueenAttackIIAlternate.cpp.o
 
 QueenAttackIIAlternate.i: QueenAttackIIAlternate.cpp.i
@@ -2964,6 +2978,7 @@ QueenAttackIIAlternate.i: QueenAttackIIAlternate.cpp.i
 # target to preprocess a source file
 QueenAttackIIAlternate.cpp.i:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.i
+	$(MAKE) -f CMakeFiles/QueenAttackIIAlternate.dir/build.make CMakeFiles/QueenAttackIIAlternate.dir/QueenAttackIIAlternate.cpp.i
 .PHONY : QueenAttackIIAlternate.cpp.i
 
 QueenAttackIIAlternate.s: QueenAttackIIAlternate.cpp.s
@@ -2973,6 +2988,7 @@ QueenAttackIIAlternate.s: QueenAttackIIAlternate.cpp.s
 # target to generate assembly for a file
 QueenAttackIIAlternate.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.s
+	$(MAKE) -f CMakeFiles/QueenAttackIIAlternate.dir/build.make CMakeFiles/QueenAttackIIAlternate.dir/QueenAttackIIAlternate.cpp.s
 .PHONY : QueenAttackIIAlternate.cpp.s
 
 QueensAttackII.o: QueensAttackII.cpp.o
@@ -4117,6 +4133,7 @@ help:
 	@echo "... ClimbingTheLeaderboard"
 	@echo "... Deque-STL-Alternate"
 	@echo "... FraudulentActivityNotifications"
+	@echo "... QueenAttackIIAlternate"
 	@echo "... DequeSTL"
 	@echo "... LittleMonkandWilliamson"
 	@echo "... fairrations"

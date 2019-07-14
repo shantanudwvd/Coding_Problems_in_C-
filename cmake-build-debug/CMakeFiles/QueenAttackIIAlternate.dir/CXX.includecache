@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aveorenzhio/CLionProjects/AveoRenzhio/QueenAttackIIAlternate.cpp
+iostream
+-
+cmath
+-
+cstring
+-
+

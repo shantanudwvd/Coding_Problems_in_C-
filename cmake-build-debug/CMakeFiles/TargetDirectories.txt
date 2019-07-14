@@ -48,6 +48,7 @@
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir
+/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/DequeSTL.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir
 /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/fairrations.dir

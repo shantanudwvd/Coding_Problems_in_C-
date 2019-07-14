@@ -96,6 +96,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/ClimbingTheLeaderboard.dir/DependInfo.cmake"
   "CMakeFiles/Deque-STL-Alternate.dir/DependInfo.cmake"
   "CMakeFiles/FraudulentActivityNotifications.dir/DependInfo.cmake"
+  "CMakeFiles/QueenAttackIIAlternate.dir/DependInfo.cmake"
   "CMakeFiles/DequeSTL.dir/DependInfo.cmake"
   "CMakeFiles/LittleMonkandWilliamson.dir/DependInfo.cmake"
   "CMakeFiles/fairrations.dir/DependInfo.cmake"
