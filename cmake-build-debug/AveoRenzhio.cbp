@@ -3415,6 +3415,9 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/AVeryBigSum.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/Abbreviation.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/AlmostSorted.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="AlmostSorted"/>

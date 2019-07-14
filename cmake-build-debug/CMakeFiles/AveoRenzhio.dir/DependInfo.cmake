@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/ACM-ICPC_Team.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/ACM-ICPC_Team.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/ANDProduct.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/ANDProduct.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/AVeryBigSum.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.o"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/Abbreviation.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/AlmostSorted.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/AlmostSorted.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/AlternatingCharacters.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/AlternatingCharacters.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/Anagrams.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Anagrams.cpp.o"

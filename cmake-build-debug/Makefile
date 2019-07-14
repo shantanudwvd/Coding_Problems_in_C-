@@ -1206,6 +1206,33 @@ AVeryBigSum.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.s
 .PHONY : AVeryBigSum.cpp.s
 
+Abbreviation.o: Abbreviation.cpp.o
+
+.PHONY : Abbreviation.o
+
+# target to build an object file
+Abbreviation.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o
+.PHONY : Abbreviation.cpp.o
+
+Abbreviation.i: Abbreviation.cpp.i
+
+.PHONY : Abbreviation.i
+
+# target to preprocess a source file
+Abbreviation.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.i
+.PHONY : Abbreviation.cpp.i
+
+Abbreviation.s: Abbreviation.cpp.s
+
+.PHONY : Abbreviation.s
+
+# target to generate assembly for a file
+Abbreviation.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.s
+.PHONY : Abbreviation.cpp.s
+
 AlmostSorted.o: AlmostSorted.cpp.o
 
 .PHONY : AlmostSorted.o
@@ -4173,6 +4200,9 @@ help:
 	@echo "... AVeryBigSum.o"
 	@echo "... AVeryBigSum.i"
 	@echo "... AVeryBigSum.s"
+	@echo "... Abbreviation.o"
+	@echo "... Abbreviation.i"
+	@echo "... Abbreviation.s"
 	@echo "... AlmostSorted.o"
 	@echo "... AlmostSorted.i"
 	@echo "... AlmostSorted.s"
