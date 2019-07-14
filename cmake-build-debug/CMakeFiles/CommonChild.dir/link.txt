@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -g   CMakeFiles/CommonChild.dir/CommonChild.cpp.o  -o CommonChild 

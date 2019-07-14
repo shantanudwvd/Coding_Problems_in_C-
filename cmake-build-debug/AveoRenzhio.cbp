@@ -1499,6 +1499,52 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="CommonChild">
+				<Option output="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CommonChild" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 CommonChild"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CommonChild/fast">
+				<Option output="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CommonChild" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 CommonChild/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="ArrayManipulation">
 				<Option output="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/ArrayManipulation" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug"/>
@@ -3370,6 +3416,10 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/ClosestNumbers.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/CommonChild.cpp">
+			<Option target="CommonChild"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/CompareTheTriplets.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -3536,6 +3586,9 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/PoisnousPlantsAlternate.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/QueenAttackIIAlternate.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/QueensAttackII.cpp">

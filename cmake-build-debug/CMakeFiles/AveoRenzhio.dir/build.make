@@ -1357,6 +1357,32 @@ CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/MonkandtheMagicalCandyBags.cpp -o CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o: ../QueenAttackIIAlternate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/QueenAttackIIAlternate.cpp
+
+CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/QueenAttackIIAlternate.cpp > CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/QueenAttackIIAlternate.cpp -o CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o: ../CommonChild.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/CommonChild.cpp
+
+CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/CommonChild.cpp > CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/CommonChild.cpp -o CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/main.cpp.o" \
@@ -1458,7 +1484,9 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.o"
+"CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -1563,9 +1591,11 @@ AveoRenzhio: CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Linking CXX executable AveoRenzhio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Linking CXX executable AveoRenzhio"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AveoRenzhio.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

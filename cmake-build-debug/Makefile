@@ -527,6 +527,19 @@ Thoughts2BinarySampleProblem1/fast:
 .PHONY : Thoughts2BinarySampleProblem1/fast
 
 #=============================================================================
+# Target rules for targets named CommonChild
+
+# Build rule for target.
+CommonChild: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CommonChild
+.PHONY : CommonChild
+
+# fast build rule for target.
+CommonChild/fast:
+	$(MAKE) -f CMakeFiles/CommonChild.dir/build.make CMakeFiles/CommonChild.dir/build
+.PHONY : CommonChild/fast
+
+#=============================================================================
 # Target rules for targets named ArrayManipulation
 
 # Build rule for target.
@@ -1536,6 +1549,36 @@ ClosestNumbers.s: ClosestNumbers.cpp.s
 ClosestNumbers.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ClosestNumbers.cpp.s
 .PHONY : ClosestNumbers.cpp.s
+
+CommonChild.o: CommonChild.cpp.o
+
+.PHONY : CommonChild.o
+
+# target to build an object file
+CommonChild.cpp.o:
+	$(MAKE) -f CMakeFiles/CommonChild.dir/build.make CMakeFiles/CommonChild.dir/CommonChild.cpp.o
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o
+.PHONY : CommonChild.cpp.o
+
+CommonChild.i: CommonChild.cpp.i
+
+.PHONY : CommonChild.i
+
+# target to preprocess a source file
+CommonChild.cpp.i:
+	$(MAKE) -f CMakeFiles/CommonChild.dir/build.make CMakeFiles/CommonChild.dir/CommonChild.cpp.i
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.i
+.PHONY : CommonChild.cpp.i
+
+CommonChild.s: CommonChild.cpp.s
+
+.PHONY : CommonChild.s
+
+# target to generate assembly for a file
+CommonChild.cpp.s:
+	$(MAKE) -f CMakeFiles/CommonChild.dir/build.make CMakeFiles/CommonChild.dir/CommonChild.cpp.s
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.s
+.PHONY : CommonChild.cpp.s
 
 CompareTheTriplets.o: CompareTheTriplets.cpp.o
 
@@ -2905,6 +2948,33 @@ PoisnousPlantsAlternate.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.s
 .PHONY : PoisnousPlantsAlternate.cpp.s
 
+QueenAttackIIAlternate.o: QueenAttackIIAlternate.cpp.o
+
+.PHONY : QueenAttackIIAlternate.o
+
+# target to build an object file
+QueenAttackIIAlternate.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o
+.PHONY : QueenAttackIIAlternate.cpp.o
+
+QueenAttackIIAlternate.i: QueenAttackIIAlternate.cpp.i
+
+.PHONY : QueenAttackIIAlternate.i
+
+# target to preprocess a source file
+QueenAttackIIAlternate.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.i
+.PHONY : QueenAttackIIAlternate.cpp.i
+
+QueenAttackIIAlternate.s: QueenAttackIIAlternate.cpp.s
+
+.PHONY : QueenAttackIIAlternate.s
+
+# target to generate assembly for a file
+QueenAttackIIAlternate.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.s
+.PHONY : QueenAttackIIAlternate.cpp.s
+
 QueensAttackII.o: QueensAttackII.cpp.o
 
 .PHONY : QueensAttackII.o
@@ -4030,6 +4100,7 @@ help:
 	@echo "... HeapSortingUsingMax_HeapifyCormenIndexingwith0"
 	@echo "... strangecode"
 	@echo "... Thoughts2BinarySampleProblem1"
+	@echo "... CommonChild"
 	@echo "... ArrayManipulation"
 	@echo "... AveoRenzhio"
 	@echo "... CuttheSticks"
@@ -4121,6 +4192,9 @@ help:
 	@echo "... ClosestNumbers.o"
 	@echo "... ClosestNumbers.i"
 	@echo "... ClosestNumbers.s"
+	@echo "... CommonChild.o"
+	@echo "... CommonChild.i"
+	@echo "... CommonChild.s"
 	@echo "... CompareTheTriplets.o"
 	@echo "... CompareTheTriplets.i"
 	@echo "... CompareTheTriplets.s"
@@ -4265,6 +4339,9 @@ help:
 	@echo "... PoisnousPlantsAlternate.o"
 	@echo "... PoisnousPlantsAlternate.i"
 	@echo "... PoisnousPlantsAlternate.s"
+	@echo "... QueenAttackIIAlternate.o"
+	@echo "... QueenAttackIIAlternate.i"
+	@echo "... QueenAttackIIAlternate.s"
 	@echo "... QueensAttackII.o"
 	@echo "... QueensAttackII.i"
 	@echo "... QueensAttackII.s"

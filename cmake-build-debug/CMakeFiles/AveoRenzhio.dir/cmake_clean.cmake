@@ -99,6 +99,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o"
   "AveoRenzhio.pdb"
   "AveoRenzhio"
 )
