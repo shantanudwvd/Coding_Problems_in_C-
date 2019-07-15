@@ -82,6 +82,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Thoughts2BinarySampleProblem1.dir/DependInfo.cmake"
   "CMakeFiles/CommonChild.dir/DependInfo.cmake"
   "CMakeFiles/ArrayManipulation.dir/DependInfo.cmake"
+  "CMakeFiles/MinimumSwaps2Alternate.dir/DependInfo.cmake"
   "CMakeFiles/AveoRenzhio.dir/DependInfo.cmake"
   "CMakeFiles/CuttheSticks.dir/DependInfo.cmake"
   "CMakeFiles/AngryProfessor.dir/DependInfo.cmake"

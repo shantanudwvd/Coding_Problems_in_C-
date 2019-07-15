@@ -4,7 +4,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-int heapsize,n;
+int heapsize,n,swaps=0;
 void max_heapify(int arr[], int i)
 {
     int l=(2*i);
@@ -60,6 +60,7 @@ void extract_minimum(int b[], int val, int idx)
             int temp=b[i];
             b[i]=b[idx];
             b[idx]=temp;
+            swaps++;
             break;
         }
     }
@@ -82,5 +83,5 @@ int main()
             extract_minimum(b,arr[i],i);
         }
     }
-    cout<<ct<<endl;
+    cout<<swaps<<endl;
 }

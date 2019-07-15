@@ -553,6 +553,19 @@ ArrayManipulation/fast:
 .PHONY : ArrayManipulation/fast
 
 #=============================================================================
+# Target rules for targets named MinimumSwaps2Alternate
+
+# Build rule for target.
+MinimumSwaps2Alternate: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 MinimumSwaps2Alternate
+.PHONY : MinimumSwaps2Alternate
+
+# fast build rule for target.
+MinimumSwaps2Alternate/fast:
+	$(MAKE) -f CMakeFiles/MinimumSwaps2Alternate.dir/build.make CMakeFiles/MinimumSwaps2Alternate.dir/build
+.PHONY : MinimumSwaps2Alternate/fast
+
+#=============================================================================
 # Target rules for targets named AveoRenzhio
 
 # Build rule for target.
@@ -2886,6 +2899,7 @@ MinimumSwaps2Alternate.o: MinimumSwaps2Alternate.cpp.o
 
 # target to build an object file
 MinimumSwaps2Alternate.cpp.o:
+	$(MAKE) -f CMakeFiles/MinimumSwaps2Alternate.dir/build.make CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.o
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o
 .PHONY : MinimumSwaps2Alternate.cpp.o
 
@@ -2895,6 +2909,7 @@ MinimumSwaps2Alternate.i: MinimumSwaps2Alternate.cpp.i
 
 # target to preprocess a source file
 MinimumSwaps2Alternate.cpp.i:
+	$(MAKE) -f CMakeFiles/MinimumSwaps2Alternate.dir/build.make CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.i
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.i
 .PHONY : MinimumSwaps2Alternate.cpp.i
 
@@ -2904,6 +2919,7 @@ MinimumSwaps2Alternate.s: MinimumSwaps2Alternate.cpp.s
 
 # target to generate assembly for a file
 MinimumSwaps2Alternate.cpp.s:
+	$(MAKE) -f CMakeFiles/MinimumSwaps2Alternate.dir/build.make CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.s
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.s
 .PHONY : MinimumSwaps2Alternate.cpp.s
 
@@ -4199,6 +4215,7 @@ help:
 	@echo "... Thoughts2BinarySampleProblem1"
 	@echo "... CommonChild"
 	@echo "... ArrayManipulation"
+	@echo "... MinimumSwaps2Alternate"
 	@echo "... AveoRenzhio"
 	@echo "... CuttheSticks"
 	@echo "... AngryProfessor"
