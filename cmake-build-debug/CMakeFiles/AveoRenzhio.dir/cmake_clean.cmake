@@ -103,6 +103,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o"
   "AveoRenzhio.pdb"
   "AveoRenzhio"
 )

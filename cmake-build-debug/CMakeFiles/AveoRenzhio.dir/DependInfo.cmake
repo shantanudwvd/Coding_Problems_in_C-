@@ -65,6 +65,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/MaxMin.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/Maximizing XOR.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/MinimumSwaps2.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/MinimumSwaps2Alternate.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/MonkandtheMagicalCandyBags.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/MrXandhisShots.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/NewYearChaos.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/NewYearChaos.cpp.o"

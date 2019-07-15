@@ -2880,6 +2880,33 @@ MinimumSwaps2.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.s
 .PHONY : MinimumSwaps2.cpp.s
 
+MinimumSwaps2Alternate.o: MinimumSwaps2Alternate.cpp.o
+
+.PHONY : MinimumSwaps2Alternate.o
+
+# target to build an object file
+MinimumSwaps2Alternate.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o
+.PHONY : MinimumSwaps2Alternate.cpp.o
+
+MinimumSwaps2Alternate.i: MinimumSwaps2Alternate.cpp.i
+
+.PHONY : MinimumSwaps2Alternate.i
+
+# target to preprocess a source file
+MinimumSwaps2Alternate.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.i
+.PHONY : MinimumSwaps2Alternate.cpp.i
+
+MinimumSwaps2Alternate.s: MinimumSwaps2Alternate.cpp.s
+
+.PHONY : MinimumSwaps2Alternate.s
+
+# target to generate assembly for a file
+MinimumSwaps2Alternate.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.s
+.PHONY : MinimumSwaps2Alternate.cpp.s
+
 MonkandtheMagicalCandyBags.o: MonkandtheMagicalCandyBags.cpp.o
 
 .PHONY : MonkandtheMagicalCandyBags.o
@@ -4401,6 +4428,9 @@ help:
 	@echo "... MinimumSwaps2.o"
 	@echo "... MinimumSwaps2.i"
 	@echo "... MinimumSwaps2.s"
+	@echo "... MinimumSwaps2Alternate.o"
+	@echo "... MinimumSwaps2Alternate.i"
+	@echo "... MinimumSwaps2Alternate.s"
 	@echo "... MonkandtheMagicalCandyBags.o"
 	@echo "... MonkandtheMagicalCandyBags.i"
 	@echo "... MonkandtheMagicalCandyBags.s"
