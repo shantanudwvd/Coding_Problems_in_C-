@@ -3,8 +3,6 @@
 //
 #include <iostream>
 #include <iomanip>
-#include <limits>
-#include <cmath>
 using namespace std;
 int score=0,size,k;
 int backward_phase(const int array[],int end)

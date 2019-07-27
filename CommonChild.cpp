@@ -2,7 +2,6 @@
 // Created by aveorenzhio on 13/7/19.
 //
 #include <iostream>
-#include <cmath>
 #include <bits/stdc++.h>
 using namespace std;
 int main()

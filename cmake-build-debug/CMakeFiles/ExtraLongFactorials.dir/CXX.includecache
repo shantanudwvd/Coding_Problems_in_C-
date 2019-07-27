@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aveorenzhio/CLionProjects/AveoRenzhio/ExtraLongFactorials.cpp
+iostream
+-
+bits/stdc++.h
+-
+

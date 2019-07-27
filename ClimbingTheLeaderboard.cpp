@@ -3,7 +3,6 @@
 //
 #include <iostream>
 #include <cmath>
-#include <algorithm>
 #include <bits/stdc++.h>
 using namespace std;
 int heapsize,length=0,rankindex=0;

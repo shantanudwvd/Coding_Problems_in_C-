@@ -1,14 +1,9 @@
 //
 // Created by Shantanu Dwivedi on 2/4/2019.
 //
-#include <cmath>
-#include <cstdio>
 #include <vector>
 #include <iostream>
-#include <algorithm>
 #include <unordered_map>
-#include <map>
-#include <sstream>
 using namespace std;
 int main()
 {

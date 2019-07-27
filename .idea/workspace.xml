@@ -5,9 +5,10 @@
       <config projectName="AveoRenzhio" targetName="TwoCharacters" />
       <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
       <config projectName="AveoRenzhio" targetName="XOR-sequence" />
+      <config projectName="AveoRenzhio" targetName="ExtraLongFactorials" />
       <config projectName="AveoRenzhio" targetName="Contacts" />
-      <config projectName="AveoRenzhio" targetName="StrongPassword" />
       <config projectName="AveoRenzhio" targetName="AlternatingCharacters" />
+      <config projectName="AveoRenzhio" targetName="StrongPassword" />
       <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
       <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
       <config projectName="AveoRenzhio" targetName="IntegerTypes" />
@@ -26,8 +27,8 @@
       <config projectName="AveoRenzhio" targetName="magicsquareforming" />
       <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
       <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
-      <config projectName="AveoRenzhio" targetName="Anagrams" />
       <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
+      <config projectName="AveoRenzhio" targetName="Anagrams" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
       <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
       <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
@@ -72,8 +73,8 @@
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedianAlternate" />
       <config projectName="AveoRenzhio" targetName="AppendandDelete" />
       <config projectName="AveoRenzhio" targetName="SherlockandSquares" />
-      <config projectName="AveoRenzhio" targetName="dictionariesandmaps" />
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedian" />
+      <config projectName="AveoRenzhio" targetName="dictionariesandmaps" />
       <config projectName="AveoRenzhio" targetName="CommonChild" />
     </generated>
   </component>
@@ -83,8 +84,169 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3808d112-d453-472a-8139-a6ba367a30e5" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <list default="true" id="3808d112-d453-472a-8139-a6ba367a30e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Maximum_Element.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2DArrays.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2DArrays.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACM-ICPC_Team.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM-ICPC_Team.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANDProduct.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ANDProduct.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AVeryBigSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AVeryBigSum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlmostSorted.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AlmostSorted.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlternatingCharacters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AlternatingCharacters.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AngryProfessor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AngryProfessor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppendandDelete.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AppendandDelete.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BalancedBrackets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BalancedBrackets.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalvinsGame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CalvinsGame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClimbingTheLeaderboard.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ClimbingTheLeaderboard.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClosestNumbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ClosestNumbers.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonChild.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CommonChild.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Contacts.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Correctness and the Loop Invariant.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Correctness and the Loop Invariant.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counting Sort 1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Counting Sort 1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counting Sort 2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Counting Sort 2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deque-STL-Alternate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Deque-STL-Alternate.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DequeSTL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DequeSTL.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagonalDifference.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DiagonalDifference.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encryption.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtraLongFactorials.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ExtraLongFactorials.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoisnousPlantsAlternate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PoisnousPlantsAlternate.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/AveoRenzhio.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/AveoRenzhio.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2DArrays.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2DArrays.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3DSurfaceArea.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3DSurfaceArea.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ACM-ICPC_Team.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ACM-ICPC_Team.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlmostSorted.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlmostSorted.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlternatingCharacters.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AlternatingCharacters.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Anagrams.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Anagrams.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AngryProfessor.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AngryProfessor.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AppendandDelete.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AppendandDelete.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ArrayManipulation.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ArrayManipulation.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BalancedBrackets.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CommonChild.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CommonChild.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL-Alternate.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Encryption.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Encryption.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FibonacciModified.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandArray.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TaumAndBday.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoCharacters.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoCharacters.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/betweeentwosets.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/betweeentwosets.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flatlandspacestations.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/flatlandspacestations.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/magicsquareforming.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/magicsquareforming.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simpletexteditorusingvectors.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simpletexteditorusingvectors.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simpletexteditorusingvectors.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simpletexteditorusingvectors.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/strangecode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/strangecode.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stringstream.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/stringstream.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionariesandmaps.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/dictionariesandmaps.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fairrations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/fairrations.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,9 +274,6 @@
   <component name="FavoritesManager">
     <favorites_list name="AveoRenzhio" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -136,93 +295,21 @@
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/GoogleFooBarChallengeProblem1.py" />
-        <option value="$PROJECT_DIR$/FraudulentActivityNotifications.cpp" />
-        <option value="$PROJECT_DIR$/FraudulentActivityNotificationsOptimized.cpp" />
-        <option value="$PROJECT_DIR$/JesseandCookies.cpp" />
-        <option value="$PROJECT_DIR$/Contacts.cpp" />
-        <option value="$PROJECT_DIR$/JimandtheSkyscrapers.cpp" />
-        <option value="$PROJECT_DIR$/RecursiveDigitSum.cpp" />
-        <option value="$PROJECT_DIR$/NewYearChaos.cpp" />
-        <option value="$PROJECT_DIR$/SparseArrays.cpp" />
-        <option value="$PROJECT_DIR$/QueueUsingTwoStacks.cpp" />
-        <option value="$PROJECT_DIR$/PoisnousPlants.cpp" />
-        <option value="$PROJECT_DIR$/PoisnousPlantsAlternate.cpp" />
-        <option value="$PROJECT_DIR$/GameOfTwoStacks.cpp" />
-        <option value="$PROJECT_DIR$/KindergartenAdventures.cpp" />
-        <option value="$PROJECT_DIR$/MrXandhisShots.cpp" />
-        <option value="$PROJECT_DIR$/FibonacciModified.cpp" />
-        <option value="$PROJECT_DIR$/SolveMeFirst.cpp" />
-        <option value="$PROJECT_DIR$/SimpleArraySum.cpp" />
-        <option value="$PROJECT_DIR$/CompareTheTriplets.cpp" />
-        <option value="$PROJECT_DIR$/AVeryBigSum.cpp" />
-        <option value="$PROJECT_DIR$/DiagonalDifference.cpp" />
-        <option value="$PROJECT_DIR$/InsertionSortPart-1.cpp" />
-        <option value="$PROJECT_DIR$/InsertionSortPart-2.cpp" />
-        <option value="$PROJECT_DIR$/Correctness and the Loop Invariant.cpp" />
-        <option value="$PROJECT_DIR$/Running Time of Algorithms.cpp" />
-        <option value="$PROJECT_DIR$/Counting Sort 1.cpp" />
-        <option value="$PROJECT_DIR$/Counting Sort 2.cpp" />
-        <option value="$PROJECT_DIR$/ClosestNumbers.cpp" />
-        <option value="$PROJECT_DIR$/Find the Median.cpp" />
-        <option value="$PROJECT_DIR$/Making Anagrams.cpp" />
-        <option value="$PROJECT_DIR$/Mark and Toys.cpp" />
-        <option value="$PROJECT_DIR$/Maximizing XOR.cpp" />
-        <option value="$PROJECT_DIR$/Queen'sAttackII.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/TimeinWords.cpp" />
-        <option value="$PROJECT_DIR$/FindTheRunningMedian.py" />
-        <option value="$PROJECT_DIR$/SheldonandValidString.cpp" />
-        <option value="$PROJECT_DIR$/MaxMin.cpp" />
-        <option value="$PROJECT_DIR$/AndProduct.cpp" />
-        <option value="$PROJECT_DIR$/QuerieswithFixedLength.cpp" />
-        <option value="$PROJECT_DIR$/LittleMonkandWilliamson.cpp" />
-        <option value="$PROJECT_DIR$/MonkandtheMagicalCandyBags.cpp" />
-        <option value="$PROJECT_DIR$/QueensAttackII.cpp" />
-        <option value="$PROJECT_DIR$/CommonChild.cpp" />
-        <option value="$PROJECT_DIR$/QueenAttackIIAlternate.cpp" />
-      </list>
-    </option>
-  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="XISsykyM" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
+  <component name="ProjectId" id="1OalYTPRfrd6XRwF9INVBWbsDDL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AveoRenzhio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AveoRenzhio" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -241,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.QueenAttackIIAlternate">
+  <component name="RunManager" selected="CMake Application.ExtraLongFactorials">
     <configuration name="2DArrays" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="2DArrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="2DArrays">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -348,6 +435,11 @@
       </method>
     </configuration>
     <configuration name="Encryption" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="Encryption" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="Encryption">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtraLongFactorials" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="ExtraLongFactorials" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="ExtraLongFactorials">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -673,6 +765,7 @@
       <item itemvalue="CMake Application.Deque-STL-Alternate" />
       <item itemvalue="CMake Application.DequeSTL" />
       <item itemvalue="CMake Application.Encryption" />
+      <item itemvalue="CMake Application.ExtraLongFactorials" />
       <item itemvalue="CMake Application.FibonacciModified" />
       <item itemvalue="CMake Application.FindTheRunningMedianAlternate" />
       <item itemvalue="CMake Application.FindTheRunningMedianOptimized" />
@@ -694,6 +787,7 @@
       <item itemvalue="CMake Application.LittleMonkandStevieSmith" />
       <item itemvalue="CMake Application.LittleMonkandVirat" />
       <item itemvalue="CMake Application.LittleMonkandWilliamson" />
+      <item itemvalue="CMake Application.QueenAttackIIAlternate" />
       <item itemvalue="CMake Application.QueensAttackII" />
       <item itemvalue="CMake Application.RookMovement" />
       <item itemvalue="CMake Application.Set5Problem1TheGoldenCrown" />
@@ -720,7 +814,6 @@
       <item itemvalue="CMake Application.heapsortingusingmaxheapifycormen" />
       <item itemvalue="CMake Application.heapsortingusingminheapifycormen" />
       <item itemvalue="CMake Application.magicsquareforming" />
-      <item itemvalue="CMake Application.QueenAttackIIAlternate" />
       <item itemvalue="CMake Application.simpletexteditorusingvectors" />
       <item itemvalue="CMake Application.strangecode" />
       <item itemvalue="CMake Application.stringstream" />
@@ -767,75 +860,29 @@
       <workItem from="1563007978439" duration="2173000" />
       <workItem from="1563084142382" duration="1252000" />
       <workItem from="1563095867748" duration="5544000" />
+      <workItem from="1563378787623" duration="2054000" />
+      <workItem from="1563461245889" duration="3086000" />
+      <workItem from="1563623264223" duration="23000" />
+      <workItem from="1563623364430" duration="952000" />
+      <workItem from="1563941342754" duration="652000" />
+      <workItem from="1563942185125" duration="154000" />
+      <workItem from="1564223648393" duration="2552000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86638000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.20670392" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50162864" side_tool="true" weight="0.20031923" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36482084" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40716612" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4090909" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="CMake" order="11" weight="0.32736155" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
-      <window_info anchor="bottom" id="Profiler" order="13" weight="0.40065145" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32960895" />
-      <window_info anchor="right" id="Cargo" order="4" weight="0.32960895" />
-      <window_info anchor="right" id="R Graphics" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" />
-      <window_info anchor="right" id="SciView" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18435754" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36482084" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40716612" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4090909" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="CMake" order="11" weight="0.32736155" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
-      <window_info anchor="bottom" id="Profiler" order="13" weight="0.40065145" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Cargo" order="4" weight="0.32960895" />
-      <window_info anchor="right" id="R Graphics" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" />
-      <window_info anchor="right" id="SciView" order="7" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -860,7 +907,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/CommonChild.cpp</url>
-          <line>23</line>
+          <line>22</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
@@ -870,457 +917,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FraudulentActivityNotifications.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2573">
-          <caret line="83" selection-start-line="83" selection-end-line="113" selection-end-column="22" />
-          <folding>
-            <element signature="e#51#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FraudulentActivityNotificationsOptimized.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="116" column="20" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JesseandCookies.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-          <folding>
-            <element signature="e#50#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JimandtheSkyscrapers.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding>
-            <element signature="e#64#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RecursiveDigitSum.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#43#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SparseArrays.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="e#64#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QueueUsingTwoStacks.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#43#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contacts.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NewYearChaos.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PoisnousPlants.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1240">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#43#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PoisnousPlantsAlternate.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1488">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-          <folding>
-            <element signature="e#43#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KindergartenAdventures.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="776">
-          <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
-          <folding>
-            <element signature="e#64#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MrXandhisShots.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding>
-            <element signature="e#64#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtraLongFactorials.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FibonacciModified.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <element signature="e#43#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleArraySum.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GameOfTwoStacks.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-          <folding>
-            <element signature="e#66#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SolveMeFirst.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#43#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CompareTheTriplets.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AVeryBigSum.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#64#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DiagonalDifference.h" />
-    <entry file="file://$PROJECT_DIR$/DiagonalDifference.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1519">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-          <folding>
-            <element signature="e#64#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InsertionSortPart-1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1364">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InsertionSortPart-2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1519">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Correctness and the Loop Invariant.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1119">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Running Time of Algorithms.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Counting Sort 1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClosestNumbers.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#64#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Counting Sort 2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="e#64#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mark and Toys.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3317">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Making Anagrams.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1488">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#94#118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Find the Median.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="e#64#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Maximizing XOR.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#94#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/heapsortingusingminheapifycormen.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-620">
-          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="e#51#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydevd_bundle/pydevd_breakpoints.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="103" column="46" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Set5Problem1TheGoldenCrown.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1501">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#51#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TimeinWords.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2015">
-          <caret line="65" column="22" lean-forward="true" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindTheRunningMedian.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindTheRunningMedianOptimized.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="100" column="17" lean-forward="true" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindTheRunningMedian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="962">
-          <caret line="109" column="16" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaxMin.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XOR-sequence.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-309">
-          <folding>
-            <element signature="e#50#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QuerieswithFixedLength.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="e#65#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SheldonandValidString.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ANDProduct.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
-          <folding>
-            <element signature="e#51#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LittleMonkandWilliamson.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="235" column="13" lean-forward="true" selection-start-line="235" selection-start-column="13" selection-end-line="235" selection-end-column="13" />
-          <folding>
-            <element signature="e#51#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MonkandtheMagicalCandyBags.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1953">
-          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" column="1270" selection-start-line="7" selection-start-column="1270" selection-end-line="7" selection-end-column="1270" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CommonChild.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#44#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QueensAttackII.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="16" column="5" lean-forward="true" selection-end-line="115" />
-          <folding>
-            <element signature="e#60#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QueenAttackIIAlternate.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="e#60#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

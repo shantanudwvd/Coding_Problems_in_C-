@@ -1,9 +1,9 @@
 //
 // Created by Shantanu Dwivedi on 1/30/2019.
 //
-using namespace std;
 #include <iostream>
 #include <bits/stdc++.h>
+using namespace std;
 int main()
 {
     deque<int> deq;

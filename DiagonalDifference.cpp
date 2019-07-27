@@ -1,11 +1,10 @@
 //
 // Created by aveorenzhio on 2/7/19.
 //
-using namespace std;
 #include<algorithm>
 #include <iostream>
-#include <vector>
 #include<cmath>
+using namespace std;
 int main()
 {
     int arr[100][100];

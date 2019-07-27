@@ -1,11 +1,8 @@
 //
 // Created by Shantanu Dwivedi on 5/29/2019.
 //
-#include <cmath>
-#include <cstdio>
 #include <vector>
 #include <iostream>
-#include <algorithm>
 using namespace std;
 vector<int> v;
 int f1(vector<long long int> &a,int n)

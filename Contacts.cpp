@@ -2,8 +2,6 @@
 // Created by aveorenzhio on 2/7/19.
 //
 #include <iostream>
-#include <cmath>
-#include <cstring>
 using namespace std;
 int length=0;
 void increase_value(string str[], int i, string val)

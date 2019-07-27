@@ -2,7 +2,6 @@
 // Created by Shantanu Dwivedi on 3/3/2019.
 //
 #include <iostream>
-#include <deque>
 using namespace std;
 void printKMax(const int arr[], int n, int k)
 {

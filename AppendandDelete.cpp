@@ -3,9 +3,6 @@
 //
 #include<iostream>
 #include<vector>
-#include<cmath>
-#include<algorithm>
-#include<cstring>
 using namespace std;
 int main()
 {

@@ -1,10 +1,10 @@
 //
 // Created by aveorenzhio on 2/7/19.
 //
-#include<iostream>
-#include<cmath>
-#include<vector>
-#include<cstring>
+#include <iostream>
+#include <cmath>
+#include <vector>
+#include <cstring>
 using namespace std;
 int main()
 {

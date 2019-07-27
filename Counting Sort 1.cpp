@@ -1,8 +1,8 @@
 //
 // Created by aveorenzhio on 2/7/19.
 //
-using namespace std;
 #include<iostream>
+using namespace std;
 int main()
 {
     int n;
