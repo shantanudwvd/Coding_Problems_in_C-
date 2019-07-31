@@ -2,80 +2,80 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="AveoRenzhio" targetName="TwoCharacters" />
-      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
-      <config projectName="AveoRenzhio" targetName="XOR-sequence" />
-      <config projectName="AveoRenzhio" targetName="ExtraLongFactorials" />
-      <config projectName="AveoRenzhio" targetName="Contacts" />
-      <config projectName="AveoRenzhio" targetName="AlternatingCharacters" />
-      <config projectName="AveoRenzhio" targetName="StrongPassword" />
-      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
-      <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
-      <config projectName="AveoRenzhio" targetName="IntegerTypes" />
-      <config projectName="AveoRenzhio" targetName="stringstream" />
-      <config projectName="AveoRenzhio" targetName="LarryArray" />
-      <config projectName="AveoRenzhio" targetName="AngryProfessor" />
-      <config projectName="AveoRenzhio" targetName="DequeSTL" />
-      <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
-      <config projectName="AveoRenzhio" targetName="AndProduct" />
-      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
-      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
-      <config projectName="AveoRenzhio" targetName="TaumAndBday" />
-      <config projectName="AveoRenzhio" targetName="Encryption" />
-      <config projectName="AveoRenzhio" targetName="fairrations" />
-      <config projectName="AveoRenzhio" targetName="flatlandspacestations" />
-      <config projectName="AveoRenzhio" targetName="magicsquareforming" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
-      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
-      <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
-      <config projectName="AveoRenzhio" targetName="Anagrams" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
-      <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
-      <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
-      <config projectName="AveoRenzhio" targetName="Thoughts2BinarySampleProblem1" />
-      <config projectName="AveoRenzhio" targetName="TheBombermanGame" />
       <config projectName="AveoRenzhio" targetName="CuttheSticks" />
-      <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
-      <config projectName="AveoRenzhio" targetName="2DArrays" />
-      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
-      <config projectName="AveoRenzhio" targetName="LilyHomeworkAlternate" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
-      <config projectName="AveoRenzhio" targetName="strangecode" />
-      <config projectName="AveoRenzhio" targetName="TimeinWords" />
-      <config projectName="AveoRenzhio" targetName="AlmostSorted" />
-      <config projectName="AveoRenzhio" targetName="LilysHomework" />
-      <config projectName="AveoRenzhio" targetName="UtopianTree" />
-      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
-      <config projectName="AveoRenzhio" targetName="simpletexteditorusingvectors" />
-      <config projectName="AveoRenzhio" targetName="SheldonandValidString" />
-      <config projectName="AveoRenzhio" targetName="SherlockandArray" />
-      <config projectName="AveoRenzhio" targetName="GameofThrones" />
-      <config projectName="AveoRenzhio" targetName="ClimbingTheLeaderboard" />
-      <config projectName="AveoRenzhio" targetName="funnystring" />
-      <config projectName="AveoRenzhio" targetName="QueenAttackIIAlternate" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandStevieSmith" />
-      <config projectName="AveoRenzhio" targetName="TwoStrings" />
-      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifications" />
-      <config projectName="AveoRenzhio" targetName="FibonacciModified" />
-      <config projectName="AveoRenzhio" targetName="QueensAttackII" />
-      <config projectName="AveoRenzhio" targetName="GamingArray" />
-      <config projectName="AveoRenzhio" targetName="JumpingontheCloudsRevisited" />
-      <config projectName="AveoRenzhio" targetName="betweeentwosets" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandWilliamson" />
+      <config projectName="AveoRenzhio" targetName="LarryArray" />
+      <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
       <config projectName="AveoRenzhio" targetName="CalvinsGame" />
-      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
-      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
-      <config projectName="AveoRenzhio" targetName="BeautifulTriplets" />
       <config projectName="AveoRenzhio" targetName="Waiter" />
-      <config projectName="AveoRenzhio" targetName="halloweensale" />
+      <config projectName="AveoRenzhio" targetName="Contacts" />
+      <config projectName="AveoRenzhio" targetName="Thoughts2BinarySampleProblem1" />
+      <config projectName="AveoRenzhio" targetName="TwoStrings" />
+      <config projectName="AveoRenzhio" targetName="FibonacciModified" />
+      <config projectName="AveoRenzhio" targetName="AlmostSorted" />
+      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
+      <config projectName="AveoRenzhio" targetName="stringstream" />
+      <config projectName="AveoRenzhio" targetName="BeautifulTriplets" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandVirat" />
-      <config projectName="AveoRenzhio" targetName="RookMovement" />
+      <config projectName="AveoRenzhio" targetName="StrongPassword" />
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedianAlternate" />
-      <config projectName="AveoRenzhio" targetName="AppendandDelete" />
-      <config projectName="AveoRenzhio" targetName="SherlockandSquares" />
-      <config projectName="AveoRenzhio" targetName="FindTheRunningMedian" />
-      <config projectName="AveoRenzhio" targetName="dictionariesandmaps" />
+      <config projectName="AveoRenzhio" targetName="QueenAttackIIAlternate" />
       <config projectName="AveoRenzhio" targetName="CommonChild" />
+      <config projectName="AveoRenzhio" targetName="simpletexteditorusingvectors" />
+      <config projectName="AveoRenzhio" targetName="ExtraLongFactorials" />
+      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
+      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
+      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
+      <config projectName="AveoRenzhio" targetName="LilysHomework" />
+      <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
+      <config projectName="AveoRenzhio" targetName="AngryProfessor" />
+      <config projectName="AveoRenzhio" targetName="UtopianTree" />
+      <config projectName="AveoRenzhio" targetName="GameofThrones" />
+      <config projectName="AveoRenzhio" targetName="DequeSTL" />
+      <config projectName="AveoRenzhio" targetName="TwoCharacters" />
+      <config projectName="AveoRenzhio" targetName="halloweensale" />
+      <config projectName="AveoRenzhio" targetName="XOR-sequence" />
+      <config projectName="AveoRenzhio" targetName="TimeinWords" />
+      <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
+      <config projectName="AveoRenzhio" targetName="flatlandspacestations" />
+      <config projectName="AveoRenzhio" targetName="strangecode" />
+      <config projectName="AveoRenzhio" targetName="betweeentwosets" />
+      <config projectName="AveoRenzhio" targetName="Anagrams" />
+      <config projectName="AveoRenzhio" targetName="GamingArray" />
+      <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
+      <config projectName="AveoRenzhio" targetName="RookMovement" />
+      <config projectName="AveoRenzhio" targetName="QueensAttackII" />
+      <config projectName="AveoRenzhio" targetName="AppendandDelete" />
+      <config projectName="AveoRenzhio" targetName="2DArrays" />
+      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifications" />
+      <config projectName="AveoRenzhio" targetName="ClimbingTheLeaderboard" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandWilliamson" />
+      <config projectName="AveoRenzhio" targetName="JumpingontheCloudsRevisited" />
+      <config projectName="AveoRenzhio" targetName="AlternatingCharacters" />
+      <config projectName="AveoRenzhio" targetName="SheldonandValidString" />
+      <config projectName="AveoRenzhio" targetName="Encryption" />
+      <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
+      <config projectName="AveoRenzhio" targetName="TheBombermanGame" />
+      <config projectName="AveoRenzhio" targetName="SherlockandArray" />
+      <config projectName="AveoRenzhio" targetName="SherlockandSquares" />
+      <config projectName="AveoRenzhio" targetName="dictionariesandmaps" />
+      <config projectName="AveoRenzhio" targetName="TaumAndBday" />
+      <config projectName="AveoRenzhio" targetName="magicsquareforming" />
+      <config projectName="AveoRenzhio" targetName="FindTheRunningMedian" />
+      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
+      <config projectName="AveoRenzhio" targetName="IntegerTypes" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
+      <config projectName="AveoRenzhio" targetName="LilyHomeworkAlternate" />
+      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
+      <config projectName="AveoRenzhio" targetName="fairrations" />
+      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
+      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
+      <config projectName="AveoRenzhio" targetName="AndProduct" />
+      <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
+      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
+      <config projectName="AveoRenzhio" targetName="funnystring" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -86,7 +86,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3808d112-d453-472a-8139-a6ba367a30e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thoughts2BinarySampleProblem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Thoughts2BinarySampleProblem2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +142,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/PythonHackerrank" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -551,6 +550,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FindTheRunningMedian.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -594,6 +594,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thoughts2BinarySampleProblem2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -628,11 +629,11 @@
       <item itemvalue="CMake Application.Encryption" />
       <item itemvalue="CMake Application.ExtraLongFactorials" />
       <item itemvalue="CMake Application.FibonacciModified" />
+      <item itemvalue="CMake Application.FindTheRunningMedian" />
       <item itemvalue="CMake Application.FindTheRunningMedianAlternate" />
       <item itemvalue="CMake Application.FindTheRunningMedianOptimized" />
-      <item itemvalue="CMake Application.FindTheRunningMedian" />
-      <item itemvalue="CMake Application.FraudulentActivityNotificationsOptimized" />
       <item itemvalue="CMake Application.FraudulentActivityNotifications" />
+      <item itemvalue="CMake Application.FraudulentActivityNotificationsOptimized" />
       <item itemvalue="CMake Application.GameofThrones" />
       <item itemvalue="CMake Application.GameofTwoStacks" />
       <item itemvalue="CMake Application.GamingArray" />
@@ -729,6 +730,8 @@
       <workItem from="1563941342754" duration="652000" />
       <workItem from="1563942185125" duration="154000" />
       <workItem from="1564223648393" duration="3766000" />
+      <workItem from="1564422291667" duration="1002000" />
+      <workItem from="1564507894760" duration="333000" />
     </task>
     <servers />
   </component>
@@ -740,7 +743,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -753,31 +758,5 @@
       <path value="$PROJECT_DIR$/quivers.konect.magento2" />
       <path value="$PROJECT_DIR$/quivers.konect.quivers" />
     </ignored-roots>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/QueensAttackII.cpp</url>
-          <line>70</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/SheldonandValidString.cpp</url>
-          <line>43</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CommonChild.cpp</url>
-          <line>22</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/QueenAttackIIAlternate.cpp</url>
-          <line>14</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
