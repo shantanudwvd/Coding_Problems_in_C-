@@ -102,6 +102,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o"
   "AveoRenzhio.pdb"
   "AveoRenzhio"
 )

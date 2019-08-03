@@ -43,6 +43,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/GameofThrones.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/GameofThrones.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/GameofTwoStacks.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/GameofTwoStacks.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/GamingArray.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/GamingArray.cpp.o"
+  "/home/aveorenzhio/CLionProjects/AveoRenzhio/GnaniAI.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/InsertionSortPart-1.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.o"
   "/home/aveorenzhio/CLionProjects/AveoRenzhio/InsertionSortPart-2.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.o"

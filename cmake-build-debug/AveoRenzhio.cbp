@@ -3594,6 +3594,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="GamingArray"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/GnaniAI.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/AveoRenzhio/HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp">
 			<Option target="HeapSortingUsingMax_HeapifyCormenIndexingwith0"/>
 			<Option target="AveoRenzhio"/>

@@ -1070,7 +1070,7 @@ clean: CMakeFiles/BalancedBrackets.dir/clean
 CMakeFiles/Anagrams.dir/all:
 	$(MAKE) -f CMakeFiles/Anagrams.dir/build.make CMakeFiles/Anagrams.dir/depend
 	$(MAKE) -f CMakeFiles/Anagrams.dir/build.make CMakeFiles/Anagrams.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num= "Built target Anagrams"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=4 "Built target Anagrams"
 .PHONY : CMakeFiles/Anagrams.dir/all
 
 # Include target in all.
@@ -1080,7 +1080,7 @@ all: CMakeFiles/Anagrams.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Anagrams.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Anagrams.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Anagrams.dir/rule
@@ -1329,7 +1329,7 @@ clean: CMakeFiles/CommonChild.dir/clean
 CMakeFiles/ArrayManipulation.dir/all:
 	$(MAKE) -f CMakeFiles/ArrayManipulation.dir/build.make CMakeFiles/ArrayManipulation.dir/depend
 	$(MAKE) -f CMakeFiles/ArrayManipulation.dir/build.make CMakeFiles/ArrayManipulation.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=8 "Built target ArrayManipulation"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num= "Built target ArrayManipulation"
 .PHONY : CMakeFiles/ArrayManipulation.dir/all
 
 # Include target in all.
@@ -1339,7 +1339,7 @@ all: CMakeFiles/ArrayManipulation.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ArrayManipulation.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ArrayManipulation.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/ArrayManipulation.dir/rule
@@ -1366,7 +1366,7 @@ clean: CMakeFiles/ArrayManipulation.dir/clean
 CMakeFiles/AveoRenzhio.dir/all:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/depend
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49 "Built target AveoRenzhio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49 "Built target AveoRenzhio"
 .PHONY : CMakeFiles/AveoRenzhio.dir/all
 
 # Include target in all.
@@ -1376,7 +1376,7 @@ all: CMakeFiles/AveoRenzhio.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AveoRenzhio.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 41
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 42
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/AveoRenzhio.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/AveoRenzhio.dir/rule
@@ -2365,7 +2365,7 @@ clean: CMakeFiles/FindTheRunningMedianOptimized.dir/clean
 CMakeFiles/AlternatingCharacters.dir/all:
 	$(MAKE) -f CMakeFiles/AlternatingCharacters.dir/build.make CMakeFiles/AlternatingCharacters.dir/depend
 	$(MAKE) -f CMakeFiles/AlternatingCharacters.dir/build.make CMakeFiles/AlternatingCharacters.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=4 "Built target AlternatingCharacters"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num= "Built target AlternatingCharacters"
 .PHONY : CMakeFiles/AlternatingCharacters.dir/all
 
 # Include target in all.
@@ -2375,7 +2375,7 @@ all: CMakeFiles/AlternatingCharacters.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AlternatingCharacters.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/AlternatingCharacters.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/AlternatingCharacters.dir/rule

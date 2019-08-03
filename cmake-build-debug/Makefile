@@ -2266,6 +2266,33 @@ GamingArray.cpp.s:
 	$(MAKE) -f CMakeFiles/GamingArray.dir/build.make CMakeFiles/GamingArray.dir/GamingArray.cpp.s
 .PHONY : GamingArray.cpp.s
 
+GnaniAI.o: GnaniAI.cpp.o
+
+.PHONY : GnaniAI.o
+
+# target to build an object file
+GnaniAI.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o
+.PHONY : GnaniAI.cpp.o
+
+GnaniAI.i: GnaniAI.cpp.i
+
+.PHONY : GnaniAI.i
+
+# target to preprocess a source file
+GnaniAI.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.i
+.PHONY : GnaniAI.cpp.i
+
+GnaniAI.s: GnaniAI.cpp.s
+
+.PHONY : GnaniAI.s
+
+# target to generate assembly for a file
+GnaniAI.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.s
+.PHONY : GnaniAI.cpp.s
+
 HeapSortingUsingMax_HeapifyCormenIndexingwith0.o: HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp.o
 
 .PHONY : HeapSortingUsingMax_HeapifyCormenIndexingwith0.o
@@ -4325,6 +4352,9 @@ help:
 	@echo "... GamingArray.o"
 	@echo "... GamingArray.i"
 	@echo "... GamingArray.s"
+	@echo "... GnaniAI.o"
+	@echo "... GnaniAI.i"
+	@echo "... GnaniAI.s"
 	@echo "... HeapSortingUsingMax_HeapifyCormenIndexingwith0.o"
 	@echo "... HeapSortingUsingMax_HeapifyCormenIndexingwith0.i"
 	@echo "... HeapSortingUsingMax_HeapifyCormenIndexingwith0.s"
