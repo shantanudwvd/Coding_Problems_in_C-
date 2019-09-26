@@ -21,8 +21,7 @@ int main()
                 steps += sqrt((rq-ro)^2 + (cq-co)^2);
                 break;
             } else {
-                i += 1;
-                j += 1;
+                i += 1; j += 1;
             }
         }
         i = rq; j = cq;
@@ -32,8 +31,7 @@ int main()
                 steps += sqrt((rq-ro)^2 + (cq-co)^2);
                 break;
             } else {
-                i -= 1;
-                j -= 1;
+                i -= 1; j -= 1;
             }
         }
         i = rq; j = cq;
@@ -43,8 +41,7 @@ int main()
                 steps += sqrt((rq-ro)^2 + (cq-co)^2);
                 break;
             } else {
-                i -= 1;
-                j += 1;
+                i -= 1; j += 1;
             }
         }
         i = rq, j = cq;
@@ -54,8 +51,7 @@ int main()
                 steps += sqrt((rq-ro)^2 + (cq-co)^2);
                 break;
             } else {
-                i += 1;
-                j -= 1;
+                i += 1; j -= 1;
             }
         }
         i = rq; j = cq;

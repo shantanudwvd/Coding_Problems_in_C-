@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/81/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/73/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/81/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/73/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/snap/clion/81/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/snap/clion/73/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/snap/clion/81/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/snap/clion/73/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -109,19 +109,6 @@ preinstall/fast:
 depend:
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
-
-#=============================================================================
-# Target rules for targets named ExtraLongFactorials
-
-# Build rule for target.
-ExtraLongFactorials: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 ExtraLongFactorials
-.PHONY : ExtraLongFactorials
-
-# fast build rule for target.
-ExtraLongFactorials/fast:
-	$(MAKE) -f CMakeFiles/ExtraLongFactorials.dir/build.make CMakeFiles/ExtraLongFactorials.dir/build
-.PHONY : ExtraLongFactorials/fast
 
 #=============================================================================
 # Target rules for targets named SheldonandValidString
@@ -564,6 +551,19 @@ ArrayManipulation: cmake_check_build_system
 ArrayManipulation/fast:
 	$(MAKE) -f CMakeFiles/ArrayManipulation.dir/build.make CMakeFiles/ArrayManipulation.dir/build
 .PHONY : ArrayManipulation/fast
+
+#=============================================================================
+# Target rules for targets named MinimumSwaps2Alternate
+
+# Build rule for target.
+MinimumSwaps2Alternate: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 MinimumSwaps2Alternate
+.PHONY : MinimumSwaps2Alternate
+
+# fast build rule for target.
+MinimumSwaps2Alternate/fast:
+	$(MAKE) -f CMakeFiles/MinimumSwaps2Alternate.dir/build.make CMakeFiles/MinimumSwaps2Alternate.dir/build
+.PHONY : MinimumSwaps2Alternate/fast
 
 #=============================================================================
 # Target rules for targets named AveoRenzhio
@@ -1218,6 +1218,33 @@ AVeryBigSum.s: AVeryBigSum.cpp.s
 AVeryBigSum.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.s
 .PHONY : AVeryBigSum.cpp.s
+
+Abbreviation.o: Abbreviation.cpp.o
+
+.PHONY : Abbreviation.o
+
+# target to build an object file
+Abbreviation.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o
+.PHONY : Abbreviation.cpp.o
+
+Abbreviation.i: Abbreviation.cpp.i
+
+.PHONY : Abbreviation.i
+
+# target to preprocess a source file
+Abbreviation.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.i
+.PHONY : Abbreviation.cpp.i
+
+Abbreviation.s: Abbreviation.cpp.s
+
+.PHONY : Abbreviation.s
+
+# target to generate assembly for a file
+Abbreviation.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.s
+.PHONY : Abbreviation.cpp.s
 
 AlmostSorted.o: AlmostSorted.cpp.o
 
@@ -1894,7 +1921,6 @@ ExtraLongFactorials.o: ExtraLongFactorials.cpp.o
 
 # target to build an object file
 ExtraLongFactorials.cpp.o:
-	$(MAKE) -f CMakeFiles/ExtraLongFactorials.dir/build.make CMakeFiles/ExtraLongFactorials.dir/ExtraLongFactorials.cpp.o
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.o
 .PHONY : ExtraLongFactorials.cpp.o
 
@@ -1904,7 +1930,6 @@ ExtraLongFactorials.i: ExtraLongFactorials.cpp.i
 
 # target to preprocess a source file
 ExtraLongFactorials.cpp.i:
-	$(MAKE) -f CMakeFiles/ExtraLongFactorials.dir/build.make CMakeFiles/ExtraLongFactorials.dir/ExtraLongFactorials.cpp.i
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.i
 .PHONY : ExtraLongFactorials.cpp.i
 
@@ -1914,7 +1939,6 @@ ExtraLongFactorials.s: ExtraLongFactorials.cpp.s
 
 # target to generate assembly for a file
 ExtraLongFactorials.cpp.s:
-	$(MAKE) -f CMakeFiles/ExtraLongFactorials.dir/build.make CMakeFiles/ExtraLongFactorials.dir/ExtraLongFactorials.cpp.s
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.s
 .PHONY : ExtraLongFactorials.cpp.s
 
@@ -2265,33 +2289,6 @@ GamingArray.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/GamingArray.cpp.s
 	$(MAKE) -f CMakeFiles/GamingArray.dir/build.make CMakeFiles/GamingArray.dir/GamingArray.cpp.s
 .PHONY : GamingArray.cpp.s
-
-GnaniAI.o: GnaniAI.cpp.o
-
-.PHONY : GnaniAI.o
-
-# target to build an object file
-GnaniAI.cpp.o:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o
-.PHONY : GnaniAI.cpp.o
-
-GnaniAI.i: GnaniAI.cpp.i
-
-.PHONY : GnaniAI.i
-
-# target to preprocess a source file
-GnaniAI.cpp.i:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.i
-.PHONY : GnaniAI.cpp.i
-
-GnaniAI.s: GnaniAI.cpp.s
-
-.PHONY : GnaniAI.s
-
-# target to generate assembly for a file
-GnaniAI.cpp.s:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.s
-.PHONY : GnaniAI.cpp.s
 
 HeapSortingUsingMax_HeapifyCormenIndexingwith0.o: HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp.o
 
@@ -2869,32 +2866,62 @@ Maximizing_XOR.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.s
 .PHONY : Maximizing_XOR.cpp.s
 
-Maximum_Element.o: Maximum_Element.cpp.o
+MinimumSwaps2.o: MinimumSwaps2.cpp.o
 
-.PHONY : Maximum_Element.o
+.PHONY : MinimumSwaps2.o
 
 # target to build an object file
-Maximum_Element.cpp.o:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.o
-.PHONY : Maximum_Element.cpp.o
+MinimumSwaps2.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o
+.PHONY : MinimumSwaps2.cpp.o
 
-Maximum_Element.i: Maximum_Element.cpp.i
+MinimumSwaps2.i: MinimumSwaps2.cpp.i
 
-.PHONY : Maximum_Element.i
+.PHONY : MinimumSwaps2.i
 
 # target to preprocess a source file
-Maximum_Element.cpp.i:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.i
-.PHONY : Maximum_Element.cpp.i
+MinimumSwaps2.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.i
+.PHONY : MinimumSwaps2.cpp.i
 
-Maximum_Element.s: Maximum_Element.cpp.s
+MinimumSwaps2.s: MinimumSwaps2.cpp.s
 
-.PHONY : Maximum_Element.s
+.PHONY : MinimumSwaps2.s
 
 # target to generate assembly for a file
-Maximum_Element.cpp.s:
-	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.s
-.PHONY : Maximum_Element.cpp.s
+MinimumSwaps2.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.s
+.PHONY : MinimumSwaps2.cpp.s
+
+MinimumSwaps2Alternate.o: MinimumSwaps2Alternate.cpp.o
+
+.PHONY : MinimumSwaps2Alternate.o
+
+# target to build an object file
+MinimumSwaps2Alternate.cpp.o:
+	$(MAKE) -f CMakeFiles/MinimumSwaps2Alternate.dir/build.make CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.o
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o
+.PHONY : MinimumSwaps2Alternate.cpp.o
+
+MinimumSwaps2Alternate.i: MinimumSwaps2Alternate.cpp.i
+
+.PHONY : MinimumSwaps2Alternate.i
+
+# target to preprocess a source file
+MinimumSwaps2Alternate.cpp.i:
+	$(MAKE) -f CMakeFiles/MinimumSwaps2Alternate.dir/build.make CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.i
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.i
+.PHONY : MinimumSwaps2Alternate.cpp.i
+
+MinimumSwaps2Alternate.s: MinimumSwaps2Alternate.cpp.s
+
+.PHONY : MinimumSwaps2Alternate.s
+
+# target to generate assembly for a file
+MinimumSwaps2Alternate.cpp.s:
+	$(MAKE) -f CMakeFiles/MinimumSwaps2Alternate.dir/build.make CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.s
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.s
+.PHONY : MinimumSwaps2Alternate.cpp.s
 
 MonkandtheMagicalCandyBags.o: MonkandtheMagicalCandyBags.cpp.o
 
@@ -4153,7 +4180,6 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... ExtraLongFactorials"
 	@echo "... SheldonandValidString"
 	@echo "... Contacts"
 	@echo "... FibonacciModified"
@@ -4189,6 +4215,7 @@ help:
 	@echo "... Thoughts2BinarySampleProblem1"
 	@echo "... CommonChild"
 	@echo "... ArrayManipulation"
+	@echo "... MinimumSwaps2Alternate"
 	@echo "... AveoRenzhio"
 	@echo "... CuttheSticks"
 	@echo "... AngryProfessor"
@@ -4244,6 +4271,9 @@ help:
 	@echo "... AVeryBigSum.o"
 	@echo "... AVeryBigSum.i"
 	@echo "... AVeryBigSum.s"
+	@echo "... Abbreviation.o"
+	@echo "... Abbreviation.i"
+	@echo "... Abbreviation.s"
 	@echo "... AlmostSorted.o"
 	@echo "... AlmostSorted.i"
 	@echo "... AlmostSorted.s"
@@ -4352,9 +4382,6 @@ help:
 	@echo "... GamingArray.o"
 	@echo "... GamingArray.i"
 	@echo "... GamingArray.s"
-	@echo "... GnaniAI.o"
-	@echo "... GnaniAI.i"
-	@echo "... GnaniAI.s"
 	@echo "... HeapSortingUsingMax_HeapifyCormenIndexingwith0.o"
 	@echo "... HeapSortingUsingMax_HeapifyCormenIndexingwith0.i"
 	@echo "... HeapSortingUsingMax_HeapifyCormenIndexingwith0.s"
@@ -4415,9 +4442,12 @@ help:
 	@echo "... Maximizing_XOR.o"
 	@echo "... Maximizing_XOR.i"
 	@echo "... Maximizing_XOR.s"
-	@echo "... Maximum_Element.o"
-	@echo "... Maximum_Element.i"
-	@echo "... Maximum_Element.s"
+	@echo "... MinimumSwaps2.o"
+	@echo "... MinimumSwaps2.i"
+	@echo "... MinimumSwaps2.s"
+	@echo "... MinimumSwaps2Alternate.o"
+	@echo "... MinimumSwaps2Alternate.i"
+	@echo "... MinimumSwaps2Alternate.s"
 	@echo "... MonkandtheMagicalCandyBags.o"
 	@echo "... MonkandtheMagicalCandyBags.i"
 	@echo "... MonkandtheMagicalCandyBags.s"

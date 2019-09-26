@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/81/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/73/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/81/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/73/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -1383,31 +1383,44 @@ CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/CommonChild.cpp -o CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.s
 
-CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
-CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.o: ../Maximum_Element.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/Maximum_Element.cpp
+CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o: ../Abbreviation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/Abbreviation.cpp
 
-CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/Maximum_Element.cpp > CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.i
+CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/Abbreviation.cpp > CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.i
 
-CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/Maximum_Element.cpp -o CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.s
+CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/Abbreviation.cpp -o CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.s
 
-CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
-CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o: ../GnaniAI.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/GnaniAI.cpp
+CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o: ../MinimumSwaps2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/MinimumSwaps2.cpp
 
-CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/GnaniAI.cpp > CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.i
+CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/MinimumSwaps2.cpp > CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.i
 
-CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/GnaniAI.cpp -o CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.s
+CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/MinimumSwaps2.cpp -o CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o: ../MinimumSwaps2Alternate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/MinimumSwaps2Alternate.cpp
+
+CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/MinimumSwaps2Alternate.cpp > CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/MinimumSwaps2Alternate.cpp -o CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.s
 
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
@@ -1513,8 +1526,9 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o"
+"CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -1621,11 +1635,12 @@ AveoRenzhio: CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.o
-AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Maximum_Element.cpp.o
-AveoRenzhio: CMakeFiles/AveoRenzhio.dir/GnaniAI.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Linking CXX executable AveoRenzhio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Linking CXX executable AveoRenzhio"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AveoRenzhio.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
