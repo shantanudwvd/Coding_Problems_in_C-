@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/aveorenzhio/CLionProjects/AveoRenzhio/XOR-sequence.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/XOR-sequence.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

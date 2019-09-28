@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/aveorenzhio/CLionProjects/AveoRenzhio/BeautifulTriplets.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/BeautifulTriplets.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

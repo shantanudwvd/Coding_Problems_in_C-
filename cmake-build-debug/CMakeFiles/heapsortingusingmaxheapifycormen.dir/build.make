@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/81/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/83/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/81/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/83/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aveorenzhio/CLionProjects/AveoRenzhio
+CMAKE_SOURCE_DIR = /home/shantanu/CLionProjects/Coding_Problems_in_C-
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug
+CMAKE_BINARY_DIR = /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/heapsortingusingmaxheapifycormen.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/heapsortingusingmaxheapifycormen.dir/flags.make
 
 CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.o: CMakeFiles/heapsortingusingmaxheapifycormen.dir/flags.make
 CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.o: ../heapsortingusingmaxheapifycormen.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.o -c /home/aveorenzhio/CLionProjects/AveoRenzhio/heapsortingusingmaxheapifycormen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/heapsortingusingmaxheapifycormen.cpp
 
 CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/AveoRenzhio/heapsortingusingmaxheapifycormen.cpp > CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/heapsortingusingmaxheapifycormen.cpp > CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.i
 
 CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/AveoRenzhio/heapsortingusingmaxheapifycormen.cpp -o CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/heapsortingusingmaxheapifycormen.cpp -o CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.s
 
 # Object files for target heapsortingusingmaxheapifycormen
 heapsortingusingmaxheapifycormen_OBJECTS = \
@@ -80,7 +80,7 @@ heapsortingusingmaxheapifycormen_EXTERNAL_OBJECTS =
 heapsortingusingmaxheapifycormen: CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.o
 heapsortingusingmaxheapifycormen: CMakeFiles/heapsortingusingmaxheapifycormen.dir/build.make
 heapsortingusingmaxheapifycormen: CMakeFiles/heapsortingusingmaxheapifycormen.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable heapsortingusingmaxheapifycormen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable heapsortingusingmaxheapifycormen"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/heapsortingusingmaxheapifycormen.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/heapsortingusingmaxheapifycormen.dir/clean:
 .PHONY : CMakeFiles/heapsortingusingmaxheapifycormen.dir/clean
 
 CMakeFiles/heapsortingusingmaxheapifycormen.dir/depend:
-	cd /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aveorenzhio/CLionProjects/AveoRenzhio /home/aveorenzhio/CLionProjects/AveoRenzhio /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug /home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/shantanu/CLionProjects/Coding_Problems_in_C- /home/shantanu/CLionProjects/Coding_Problems_in_C- /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/heapsortingusingmaxheapifycormen.dir/depend
 

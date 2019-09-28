@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/aveorenzhio/CLionProjects/AveoRenzhio/stringstream.cpp" "/home/aveorenzhio/CLionProjects/AveoRenzhio/cmake-build-debug/CMakeFiles/stringstream.dir/stringstream.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/stringstream.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/stringstream.dir/stringstream.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
