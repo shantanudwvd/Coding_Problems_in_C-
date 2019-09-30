@@ -105,6 +105,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/ways_to_form_a_max_heap.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.o"
   "AveoRenzhio.pdb"
   "AveoRenzhio"
 )

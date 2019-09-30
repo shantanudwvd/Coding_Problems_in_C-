@@ -3798,6 +3798,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="fairrations"/>
 		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/find_the_duplicate_in_array.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/flatlandspacestations.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="flatlandspacestations"/>
