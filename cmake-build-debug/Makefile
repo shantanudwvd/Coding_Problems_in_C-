@@ -4174,6 +4174,33 @@ stringstream.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/stringstream.cpp.s
 .PHONY : stringstream.cpp.s
 
+ways_to_form_a_max_heap.o: ways_to_form_a_max_heap.cpp.o
+
+.PHONY : ways_to_form_a_max_heap.o
+
+# target to build an object file
+ways_to_form_a_max_heap.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ways_to_form_a_max_heap.cpp.o
+.PHONY : ways_to_form_a_max_heap.cpp.o
+
+ways_to_form_a_max_heap.i: ways_to_form_a_max_heap.cpp.i
+
+.PHONY : ways_to_form_a_max_heap.i
+
+# target to preprocess a source file
+ways_to_form_a_max_heap.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ways_to_form_a_max_heap.cpp.i
+.PHONY : ways_to_form_a_max_heap.cpp.i
+
+ways_to_form_a_max_heap.s: ways_to_form_a_max_heap.cpp.s
+
+.PHONY : ways_to_form_a_max_heap.s
+
+# target to generate assembly for a file
+ways_to_form_a_max_heap.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ways_to_form_a_max_heap.cpp.s
+.PHONY : ways_to_form_a_max_heap.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -4577,6 +4604,9 @@ help:
 	@echo "... stringstream.o"
 	@echo "... stringstream.i"
 	@echo "... stringstream.s"
+	@echo "... ways_to_form_a_max_heap.o"
+	@echo "... ways_to_form_a_max_heap.i"
+	@echo "... ways_to_form_a_max_heap.s"
 .PHONY : help
 
 

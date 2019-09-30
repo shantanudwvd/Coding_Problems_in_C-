@@ -109,6 +109,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/simpletexteditorusingvectors.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/simpletexteditorusingvectors.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/strangecode.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/strangecode.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/stringstream.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/stringstream.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/ways_to_form_a max_heap.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/ways_to_form_a_max_heap.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
