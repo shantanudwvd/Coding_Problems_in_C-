@@ -22,7 +22,7 @@ int main()
     {
         if(unsort.at(i)==deq.at(i))
         {
-            
+
         }
     }
 }
