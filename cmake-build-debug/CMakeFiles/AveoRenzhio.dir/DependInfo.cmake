@@ -97,6 +97,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/Waiter.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Waiter.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/XOR-sequence.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/XOR-sequence.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/betweeentwosets.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/betweeentwosets.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/data_types.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/data_types.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/dictionariesandmaps.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/dictionariesandmaps.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/fairrations.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/fairrations.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/find_the_duplicate_in_array.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.o"
@@ -107,9 +108,12 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/heapsortingusingminheapifycormen.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/heapsortingusingminheapifycormen.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/magicsquareforming.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/magicsquareforming.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/main.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/main.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/merge_intervals.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/shortest_unsorted_continous_subarray.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/simpletexteditorusingvectors.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/simpletexteditorusingvectors.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/strangecode.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/strangecode.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/stringstream.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/stringstream.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/the_love_letter_mystery.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o"
   "/home/shantanu/CLionProjects/Coding_Problems_in_C-/ways_to_form_a max_heap.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/ways_to_form_a_max_heap.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

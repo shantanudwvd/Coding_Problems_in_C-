@@ -111,6 +111,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named shortest_unsorted_continous_subarray
+
+# Build rule for target.
+shortest_unsorted_continous_subarray: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 shortest_unsorted_continous_subarray
+.PHONY : shortest_unsorted_continous_subarray
+
+# fast build rule for target.
+shortest_unsorted_continous_subarray/fast:
+	$(MAKE) -f CMakeFiles/shortest_unsorted_continous_subarray.dir/build.make CMakeFiles/shortest_unsorted_continous_subarray.dir/build
+.PHONY : shortest_unsorted_continous_subarray/fast
+
+#=============================================================================
+# Target rules for targets named the_love_letter_mystery
+
+# Build rule for target.
+the_love_letter_mystery: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 the_love_letter_mystery
+.PHONY : the_love_letter_mystery
+
+# fast build rule for target.
+the_love_letter_mystery/fast:
+	$(MAKE) -f CMakeFiles/the_love_letter_mystery.dir/build.make CMakeFiles/the_love_letter_mystery.dir/build
+.PHONY : the_love_letter_mystery/fast
+
+#=============================================================================
 # Target rules for targets named SheldonandValidString
 
 # Build rule for target.
@@ -3817,6 +3843,33 @@ betweeentwosets.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/betweeentwosets.cpp.s
 .PHONY : betweeentwosets.cpp.s
 
+data_types.o: data_types.cpp.o
+
+.PHONY : data_types.o
+
+# target to build an object file
+data_types.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/data_types.cpp.o
+.PHONY : data_types.cpp.o
+
+data_types.i: data_types.cpp.i
+
+.PHONY : data_types.i
+
+# target to preprocess a source file
+data_types.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/data_types.cpp.i
+.PHONY : data_types.cpp.i
+
+data_types.s: data_types.cpp.s
+
+.PHONY : data_types.s
+
+# target to generate assembly for a file
+data_types.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/data_types.cpp.s
+.PHONY : data_types.cpp.s
+
 dictionariesandmaps.o: dictionariesandmaps.cpp.o
 
 .PHONY : dictionariesandmaps.o
@@ -4111,6 +4164,63 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+merge_intervals.o: merge_intervals.cpp.o
+
+.PHONY : merge_intervals.o
+
+# target to build an object file
+merge_intervals.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.o
+.PHONY : merge_intervals.cpp.o
+
+merge_intervals.i: merge_intervals.cpp.i
+
+.PHONY : merge_intervals.i
+
+# target to preprocess a source file
+merge_intervals.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.i
+.PHONY : merge_intervals.cpp.i
+
+merge_intervals.s: merge_intervals.cpp.s
+
+.PHONY : merge_intervals.s
+
+# target to generate assembly for a file
+merge_intervals.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.s
+.PHONY : merge_intervals.cpp.s
+
+shortest_unsorted_continous_subarray.o: shortest_unsorted_continous_subarray.cpp.o
+
+.PHONY : shortest_unsorted_continous_subarray.o
+
+# target to build an object file
+shortest_unsorted_continous_subarray.cpp.o:
+	$(MAKE) -f CMakeFiles/shortest_unsorted_continous_subarray.dir/build.make CMakeFiles/shortest_unsorted_continous_subarray.dir/shortest_unsorted_continous_subarray.cpp.o
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o
+.PHONY : shortest_unsorted_continous_subarray.cpp.o
+
+shortest_unsorted_continous_subarray.i: shortest_unsorted_continous_subarray.cpp.i
+
+.PHONY : shortest_unsorted_continous_subarray.i
+
+# target to preprocess a source file
+shortest_unsorted_continous_subarray.cpp.i:
+	$(MAKE) -f CMakeFiles/shortest_unsorted_continous_subarray.dir/build.make CMakeFiles/shortest_unsorted_continous_subarray.dir/shortest_unsorted_continous_subarray.cpp.i
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.i
+.PHONY : shortest_unsorted_continous_subarray.cpp.i
+
+shortest_unsorted_continous_subarray.s: shortest_unsorted_continous_subarray.cpp.s
+
+.PHONY : shortest_unsorted_continous_subarray.s
+
+# target to generate assembly for a file
+shortest_unsorted_continous_subarray.cpp.s:
+	$(MAKE) -f CMakeFiles/shortest_unsorted_continous_subarray.dir/build.make CMakeFiles/shortest_unsorted_continous_subarray.dir/shortest_unsorted_continous_subarray.cpp.s
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.s
+.PHONY : shortest_unsorted_continous_subarray.cpp.s
+
 simpletexteditorusingvectors.o: simpletexteditorusingvectors.cpp.o
 
 .PHONY : simpletexteditorusingvectors.o
@@ -4201,6 +4311,36 @@ stringstream.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/stringstream.cpp.s
 .PHONY : stringstream.cpp.s
 
+the_love_letter_mystery.o: the_love_letter_mystery.cpp.o
+
+.PHONY : the_love_letter_mystery.o
+
+# target to build an object file
+the_love_letter_mystery.cpp.o:
+	$(MAKE) -f CMakeFiles/the_love_letter_mystery.dir/build.make CMakeFiles/the_love_letter_mystery.dir/the_love_letter_mystery.cpp.o
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o
+.PHONY : the_love_letter_mystery.cpp.o
+
+the_love_letter_mystery.i: the_love_letter_mystery.cpp.i
+
+.PHONY : the_love_letter_mystery.i
+
+# target to preprocess a source file
+the_love_letter_mystery.cpp.i:
+	$(MAKE) -f CMakeFiles/the_love_letter_mystery.dir/build.make CMakeFiles/the_love_letter_mystery.dir/the_love_letter_mystery.cpp.i
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.i
+.PHONY : the_love_letter_mystery.cpp.i
+
+the_love_letter_mystery.s: the_love_letter_mystery.cpp.s
+
+.PHONY : the_love_letter_mystery.s
+
+# target to generate assembly for a file
+the_love_letter_mystery.cpp.s:
+	$(MAKE) -f CMakeFiles/the_love_letter_mystery.dir/build.make CMakeFiles/the_love_letter_mystery.dir/the_love_letter_mystery.cpp.s
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.s
+.PHONY : the_love_letter_mystery.cpp.s
+
 ways_to_form_a_max_heap.o: ways_to_form_a_max_heap.cpp.o
 
 .PHONY : ways_to_form_a_max_heap.o
@@ -4234,6 +4374,8 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... shortest_unsorted_continous_subarray"
+	@echo "... the_love_letter_mystery"
 	@echo "... SheldonandValidString"
 	@echo "... Contacts"
 	@echo "... FibonacciModified"
@@ -4595,6 +4737,9 @@ help:
 	@echo "... betweeentwosets.o"
 	@echo "... betweeentwosets.i"
 	@echo "... betweeentwosets.s"
+	@echo "... data_types.o"
+	@echo "... data_types.i"
+	@echo "... data_types.s"
 	@echo "... dictionariesandmaps.o"
 	@echo "... dictionariesandmaps.i"
 	@echo "... dictionariesandmaps.s"
@@ -4625,6 +4770,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... merge_intervals.o"
+	@echo "... merge_intervals.i"
+	@echo "... merge_intervals.s"
+	@echo "... shortest_unsorted_continous_subarray.o"
+	@echo "... shortest_unsorted_continous_subarray.i"
+	@echo "... shortest_unsorted_continous_subarray.s"
 	@echo "... simpletexteditorusingvectors.o"
 	@echo "... simpletexteditorusingvectors.i"
 	@echo "... simpletexteditorusingvectors.s"
@@ -4634,6 +4785,9 @@ help:
 	@echo "... stringstream.o"
 	@echo "... stringstream.i"
 	@echo "... stringstream.s"
+	@echo "... the_love_letter_mystery.o"
+	@echo "... the_love_letter_mystery.i"
+	@echo "... the_love_letter_mystery.s"
 	@echo "... ways_to_form_a_max_heap.o"
 	@echo "... ways_to_form_a_max_heap.i"
 	@echo "... ways_to_form_a_max_heap.s"

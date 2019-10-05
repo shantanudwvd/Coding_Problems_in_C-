@@ -1448,6 +1448,58 @@ CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/find_the_duplicate_in_array.cpp -o CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.o: ../merge_intervals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/merge_intervals.cpp
+
+CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/merge_intervals.cpp > CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/merge_intervals.cpp -o CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o: ../the_love_letter_mystery.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/the_love_letter_mystery.cpp
+
+CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/the_love_letter_mystery.cpp > CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/the_love_letter_mystery.cpp -o CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/data_types.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/data_types.cpp.o: ../data_types.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/AveoRenzhio.dir/data_types.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/data_types.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/data_types.cpp
+
+CMakeFiles/AveoRenzhio.dir/data_types.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/data_types.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/data_types.cpp > CMakeFiles/AveoRenzhio.dir/data_types.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/data_types.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/data_types.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/data_types.cpp -o CMakeFiles/AveoRenzhio.dir/data_types.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o: ../shortest_unsorted_continous_subarray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/shortest_unsorted_continous_subarray.cpp
+
+CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/shortest_unsorted_continous_subarray.cpp > CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/shortest_unsorted_continous_subarray.cpp -o CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/main.cpp.o" \
@@ -1556,7 +1608,11 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/ways_to_form_a_max_heap.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.o"
+"CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/data_types.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -1668,9 +1724,13 @@ AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/ways_to_form_a_max_heap.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/data_types.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Linking CXX executable AveoRenzhio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Linking CXX executable AveoRenzhio"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AveoRenzhio.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

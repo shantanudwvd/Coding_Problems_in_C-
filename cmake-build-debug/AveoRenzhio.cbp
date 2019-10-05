@@ -17,6 +17,98 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="shortest_unsorted_continous_subarray">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/shortest_unsorted_continous_subarray" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 shortest_unsorted_continous_subarray"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shortest_unsorted_continous_subarray/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/shortest_unsorted_continous_subarray" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 shortest_unsorted_continous_subarray/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="the_love_letter_mystery">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/the_love_letter_mystery" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 the_love_letter_mystery"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="the_love_letter_mystery/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/the_love_letter_mystery" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 the_love_letter_mystery/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="SheldonandValidString">
 				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/SheldonandValidString" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -3790,6 +3882,9 @@
 			<Option target="betweeentwosets"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/data_types.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/dictionariesandmaps.cpp">
 			<Option target="dictionariesandmaps"/>
 			<Option target="AveoRenzhio"/>
@@ -3828,6 +3923,13 @@
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/main.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/merge_intervals.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/shortest_unsorted_continous_subarray.cpp">
+			<Option target="shortest_unsorted_continous_subarray"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/simpletexteditorusingvectors.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="simpletexteditorusingvectors"/>
@@ -3838,6 +3940,10 @@
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/stringstream.cpp">
 			<Option target="stringstream"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/the_love_letter_mystery.cpp">
+			<Option target="the_love_letter_mystery"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/ways_to_form_a max_heap.cpp">

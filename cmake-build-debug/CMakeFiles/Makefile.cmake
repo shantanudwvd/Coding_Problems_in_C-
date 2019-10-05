@@ -48,6 +48,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/shortest_unsorted_continous_subarray.dir/DependInfo.cmake"
+  "CMakeFiles/the_love_letter_mystery.dir/DependInfo.cmake"
   "CMakeFiles/SheldonandValidString.dir/DependInfo.cmake"
   "CMakeFiles/Contacts.dir/DependInfo.cmake"
   "CMakeFiles/FibonacciModified.dir/DependInfo.cmake"

@@ -106,6 +106,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/ways_to_form_a_max_heap.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/merge_intervals.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/data_types.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o"
   "AveoRenzhio.pdb"
   "AveoRenzhio"
 )
