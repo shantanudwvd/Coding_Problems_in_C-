@@ -110,6 +110,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/data_types.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.o"
   "AveoRenzhio.pdb"
   "AveoRenzhio"
 )

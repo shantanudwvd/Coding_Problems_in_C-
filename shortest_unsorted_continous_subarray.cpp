@@ -17,12 +17,14 @@ int main()
         unsort.push_back(val);
         deq.push_back(val);
     }
+    int count=0;
     sort(deq.begin(),deq.end());
     for(int i=0;i<size;i++)
     {
-        if(unsort.at(i)==deq.at(i))
+        if(unsort.at(i)!=deq.at(i))
         {
-
+            count++;
         }
     }
+    cout<<count<<endl;
 }

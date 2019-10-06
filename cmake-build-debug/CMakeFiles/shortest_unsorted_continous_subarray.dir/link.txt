@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -g   CMakeFiles/shortest_unsorted_continous_subarray.dir/shortest_unsorted_continous_subarray.cpp.o  -o shortest_unsorted_continous_subarray 

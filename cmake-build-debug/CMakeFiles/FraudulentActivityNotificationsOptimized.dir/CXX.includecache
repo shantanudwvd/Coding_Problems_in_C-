@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shantanu/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotificationsOptimized.cpp
+iostream
+-
+cstring
+-
+cmath
+-
+cstring
+-
+

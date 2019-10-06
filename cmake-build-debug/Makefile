@@ -2574,6 +2574,33 @@ LarryArray.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LarryArray.cpp.s
 .PHONY : LarryArray.cpp.s
 
+Library_Fine.o: Library_Fine.cpp.o
+
+.PHONY : Library_Fine.o
+
+# target to build an object file
+Library_Fine.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.o
+.PHONY : Library_Fine.cpp.o
+
+Library_Fine.i: Library_Fine.cpp.i
+
+.PHONY : Library_Fine.i
+
+# target to preprocess a source file
+Library_Fine.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.i
+.PHONY : Library_Fine.cpp.i
+
+Library_Fine.s: Library_Fine.cpp.s
+
+.PHONY : Library_Fine.s
+
+# target to generate assembly for a file
+Library_Fine.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.s
+.PHONY : Library_Fine.cpp.s
+
 LilyHomeworkAlternate.o: LilyHomeworkAlternate.cpp.o
 
 .PHONY : LilyHomeworkAlternate.o
@@ -4605,6 +4632,9 @@ help:
 	@echo "... LarryArray.o"
 	@echo "... LarryArray.i"
 	@echo "... LarryArray.s"
+	@echo "... Library_Fine.o"
+	@echo "... Library_Fine.i"
+	@echo "... Library_Fine.s"
 	@echo "... LilyHomeworkAlternate.o"
 	@echo "... LilyHomeworkAlternate.i"
 	@echo "... LilyHomeworkAlternate.s"
