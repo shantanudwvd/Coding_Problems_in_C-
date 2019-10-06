@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CommonChild.dir/CommonChild.cpp.o"
-  "CommonChild.pdb"
   "CommonChild"
+  "CommonChild.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

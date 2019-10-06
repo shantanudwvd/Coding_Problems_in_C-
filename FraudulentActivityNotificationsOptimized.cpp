@@ -138,8 +138,8 @@ int main()
     for(int i=1,j;i<=n-td;i++)
     {
         int count=2;
-        first=array[1];
-        second=array[2];
+        first=array[i];
+        second=array[i+1];
         if(first<=second)
         {
             maxh[1]=first;

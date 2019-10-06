@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Encryption.dir/Encryption.cpp.o"
-  "Encryption.pdb"
   "Encryption"
+  "Encryption.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

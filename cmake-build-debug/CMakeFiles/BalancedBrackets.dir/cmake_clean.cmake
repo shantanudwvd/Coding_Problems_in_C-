@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BalancedBrackets.dir/BalancedBrackets.cpp.o"
-  "BalancedBrackets.pdb"
   "BalancedBrackets"
+  "BalancedBrackets.pdb"
+  "CMakeFiles/BalancedBrackets.dir/BalancedBrackets.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.
