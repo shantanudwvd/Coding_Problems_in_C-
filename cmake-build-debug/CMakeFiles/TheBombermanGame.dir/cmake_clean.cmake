@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TheBombermanGame.dir/TheBombermanGame.cpp.o"
-  "TheBombermanGame.pdb"
   "TheBombermanGame"
+  "TheBombermanGame.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

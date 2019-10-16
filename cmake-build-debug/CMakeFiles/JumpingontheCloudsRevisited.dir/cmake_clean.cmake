@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/JumpingontheCloudsRevisited.dir/JumpingontheCloudsRevisited.cpp.o"
-  "JumpingontheCloudsRevisited.pdb"
   "JumpingontheCloudsRevisited"
+  "JumpingontheCloudsRevisited.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

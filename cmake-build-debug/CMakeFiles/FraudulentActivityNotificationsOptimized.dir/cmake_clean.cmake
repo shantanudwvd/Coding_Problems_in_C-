@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.o"
-  "FraudulentActivityNotificationsOptimized.pdb"
   "FraudulentActivityNotificationsOptimized"
+  "FraudulentActivityNotificationsOptimized.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

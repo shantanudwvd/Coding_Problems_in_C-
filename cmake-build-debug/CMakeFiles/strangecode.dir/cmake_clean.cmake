@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/strangecode.dir/strangecode.cpp.o"
-  "strangecode.pdb"
   "strangecode"
+  "strangecode.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

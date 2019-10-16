@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/t2b/CLionProjects/Coding_Problems_in_C-/FindTheRunningMedian.cpp" "/home/t2b/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/FindTheRunningMedian.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/FindTheRunningMedian.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/FindTheRunningMedian.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

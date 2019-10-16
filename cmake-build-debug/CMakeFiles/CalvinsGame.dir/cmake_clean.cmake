@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CalvinsGame.dir/CalvinsGame.cpp.o"
-  "CalvinsGame.pdb"
   "CalvinsGame"
+  "CalvinsGame.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

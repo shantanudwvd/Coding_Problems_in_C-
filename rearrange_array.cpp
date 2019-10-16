@@ -2,17 +2,14 @@
 // Created by Shantanu Dwivedi on 1/22/2019.
 //
 #include <iostream>
-#include <cmath>
-#include <algorithm>
-#include <bits/stdc++.h>
 using namespace std;
 int heapsize;
-void min_heapify(int arr[],int i)
+void min_heapify(int array[],int i)
 {
     int l=(2*i);
     int r=(2*i+1);
     int smallest;
-    if(l<=heapsize && arr[l]<arr[i])
+    if(l<=heapsize && array[l]<array[i])
     {
         smallest=l;
     }
@@ -20,7 +17,7 @@ void min_heapify(int arr[],int i)
     {
         smallest=i;
     }
-    if(r<=heapsize && arr[r]<arr[smallest])
+    if(r<=heapsize && array[r]<array[smallest])
     {
         smallest=r;
     }
@@ -28,18 +25,18 @@ void min_heapify(int arr[],int i)
         return;
     else if(smallest!=i)
     {
-        int swap=arr[i];
-        arr[i]=arr[smallest];
-        arr[smallest]=swap;
+        int swap=array[i];
+        array[i]=array[smallest];
+        array[smallest]=swap;
     }
-    min_heapify(arr,smallest);
+    min_heapify(array,smallest);
 }
-void max_heapify(int arr[], int i)
+void max_heapify(int array[], int i)
 {
     int l=(2*i);
     int r=(2*i+1);
     int largest;
-    if(l<=heapsize && arr[l]>arr[i])
+    if(l<=heapsize && array[l]>array[i])
     {
         largest=l;
     }
@@ -47,7 +44,7 @@ void max_heapify(int arr[], int i)
     {
         largest=i;
     }
-    if(r<=heapsize && arr[r]>arr[largest])
+    if(r<=heapsize && array[r]>array[largest])
     {
         largest=r;
     }
@@ -55,35 +52,35 @@ void max_heapify(int arr[], int i)
         return;
     if(largest!=i)
     {
-        int swap=arr[i];
-        arr[i]=arr[largest];
-        arr[largest]=swap;
+        int swap=array[i];
+        array[i]=array[largest];
+        array[largest]=swap;
     }
-    max_heapify(arr,largest);
+    max_heapify(array,largest);
 }
 int main()
 {
-    int arr[10000],final[10000];
     cout<<"Enter the Heap Size: ";
     cin>>heapsize;
+    int array[heapsize+1],final[heapsize+1];
     int length=heapsize;
     for(int i=1;i<=heapsize;i++)
     {
-        cin>>arr[i];
+        cin>>array[i];
     }
     for(int i=1;i<=heapsize;i++)
     {
-        min_heapify(arr,1);
-        final[i]=arr[1];
-        int temp=arr[1];
-        arr[1]=arr[heapsize];
-        arr[heapsize]=temp;
+        min_heapify(array,1);
+        final[i]=array[1];
+        int temp=array[1];
+        array[1]=array[heapsize];
+        array[heapsize]=temp;
         heapsize--;
-        max_heapify(arr,1);
-        final[i]=arr[1];
-        temp=arr[1];
-        arr[1]=arr[heapsize];
-        arr[heapsize]=temp;
+        max_heapify(array,1);
+        final[i]=array[1];
+        temp=array[1];
+        array[1]=array[heapsize];
+        array[heapsize]=temp;
         heapsize--;
     }
     for(int i=1;i<=length;i++)

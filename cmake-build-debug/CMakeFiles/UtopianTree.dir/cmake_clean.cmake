@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/UtopianTree.dir/UtopianTree.cpp.o"
-  "UtopianTree.pdb"
   "UtopianTree"
+  "UtopianTree.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
