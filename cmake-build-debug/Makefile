@@ -4014,6 +4014,33 @@ flatlandspacestations.cpp.s:
 	$(MAKE) -f CMakeFiles/flatlandspacestations.dir/build.make CMakeFiles/flatlandspacestations.dir/flatlandspacestations.cpp.s
 .PHONY : flatlandspacestations.cpp.s
 
+formated_dates.o: formated_dates.cpp.o
+
+.PHONY : formated_dates.o
+
+# target to build an object file
+formated_dates.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.o
+.PHONY : formated_dates.cpp.o
+
+formated_dates.i: formated_dates.cpp.i
+
+.PHONY : formated_dates.i
+
+# target to preprocess a source file
+formated_dates.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.i
+.PHONY : formated_dates.cpp.i
+
+formated_dates.s: formated_dates.cpp.s
+
+.PHONY : formated_dates.s
+
+# target to generate assembly for a file
+formated_dates.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.s
+.PHONY : formated_dates.cpp.s
+
 funnystring.o: funnystring.cpp.o
 
 .PHONY : funnystring.o
@@ -4782,6 +4809,9 @@ help:
 	@echo "... flatlandspacestations.o"
 	@echo "... flatlandspacestations.i"
 	@echo "... flatlandspacestations.s"
+	@echo "... formated_dates.o"
+	@echo "... formated_dates.i"
+	@echo "... formated_dates.s"
 	@echo "... funnystring.o"
 	@echo "... funnystring.i"
 	@echo "... funnystring.s"
