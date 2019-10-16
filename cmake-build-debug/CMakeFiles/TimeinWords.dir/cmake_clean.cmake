@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TimeinWords.dir/TimeinWords.cpp.o"
-  "TimeinWords"
   "TimeinWords.pdb"
+  "TimeinWords"
 )
 
 # Per-language clean rules from dependency scanning.

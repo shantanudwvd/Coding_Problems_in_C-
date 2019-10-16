@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LilyHomeworkAlternate.dir/LilyHomeworkAlternate.cpp.o"
-  "LilyHomeworkAlternate"
   "LilyHomeworkAlternate.pdb"
+  "LilyHomeworkAlternate"
 )
 
 # Per-language clean rules from dependency scanning.

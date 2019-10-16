@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "BeautifulTriplets"
-  "BeautifulTriplets.pdb"
   "CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.o"
+  "BeautifulTriplets.pdb"
+  "BeautifulTriplets"
 )
 
 # Per-language clean rules from dependency scanning.

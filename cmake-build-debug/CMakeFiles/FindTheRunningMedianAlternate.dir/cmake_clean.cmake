@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o"
-  "FindTheRunningMedianAlternate"
   "FindTheRunningMedianAlternate.pdb"
+  "FindTheRunningMedianAlternate"
 )
 
 # Per-language clean rules from dependency scanning.
