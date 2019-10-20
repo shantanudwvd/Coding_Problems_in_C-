@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/85/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/88/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/85/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/88/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -1539,6 +1539,32 @@ CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/rearrange_array.cpp -o CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.o: ../Special_String_Again.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/Special_String_Again.cpp
+
+CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/Special_String_Again.cpp > CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/Special_String_Again.cpp -o CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.o: ../Sherlock_and_the_valid_string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/Sherlock_and_the_valid_string.cpp
+
+CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/Sherlock_and_the_valid_string.cpp > CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/Sherlock_and_the_valid_string.cpp -o CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/main.cpp.o" \
@@ -1654,7 +1680,9 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.o"
+"CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.o"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -1773,9 +1801,11 @@ AveoRenzhio: CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Linking CXX executable AveoRenzhio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Linking CXX executable AveoRenzhio"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AveoRenzhio.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

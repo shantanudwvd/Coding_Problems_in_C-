@@ -62,22 +62,23 @@ int main()
 {
     cout<<"Enter the Heap Size: ";
     cin>>heapsize;
-    int array[heapsize+1],final[heapsize+1];
+    int array[heapsize+1],final[heapsize+1]={};
     int length=heapsize;
+    cout<<"Insert the values in the given array: ";
     for(int i=1;i<=heapsize;i++)
     {
         cin>>array[i];
     }
-    for(int i=1;i<=heapsize;i++)
+    for(int i=1;i<=length;)
     {
         min_heapify(array,1);
-        final[i]=array[1];
+        final[i]=array[1];i++;
         int temp=array[1];
         array[1]=array[heapsize];
         array[heapsize]=temp;
         heapsize--;
         max_heapify(array,1);
-        final[i]=array[1];
+        final[i]=array[1];i++;
         temp=array[1];
         array[1]=array[heapsize];
         array[heapsize]=temp;

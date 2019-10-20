@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/85/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/88/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/85/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/88/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-buil
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/snap/clion/85/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/snap/clion/88/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/snap/clion/85/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/snap/clion/88/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -3412,6 +3412,33 @@ SheldonandValidString.cpp.s:
 	$(MAKE) -f CMakeFiles/SheldonandValidString.dir/build.make CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.s
 .PHONY : SheldonandValidString.cpp.s
 
+Sherlock_and_the_valid_string.o: Sherlock_and_the_valid_string.cpp.o
+
+.PHONY : Sherlock_and_the_valid_string.o
+
+# target to build an object file
+Sherlock_and_the_valid_string.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.o
+.PHONY : Sherlock_and_the_valid_string.cpp.o
+
+Sherlock_and_the_valid_string.i: Sherlock_and_the_valid_string.cpp.i
+
+.PHONY : Sherlock_and_the_valid_string.i
+
+# target to preprocess a source file
+Sherlock_and_the_valid_string.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.i
+.PHONY : Sherlock_and_the_valid_string.cpp.i
+
+Sherlock_and_the_valid_string.s: Sherlock_and_the_valid_string.cpp.s
+
+.PHONY : Sherlock_and_the_valid_string.s
+
+# target to generate assembly for a file
+Sherlock_and_the_valid_string.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.s
+.PHONY : Sherlock_and_the_valid_string.cpp.s
+
 SherlockandArray.o: SherlockandArray.cpp.o
 
 .PHONY : SherlockandArray.o
@@ -3552,6 +3579,33 @@ SparseArrays.s: SparseArrays.cpp.s
 SparseArrays.cpp.s:
 	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SparseArrays.cpp.s
 .PHONY : SparseArrays.cpp.s
+
+Special_String_Again.o: Special_String_Again.cpp.o
+
+.PHONY : Special_String_Again.o
+
+# target to build an object file
+Special_String_Again.cpp.o:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.o
+.PHONY : Special_String_Again.cpp.o
+
+Special_String_Again.i: Special_String_Again.cpp.i
+
+.PHONY : Special_String_Again.i
+
+# target to preprocess a source file
+Special_String_Again.cpp.i:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.i
+.PHONY : Special_String_Again.cpp.i
+
+Special_String_Again.s: Special_String_Again.cpp.s
+
+.PHONY : Special_String_Again.s
+
+# target to generate assembly for a file
+Special_String_Again.cpp.s:
+	$(MAKE) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.s
+.PHONY : Special_String_Again.cpp.s
 
 StrongPassword.o: StrongPassword.cpp.o
 
@@ -4790,6 +4844,9 @@ help:
 	@echo "... SheldonandValidString.o"
 	@echo "... SheldonandValidString.i"
 	@echo "... SheldonandValidString.s"
+	@echo "... Sherlock_and_the_valid_string.o"
+	@echo "... Sherlock_and_the_valid_string.i"
+	@echo "... Sherlock_and_the_valid_string.s"
 	@echo "... SherlockandArray.o"
 	@echo "... SherlockandArray.i"
 	@echo "... SherlockandArray.s"
@@ -4805,6 +4862,9 @@ help:
 	@echo "... SparseArrays.o"
 	@echo "... SparseArrays.i"
 	@echo "... SparseArrays.s"
+	@echo "... Special_String_Again.o"
+	@echo "... Special_String_Again.i"
+	@echo "... Special_String_Again.s"
 	@echo "... StrongPassword.o"
 	@echo "... StrongPassword.i"
 	@echo "... StrongPassword.s"

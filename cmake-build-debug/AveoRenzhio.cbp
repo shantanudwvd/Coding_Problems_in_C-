@@ -3867,6 +3867,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="SheldonandValidString"/>
 		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Sherlock_and_the_valid_string.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/SherlockandArray.cpp">
 			<Option target="SherlockandArray"/>
 			<Option target="AveoRenzhio"/>
@@ -3882,6 +3885,9 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/SparseArrays.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Special_String_Again.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/StrongPassword.cpp">
