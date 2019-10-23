@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "AppendandDelete"
-  "AppendandDelete.pdb"
   "CMakeFiles/AppendandDelete.dir/AppendandDelete.cpp.o"
+  "AppendandDelete.pdb"
+  "AppendandDelete"
 )
 
 # Per-language clean rules from dependency scanning.

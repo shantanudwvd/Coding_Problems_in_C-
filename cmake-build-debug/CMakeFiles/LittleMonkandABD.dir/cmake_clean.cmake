@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LittleMonkandABD.dir/LittleMonkandABD.cpp.o"
-  "LittleMonkandABD"
   "LittleMonkandABD.pdb"
+  "LittleMonkandABD"
 )
 
 # Per-language clean rules from dependency scanning.

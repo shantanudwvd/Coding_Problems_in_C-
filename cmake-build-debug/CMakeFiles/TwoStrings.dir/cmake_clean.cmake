@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TwoStrings.dir/TwoStrings.cpp.o"
-  "TwoStrings"
   "TwoStrings.pdb"
+  "TwoStrings"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/DequeSTL.dir/DequeSTL.cpp.o"
-  "DequeSTL"
   "DequeSTL.pdb"
+  "DequeSTL"
 )
 
 # Per-language clean rules from dependency scanning.

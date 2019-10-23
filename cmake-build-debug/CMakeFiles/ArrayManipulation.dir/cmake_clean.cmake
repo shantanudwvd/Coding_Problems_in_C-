@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "ArrayManipulation"
-  "ArrayManipulation.pdb"
   "CMakeFiles/ArrayManipulation.dir/ArrayManipulation.cpp.o"
+  "ArrayManipulation.pdb"
+  "ArrayManipulation"
 )
 
 # Per-language clean rules from dependency scanning.

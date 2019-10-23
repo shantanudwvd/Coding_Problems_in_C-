@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -g   CMakeFiles/Red_knights_shortest_path.dir/Red_knights_shortest_path.cpp.o  -o Red_knights_shortest_path 

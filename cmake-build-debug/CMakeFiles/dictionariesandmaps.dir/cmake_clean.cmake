@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/dictionariesandmaps.dir/dictionariesandmaps.cpp.o"
-  "dictionariesandmaps"
   "dictionariesandmaps.pdb"
+  "dictionariesandmaps"
 )
 
 # Per-language clean rules from dependency scanning.

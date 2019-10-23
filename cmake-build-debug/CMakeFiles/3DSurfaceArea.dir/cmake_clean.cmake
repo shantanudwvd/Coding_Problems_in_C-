@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "3DSurfaceArea"
-  "3DSurfaceArea.pdb"
   "CMakeFiles/3DSurfaceArea.dir/3DSurfaceArea.cpp.o"
+  "3DSurfaceArea.pdb"
+  "3DSurfaceArea"
 )
 
 # Per-language clean rules from dependency scanning.

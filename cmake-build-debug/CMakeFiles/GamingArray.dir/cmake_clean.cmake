@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/GamingArray.dir/GamingArray.cpp.o"
-  "GamingArray"
   "GamingArray.pdb"
+  "GamingArray"
 )
 
 # Per-language clean rules from dependency scanning.

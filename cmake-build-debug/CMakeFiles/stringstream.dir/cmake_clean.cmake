@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/stringstream.dir/stringstream.cpp.o"
-  "stringstream"
   "stringstream.pdb"
+  "stringstream"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/heapsortingusingmaxheapifycormen.dir/heapsortingusingmaxheapifycormen.cpp.o"
-  "heapsortingusingmaxheapifycormen"
   "heapsortingusingmaxheapifycormen.pdb"
+  "heapsortingusingmaxheapifycormen"
 )
 
 # Per-language clean rules from dependency scanning.
