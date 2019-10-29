@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/t2b/CLionProjects/Coding_Problems_in_C-/rearrange_array.cpp" "/home/t2b/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/rearrange_array.dir/rearrange_array.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/rearrange_array.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/rearrange_array.dir/rearrange_array.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

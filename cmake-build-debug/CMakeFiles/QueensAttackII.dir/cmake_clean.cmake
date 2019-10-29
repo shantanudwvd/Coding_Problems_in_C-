@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/QueensAttackII.dir/QueensAttackII.cpp.o"
-  "QueensAttackII.pdb"
   "QueensAttackII"
+  "QueensAttackII.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

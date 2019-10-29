@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/AlmostSorted.dir/AlmostSorted.cpp.o"
-  "AlmostSorted.pdb"
   "AlmostSorted"
+  "AlmostSorted.pdb"
+  "CMakeFiles/AlmostSorted.dir/AlmostSorted.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

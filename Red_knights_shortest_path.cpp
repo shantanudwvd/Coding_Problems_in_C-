@@ -2,9 +2,10 @@
 // Created by t2b on 23/10/19.
 //
 #include <iostream>
-#include <algorithm>
+#include <deque>
 using namespace std;
 static int ini, inj, fini, finj, size;
+deque<int> steps;
 void UL(int i, int j) {
     while(i>0 && j>0) {
         i-=2;j-=1;

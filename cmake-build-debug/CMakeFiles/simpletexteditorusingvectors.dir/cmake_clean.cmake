@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/simpletexteditorusingvectors.dir/simpletexteditorusingvectors.cpp.o"
-  "simpletexteditorusingvectors.pdb"
   "simpletexteditorusingvectors"
+  "simpletexteditorusingvectors.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
