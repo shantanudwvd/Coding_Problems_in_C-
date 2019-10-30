@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "2DArrays"
+  "2DArrays.exe"
+  "2DArrays.exe.manifest"
   "2DArrays.pdb"
-  "CMakeFiles/2DArrays.dir/2DArrays.cpp.o"
+  "CMakeFiles/2DArrays.dir/2DArrays.cpp.obj"
+  "lib2DArrays.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

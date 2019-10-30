@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.o"
-  "SheldonandValidString"
+  "CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.obj"
+  "SheldonandValidString.exe"
+  "SheldonandValidString.exe.manifest"
   "SheldonandValidString.pdb"
+  "libSheldonandValidString.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

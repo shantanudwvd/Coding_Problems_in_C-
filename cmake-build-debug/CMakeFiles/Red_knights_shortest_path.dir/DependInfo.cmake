@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/Red_knights_shortest_path.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Red_knights_shortest_path.dir/Red_knights_shortest_path.cpp.o"
+  "C:/Users/Akanksha/CLionProjects/Coding_Problems_in_C-/Red_knights_shortest_path.cpp" "C:/Users/Akanksha/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Red_knights_shortest_path.dir/Red_knights_shortest_path.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

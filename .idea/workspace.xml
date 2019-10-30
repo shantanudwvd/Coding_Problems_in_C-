@@ -562,7 +562,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.Remove_All_Adjacent_Duplicates_In_String">
+  <component name="RunManager" selected="CMake Application.2DArrays">
     <configuration name="2DArrays" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="2DArrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="2DArrays">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -828,11 +828,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SherlockandArray" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="SherlockandArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="SherlockandArray">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SherlockandSquares" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="SherlockandSquares" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="SherlockandSquares">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1021,6 +1016,7 @@
       <item itemvalue="CMake Application.Balanced_Brackets_modified" />
       <item itemvalue="CMake Application.BalancedBrackets" />
       <item itemvalue="CMake Application.BeautifulTriplets" />
+      <item itemvalue="CMake Application.betweeentwosets" />
       <item itemvalue="CMake Application.CalvinsGame" />
       <item itemvalue="CMake Application.ChocolateFeast" />
       <item itemvalue="CMake Application.ClimbingTheLeaderboard" />
@@ -1029,17 +1025,24 @@
       <item itemvalue="CMake Application.CuttheSticks" />
       <item itemvalue="CMake Application.Deque-STL-Alternate" />
       <item itemvalue="CMake Application.DequeSTL" />
+      <item itemvalue="CMake Application.dictionariesandmaps" />
       <item itemvalue="CMake Application.Encryption" />
+      <item itemvalue="CMake Application.fairrations" />
       <item itemvalue="CMake Application.FibonacciModified" />
+      <item itemvalue="CMake Application.FindTheRunningMedian" />
       <item itemvalue="CMake Application.FindTheRunningMedianAlternate" />
       <item itemvalue="CMake Application.FindTheRunningMedianOptimized" />
-      <item itemvalue="CMake Application.FindTheRunningMedian" />
-      <item itemvalue="CMake Application.FraudulentActivityNotificationsOptimized" />
+      <item itemvalue="CMake Application.flatlandspacestations" />
       <item itemvalue="CMake Application.FraudulentActivityNotifications" />
+      <item itemvalue="CMake Application.FraudulentActivityNotificationsOptimized" />
+      <item itemvalue="CMake Application.funnystring" />
       <item itemvalue="CMake Application.GameofThrones" />
       <item itemvalue="CMake Application.GameofTwoStacks" />
       <item itemvalue="CMake Application.GamingArray" />
+      <item itemvalue="CMake Application.halloweensale" />
       <item itemvalue="CMake Application.HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
+      <item itemvalue="CMake Application.heapsortingusingmaxheapifycormen" />
+      <item itemvalue="CMake Application.heapsortingusingminheapifycormen" />
       <item itemvalue="CMake Application.IntegerTypes" />
       <item itemvalue="CMake Application.JesseandCookies" />
       <item itemvalue="CMake Application.JumpingontheCloudsRevisited" />
@@ -1051,6 +1054,7 @@
       <item itemvalue="CMake Application.LittleMonkandStevieSmith" />
       <item itemvalue="CMake Application.LittleMonkandVirat" />
       <item itemvalue="CMake Application.LittleMonkandWilliamson" />
+      <item itemvalue="CMake Application.magicsquareforming" />
       <item itemvalue="CMake Application.MinimumSwaps2Alternate" />
       <item itemvalue="CMake Application.QueenAttackIIAlternate" />
       <item itemvalue="CMake Application.QueensAttackII" />
@@ -1061,9 +1065,11 @@
       <item itemvalue="CMake Application.Set5Problem1TheGoldenCrown" />
       <item itemvalue="CMake Application.SetProblem2BreakerOfChains" />
       <item itemvalue="CMake Application.SheldonandValidString" />
-      <item itemvalue="CMake Application.SherlockandArray" />
       <item itemvalue="CMake Application.SherlockandSquares" />
       <item itemvalue="CMake Application.shortest_unsorted_continous_subarray" />
+      <item itemvalue="CMake Application.simpletexteditorusingvectors" />
+      <item itemvalue="CMake Application.strangecode" />
+      <item itemvalue="CMake Application.stringstream" />
       <item itemvalue="CMake Application.StrongPassword" />
       <item itemvalue="CMake Application.TaumAndBday" />
       <item itemvalue="CMake Application.the_love_letter_mystery" />
@@ -1075,18 +1081,6 @@
       <item itemvalue="CMake Application.UtopianTree" />
       <item itemvalue="CMake Application.Waiter" />
       <item itemvalue="CMake Application.XOR-sequence" />
-      <item itemvalue="CMake Application.betweeentwosets" />
-      <item itemvalue="CMake Application.dictionariesandmaps" />
-      <item itemvalue="CMake Application.fairrations" />
-      <item itemvalue="CMake Application.flatlandspacestations" />
-      <item itemvalue="CMake Application.funnystring" />
-      <item itemvalue="CMake Application.halloweensale" />
-      <item itemvalue="CMake Application.heapsortingusingmaxheapifycormen" />
-      <item itemvalue="CMake Application.heapsortingusingminheapifycormen" />
-      <item itemvalue="CMake Application.magicsquareforming" />
-      <item itemvalue="CMake Application.simpletexteditorusingvectors" />
-      <item itemvalue="CMake Application.strangecode" />
-      <item itemvalue="CMake Application.stringstream" />
       <item itemvalue="Python.FindTheRunningMedian" />
       <item itemvalue="Python.GoogleFooBarChallengeProblem1" />
     </list>

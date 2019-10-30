@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/stringstream.dir/stringstream.cpp.o"
-  "stringstream"
+  "CMakeFiles/stringstream.dir/stringstream.cpp.obj"
+  "libstringstream.dll.a"
+  "stringstream.exe"
+  "stringstream.exe.manifest"
   "stringstream.pdb"
 )
 

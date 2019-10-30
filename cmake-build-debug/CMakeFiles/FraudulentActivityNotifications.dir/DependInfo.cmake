@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotifications.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/FraudulentActivityNotifications.cpp.o"
+  "C:/Users/Akanksha/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotifications.cpp" "C:/Users/Akanksha/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/FraudulentActivityNotifications.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

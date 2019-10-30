@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/JesseandCookies.dir/JesseandCookies.cpp.o"
-  "JesseandCookies"
+  "CMakeFiles/JesseandCookies.dir/JesseandCookies.cpp.obj"
+  "JesseandCookies.exe"
+  "JesseandCookies.exe.manifest"
   "JesseandCookies.pdb"
+  "libJesseandCookies.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

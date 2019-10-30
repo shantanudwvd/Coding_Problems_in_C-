@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/fairrations.dir/fairrations.cpp.o"
-  "fairrations"
+  "CMakeFiles/fairrations.dir/fairrations.cpp.obj"
+  "fairrations.exe"
+  "fairrations.exe.manifest"
   "fairrations.pdb"
+  "libfairrations.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
