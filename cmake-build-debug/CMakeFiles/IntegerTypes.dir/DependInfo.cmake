@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/t2b/CLionProjects/Coding_Problems_in_C-/IntegerTypes.cpp" "/home/t2b/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/IntegerTypes.dir/IntegerTypes.cpp.o"
+  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/IntegerTypes.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/IntegerTypes.dir/IntegerTypes.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

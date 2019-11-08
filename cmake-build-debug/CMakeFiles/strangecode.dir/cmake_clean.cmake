@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/strangecode.dir/strangecode.cpp.o"
-  "strangecode"
+  "CMakeFiles/strangecode.dir/strangecode.cpp.obj"
+  "libstrangecode.dll.a"
+  "strangecode.exe"
+  "strangecode.exe.manifest"
   "strangecode.pdb"
 )
 

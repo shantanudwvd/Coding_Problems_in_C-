@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/StrongPassword.dir/StrongPassword.cpp.o"
-  "StrongPassword"
+  "CMakeFiles/StrongPassword.dir/StrongPassword.cpp.obj"
+  "StrongPassword.exe"
+  "StrongPassword.exe.manifest"
   "StrongPassword.pdb"
+  "libStrongPassword.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
