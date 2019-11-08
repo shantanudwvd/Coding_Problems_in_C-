@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Waiter.dir/Waiter.cpp.obj"
-  "Waiter.exe"
-  "Waiter.exe.manifest"
+  "CMakeFiles/Waiter.dir/Waiter.cpp.o"
+  "Waiter"
   "Waiter.pdb"
-  "libWaiter.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

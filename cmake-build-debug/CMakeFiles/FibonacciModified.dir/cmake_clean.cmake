@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/FibonacciModified.dir/FibonacciModified_.cpp.obj"
-  "FibonacciModified.exe"
-  "FibonacciModified.exe.manifest"
+  "CMakeFiles/FibonacciModified.dir/FibonacciModified_.cpp.o"
+  "FibonacciModified"
   "FibonacciModified.pdb"
-  "libFibonacciModified.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

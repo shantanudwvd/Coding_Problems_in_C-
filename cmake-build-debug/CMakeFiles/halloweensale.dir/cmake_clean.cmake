@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/halloweensale.dir/halloweensale.cpp.obj"
-  "halloweensale.exe"
-  "halloweensale.exe.manifest"
+  "CMakeFiles/halloweensale.dir/halloweensale.cpp.o"
+  "halloweensale"
   "halloweensale.pdb"
-  "libhalloweensale.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

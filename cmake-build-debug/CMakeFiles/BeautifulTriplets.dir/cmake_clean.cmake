@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "BeautifulTriplets.exe"
-  "BeautifulTriplets.exe.manifest"
+  "BeautifulTriplets"
   "BeautifulTriplets.pdb"
-  "CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.obj"
-  "libBeautifulTriplets.dll.a"
+  "CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

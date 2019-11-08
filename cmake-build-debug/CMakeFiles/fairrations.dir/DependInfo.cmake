@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Akanksha/CLionProjects/Coding_Problems_in_C-/fairrations.cpp" "C:/Users/Akanksha/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/fairrations.dir/fairrations.cpp.obj"
+  "/home/t2b/CLionProjects/Coding_Problems_in_C-/fairrations.cpp" "/home/t2b/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/fairrations.dir/fairrations.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

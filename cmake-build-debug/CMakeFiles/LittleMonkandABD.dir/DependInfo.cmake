@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Akanksha/CLionProjects/Coding_Problems_in_C-/LittleMonkandABD.cpp" "C:/Users/Akanksha/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/LittleMonkandABD.cpp.obj"
+  "/home/t2b/CLionProjects/Coding_Problems_in_C-/LittleMonkandABD.cpp" "/home/t2b/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/LittleMonkandABD.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

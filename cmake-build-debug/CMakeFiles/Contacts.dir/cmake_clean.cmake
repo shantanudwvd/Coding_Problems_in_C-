@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Contacts.dir/Contacts.cpp.obj"
-  "Contacts.exe"
-  "Contacts.exe.manifest"
+  "CMakeFiles/Contacts.dir/Contacts.cpp.o"
+  "Contacts"
   "Contacts.pdb"
-  "libContacts.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\strangecode.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\strangecode.dir/objects.a @CMakeFiles\strangecode.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  -O0 -g   -Wl,--whole-archive CMakeFiles\strangecode.dir/objects.a -Wl,--no-whole-archive  -o strangecode.exe -Wl,--out-implib,libstrangecode.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\strangecode.dir\linklibs.rsp
+/usr/bin/c++   -O0 -g   CMakeFiles/strangecode.dir/strangecode.cpp.o  -o strangecode 

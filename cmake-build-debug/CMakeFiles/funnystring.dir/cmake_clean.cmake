@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/funnystring.dir/funnystring.cpp.obj"
-  "funnystring.exe"
-  "funnystring.exe.manifest"
+  "CMakeFiles/funnystring.dir/funnystring.cpp.o"
+  "funnystring"
   "funnystring.pdb"
-  "libfunnystring.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

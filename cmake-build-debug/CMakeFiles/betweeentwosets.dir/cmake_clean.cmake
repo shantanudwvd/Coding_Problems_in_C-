@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/betweeentwosets.dir/betweeentwosets.cpp.obj"
-  "betweeentwosets.exe"
-  "betweeentwosets.exe.manifest"
+  "CMakeFiles/betweeentwosets.dir/betweeentwosets.cpp.o"
+  "betweeentwosets"
   "betweeentwosets.pdb"
-  "libbetweeentwosets.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
