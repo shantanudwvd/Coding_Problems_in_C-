@@ -1175,6 +1175,19 @@ best_time_to_buy_and_sell_stock/fast:
 	$(MAKE) -f CMakeFiles\best_time_to_buy_and_sell_stock.dir\build.make CMakeFiles/best_time_to_buy_and_sell_stock.dir/build
 .PHONY : best_time_to_buy_and_sell_stock/fast
 
+#=============================================================================
+# Target rules for targets named best-time-to-buy-and-sell-stock-ii
+
+# Build rule for target.
+best-time-to-buy-and-sell-stock-ii: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 best-time-to-buy-and-sell-stock-ii
+.PHONY : best-time-to-buy-and-sell-stock-ii
+
+# fast build rule for target.
+best-time-to-buy-and-sell-stock-ii/fast:
+	$(MAKE) -f CMakeFiles\best-time-to-buy-and-sell-stock-ii.dir\build.make CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/build
+.PHONY : best-time-to-buy-and-sell-stock-ii/fast
+
 2DArrays.obj: 2DArrays.cpp.obj
 
 .PHONY : 2DArrays.obj
@@ -4005,6 +4018,7 @@ best-time-to-buy-and-sell-stock-ii.obj: best-time-to-buy-and-sell-stock-ii.cpp.o
 # target to build an object file
 best-time-to-buy-and-sell-stock-ii.cpp.obj:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj
+	$(MAKE) -f CMakeFiles\best-time-to-buy-and-sell-stock-ii.dir\build.make CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj
 .PHONY : best-time-to-buy-and-sell-stock-ii.cpp.obj
 
 best-time-to-buy-and-sell-stock-ii.i: best-time-to-buy-and-sell-stock-ii.cpp.i
@@ -4014,6 +4028,7 @@ best-time-to-buy-and-sell-stock-ii.i: best-time-to-buy-and-sell-stock-ii.cpp.i
 # target to preprocess a source file
 best-time-to-buy-and-sell-stock-ii.cpp.i:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.i
+	$(MAKE) -f CMakeFiles\best-time-to-buy-and-sell-stock-ii.dir\build.make CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.i
 .PHONY : best-time-to-buy-and-sell-stock-ii.cpp.i
 
 best-time-to-buy-and-sell-stock-ii.s: best-time-to-buy-and-sell-stock-ii.cpp.s
@@ -4023,6 +4038,7 @@ best-time-to-buy-and-sell-stock-ii.s: best-time-to-buy-and-sell-stock-ii.cpp.s
 # target to generate assembly for a file
 best-time-to-buy-and-sell-stock-ii.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.s
+	$(MAKE) -f CMakeFiles\best-time-to-buy-and-sell-stock-ii.dir\build.make CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.s
 .PHONY : best-time-to-buy-and-sell-stock-ii.cpp.s
 
 best-time-to-buy-and-sell-stock-iii.obj: best-time-to-buy-and-sell-stock-iii.cpp.obj
@@ -4761,6 +4777,7 @@ help:
 	@echo ... remove_adjacent_characters
 	@echo ... fill_the_missing_spaces
 	@echo ... best_time_to_buy_and_sell_stock
+	@echo ... best-time-to-buy-and-sell-stock-ii
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj

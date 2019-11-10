@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/best-time-to-buy-and-sell-stock-ii.cpp
+iostream
+-
+bits/stdc++.h
+-
+

@@ -7,24 +7,17 @@ using namespace std;
 int main() {
     deque<int> stock;
     int size;
+//    cout<<"Enter the size: ";
     cin>>size;
+//    cout<<"Enter the elements in the array: "<<endl;
     for (int i = 0, val = 0; i < size; ++i) {
         cin>>val;
         stock.push_back(val);
     }
     auto profit = 0;
-    for (int j = 0; j < stock.size(); ++j) {
-        auto buy = stock.at(j);
-        auto sell  = 0;
-        auto max = 0;
-        for (int i = j; i < stock.size(); ++i) {
-            if(stock.at(i) > max) {
-                max = stock.at(i);
-            }
-        }
-        auto diff = sell - buy;
-        if (diff > profit) {
-            profit = diff;
+    for (int i = 0; i <= stock.size() - 2; ++i) {
+        if(stock.at(i) < stock.at(i+1) && stock.at(i+1) > stock.at(i+2)) {
+            profit += abs(stock.at(i+1) - stock.at(i));
         }
     }
     cout<<profit<<endl;
