@@ -1,7 +1,4 @@
 //
-// Created by aveorenzhio on 2/7/19.
-//
-//
 // Created by Shantanu Dwivedi on 4/22/2019.
 //
 #include <bits/stdc++.h>
