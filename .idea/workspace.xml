@@ -96,8 +96,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3808d112-d453-472a-8139-a6ba367a30e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Ascending_Minima_Algo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best_time_to_buy_and_sell_stocks-ii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleprime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DequeSTL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DequeSTL.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiagonalDifference.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DiagonalDifference.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/best-time-to-buy-and-sell-stock-ii.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/best-time-to-buy-and-sell-stock-ii.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/best-time-to-buy-and-sell-stock-ii.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/best-time-to-buy-and-sell-stock-ii.exe" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -185,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.longest-substring-without-repeating-characters">
+  <component name="RunManager" selected="Python.best_time_to_buy_and_sell_stocks-ii">
     <configuration name="2DArrays" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="2DArrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="2DArrays">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -643,6 +651,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="best_time_to_buy_and_sell_stocks-ii" type="PythonConfigurationType" factoryName="Python">
+      <module name="AveoRenzhio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/best_time_to_buy_and_sell_stocks-ii.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="get_email_threads" type="PythonConfigurationType" factoryName="Python">
       <module name="AveoRenzhio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -677,6 +706,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/longest-substring-without-repeating-characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simpleprime" type="PythonConfigurationType" factoryName="Python">
+      <module name="AveoRenzhio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Shantanu\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simpleprime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -773,6 +823,8 @@
       <item itemvalue="Python.get_email_threads" />
       <item itemvalue="Python.Thoughts2BinarySampleProblem2" />
       <item itemvalue="Python.WordsScore" />
+      <item itemvalue="Python.simpleprime" />
+      <item itemvalue="Python.best_time_to_buy_and_sell_stocks-ii" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -836,7 +888,15 @@
       <workItem from="1573750857879" duration="2856000" />
       <workItem from="1573753871573" duration="2684000" />
       <workItem from="1573837298985" duration="1365000" />
-      <workItem from="1573872113756" duration="1655000" />
+      <workItem from="1573872113756" duration="3154000" />
+      <workItem from="1573921684334" duration="944000" />
+      <workItem from="1573993791603" duration="1036000" />
+      <workItem from="1574091822070" duration="596000" />
+      <workItem from="1574263051598" duration="5120000" />
+      <workItem from="1574408991532" duration="604000" />
+      <workItem from="1574414728872" duration="2688000" />
+      <workItem from="1574491185908" duration="1986000" />
+      <workItem from="1574574743692" duration="860000" />
     </task>
     <servers />
   </component>
@@ -909,10 +969,20 @@
           <line>17</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/best-time-to-buy-and-sell-stock-ii.cpp</url>
+          <line>14</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/longest-substring-without-repeating-characters.py</url>
           <line>4</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/simpleprime.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

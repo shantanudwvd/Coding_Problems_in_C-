@@ -2,22 +2,26 @@
 // Created by t2b on 08/11/19.
 //
 #include <iostream>
-#include <bits/stdc++.h>
+#include <cmath>
 using namespace std;
 int main() {
-    deque<int> stock;
     int size;
-//    cout<<"Enter the size: ";
     cin>>size;
-//    cout<<"Enter the elements in the array: "<<endl;
-    for (int i = 0, val = 0; i < size; ++i) {
-        cin>>val;
-        stock.push_back(val);
+    int stock[size+1];
+    for (int i = 1;i <= size; ++i) {
+        cin>>stock[i];
     }
     auto profit = 0;
-    for (int i = 0; i <= stock.size() - 2; ++i) {
-        if(stock.at(i) < stock.at(i+1) && stock.at(i+1) > stock.at(i+2)) {
-            profit += abs(stock.at(i+1) - stock.at(i));
+    for (int i = 1;i < size;) {
+        if(stock[i] < stock[i+1] && stock[i+1] > stock[i+2]) {
+            profit += abs(stock[i+1] - stock[i]);
+            i += 2;
+        }
+        else if(profit == 0 && i == size) {
+            profit += abs(stock[size] - stock[i]);
+        }
+        else {
+            i += 1;
         }
     }
     cout<<profit<<endl;
