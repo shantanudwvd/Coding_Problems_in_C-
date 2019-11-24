@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/remove_adjacent_characters.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/remove_adjacent_characters.dir/remove_adjacent_characters.cpp.o"
+  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/remove_adjacent_characters.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/remove_adjacent_characters.dir/remove_adjacent_characters.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

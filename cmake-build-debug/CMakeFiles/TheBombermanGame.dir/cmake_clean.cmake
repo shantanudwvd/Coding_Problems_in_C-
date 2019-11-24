@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TheBombermanGame.dir/TheBombermanGame.cpp.o"
-  "TheBombermanGame"
+  "CMakeFiles/TheBombermanGame.dir/TheBombermanGame.cpp.obj"
+  "TheBombermanGame.exe"
+  "TheBombermanGame.exe.manifest"
   "TheBombermanGame.pdb"
+  "libTheBombermanGame.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/the_love_letter_mystery.dir/the_love_letter_mystery.cpp.o"
-  "the_love_letter_mystery"
+  "CMakeFiles/the_love_letter_mystery.dir/the_love_letter_mystery.cpp.obj"
+  "libthe_love_letter_mystery.dll.a"
+  "the_love_letter_mystery.exe"
+  "the_love_letter_mystery.exe.manifest"
   "the_love_letter_mystery.pdb"
 )
 

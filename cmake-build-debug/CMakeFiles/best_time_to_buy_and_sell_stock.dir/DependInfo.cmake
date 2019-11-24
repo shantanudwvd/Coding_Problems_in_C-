@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/best-time-to-buy-and-sell-stock.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/best_time_to_buy_and_sell_stock.dir/best-time-to-buy-and-sell-stock.cpp.o"
+  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/best-time-to-buy-and-sell-stock.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/best_time_to_buy_and_sell_stock.dir/best-time-to-buy-and-sell-stock.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

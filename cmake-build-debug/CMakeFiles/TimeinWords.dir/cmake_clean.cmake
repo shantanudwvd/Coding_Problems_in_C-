@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TimeinWords.dir/TimeinWords.cpp.o"
-  "TimeinWords"
+  "CMakeFiles/TimeinWords.dir/TimeinWords.cpp.obj"
+  "TimeinWords.exe"
+  "TimeinWords.exe.manifest"
   "TimeinWords.pdb"
+  "libTimeinWords.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
