@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj"
-  "best-time-to-buy-and-sell-stock-ii.exe"
-  "best-time-to-buy-and-sell-stock-ii.exe.manifest"
+  "CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.o"
+  "best-time-to-buy-and-sell-stock-ii"
   "best-time-to-buy-and-sell-stock-ii.pdb"
-  "libbest-time-to-buy-and-sell-stock-ii.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

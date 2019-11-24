@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DequeSTL.dir/DequeSTL.cpp.obj"
-  "DequeSTL.exe"
-  "DequeSTL.exe.manifest"
+  "CMakeFiles/DequeSTL.dir/DequeSTL.cpp.o"
+  "DequeSTL"
   "DequeSTL.pdb"
-  "libDequeSTL.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

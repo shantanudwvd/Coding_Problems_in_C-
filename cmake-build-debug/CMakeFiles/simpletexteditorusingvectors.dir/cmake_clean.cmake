@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/simpletexteditorusingvectors.dir/simpletexteditorusingvectors.cpp.obj"
-  "libsimpletexteditorusingvectors.dll.a"
-  "simpletexteditorusingvectors.exe"
-  "simpletexteditorusingvectors.exe.manifest"
+  "CMakeFiles/simpletexteditorusingvectors.dir/simpletexteditorusingvectors.cpp.o"
+  "simpletexteditorusingvectors"
   "simpletexteditorusingvectors.pdb"
 )
 

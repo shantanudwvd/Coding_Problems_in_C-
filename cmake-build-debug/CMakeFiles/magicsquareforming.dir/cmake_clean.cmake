@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.obj"
-  "libmagicsquareforming.dll.a"
-  "magicsquareforming.exe"
-  "magicsquareforming.exe.manifest"
+  "CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.o"
+  "magicsquareforming"
   "magicsquareforming.pdb"
 )
 

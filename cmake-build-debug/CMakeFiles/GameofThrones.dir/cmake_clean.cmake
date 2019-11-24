@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/GameofThrones.dir/GameofThrones.cpp.obj"
-  "GameofThrones.exe"
-  "GameofThrones.exe.manifest"
+  "CMakeFiles/GameofThrones.dir/GameofThrones.cpp.o"
+  "GameofThrones"
   "GameofThrones.pdb"
-  "libGameofThrones.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

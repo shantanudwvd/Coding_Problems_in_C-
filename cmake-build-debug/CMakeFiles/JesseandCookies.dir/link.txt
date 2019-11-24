@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\JesseandCookies.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\JesseandCookies.dir/objects.a @CMakeFiles\JesseandCookies.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  -O0 -g   -Wl,--whole-archive CMakeFiles\JesseandCookies.dir/objects.a -Wl,--no-whole-archive  -o JesseandCookies.exe -Wl,--out-implib,libJesseandCookies.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\JesseandCookies.dir\linklibs.rsp
+/usr/bin/c++   -O0 -g   CMakeFiles/JesseandCookies.dir/JesseandCookies.cpp.o  -o JesseandCookies 

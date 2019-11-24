@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/shortest_unsorted_continous_subarray.dir/shortest_unsorted_continous_subarray.cpp.obj"
-  "libshortest_unsorted_continous_subarray.dll.a"
-  "shortest_unsorted_continous_subarray.exe"
-  "shortest_unsorted_continous_subarray.exe.manifest"
+  "CMakeFiles/shortest_unsorted_continous_subarray.dir/shortest_unsorted_continous_subarray.cpp.o"
+  "shortest_unsorted_continous_subarray"
   "shortest_unsorted_continous_subarray.pdb"
 )
 

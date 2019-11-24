@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CuttheSticks.dir/CuttheSticks.cpp.obj"
-  "CuttheSticks.exe"
-  "CuttheSticks.exe.manifest"
+  "CMakeFiles/CuttheSticks.dir/CuttheSticks.cpp.o"
+  "CuttheSticks"
   "CuttheSticks.pdb"
-  "libCuttheSticks.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
