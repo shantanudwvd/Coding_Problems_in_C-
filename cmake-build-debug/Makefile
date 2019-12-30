@@ -383,6 +383,19 @@ LittleMonkandVirat/fast:
 .PHONY : LittleMonkandVirat/fast
 
 #=============================================================================
+# Target rules for targets named PoisnousPlants
+
+# Build rule for target.
+PoisnousPlants: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 PoisnousPlants
+.PHONY : PoisnousPlants
+
+# fast build rule for target.
+PoisnousPlants/fast:
+	$(MAKE) -f CMakeFiles\PoisnousPlants.dir\build.make CMakeFiles/PoisnousPlants.dir/build
+.PHONY : PoisnousPlants/fast
+
+#=============================================================================
 # Target rules for targets named AppendandDelete
 
 # Build rule for target.
@@ -1187,6 +1200,32 @@ best-time-to-buy-and-sell-stock-ii: cmake_check_build_system
 best-time-to-buy-and-sell-stock-ii/fast:
 	$(MAKE) -f CMakeFiles\best-time-to-buy-and-sell-stock-ii.dir\build.make CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/build
 .PHONY : best-time-to-buy-and-sell-stock-ii/fast
+
+#=============================================================================
+# Target rules for targets named PoisnousPlantsAlternate
+
+# Build rule for target.
+PoisnousPlantsAlternate: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 PoisnousPlantsAlternate
+.PHONY : PoisnousPlantsAlternate
+
+# fast build rule for target.
+PoisnousPlantsAlternate/fast:
+	$(MAKE) -f CMakeFiles\PoisnousPlantsAlternate.dir\build.make CMakeFiles/PoisnousPlantsAlternate.dir/build
+.PHONY : PoisnousPlantsAlternate/fast
+
+#=============================================================================
+# Target rules for targets named Poisonous_Plants_Optimised
+
+# Build rule for target.
+Poisonous_Plants_Optimised: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Poisonous_Plants_Optimised
+.PHONY : Poisonous_Plants_Optimised
+
+# fast build rule for target.
+Poisonous_Plants_Optimised/fast:
+	$(MAKE) -f CMakeFiles\Poisonous_Plants_Optimised.dir\build.make CMakeFiles/Poisonous_Plants_Optimised.dir/build
+.PHONY : Poisonous_Plants_Optimised/fast
 
 2DArrays.obj: 2DArrays.cpp.obj
 
@@ -3154,6 +3193,7 @@ PoisnousPlants.obj: PoisnousPlants.cpp.obj
 # target to build an object file
 PoisnousPlants.cpp.obj:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlants.cpp.obj
+	$(MAKE) -f CMakeFiles\PoisnousPlants.dir\build.make CMakeFiles/PoisnousPlants.dir/PoisnousPlants.cpp.obj
 .PHONY : PoisnousPlants.cpp.obj
 
 PoisnousPlants.i: PoisnousPlants.cpp.i
@@ -3163,6 +3203,7 @@ PoisnousPlants.i: PoisnousPlants.cpp.i
 # target to preprocess a source file
 PoisnousPlants.cpp.i:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlants.cpp.i
+	$(MAKE) -f CMakeFiles\PoisnousPlants.dir\build.make CMakeFiles/PoisnousPlants.dir/PoisnousPlants.cpp.i
 .PHONY : PoisnousPlants.cpp.i
 
 PoisnousPlants.s: PoisnousPlants.cpp.s
@@ -3172,6 +3213,7 @@ PoisnousPlants.s: PoisnousPlants.cpp.s
 # target to generate assembly for a file
 PoisnousPlants.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlants.cpp.s
+	$(MAKE) -f CMakeFiles\PoisnousPlants.dir\build.make CMakeFiles/PoisnousPlants.dir/PoisnousPlants.cpp.s
 .PHONY : PoisnousPlants.cpp.s
 
 PoisnousPlantsAlternate.obj: PoisnousPlantsAlternate.cpp.obj
@@ -3181,6 +3223,7 @@ PoisnousPlantsAlternate.obj: PoisnousPlantsAlternate.cpp.obj
 # target to build an object file
 PoisnousPlantsAlternate.cpp.obj:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.obj
+	$(MAKE) -f CMakeFiles\PoisnousPlantsAlternate.dir\build.make CMakeFiles/PoisnousPlantsAlternate.dir/PoisnousPlantsAlternate.cpp.obj
 .PHONY : PoisnousPlantsAlternate.cpp.obj
 
 PoisnousPlantsAlternate.i: PoisnousPlantsAlternate.cpp.i
@@ -3190,6 +3233,7 @@ PoisnousPlantsAlternate.i: PoisnousPlantsAlternate.cpp.i
 # target to preprocess a source file
 PoisnousPlantsAlternate.cpp.i:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.i
+	$(MAKE) -f CMakeFiles\PoisnousPlantsAlternate.dir\build.make CMakeFiles/PoisnousPlantsAlternate.dir/PoisnousPlantsAlternate.cpp.i
 .PHONY : PoisnousPlantsAlternate.cpp.i
 
 PoisnousPlantsAlternate.s: PoisnousPlantsAlternate.cpp.s
@@ -3199,7 +3243,38 @@ PoisnousPlantsAlternate.s: PoisnousPlantsAlternate.cpp.s
 # target to generate assembly for a file
 PoisnousPlantsAlternate.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.s
+	$(MAKE) -f CMakeFiles\PoisnousPlantsAlternate.dir\build.make CMakeFiles/PoisnousPlantsAlternate.dir/PoisnousPlantsAlternate.cpp.s
 .PHONY : PoisnousPlantsAlternate.cpp.s
+
+Poisonous_Plants_Optimised.obj: Poisonous_Plants_Optimised.cpp.obj
+
+.PHONY : Poisonous_Plants_Optimised.obj
+
+# target to build an object file
+Poisonous_Plants_Optimised.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj
+	$(MAKE) -f CMakeFiles\Poisonous_Plants_Optimised.dir\build.make CMakeFiles/Poisonous_Plants_Optimised.dir/Poisonous_Plants_Optimised.cpp.obj
+.PHONY : Poisonous_Plants_Optimised.cpp.obj
+
+Poisonous_Plants_Optimised.i: Poisonous_Plants_Optimised.cpp.i
+
+.PHONY : Poisonous_Plants_Optimised.i
+
+# target to preprocess a source file
+Poisonous_Plants_Optimised.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.i
+	$(MAKE) -f CMakeFiles\Poisonous_Plants_Optimised.dir\build.make CMakeFiles/Poisonous_Plants_Optimised.dir/Poisonous_Plants_Optimised.cpp.i
+.PHONY : Poisonous_Plants_Optimised.cpp.i
+
+Poisonous_Plants_Optimised.s: Poisonous_Plants_Optimised.cpp.s
+
+.PHONY : Poisonous_Plants_Optimised.s
+
+# target to generate assembly for a file
+Poisonous_Plants_Optimised.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.s
+	$(MAKE) -f CMakeFiles\Poisonous_Plants_Optimised.dir\build.make CMakeFiles/Poisonous_Plants_Optimised.dir/Poisonous_Plants_Optimised.cpp.s
+.PHONY : Poisonous_Plants_Optimised.cpp.s
 
 QueenAttackIIAlternate.obj: QueenAttackIIAlternate.cpp.obj
 
@@ -3629,33 +3704,6 @@ SimpleArraySum.s: SimpleArraySum.cpp.s
 SimpleArraySum.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.s
 .PHONY : SimpleArraySum.cpp.s
-
-SolveMeFirst.obj: SolveMeFirst.cpp.obj
-
-.PHONY : SolveMeFirst.obj
-
-# target to build an object file
-SolveMeFirst.cpp.obj:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.obj
-.PHONY : SolveMeFirst.cpp.obj
-
-SolveMeFirst.i: SolveMeFirst.cpp.i
-
-.PHONY : SolveMeFirst.i
-
-# target to preprocess a source file
-SolveMeFirst.cpp.i:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.i
-.PHONY : SolveMeFirst.cpp.i
-
-SolveMeFirst.s: SolveMeFirst.cpp.s
-
-.PHONY : SolveMeFirst.s
-
-# target to generate assembly for a file
-SolveMeFirst.cpp.s:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.s
-.PHONY : SolveMeFirst.cpp.s
 
 SparseArrays.obj: SparseArrays.cpp.obj
 
@@ -4716,6 +4764,7 @@ help:
 	@echo ... TwoStrings
 	@echo ... TaumAndBday
 	@echo ... LittleMonkandVirat
+	@echo ... PoisnousPlants
 	@echo ... AppendandDelete
 	@echo ... ArrayManipulation
 	@echo ... FindTheRunningMedianAlternate
@@ -4778,6 +4827,8 @@ help:
 	@echo ... fill_the_missing_spaces
 	@echo ... best_time_to_buy_and_sell_stock
 	@echo ... best-time-to-buy-and-sell-stock-ii
+	@echo ... PoisnousPlantsAlternate
+	@echo ... Poisonous_Plants_Optimised
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -4990,6 +5041,9 @@ help:
 	@echo ... PoisnousPlantsAlternate.obj
 	@echo ... PoisnousPlantsAlternate.i
 	@echo ... PoisnousPlantsAlternate.s
+	@echo ... Poisonous_Plants_Optimised.obj
+	@echo ... Poisonous_Plants_Optimised.i
+	@echo ... Poisonous_Plants_Optimised.s
 	@echo ... QueenAttackIIAlternate.obj
 	@echo ... QueenAttackIIAlternate.i
 	@echo ... QueenAttackIIAlternate.s
@@ -5035,9 +5089,6 @@ help:
 	@echo ... SimpleArraySum.obj
 	@echo ... SimpleArraySum.i
 	@echo ... SimpleArraySum.s
-	@echo ... SolveMeFirst.obj
-	@echo ... SolveMeFirst.i
-	@echo ... SolveMeFirst.s
 	@echo ... SparseArrays.obj
 	@echo ... SparseArrays.i
 	@echo ... SparseArrays.s

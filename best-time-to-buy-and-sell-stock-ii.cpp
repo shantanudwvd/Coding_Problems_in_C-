@@ -11,14 +11,27 @@ int main() {
     for (int i = 1;i <= size; ++i) {
         cin>>stock[i];
     }
-    auto profit = 0;
-    for (int i = 1;i < size;) {
-        if(stock[i] < stock[i+1] && stock[i+1] > stock[i+2]) {
-            profit += abs(stock[i+1] - stock[i]);
-            i += 2;
+    auto profit = 0, idx = 0;
+    bool buy = false, sell = false;
+    for (int i = 1;i <= size;) {
+        if(!sell && buy) {
+            if(stock[i] > stock[idx] && stock[i] > stock[i+1]) {
+                profit += abs(stock[i] - stock[idx]);
+                sell = false;
+                buy = false;
+                i += 1;
+            }
+            else if(i == size) {
+                profit += abs(stock[i] - stock[idx]);
+                sell = false;
+                buy = false;
+                break;
+            }
         }
-        else if(profit == 0 && i == size) {
-            profit += abs(stock[size] - stock[i]);
+        else if(stock[i] < stock[i+1] && !buy) {
+            buy = true;
+            idx = i;
+            i += 1;
         }
         else {
             i += 1;

@@ -1044,18 +1044,18 @@ CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\FibonacciModified.cpp -o CMakeFiles\AveoRenzhio.dir\FibonacciModified.cpp.s
 
-CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
-CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.obj: ../SolveMeFirst.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\SolveMeFirst.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\SolveMeFirst.cpp
+CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj: ../Poisonous_Plants_Optimised.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Poisonous_Plants_Optimised.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Poisonous_Plants_Optimised.cpp
 
-CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\SolveMeFirst.cpp > CMakeFiles\AveoRenzhio.dir\SolveMeFirst.cpp.i
+CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Poisonous_Plants_Optimised.cpp > CMakeFiles\AveoRenzhio.dir\Poisonous_Plants_Optimised.cpp.i
 
-CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\SolveMeFirst.cpp -o CMakeFiles\AveoRenzhio.dir\SolveMeFirst.cpp.s
+CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Poisonous_Plants_Optimised.cpp -o CMakeFiles\AveoRenzhio.dir\Poisonous_Plants_Optimised.cpp.s
 
 CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj: ../SimpleArraySum.cpp
@@ -1655,7 +1655,7 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.obj" \
-"CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.obj" \
@@ -1776,7 +1776,7 @@ AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.obj
-AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/SolveMeFirst.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.obj

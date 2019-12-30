@@ -1,14 +1,20 @@
-size = int(input("Enter the size of the array: "))
-print("Enter the elements of the array:", end="\n")
-stock = list(map(int, input().split(" ")))
 profit = 0
+idx = 0
+buy = False
+sell = False
 i = 0
-while i+2 <= size:
-    if stock[i] < stock[i+1] and stock[i+1] > stock[i+2]:
-        profit += int(stock[i+1] - stock[i])
-        i += 2
-    elif profit == 0 and i == size:
-        profit += (stock[size] - stock[i])
+prices = list(map(int, input().split(" ")))
+while i <len(prices):
+    if prices[i] > prices[i+1] and sell == False and buy == True:
+        profit += (prices[i] - prices[idx])
+        sell = False
+        buy = False
+        i += 1
+    elif prices[i] < prices[i+1] and buy == False:
+        buy = True
+        idx = i
+        i += 1
     else:
         i += 1
 print(profit)
+
