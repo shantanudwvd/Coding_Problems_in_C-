@@ -18,6 +18,7 @@
       <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
       <config projectName="AveoRenzhio" targetName="stringstream" />
       <config projectName="AveoRenzhio" targetName="remove_adjacent_characters" />
+      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
       <config projectName="AveoRenzhio" targetName="BeautifulTriplets" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandVirat" />
       <config projectName="AveoRenzhio" targetName="StrongPassword" />
@@ -27,13 +28,14 @@
       <config projectName="AveoRenzhio" targetName="CommonChild" />
       <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
       <config projectName="AveoRenzhio" targetName="the_love_letter_mystery" />
+      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
       <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
       <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
       <config projectName="AveoRenzhio" targetName="AngryProfessor" />
       <config projectName="AveoRenzhio" targetName="UtopianTree" />
       <config projectName="AveoRenzhio" targetName="GameofThrones" />
       <config projectName="AveoRenzhio" targetName="DequeSTL" />
-      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
+      <config projectName="AveoRenzhio" targetName="best-time-to-buy-and-sell-stock-ii" />
       <config projectName="AveoRenzhio" targetName="TwoCharacters" />
       <config projectName="AveoRenzhio" targetName="halloweensale" />
       <config projectName="AveoRenzhio" targetName="XOR-sequence" />
@@ -45,12 +47,11 @@
       <config projectName="AveoRenzhio" targetName="strangecode" />
       <config projectName="AveoRenzhio" targetName="betweeentwosets" />
       <config projectName="AveoRenzhio" targetName="Anagrams" />
+      <config projectName="AveoRenzhio" targetName="GamingArray" />
       <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
       <config projectName="AveoRenzhio" targetName="RookMovement" />
       <config projectName="AveoRenzhio" targetName="QueensAttackII" />
-      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
       <config projectName="AveoRenzhio" targetName="AppendandDelete" />
       <config projectName="AveoRenzhio" targetName="2DArrays" />
       <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifications" />
@@ -63,7 +64,6 @@
       <config projectName="AveoRenzhio" targetName="SheldonandValidString" />
       <config projectName="AveoRenzhio" targetName="Encryption" />
       <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
-      <config projectName="AveoRenzhio" targetName="TheBombermanGame" />
       <config projectName="AveoRenzhio" targetName="SherlockandSquares" />
       <config projectName="AveoRenzhio" targetName="dictionariesandmaps" />
       <config projectName="AveoRenzhio" targetName="TaumAndBday" />
@@ -74,18 +74,18 @@
       <config projectName="AveoRenzhio" targetName="best_time_to_buy_and_sell_stock" />
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedian" />
       <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
-      <config projectName="AveoRenzhio" targetName="best-time-to-buy-and-sell-stock-ii" />
+      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
       <config projectName="AveoRenzhio" targetName="IntegerTypes" />
       <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
       <config projectName="AveoRenzhio" targetName="LilyHomeworkAlternate" />
-      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
+      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
       <config projectName="AveoRenzhio" targetName="fairrations" />
       <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
-      <config projectName="AveoRenzhio" targetName="GamingArray" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
       <config projectName="AveoRenzhio" targetName="AndProduct" />
       <config projectName="AveoRenzhio" targetName="Poisonous_Plants_Optimised" />
-      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
+      <config projectName="AveoRenzhio" targetName="TheBombermanGame" />
       <config projectName="AveoRenzhio" targetName="funnystring" />
       <config projectName="AveoRenzhio" targetName="flatlandspacestations" />
     </generated>
@@ -98,6 +98,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f40dc9a4-172e-4c63-a051-db14b069f909" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/best_time_to_buy_and_sell_stocks-ii.py" beforeDir="false" afterPath="$PROJECT_DIR$/best_time_to_buy_and_sell_stocks-ii.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +108,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -143,7 +143,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="CMake Application.Poisonous_Plants_Optimised">
+  <component name="RunManager" selected="Python.best_time_to_buy_and_sell_stocks-ii">
     <configuration name="2DArrays" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="2DArrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="2DArrays">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -804,7 +804,14 @@
       <workItem from="1577707455555" duration="804000" />
       <workItem from="1577970986813" duration="946000" />
       <workItem from="1577973752799" duration="793000" />
-      <workItem from="1578131951520" duration="1362000" />
+      <workItem from="1578131951520" duration="6285000" />
+      <workItem from="1578396730841" duration="505000" />
+      <workItem from="1578400103091" duration="860000" />
+      <workItem from="1579695008862" duration="1098000" />
+      <workItem from="1580583111657" duration="148000" />
+      <workItem from="1580583310308" duration="85000" />
+      <workItem from="1580583418564" duration="1966000" />
+      <workItem from="1580626005356" duration="827000" />
     </task>
     <servers />
   </component>
@@ -836,10 +843,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576157956568" />
-    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575835618365">
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580626849012">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1575835618365" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1580626849012" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577394397960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -848,22 +855,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="417" y="125" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1576157897949" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1577706183645">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580587048198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577706183645" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1577706183645">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580587048198" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580587048198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577706183645" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1577706183645">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580587048198" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580587048198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577706183645" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1577706183645">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580587048198" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580587048198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577706183645" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580587048198" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1577706183646">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -880,18 +887,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577706183645" />
-    <state x="184" y="5" key="SettingsEditor" timestamp="1576158007993">
+    <state x="184" y="5" key="SettingsEditor" timestamp="1580626601888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576158007993" />
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580626601888" />
     <state x="438" y="207" key="cloudConfig.SelfSettingsDialog" timestamp="1577453903424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="207" key="cloudConfig.SelfSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577453903424" />
-    <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1578131959257">
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1580626237002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578131959257" />
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580626237002" />
     <state x="408" y="7" key="refactoring.ChangeSignatureDialog" timestamp="1577454548009">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

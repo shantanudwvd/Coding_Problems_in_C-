@@ -4,7 +4,7 @@ buy = False
 sell = False
 i = 0
 prices = list(map(int, input().split(" ")))
-while i <len(prices):
+while i < len(prices):
     if prices[i] > prices[i+1] and sell == False and buy == True:
         profit += (prices[i] - prices[idx])
         sell = False
