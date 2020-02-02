@@ -27,6 +27,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/Counting_Sort_1.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/Counting_Sort_2.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/Deque-STL-Alternate.cpp.obj"
+  "CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/DequeSTL.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/Encryption.cpp.obj"

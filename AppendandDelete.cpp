@@ -15,14 +15,14 @@ int main()
     getline(cin,s);
     string t;
     getline(cin,t);
-    for(int i=0;i<s.length();i++)
+    for(char i : s)
     {
-        str.push_back(s[i]);
+        str.push_back(i);
     }
     it=str.begin();
-    for(int i=0;i<t.length();i++)
+    for(char i : t)
     {
-        str1.push_back(t[i]);
+        str1.push_back(i);
     }
     it1=str1.begin();
     int k;
@@ -60,4 +60,3 @@ int main()
         cout<<"No";
     }
 }
-

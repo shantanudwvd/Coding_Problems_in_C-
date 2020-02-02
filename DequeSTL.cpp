@@ -2,8 +2,6 @@
 // Created by Shantanu Dwivedi on 1/18/2019.
 //
 #include <iostream>
-#include <bits/stdc++.h>
-#include <iomanip>
 using namespace std;
 int max_ele, idx, comp;
 void max_in_window(const long int arr[], int start, int end) {

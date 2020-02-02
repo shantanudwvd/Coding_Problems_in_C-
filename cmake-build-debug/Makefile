@@ -1227,6 +1227,19 @@ Poisonous_Plants_Optimised/fast:
 	$(MAKE) -f CMakeFiles\Poisonous_Plants_Optimised.dir\build.make CMakeFiles/Poisonous_Plants_Optimised.dir/build
 .PHONY : Poisonous_Plants_Optimised/fast
 
+#=============================================================================
+# Target rules for targets named Deque-STL_Optimised
+
+# Build rule for target.
+Deque-STL_Optimised: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Deque-STL_Optimised
+.PHONY : Deque-STL_Optimised
+
+# fast build rule for target.
+Deque-STL_Optimised/fast:
+	$(MAKE) -f CMakeFiles\Deque-STL_Optimised.dir\build.make CMakeFiles/Deque-STL_Optimised.dir/build
+.PHONY : Deque-STL_Optimised/fast
+
 2DArrays.obj: 2DArrays.cpp.obj
 
 .PHONY : 2DArrays.obj
@@ -2009,6 +2022,36 @@ Deque-STL-Alternate.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Deque-STL-Alternate.cpp.s
 	$(MAKE) -f CMakeFiles\Deque-STL-Alternate.dir\build.make CMakeFiles/Deque-STL-Alternate.dir/Deque-STL-Alternate.cpp.s
 .PHONY : Deque-STL-Alternate.cpp.s
+
+Deque-STL_Optimised.obj: Deque-STL_Optimised.cpp.obj
+
+.PHONY : Deque-STL_Optimised.obj
+
+# target to build an object file
+Deque-STL_Optimised.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.obj
+	$(MAKE) -f CMakeFiles\Deque-STL_Optimised.dir\build.make CMakeFiles/Deque-STL_Optimised.dir/Deque-STL_Optimised.cpp.obj
+.PHONY : Deque-STL_Optimised.cpp.obj
+
+Deque-STL_Optimised.i: Deque-STL_Optimised.cpp.i
+
+.PHONY : Deque-STL_Optimised.i
+
+# target to preprocess a source file
+Deque-STL_Optimised.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.i
+	$(MAKE) -f CMakeFiles\Deque-STL_Optimised.dir\build.make CMakeFiles/Deque-STL_Optimised.dir/Deque-STL_Optimised.cpp.i
+.PHONY : Deque-STL_Optimised.cpp.i
+
+Deque-STL_Optimised.s: Deque-STL_Optimised.cpp.s
+
+.PHONY : Deque-STL_Optimised.s
+
+# target to generate assembly for a file
+Deque-STL_Optimised.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.s
+	$(MAKE) -f CMakeFiles\Deque-STL_Optimised.dir\build.make CMakeFiles/Deque-STL_Optimised.dir/Deque-STL_Optimised.cpp.s
+.PHONY : Deque-STL_Optimised.cpp.s
 
 DequeSTL.obj: DequeSTL.cpp.obj
 
@@ -4829,6 +4872,7 @@ help:
 	@echo ... best-time-to-buy-and-sell-stock-ii
 	@echo ... PoisnousPlantsAlternate
 	@echo ... Poisonous_Plants_Optimised
+	@echo ... Deque-STL_Optimised
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -4912,6 +4956,9 @@ help:
 	@echo ... Deque-STL-Alternate.obj
 	@echo ... Deque-STL-Alternate.i
 	@echo ... Deque-STL-Alternate.s
+	@echo ... Deque-STL_Optimised.obj
+	@echo ... Deque-STL_Optimised.i
+	@echo ... Deque-STL_Optimised.s
 	@echo ... DequeSTL.obj
 	@echo ... DequeSTL.i
 	@echo ... DequeSTL.s
