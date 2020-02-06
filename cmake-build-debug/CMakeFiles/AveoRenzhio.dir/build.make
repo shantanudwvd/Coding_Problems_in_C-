@@ -1590,6 +1590,45 @@ CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Deque-STL_Optimised.cpp -o CMakeFiles\AveoRenzhio.dir\Deque-STL_Optimised.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj: ../hiphiparray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\hiphiparray.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\hiphiparray.cpp
+
+CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\hiphiparray.cpp > CMakeFiles\AveoRenzhio.dir\hiphiparray.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\hiphiparray.cpp -o CMakeFiles\AveoRenzhio.dir\hiphiparray.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj: ../Pallindrome_Index.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Pallindrome_Index.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Pallindrome_Index.cpp
+
+CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Pallindrome_Index.cpp > CMakeFiles\AveoRenzhio.dir\Pallindrome_Index.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Pallindrome_Index.cpp -o CMakeFiles\AveoRenzhio.dir\Pallindrome_Index.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.obj: ../Missing_Numbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Missing_Numbers.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Missing_Numbers.cpp
+
+CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Missing_Numbers.cpp > CMakeFiles\AveoRenzhio.dir\Missing_Numbers.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Missing_Numbers.cpp -o CMakeFiles\AveoRenzhio.dir\Missing_Numbers.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Thoughts2BinarySampleProblem1.cpp.obj" \
@@ -1709,7 +1748,10 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.obj" \
-"CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.obj"
+"CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.obj"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -1832,11 +1874,14 @@ AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/linklibs.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/objects1.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Linking CXX executable AveoRenzhio.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Linking CXX executable AveoRenzhio.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AveoRenzhio.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
