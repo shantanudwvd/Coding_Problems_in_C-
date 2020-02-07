@@ -3797,6 +3797,90 @@
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Simple_Transpose">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Simple_Transpose.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Simple_Transpose"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Simple_Transpose/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Simple_Transpose.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Simple_Transpose/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rotate_the_matrix">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Rotate_the_matrix.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Rotate_the_matrix"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rotate_the_matrix/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Rotate_the_matrix.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Rotate_the_matrix/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
 				<Option type="4"/>
@@ -3840,6 +3924,9 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Abbreviation.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Absolute_Element_Sums.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/AlmostSorted.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="AlmostSorted"/>
@@ -3878,6 +3965,9 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/CalvinsGame.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="CalvinsGame"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/CamelCase.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ChocolateFeast.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4115,6 +4205,10 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="RookMovement"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Rotate_the_matrix.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Rotate_the_matrix"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Running Time of Algorithms.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -4139,6 +4233,10 @@
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/SimpleArraySum.cpp">
 			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Simple_Transpose.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Simple_Transpose"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/SparseArrays.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4189,6 +4287,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="XOR-sequence"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/alternating-characters.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/best-time-to-buy-and-sell-stock-ii.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="best-time-to-buy-and-sell-stock-ii"/>
@@ -4203,6 +4304,9 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/betweeentwosets.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="betweeentwosets"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/caesar-cipher-1.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/data_types.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4233,6 +4337,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="funnystring"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/hackerrank-in-a-string.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/halloweensale.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="halloweensale"/>
@@ -4252,6 +4359,12 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/magicsquareforming.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="magicsquareforming"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/mars-exploration.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/pangrams.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/rearrange_array.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4277,9 +4390,18 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="stringstream"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/super_reduced_string.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/the-love-letter-mystery.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/the_love_letter_mystery.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="the_love_letter_mystery"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/two-strings.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

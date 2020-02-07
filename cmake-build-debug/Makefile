@@ -1279,6 +1279,32 @@ Equilibrium_Point/fast:
 	$(MAKE) -f CMakeFiles\Equilibrium_Point.dir\build.make CMakeFiles/Equilibrium_Point.dir/build
 .PHONY : Equilibrium_Point/fast
 
+#=============================================================================
+# Target rules for targets named Simple_Transpose
+
+# Build rule for target.
+Simple_Transpose: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Simple_Transpose
+.PHONY : Simple_Transpose
+
+# fast build rule for target.
+Simple_Transpose/fast:
+	$(MAKE) -f CMakeFiles\Simple_Transpose.dir\build.make CMakeFiles/Simple_Transpose.dir/build
+.PHONY : Simple_Transpose/fast
+
+#=============================================================================
+# Target rules for targets named Rotate_the_matrix
+
+# Build rule for target.
+Rotate_the_matrix: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Rotate_the_matrix
+.PHONY : Rotate_the_matrix
+
+# fast build rule for target.
+Rotate_the_matrix/fast:
+	$(MAKE) -f CMakeFiles\Rotate_the_matrix.dir\build.make CMakeFiles/Rotate_the_matrix.dir/build
+.PHONY : Rotate_the_matrix/fast
+
 2DArrays.obj: 2DArrays.cpp.obj
 
 .PHONY : 2DArrays.obj
@@ -1452,6 +1478,33 @@ Abbreviation.s: Abbreviation.cpp.s
 Abbreviation.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.s
 .PHONY : Abbreviation.cpp.s
+
+Absolute_Element_Sums.obj: Absolute_Element_Sums.cpp.obj
+
+.PHONY : Absolute_Element_Sums.obj
+
+# target to build an object file
+Absolute_Element_Sums.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Absolute_Element_Sums.cpp.obj
+.PHONY : Absolute_Element_Sums.cpp.obj
+
+Absolute_Element_Sums.i: Absolute_Element_Sums.cpp.i
+
+.PHONY : Absolute_Element_Sums.i
+
+# target to preprocess a source file
+Absolute_Element_Sums.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Absolute_Element_Sums.cpp.i
+.PHONY : Absolute_Element_Sums.cpp.i
+
+Absolute_Element_Sums.s: Absolute_Element_Sums.cpp.s
+
+.PHONY : Absolute_Element_Sums.s
+
+# target to generate assembly for a file
+Absolute_Element_Sums.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Absolute_Element_Sums.cpp.s
+.PHONY : Absolute_Element_Sums.cpp.s
 
 AlmostSorted.obj: AlmostSorted.cpp.obj
 
@@ -1749,6 +1802,33 @@ CalvinsGame.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/CalvinsGame.cpp.s
 	$(MAKE) -f CMakeFiles\CalvinsGame.dir\build.make CMakeFiles/CalvinsGame.dir/CalvinsGame.cpp.s
 .PHONY : CalvinsGame.cpp.s
+
+CamelCase.obj: CamelCase.cpp.obj
+
+.PHONY : CamelCase.obj
+
+# target to build an object file
+CamelCase.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.obj
+.PHONY : CamelCase.cpp.obj
+
+CamelCase.i: CamelCase.cpp.i
+
+.PHONY : CamelCase.i
+
+# target to preprocess a source file
+CamelCase.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.i
+.PHONY : CamelCase.cpp.i
+
+CamelCase.s: CamelCase.cpp.s
+
+.PHONY : CamelCase.s
+
+# target to generate assembly for a file
+CamelCase.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.s
+.PHONY : CamelCase.cpp.s
 
 ChocolateFeast.obj: ChocolateFeast.cpp.obj
 
@@ -3646,6 +3726,36 @@ RookMovement.cpp.s:
 	$(MAKE) -f CMakeFiles\RookMovement.dir\build.make CMakeFiles/RookMovement.dir/RookMovement.cpp.s
 .PHONY : RookMovement.cpp.s
 
+Rotate_the_matrix.obj: Rotate_the_matrix.cpp.obj
+
+.PHONY : Rotate_the_matrix.obj
+
+# target to build an object file
+Rotate_the_matrix.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Rotate_the_matrix.cpp.obj
+	$(MAKE) -f CMakeFiles\Rotate_the_matrix.dir\build.make CMakeFiles/Rotate_the_matrix.dir/Rotate_the_matrix.cpp.obj
+.PHONY : Rotate_the_matrix.cpp.obj
+
+Rotate_the_matrix.i: Rotate_the_matrix.cpp.i
+
+.PHONY : Rotate_the_matrix.i
+
+# target to preprocess a source file
+Rotate_the_matrix.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Rotate_the_matrix.cpp.i
+	$(MAKE) -f CMakeFiles\Rotate_the_matrix.dir\build.make CMakeFiles/Rotate_the_matrix.dir/Rotate_the_matrix.cpp.i
+.PHONY : Rotate_the_matrix.cpp.i
+
+Rotate_the_matrix.s: Rotate_the_matrix.cpp.s
+
+.PHONY : Rotate_the_matrix.s
+
+# target to generate assembly for a file
+Rotate_the_matrix.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Rotate_the_matrix.cpp.s
+	$(MAKE) -f CMakeFiles\Rotate_the_matrix.dir\build.make CMakeFiles/Rotate_the_matrix.dir/Rotate_the_matrix.cpp.s
+.PHONY : Rotate_the_matrix.cpp.s
+
 Running_Time_of_Algorithms.obj: Running_Time_of_Algorithms.cpp.obj
 
 .PHONY : Running_Time_of_Algorithms.obj
@@ -3846,6 +3956,36 @@ SimpleArraySum.s: SimpleArraySum.cpp.s
 SimpleArraySum.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.s
 .PHONY : SimpleArraySum.cpp.s
+
+Simple_Transpose.obj: Simple_Transpose.cpp.obj
+
+.PHONY : Simple_Transpose.obj
+
+# target to build an object file
+Simple_Transpose.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.obj
+	$(MAKE) -f CMakeFiles\Simple_Transpose.dir\build.make CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.obj
+.PHONY : Simple_Transpose.cpp.obj
+
+Simple_Transpose.i: Simple_Transpose.cpp.i
+
+.PHONY : Simple_Transpose.i
+
+# target to preprocess a source file
+Simple_Transpose.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.i
+	$(MAKE) -f CMakeFiles\Simple_Transpose.dir\build.make CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.i
+.PHONY : Simple_Transpose.cpp.i
+
+Simple_Transpose.s: Simple_Transpose.cpp.s
+
+.PHONY : Simple_Transpose.s
+
+# target to generate assembly for a file
+Simple_Transpose.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.s
+	$(MAKE) -f CMakeFiles\Simple_Transpose.dir\build.make CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.s
+.PHONY : Simple_Transpose.cpp.s
 
 SparseArrays.obj: SparseArrays.cpp.obj
 
@@ -4201,6 +4341,33 @@ XOR-sequence.cpp.s:
 	$(MAKE) -f CMakeFiles\XOR-sequence.dir\build.make CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.s
 .PHONY : XOR-sequence.cpp.s
 
+alternating-characters.obj: alternating-characters.cpp.obj
+
+.PHONY : alternating-characters.obj
+
+# target to build an object file
+alternating-characters.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.obj
+.PHONY : alternating-characters.cpp.obj
+
+alternating-characters.i: alternating-characters.cpp.i
+
+.PHONY : alternating-characters.i
+
+# target to preprocess a source file
+alternating-characters.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.i
+.PHONY : alternating-characters.cpp.i
+
+alternating-characters.s: alternating-characters.cpp.s
+
+.PHONY : alternating-characters.s
+
+# target to generate assembly for a file
+alternating-characters.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.s
+.PHONY : alternating-characters.cpp.s
+
 best-time-to-buy-and-sell-stock-ii.obj: best-time-to-buy-and-sell-stock-ii.cpp.obj
 
 .PHONY : best-time-to-buy-and-sell-stock-ii.obj
@@ -4317,6 +4484,33 @@ betweeentwosets.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/betweeentwosets.cpp.s
 	$(MAKE) -f CMakeFiles\betweeentwosets.dir\build.make CMakeFiles/betweeentwosets.dir/betweeentwosets.cpp.s
 .PHONY : betweeentwosets.cpp.s
+
+caesar-cipher-1.obj: caesar-cipher-1.cpp.obj
+
+.PHONY : caesar-cipher-1.obj
+
+# target to build an object file
+caesar-cipher-1.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.obj
+.PHONY : caesar-cipher-1.cpp.obj
+
+caesar-cipher-1.i: caesar-cipher-1.cpp.i
+
+.PHONY : caesar-cipher-1.i
+
+# target to preprocess a source file
+caesar-cipher-1.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.i
+.PHONY : caesar-cipher-1.cpp.i
+
+caesar-cipher-1.s: caesar-cipher-1.cpp.s
+
+.PHONY : caesar-cipher-1.s
+
+# target to generate assembly for a file
+caesar-cipher-1.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.s
+.PHONY : caesar-cipher-1.cpp.s
 
 data_types.obj: data_types.cpp.obj
 
@@ -4549,6 +4743,33 @@ funnystring.cpp.s:
 	$(MAKE) -f CMakeFiles\funnystring.dir\build.make CMakeFiles/funnystring.dir/funnystring.cpp.s
 .PHONY : funnystring.cpp.s
 
+hackerrank-in-a-string.obj: hackerrank-in-a-string.cpp.obj
+
+.PHONY : hackerrank-in-a-string.obj
+
+# target to build an object file
+hackerrank-in-a-string.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/hackerrank-in-a-string.cpp.obj
+.PHONY : hackerrank-in-a-string.cpp.obj
+
+hackerrank-in-a-string.i: hackerrank-in-a-string.cpp.i
+
+.PHONY : hackerrank-in-a-string.i
+
+# target to preprocess a source file
+hackerrank-in-a-string.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/hackerrank-in-a-string.cpp.i
+.PHONY : hackerrank-in-a-string.cpp.i
+
+hackerrank-in-a-string.s: hackerrank-in-a-string.cpp.s
+
+.PHONY : hackerrank-in-a-string.s
+
+# target to generate assembly for a file
+hackerrank-in-a-string.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/hackerrank-in-a-string.cpp.s
+.PHONY : hackerrank-in-a-string.cpp.s
+
 halloweensale.obj: halloweensale.cpp.obj
 
 .PHONY : halloweensale.obj
@@ -4698,6 +4919,60 @@ magicsquareforming.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/magicsquareforming.cpp.s
 	$(MAKE) -f CMakeFiles\magicsquareforming.dir\build.make CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.s
 .PHONY : magicsquareforming.cpp.s
+
+mars-exploration.obj: mars-exploration.cpp.obj
+
+.PHONY : mars-exploration.obj
+
+# target to build an object file
+mars-exploration.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.obj
+.PHONY : mars-exploration.cpp.obj
+
+mars-exploration.i: mars-exploration.cpp.i
+
+.PHONY : mars-exploration.i
+
+# target to preprocess a source file
+mars-exploration.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.i
+.PHONY : mars-exploration.cpp.i
+
+mars-exploration.s: mars-exploration.cpp.s
+
+.PHONY : mars-exploration.s
+
+# target to generate assembly for a file
+mars-exploration.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.s
+.PHONY : mars-exploration.cpp.s
+
+pangrams.obj: pangrams.cpp.obj
+
+.PHONY : pangrams.obj
+
+# target to build an object file
+pangrams.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/pangrams.cpp.obj
+.PHONY : pangrams.cpp.obj
+
+pangrams.i: pangrams.cpp.i
+
+.PHONY : pangrams.i
+
+# target to preprocess a source file
+pangrams.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/pangrams.cpp.i
+.PHONY : pangrams.cpp.i
+
+pangrams.s: pangrams.cpp.s
+
+.PHONY : pangrams.s
+
+# target to generate assembly for a file
+pangrams.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/pangrams.cpp.s
+.PHONY : pangrams.cpp.s
 
 rearrange_array.obj: rearrange_array.cpp.obj
 
@@ -4879,6 +5154,60 @@ stringstream.cpp.s:
 	$(MAKE) -f CMakeFiles\stringstream.dir\build.make CMakeFiles/stringstream.dir/stringstream.cpp.s
 .PHONY : stringstream.cpp.s
 
+super_reduced_string.obj: super_reduced_string.cpp.obj
+
+.PHONY : super_reduced_string.obj
+
+# target to build an object file
+super_reduced_string.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/super_reduced_string.cpp.obj
+.PHONY : super_reduced_string.cpp.obj
+
+super_reduced_string.i: super_reduced_string.cpp.i
+
+.PHONY : super_reduced_string.i
+
+# target to preprocess a source file
+super_reduced_string.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/super_reduced_string.cpp.i
+.PHONY : super_reduced_string.cpp.i
+
+super_reduced_string.s: super_reduced_string.cpp.s
+
+.PHONY : super_reduced_string.s
+
+# target to generate assembly for a file
+super_reduced_string.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/super_reduced_string.cpp.s
+.PHONY : super_reduced_string.cpp.s
+
+the-love-letter-mystery.obj: the-love-letter-mystery.cpp.obj
+
+.PHONY : the-love-letter-mystery.obj
+
+# target to build an object file
+the-love-letter-mystery.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/the-love-letter-mystery.cpp.obj
+.PHONY : the-love-letter-mystery.cpp.obj
+
+the-love-letter-mystery.i: the-love-letter-mystery.cpp.i
+
+.PHONY : the-love-letter-mystery.i
+
+# target to preprocess a source file
+the-love-letter-mystery.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/the-love-letter-mystery.cpp.i
+.PHONY : the-love-letter-mystery.cpp.i
+
+the-love-letter-mystery.s: the-love-letter-mystery.cpp.s
+
+.PHONY : the-love-letter-mystery.s
+
+# target to generate assembly for a file
+the-love-letter-mystery.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/the-love-letter-mystery.cpp.s
+.PHONY : the-love-letter-mystery.cpp.s
+
 the_love_letter_mystery.obj: the_love_letter_mystery.cpp.obj
 
 .PHONY : the_love_letter_mystery.obj
@@ -4908,6 +5237,33 @@ the_love_letter_mystery.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.s
 	$(MAKE) -f CMakeFiles\the_love_letter_mystery.dir\build.make CMakeFiles/the_love_letter_mystery.dir/the_love_letter_mystery.cpp.s
 .PHONY : the_love_letter_mystery.cpp.s
+
+two-strings.obj: two-strings.cpp.obj
+
+.PHONY : two-strings.obj
+
+# target to build an object file
+two-strings.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/two-strings.cpp.obj
+.PHONY : two-strings.cpp.obj
+
+two-strings.i: two-strings.cpp.i
+
+.PHONY : two-strings.i
+
+# target to preprocess a source file
+two-strings.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/two-strings.cpp.i
+.PHONY : two-strings.cpp.i
+
+two-strings.s: two-strings.cpp.s
+
+.PHONY : two-strings.s
+
+# target to generate assembly for a file
+two-strings.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/two-strings.cpp.s
+.PHONY : two-strings.cpp.s
 
 # Help Target
 help:
@@ -5005,6 +5361,8 @@ help:
 	@echo ... hiphiparray
 	@echo ... ExtraLongFactorials
 	@echo ... Equilibrium_Point
+	@echo ... Simple_Transpose
+	@echo ... Rotate_the_matrix
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -5025,6 +5383,9 @@ help:
 	@echo ... Abbreviation.obj
 	@echo ... Abbreviation.i
 	@echo ... Abbreviation.s
+	@echo ... Absolute_Element_Sums.obj
+	@echo ... Absolute_Element_Sums.i
+	@echo ... Absolute_Element_Sums.s
 	@echo ... AlmostSorted.obj
 	@echo ... AlmostSorted.i
 	@echo ... AlmostSorted.s
@@ -5055,6 +5416,9 @@ help:
 	@echo ... CalvinsGame.obj
 	@echo ... CalvinsGame.i
 	@echo ... CalvinsGame.s
+	@echo ... CamelCase.obj
+	@echo ... CamelCase.i
+	@echo ... CamelCase.s
 	@echo ... ChocolateFeast.obj
 	@echo ... ChocolateFeast.i
 	@echo ... ChocolateFeast.s
@@ -5253,6 +5617,9 @@ help:
 	@echo ... RookMovement.obj
 	@echo ... RookMovement.i
 	@echo ... RookMovement.s
+	@echo ... Rotate_the_matrix.obj
+	@echo ... Rotate_the_matrix.i
+	@echo ... Rotate_the_matrix.s
 	@echo ... Running_Time_of_Algorithms.obj
 	@echo ... Running_Time_of_Algorithms.i
 	@echo ... Running_Time_of_Algorithms.s
@@ -5274,6 +5641,9 @@ help:
 	@echo ... SimpleArraySum.obj
 	@echo ... SimpleArraySum.i
 	@echo ... SimpleArraySum.s
+	@echo ... Simple_Transpose.obj
+	@echo ... Simple_Transpose.i
+	@echo ... Simple_Transpose.s
 	@echo ... SparseArrays.obj
 	@echo ... SparseArrays.i
 	@echo ... SparseArrays.s
@@ -5310,6 +5680,9 @@ help:
 	@echo ... XOR-sequence.obj
 	@echo ... XOR-sequence.i
 	@echo ... XOR-sequence.s
+	@echo ... alternating-characters.obj
+	@echo ... alternating-characters.i
+	@echo ... alternating-characters.s
 	@echo ... best-time-to-buy-and-sell-stock-ii.obj
 	@echo ... best-time-to-buy-and-sell-stock-ii.i
 	@echo ... best-time-to-buy-and-sell-stock-ii.s
@@ -5322,6 +5695,9 @@ help:
 	@echo ... betweeentwosets.obj
 	@echo ... betweeentwosets.i
 	@echo ... betweeentwosets.s
+	@echo ... caesar-cipher-1.obj
+	@echo ... caesar-cipher-1.i
+	@echo ... caesar-cipher-1.s
 	@echo ... data_types.obj
 	@echo ... data_types.i
 	@echo ... data_types.s
@@ -5346,6 +5722,9 @@ help:
 	@echo ... funnystring.obj
 	@echo ... funnystring.i
 	@echo ... funnystring.s
+	@echo ... hackerrank-in-a-string.obj
+	@echo ... hackerrank-in-a-string.i
+	@echo ... hackerrank-in-a-string.s
 	@echo ... halloweensale.obj
 	@echo ... halloweensale.i
 	@echo ... halloweensale.s
@@ -5361,6 +5740,12 @@ help:
 	@echo ... magicsquareforming.obj
 	@echo ... magicsquareforming.i
 	@echo ... magicsquareforming.s
+	@echo ... mars-exploration.obj
+	@echo ... mars-exploration.i
+	@echo ... mars-exploration.s
+	@echo ... pangrams.obj
+	@echo ... pangrams.i
+	@echo ... pangrams.s
 	@echo ... rearrange_array.obj
 	@echo ... rearrange_array.i
 	@echo ... rearrange_array.s
@@ -5379,9 +5764,18 @@ help:
 	@echo ... stringstream.obj
 	@echo ... stringstream.i
 	@echo ... stringstream.s
+	@echo ... super_reduced_string.obj
+	@echo ... super_reduced_string.i
+	@echo ... super_reduced_string.s
+	@echo ... the-love-letter-mystery.obj
+	@echo ... the-love-letter-mystery.i
+	@echo ... the-love-letter-mystery.s
 	@echo ... the_love_letter_mystery.obj
 	@echo ... the_love_letter_mystery.i
 	@echo ... the_love_letter_mystery.s
+	@echo ... two-strings.obj
+	@echo ... two-strings.i
+	@echo ... two-strings.s
 .PHONY : help
 
 
