@@ -127,6 +127,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/TimeinWords.dir/DependInfo.cmake"
   "CMakeFiles/SheldonandValidString.dir/DependInfo.cmake"
   "CMakeFiles/CommonChild.dir/DependInfo.cmake"
+  "CMakeFiles/Min_steps_i_a_grid.dir/DependInfo.cmake"
   "CMakeFiles/the_love_letter_mystery.dir/DependInfo.cmake"
   "CMakeFiles/shortest_unsorted_continous_subarray.dir/DependInfo.cmake"
   "CMakeFiles/rearrange_array.dir/DependInfo.cmake"
@@ -145,4 +146,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Equilibrium_Point.dir/DependInfo.cmake"
   "CMakeFiles/Simple_Transpose.dir/DependInfo.cmake"
   "CMakeFiles/Rotate_the_matrix.dir/DependInfo.cmake"
+  "CMakeFiles/Simple_Determinant.dir/DependInfo.cmake"
   )

@@ -1072,6 +1072,19 @@ CommonChild/fast:
 .PHONY : CommonChild/fast
 
 #=============================================================================
+# Target rules for targets named Min_steps_i_a_grid
+
+# Build rule for target.
+Min_steps_i_a_grid: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Min_steps_i_a_grid
+.PHONY : Min_steps_i_a_grid
+
+# fast build rule for target.
+Min_steps_i_a_grid/fast:
+	$(MAKE) -f CMakeFiles\Min_steps_i_a_grid.dir\build.make CMakeFiles/Min_steps_i_a_grid.dir/build
+.PHONY : Min_steps_i_a_grid/fast
+
+#=============================================================================
 # Target rules for targets named the_love_letter_mystery
 
 # Build rule for target.
@@ -1304,6 +1317,19 @@ Rotate_the_matrix: cmake_check_build_system
 Rotate_the_matrix/fast:
 	$(MAKE) -f CMakeFiles\Rotate_the_matrix.dir\build.make CMakeFiles/Rotate_the_matrix.dir/build
 .PHONY : Rotate_the_matrix/fast
+
+#=============================================================================
+# Target rules for targets named Simple_Determinant
+
+# Build rule for target.
+Simple_Determinant: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Simple_Determinant
+.PHONY : Simple_Determinant
+
+# fast build rule for target.
+Simple_Determinant/fast:
+	$(MAKE) -f CMakeFiles\Simple_Determinant.dir\build.make CMakeFiles/Simple_Determinant.dir/build
+.PHONY : Simple_Determinant/fast
 
 2DArrays.obj: 2DArrays.cpp.obj
 
@@ -2228,6 +2254,33 @@ DiagonalDifference.s: DiagonalDifference.cpp.s
 DiagonalDifference.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.s
 .PHONY : DiagonalDifference.cpp.s
+
+Dynamic_Array.obj: Dynamic_Array.cpp.obj
+
+.PHONY : Dynamic_Array.obj
+
+# target to build an object file
+Dynamic_Array.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.obj
+.PHONY : Dynamic_Array.cpp.obj
+
+Dynamic_Array.i: Dynamic_Array.cpp.i
+
+.PHONY : Dynamic_Array.i
+
+# target to preprocess a source file
+Dynamic_Array.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.i
+.PHONY : Dynamic_Array.cpp.i
+
+Dynamic_Array.s: Dynamic_Array.cpp.s
+
+.PHONY : Dynamic_Array.s
+
+# target to generate assembly for a file
+Dynamic_Array.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.s
+.PHONY : Dynamic_Array.cpp.s
 
 Encryption.obj: Encryption.cpp.obj
 
@@ -3213,6 +3266,36 @@ Maximizing_XOR.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.s
 .PHONY : Maximizing_XOR.cpp.s
 
+Min_steps_i_a_grid.obj: Min_steps_i_a_grid.cpp.obj
+
+.PHONY : Min_steps_i_a_grid.obj
+
+# target to build an object file
+Min_steps_i_a_grid.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.obj
+	$(MAKE) -f CMakeFiles\Min_steps_i_a_grid.dir\build.make CMakeFiles/Min_steps_i_a_grid.dir/Min_steps_i_a_grid.cpp.obj
+.PHONY : Min_steps_i_a_grid.cpp.obj
+
+Min_steps_i_a_grid.i: Min_steps_i_a_grid.cpp.i
+
+.PHONY : Min_steps_i_a_grid.i
+
+# target to preprocess a source file
+Min_steps_i_a_grid.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.i
+	$(MAKE) -f CMakeFiles\Min_steps_i_a_grid.dir\build.make CMakeFiles/Min_steps_i_a_grid.dir/Min_steps_i_a_grid.cpp.i
+.PHONY : Min_steps_i_a_grid.cpp.i
+
+Min_steps_i_a_grid.s: Min_steps_i_a_grid.cpp.s
+
+.PHONY : Min_steps_i_a_grid.s
+
+# target to generate assembly for a file
+Min_steps_i_a_grid.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.s
+	$(MAKE) -f CMakeFiles\Min_steps_i_a_grid.dir\build.make CMakeFiles/Min_steps_i_a_grid.dir/Min_steps_i_a_grid.cpp.s
+.PHONY : Min_steps_i_a_grid.cpp.s
+
 MinimumSwaps2.obj: MinimumSwaps2.cpp.obj
 
 .PHONY : MinimumSwaps2.obj
@@ -3956,6 +4039,36 @@ SimpleArraySum.s: SimpleArraySum.cpp.s
 SimpleArraySum.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.s
 .PHONY : SimpleArraySum.cpp.s
+
+Simple_Determinant.obj: Simple_Determinant.cpp.obj
+
+.PHONY : Simple_Determinant.obj
+
+# target to build an object file
+Simple_Determinant.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.obj
+	$(MAKE) -f CMakeFiles\Simple_Determinant.dir\build.make CMakeFiles/Simple_Determinant.dir/Simple_Determinant.cpp.obj
+.PHONY : Simple_Determinant.cpp.obj
+
+Simple_Determinant.i: Simple_Determinant.cpp.i
+
+.PHONY : Simple_Determinant.i
+
+# target to preprocess a source file
+Simple_Determinant.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.i
+	$(MAKE) -f CMakeFiles\Simple_Determinant.dir\build.make CMakeFiles/Simple_Determinant.dir/Simple_Determinant.cpp.i
+.PHONY : Simple_Determinant.cpp.i
+
+Simple_Determinant.s: Simple_Determinant.cpp.s
+
+.PHONY : Simple_Determinant.s
+
+# target to generate assembly for a file
+Simple_Determinant.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.s
+	$(MAKE) -f CMakeFiles\Simple_Determinant.dir\build.make CMakeFiles/Simple_Determinant.dir/Simple_Determinant.cpp.s
+.PHONY : Simple_Determinant.cpp.s
 
 Simple_Transpose.obj: Simple_Transpose.cpp.obj
 
@@ -5345,6 +5458,7 @@ help:
 	@echo ... TimeinWords
 	@echo ... SheldonandValidString
 	@echo ... CommonChild
+	@echo ... Min_steps_i_a_grid
 	@echo ... the_love_letter_mystery
 	@echo ... shortest_unsorted_continous_subarray
 	@echo ... rearrange_array
@@ -5363,6 +5477,7 @@ help:
 	@echo ... Equilibrium_Point
 	@echo ... Simple_Transpose
 	@echo ... Rotate_the_matrix
+	@echo ... Simple_Determinant
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -5461,6 +5576,9 @@ help:
 	@echo ... DiagonalDifference.obj
 	@echo ... DiagonalDifference.i
 	@echo ... DiagonalDifference.s
+	@echo ... Dynamic_Array.obj
+	@echo ... Dynamic_Array.i
+	@echo ... Dynamic_Array.s
 	@echo ... Encryption.obj
 	@echo ... Encryption.i
 	@echo ... Encryption.s
@@ -5563,6 +5681,9 @@ help:
 	@echo ... Maximizing_XOR.obj
 	@echo ... Maximizing_XOR.i
 	@echo ... Maximizing_XOR.s
+	@echo ... Min_steps_i_a_grid.obj
+	@echo ... Min_steps_i_a_grid.i
+	@echo ... Min_steps_i_a_grid.s
 	@echo ... MinimumSwaps2.obj
 	@echo ... MinimumSwaps2.i
 	@echo ... MinimumSwaps2.s
@@ -5641,6 +5762,9 @@ help:
 	@echo ... SimpleArraySum.obj
 	@echo ... SimpleArraySum.i
 	@echo ... SimpleArraySum.s
+	@echo ... Simple_Determinant.obj
+	@echo ... Simple_Determinant.i
+	@echo ... Simple_Determinant.s
 	@echo ... Simple_Transpose.obj
 	@echo ... Simple_Transpose.i
 	@echo ... Simple_Transpose.s
