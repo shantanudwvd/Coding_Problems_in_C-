@@ -73,6 +73,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/NewYearChaos.cpp.obj"
+  "CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/PoisnousPlants.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.obj"

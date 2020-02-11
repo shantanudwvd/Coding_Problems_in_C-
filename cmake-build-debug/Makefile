@@ -3461,6 +3461,33 @@ NewYearChaos.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/NewYearChaos.cpp.s
 .PHONY : NewYearChaos.cpp.s
 
+Next_Largest_Element.obj: Next_Largest_Element.cpp.obj
+
+.PHONY : Next_Largest_Element.obj
+
+# target to build an object file
+Next_Largest_Element.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj
+.PHONY : Next_Largest_Element.cpp.obj
+
+Next_Largest_Element.i: Next_Largest_Element.cpp.i
+
+.PHONY : Next_Largest_Element.i
+
+# target to preprocess a source file
+Next_Largest_Element.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.i
+.PHONY : Next_Largest_Element.cpp.i
+
+Next_Largest_Element.s: Next_Largest_Element.cpp.s
+
+.PHONY : Next_Largest_Element.s
+
+# target to generate assembly for a file
+Next_Largest_Element.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.s
+.PHONY : Next_Largest_Element.cpp.s
+
 Pallindrome_Index.obj: Pallindrome_Index.cpp.obj
 
 .PHONY : Pallindrome_Index.obj
@@ -5702,6 +5729,9 @@ help:
 	@echo ... NewYearChaos.obj
 	@echo ... NewYearChaos.i
 	@echo ... NewYearChaos.s
+	@echo ... Next_Largest_Element.obj
+	@echo ... Next_Largest_Element.i
+	@echo ... Next_Largest_Element.s
 	@echo ... Pallindrome_Index.obj
 	@echo ... Pallindrome_Index.i
 	@echo ... Pallindrome_Index.s

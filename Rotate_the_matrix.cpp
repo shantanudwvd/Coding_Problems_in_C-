@@ -13,14 +13,8 @@ int main() {
         }
     }
     for (int i = 0; i < size; ++i) {
-        for (int j = 0; j < size; ++j) {
-            cout<<array[j][i]<<" ";
-        }
-        cout<<endl;
-    }
-    for (int i = 0; i < size; ++i) {
-        for (int j = 0; j < size; ++j) {
-            cout<<array[j][i]<<" ";
+        for (int j = 0, k = 0, l = size - 1; j < size; ++j, k++, l--) {
+            cout<<array[i+k][j+l]<<" ";
         }
         cout<<endl;
     }

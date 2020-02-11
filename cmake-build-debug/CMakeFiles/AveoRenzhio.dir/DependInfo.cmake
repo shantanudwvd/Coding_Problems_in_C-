@@ -75,6 +75,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/MonkandtheMagicalCandyBags.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/MrXandhisShots.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/NewYearChaos.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/NewYearChaos.cpp.obj"
+  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Next_Largest_Element.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Pallindrome_Index.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/PoisnousPlants.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/PoisnousPlants.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/PoisnousPlantsAlternate.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.obj"
