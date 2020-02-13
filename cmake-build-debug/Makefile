@@ -1331,6 +1331,19 @@ Fibonacci_Modified/fast:
 	$(MAKE) -f CMakeFiles\Fibonacci_Modified.dir\build.make CMakeFiles/Fibonacci_Modified.dir/build
 .PHONY : Fibonacci_Modified/fast
 
+#=============================================================================
+# Target rules for targets named Fibonacci_Recursion
+
+# Build rule for target.
+Fibonacci_Recursion: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Fibonacci_Recursion
+.PHONY : Fibonacci_Recursion
+
+# fast build rule for target.
+Fibonacci_Recursion/fast:
+	$(MAKE) -f CMakeFiles\Fibonacci_Recursion.dir\build.make CMakeFiles/Fibonacci_Recursion.dir/build
+.PHONY : Fibonacci_Recursion/fast
+
 2DArrays.obj: 2DArrays.cpp.obj
 
 .PHONY : 2DArrays.obj
@@ -2372,6 +2385,36 @@ Fibonacci_Modified.cpp.s:
 	$(MAKE) -f CMakeFiles\Fibonacci_Modified.dir\build.make CMakeFiles/Fibonacci_Modified.dir/Fibonacci_Modified.cpp.s
 .PHONY : Fibonacci_Modified.cpp.s
 
+Fibonacci_Recursion.obj: Fibonacci_Recursion.cpp.obj
+
+.PHONY : Fibonacci_Recursion.obj
+
+# target to build an object file
+Fibonacci_Recursion.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.obj
+	$(MAKE) -f CMakeFiles\Fibonacci_Recursion.dir\build.make CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.obj
+.PHONY : Fibonacci_Recursion.cpp.obj
+
+Fibonacci_Recursion.i: Fibonacci_Recursion.cpp.i
+
+.PHONY : Fibonacci_Recursion.i
+
+# target to preprocess a source file
+Fibonacci_Recursion.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.i
+	$(MAKE) -f CMakeFiles\Fibonacci_Recursion.dir\build.make CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.i
+.PHONY : Fibonacci_Recursion.cpp.i
+
+Fibonacci_Recursion.s: Fibonacci_Recursion.cpp.s
+
+.PHONY : Fibonacci_Recursion.s
+
+# target to generate assembly for a file
+Fibonacci_Recursion.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.s
+	$(MAKE) -f CMakeFiles\Fibonacci_Recursion.dir\build.make CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.s
+.PHONY : Fibonacci_Recursion.cpp.s
+
 FindTheRunningMedian.obj: FindTheRunningMedian.cpp.obj
 
 .PHONY : FindTheRunningMedian.obj
@@ -2722,6 +2765,60 @@ InsertionSortPart-2.s: InsertionSortPart-2.cpp.s
 InsertionSortPart-2.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.s
 .PHONY : InsertionSortPart-2.cpp.s
+
+Insertion_Sort1.obj: Insertion_Sort1.cpp.obj
+
+.PHONY : Insertion_Sort1.obj
+
+# target to build an object file
+Insertion_Sort1.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort1.cpp.obj
+.PHONY : Insertion_Sort1.cpp.obj
+
+Insertion_Sort1.i: Insertion_Sort1.cpp.i
+
+.PHONY : Insertion_Sort1.i
+
+# target to preprocess a source file
+Insertion_Sort1.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort1.cpp.i
+.PHONY : Insertion_Sort1.cpp.i
+
+Insertion_Sort1.s: Insertion_Sort1.cpp.s
+
+.PHONY : Insertion_Sort1.s
+
+# target to generate assembly for a file
+Insertion_Sort1.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort1.cpp.s
+.PHONY : Insertion_Sort1.cpp.s
+
+Insertion_Sort2.obj: Insertion_Sort2.cpp.obj
+
+.PHONY : Insertion_Sort2.obj
+
+# target to build an object file
+Insertion_Sort2.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort2.cpp.obj
+.PHONY : Insertion_Sort2.cpp.obj
+
+Insertion_Sort2.i: Insertion_Sort2.cpp.i
+
+.PHONY : Insertion_Sort2.i
+
+# target to preprocess a source file
+Insertion_Sort2.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort2.cpp.i
+.PHONY : Insertion_Sort2.cpp.i
+
+Insertion_Sort2.s: Insertion_Sort2.cpp.s
+
+.PHONY : Insertion_Sort2.s
+
+# target to generate assembly for a file
+Insertion_Sort2.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort2.cpp.s
+.PHONY : Insertion_Sort2.cpp.s
 
 IntegerTypes.obj: IntegerTypes.cpp.obj
 
@@ -5481,6 +5578,7 @@ help:
 	@echo ... Rotate_the_matrix
 	@echo ... Simple_Determinant
 	@echo ... Fibonacci_Modified
+	@echo ... Fibonacci_Recursion
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -5591,6 +5689,9 @@ help:
 	@echo ... Fibonacci_Modified.obj
 	@echo ... Fibonacci_Modified.i
 	@echo ... Fibonacci_Modified.s
+	@echo ... Fibonacci_Recursion.obj
+	@echo ... Fibonacci_Recursion.i
+	@echo ... Fibonacci_Recursion.s
 	@echo ... FindTheRunningMedian.obj
 	@echo ... FindTheRunningMedian.i
 	@echo ... FindTheRunningMedian.s
@@ -5627,6 +5728,12 @@ help:
 	@echo ... InsertionSortPart-2.obj
 	@echo ... InsertionSortPart-2.i
 	@echo ... InsertionSortPart-2.s
+	@echo ... Insertion_Sort1.obj
+	@echo ... Insertion_Sort1.i
+	@echo ... Insertion_Sort1.s
+	@echo ... Insertion_Sort2.obj
+	@echo ... Insertion_Sort2.i
+	@echo ... Insertion_Sort2.s
 	@echo ... IntegerTypes.obj
 	@echo ... IntegerTypes.i
 	@echo ... IntegerTypes.s

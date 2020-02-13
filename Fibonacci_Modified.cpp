@@ -14,5 +14,13 @@ int fib(int n) {
 int main() {
     int n;
     cin>>n;
-    cout<<fib(n+2)<<endl;
+    int sum = 1;
+    if(n<0 || n == 0)
+        cout<<"0"<<endl;
+    else {
+        for (int i = 2; i <= n; ++i) {
+            sum += fib(i);
+        }
+        cout<<sum<<endl;
+    }
 }
