@@ -33,10 +33,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -1031,22 +1031,9 @@ CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QueensAttackII.cpp -o CMakeFiles\AveoRenzhio.dir\QueensAttackII.cpp.s
 
-CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
-CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.obj: ../FibonacciModified.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\FibonacciModified.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\FibonacciModified.cpp
-
-CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\FibonacciModified.cpp > CMakeFiles\AveoRenzhio.dir\FibonacciModified.cpp.i
-
-CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\FibonacciModified.cpp -o CMakeFiles\AveoRenzhio.dir\FibonacciModified.cpp.s
-
 CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj: ../Poisonous_Plants_Optimised.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Poisonous_Plants_Optimised.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Poisonous_Plants_Optimised.cpp
 
 CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.i: cmake_force
@@ -1059,7 +1046,7 @@ CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj: ../SimpleArraySum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\SimpleArraySum.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\SimpleArraySum.cpp
 
 CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.i: cmake_force
@@ -1072,7 +1059,7 @@ CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.obj: ../CompareTheTriplets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\CompareTheTriplets.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\CompareTheTriplets.cpp
 
 CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.i: cmake_force
@@ -1085,7 +1072,7 @@ CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.obj: ../AVeryBigSum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\AVeryBigSum.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\AVeryBigSum.cpp
 
 CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.i: cmake_force
@@ -1098,7 +1085,7 @@ CMakeFiles/AveoRenzhio.dir/AVeryBigSum.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.obj: ../DiagonalDifference.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\DiagonalDifference.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\DiagonalDifference.cpp
 
 CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.i: cmake_force
@@ -1111,7 +1098,7 @@ CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.obj: ../InsertionSortPart-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\InsertionSortPart-1.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\InsertionSortPart-1.cpp
 
 CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.i: cmake_force
@@ -1124,7 +1111,7 @@ CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.obj: ../InsertionSortPart-2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\InsertionSortPart-2.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\InsertionSortPart-2.cpp
 
 CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.i: cmake_force
@@ -1137,7 +1124,7 @@ CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Correctness_and_the_Loop_Invariant.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Correctness_and_the_Loop_Invariant.cpp.obj: ../Correctness\ and\ the\ Loop\ Invariant.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/AveoRenzhio.dir/Correctness_and_the_Loop_Invariant.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/AveoRenzhio.dir/Correctness_and_the_Loop_Invariant.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Correctness_and_the_Loop_Invariant.cpp.obj -c "C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Correctness and the Loop Invariant.cpp"
 
 CMakeFiles/AveoRenzhio.dir/Correctness_and_the_Loop_Invariant.cpp.i: cmake_force
@@ -1150,7 +1137,7 @@ CMakeFiles/AveoRenzhio.dir/Correctness_and_the_Loop_Invariant.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Running_Time_of_Algorithms.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Running_Time_of_Algorithms.cpp.obj: ../Running\ Time\ of\ Algorithms.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/AveoRenzhio.dir/Running_Time_of_Algorithms.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/AveoRenzhio.dir/Running_Time_of_Algorithms.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Running_Time_of_Algorithms.cpp.obj -c "C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Running Time of Algorithms.cpp"
 
 CMakeFiles/AveoRenzhio.dir/Running_Time_of_Algorithms.cpp.i: cmake_force
@@ -1163,7 +1150,7 @@ CMakeFiles/AveoRenzhio.dir/Running_Time_of_Algorithms.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Counting_Sort_1.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Counting_Sort_1.cpp.obj: ../Counting\ Sort\ 1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/AveoRenzhio.dir/Counting_Sort_1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/AveoRenzhio.dir/Counting_Sort_1.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Counting_Sort_1.cpp.obj -c "C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Counting Sort 1.cpp"
 
 CMakeFiles/AveoRenzhio.dir/Counting_Sort_1.cpp.i: cmake_force
@@ -1176,7 +1163,7 @@ CMakeFiles/AveoRenzhio.dir/Counting_Sort_1.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Counting_Sort_2.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Counting_Sort_2.cpp.obj: ../Counting\ Sort\ 2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/AveoRenzhio.dir/Counting_Sort_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/AveoRenzhio.dir/Counting_Sort_2.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Counting_Sort_2.cpp.obj -c "C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Counting Sort 2.cpp"
 
 CMakeFiles/AveoRenzhio.dir/Counting_Sort_2.cpp.i: cmake_force
@@ -1189,7 +1176,7 @@ CMakeFiles/AveoRenzhio.dir/Counting_Sort_2.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/ClosestNumbers.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/ClosestNumbers.cpp.obj: ../ClosestNumbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/AveoRenzhio.dir/ClosestNumbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/AveoRenzhio.dir/ClosestNumbers.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\ClosestNumbers.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\ClosestNumbers.cpp
 
 CMakeFiles/AveoRenzhio.dir/ClosestNumbers.cpp.i: cmake_force
@@ -1202,7 +1189,7 @@ CMakeFiles/AveoRenzhio.dir/ClosestNumbers.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Find_the_Median.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Find_the_Median.cpp.obj: ../Find\ the\ Median.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/AveoRenzhio.dir/Find_the_Median.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/AveoRenzhio.dir/Find_the_Median.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Find_the_Median.cpp.obj -c "C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Find the Median.cpp"
 
 CMakeFiles/AveoRenzhio.dir/Find_the_Median.cpp.i: cmake_force
@@ -1215,7 +1202,7 @@ CMakeFiles/AveoRenzhio.dir/Find_the_Median.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Making_Anagrams.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Making_Anagrams.cpp.obj: ../Making\ Anagrams.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/AveoRenzhio.dir/Making_Anagrams.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/AveoRenzhio.dir/Making_Anagrams.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Making_Anagrams.cpp.obj -c "C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Making Anagrams.cpp"
 
 CMakeFiles/AveoRenzhio.dir/Making_Anagrams.cpp.i: cmake_force
@@ -1228,7 +1215,7 @@ CMakeFiles/AveoRenzhio.dir/Making_Anagrams.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.obj: ../Maximizing\ XOR.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Maximizing_XOR.cpp.obj -c "C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Maximizing XOR.cpp"
 
 CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.i: cmake_force
@@ -1241,7 +1228,7 @@ CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.obj: ../Mark\ and\ Toys.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Mark_and_Toys.cpp.obj -c "C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Mark and Toys.cpp"
 
 CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.i: cmake_force
@@ -1254,7 +1241,7 @@ CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.obj: ../TimeinWords.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\TimeinWords.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\TimeinWords.cpp
 
 CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.i: cmake_force
@@ -1267,7 +1254,7 @@ CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.obj: ../SheldonandValidString.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\SheldonandValidString.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\SheldonandValidString.cpp
 
 CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.i: cmake_force
@@ -1280,7 +1267,7 @@ CMakeFiles/AveoRenzhio.dir/SheldonandValidString.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.obj: ../MaxMin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\MaxMin.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\MaxMin.cpp
 
 CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.i: cmake_force
@@ -1293,7 +1280,7 @@ CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.obj: ../QuerieswithFixedLength.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\QuerieswithFixedLength.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuerieswithFixedLength.cpp
 
 CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.i: cmake_force
@@ -1306,7 +1293,7 @@ CMakeFiles/AveoRenzhio.dir/QuerieswithFixedLength.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.obj: ../MonkandtheMagicalCandyBags.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\MonkandtheMagicalCandyBags.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\MonkandtheMagicalCandyBags.cpp
 
 CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.i: cmake_force
@@ -1319,7 +1306,7 @@ CMakeFiles/AveoRenzhio.dir/MonkandtheMagicalCandyBags.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.obj: ../QueenAttackIIAlternate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\QueenAttackIIAlternate.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QueenAttackIIAlternate.cpp
 
 CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.i: cmake_force
@@ -1332,7 +1319,7 @@ CMakeFiles/AveoRenzhio.dir/QueenAttackIIAlternate.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.obj: ../CommonChild.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\CommonChild.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\CommonChild.cpp
 
 CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.i: cmake_force
@@ -1345,7 +1332,7 @@ CMakeFiles/AveoRenzhio.dir/CommonChild.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.obj: ../Abbreviation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Abbreviation.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Abbreviation.cpp
 
 CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.i: cmake_force
@@ -1358,7 +1345,7 @@ CMakeFiles/AveoRenzhio.dir/Abbreviation.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.obj: ../MinimumSwaps2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\MinimumSwaps2.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\MinimumSwaps2.cpp
 
 CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.i: cmake_force
@@ -1371,7 +1358,7 @@ CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.obj: ../MinimumSwaps2Alternate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\MinimumSwaps2Alternate.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\MinimumSwaps2Alternate.cpp
 
 CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.i: cmake_force
@@ -1384,7 +1371,7 @@ CMakeFiles/AveoRenzhio.dir/MinimumSwaps2Alternate.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.obj: ../find_the_duplicate_in_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\find_the_duplicate_in_array.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\find_the_duplicate_in_array.cpp
 
 CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.i: cmake_force
@@ -1397,7 +1384,7 @@ CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.obj: ../the_love_letter_mystery.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\the_love_letter_mystery.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\the_love_letter_mystery.cpp
 
 CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.i: cmake_force
@@ -1410,7 +1397,7 @@ CMakeFiles/AveoRenzhio.dir/the_love_letter_mystery.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/data_types.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/data_types.cpp.obj: ../data_types.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/AveoRenzhio.dir/data_types.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/AveoRenzhio.dir/data_types.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\data_types.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\data_types.cpp
 
 CMakeFiles/AveoRenzhio.dir/data_types.cpp.i: cmake_force
@@ -1423,7 +1410,7 @@ CMakeFiles/AveoRenzhio.dir/data_types.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.obj: ../shortest_unsorted_continous_subarray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\shortest_unsorted_continous_subarray.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\shortest_unsorted_continous_subarray.cpp
 
 CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.i: cmake_force
@@ -1436,7 +1423,7 @@ CMakeFiles/AveoRenzhio.dir/shortest_unsorted_continous_subarray.cpp.s: cmake_for
 
 CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.obj: ../Library_Fine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Library_Fine.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Library_Fine.cpp
 
 CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.i: cmake_force
@@ -1449,7 +1436,7 @@ CMakeFiles/AveoRenzhio.dir/Library_Fine.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.obj: ../formated_dates.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\formated_dates.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\formated_dates.cpp
 
 CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.i: cmake_force
@@ -1462,7 +1449,7 @@ CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.obj: ../rearrange_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\rearrange_array.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\rearrange_array.cpp
 
 CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.i: cmake_force
@@ -1475,7 +1462,7 @@ CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.obj: ../Special_String_Again.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Special_String_Again.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Special_String_Again.cpp
 
 CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.i: cmake_force
@@ -1488,7 +1475,7 @@ CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.obj: ../Sherlock_and_the_valid_string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Sherlock_and_the_valid_string.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Sherlock_and_the_valid_string.cpp
 
 CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.i: cmake_force
@@ -1501,7 +1488,7 @@ CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Red_knights_shortest_path.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Red_knights_shortest_path.cpp.obj: ../Red_knights_shortest_path.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/AveoRenzhio.dir/Red_knights_shortest_path.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/AveoRenzhio.dir/Red_knights_shortest_path.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Red_knights_shortest_path.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Red_knights_shortest_path.cpp
 
 CMakeFiles/AveoRenzhio.dir/Red_knights_shortest_path.cpp.i: cmake_force
@@ -1514,7 +1501,7 @@ CMakeFiles/AveoRenzhio.dir/Red_knights_shortest_path.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/remove_adjacent_characters.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/remove_adjacent_characters.cpp.obj: ../remove_adjacent_characters.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/AveoRenzhio.dir/remove_adjacent_characters.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/AveoRenzhio.dir/remove_adjacent_characters.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\remove_adjacent_characters.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\remove_adjacent_characters.cpp
 
 CMakeFiles/AveoRenzhio.dir/remove_adjacent_characters.cpp.i: cmake_force
@@ -1527,7 +1514,7 @@ CMakeFiles/AveoRenzhio.dir/remove_adjacent_characters.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/fill_the_missing_spaces.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/fill_the_missing_spaces.cpp.obj: ../fill_the_missing_spaces.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/AveoRenzhio.dir/fill_the_missing_spaces.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/AveoRenzhio.dir/fill_the_missing_spaces.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\fill_the_missing_spaces.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\fill_the_missing_spaces.cpp
 
 CMakeFiles/AveoRenzhio.dir/fill_the_missing_spaces.cpp.i: cmake_force
@@ -1540,7 +1527,7 @@ CMakeFiles/AveoRenzhio.dir/fill_the_missing_spaces.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.obj: ../best-time-to-buy-and-sell-stock.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\best-time-to-buy-and-sell-stock.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\best-time-to-buy-and-sell-stock.cpp
 
 CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.i: cmake_force
@@ -1553,7 +1540,7 @@ CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj: ../best-time-to-buy-and-sell-stock-ii.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\best-time-to-buy-and-sell-stock-ii.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\best-time-to-buy-and-sell-stock-ii.cpp
 
 CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.i: cmake_force
@@ -1566,7 +1553,7 @@ CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.obj: ../best-time-to-buy-and-sell-stock-iii.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\best-time-to-buy-and-sell-stock-iii.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\best-time-to-buy-and-sell-stock-iii.cpp
 
 CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.i: cmake_force
@@ -1579,7 +1566,7 @@ CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.s: cmake_forc
 
 CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.obj: ../Deque-STL_Optimised.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Deque-STL_Optimised.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Deque-STL_Optimised.cpp
 
 CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.i: cmake_force
@@ -1592,7 +1579,7 @@ CMakeFiles/AveoRenzhio.dir/Deque-STL_Optimised.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj: ../hiphiparray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\hiphiparray.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\hiphiparray.cpp
 
 CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.i: cmake_force
@@ -1605,7 +1592,7 @@ CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj: ../Pallindrome_Index.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Pallindrome_Index.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Pallindrome_Index.cpp
 
 CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.i: cmake_force
@@ -1618,7 +1605,7 @@ CMakeFiles/AveoRenzhio.dir/Pallindrome_Index.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.obj: ../Missing_Numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Missing_Numbers.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Missing_Numbers.cpp
 
 CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.i: cmake_force
@@ -1631,7 +1618,7 @@ CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.obj: ../Simple_Transpose.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Simple_Transpose.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Simple_Transpose.cpp
 
 CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.i: cmake_force
@@ -1644,7 +1631,7 @@ CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Rotate_the_matrix.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Rotate_the_matrix.cpp.obj: ../Rotate_the_matrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/AveoRenzhio.dir/Rotate_the_matrix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/AveoRenzhio.dir/Rotate_the_matrix.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Rotate_the_matrix.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Rotate_the_matrix.cpp
 
 CMakeFiles/AveoRenzhio.dir/Rotate_the_matrix.cpp.i: cmake_force
@@ -1657,7 +1644,7 @@ CMakeFiles/AveoRenzhio.dir/Rotate_the_matrix.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Absolute_Element_Sums.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Absolute_Element_Sums.cpp.obj: ../Absolute_Element_Sums.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/AveoRenzhio.dir/Absolute_Element_Sums.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/AveoRenzhio.dir/Absolute_Element_Sums.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Absolute_Element_Sums.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Absolute_Element_Sums.cpp
 
 CMakeFiles/AveoRenzhio.dir/Absolute_Element_Sums.cpp.i: cmake_force
@@ -1670,7 +1657,7 @@ CMakeFiles/AveoRenzhio.dir/Absolute_Element_Sums.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/super_reduced_string.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/super_reduced_string.cpp.obj: ../super_reduced_string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/AveoRenzhio.dir/super_reduced_string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/AveoRenzhio.dir/super_reduced_string.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\super_reduced_string.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\super_reduced_string.cpp
 
 CMakeFiles/AveoRenzhio.dir/super_reduced_string.cpp.i: cmake_force
@@ -1683,7 +1670,7 @@ CMakeFiles/AveoRenzhio.dir/super_reduced_string.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.obj: ../CamelCase.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\CamelCase.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\CamelCase.cpp
 
 CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.i: cmake_force
@@ -1696,7 +1683,7 @@ CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.obj: ../caesar-cipher-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\caesar-cipher-1.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\caesar-cipher-1.cpp
 
 CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.i: cmake_force
@@ -1709,7 +1696,7 @@ CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.obj: ../mars-exploration.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\mars-exploration.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\mars-exploration.cpp
 
 CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.i: cmake_force
@@ -1722,7 +1709,7 @@ CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/hackerrank-in-a-string.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/hackerrank-in-a-string.cpp.obj: ../hackerrank-in-a-string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/AveoRenzhio.dir/hackerrank-in-a-string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/AveoRenzhio.dir/hackerrank-in-a-string.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\hackerrank-in-a-string.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\hackerrank-in-a-string.cpp
 
 CMakeFiles/AveoRenzhio.dir/hackerrank-in-a-string.cpp.i: cmake_force
@@ -1735,7 +1722,7 @@ CMakeFiles/AveoRenzhio.dir/hackerrank-in-a-string.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/pangrams.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/pangrams.cpp.obj: ../pangrams.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/AveoRenzhio.dir/pangrams.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/AveoRenzhio.dir/pangrams.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\pangrams.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\pangrams.cpp
 
 CMakeFiles/AveoRenzhio.dir/pangrams.cpp.i: cmake_force
@@ -1748,7 +1735,7 @@ CMakeFiles/AveoRenzhio.dir/pangrams.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.obj: ../alternating-characters.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\alternating-characters.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\alternating-characters.cpp
 
 CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.i: cmake_force
@@ -1761,7 +1748,7 @@ CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/the-love-letter-mystery.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/the-love-letter-mystery.cpp.obj: ../the-love-letter-mystery.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/AveoRenzhio.dir/the-love-letter-mystery.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/AveoRenzhio.dir/the-love-letter-mystery.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\the-love-letter-mystery.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\the-love-letter-mystery.cpp
 
 CMakeFiles/AveoRenzhio.dir/the-love-letter-mystery.cpp.i: cmake_force
@@ -1774,7 +1761,7 @@ CMakeFiles/AveoRenzhio.dir/the-love-letter-mystery.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/two-strings.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/two-strings.cpp.obj: ../two-strings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/AveoRenzhio.dir/two-strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/AveoRenzhio.dir/two-strings.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\two-strings.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\two-strings.cpp
 
 CMakeFiles/AveoRenzhio.dir/two-strings.cpp.i: cmake_force
@@ -1787,7 +1774,7 @@ CMakeFiles/AveoRenzhio.dir/two-strings.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.obj: ../Simple_Determinant.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Simple_Determinant.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Simple_Determinant.cpp
 
 CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.i: cmake_force
@@ -1800,7 +1787,7 @@ CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.obj: ../Min_steps_i_a_grid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Min_steps_i_a_grid.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Min_steps_i_a_grid.cpp
 
 CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.i: cmake_force
@@ -1813,7 +1800,7 @@ CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.obj: ../Dynamic_Array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Dynamic_Array.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Dynamic_Array.cpp
 
 CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.i: cmake_force
@@ -1826,7 +1813,7 @@ CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.s: cmake_force
 
 CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
 CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj: ../Next_Largest_Element.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Next_Largest_Element.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Next_Largest_Element.cpp
 
 CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.i: cmake_force
@@ -1836,6 +1823,19 @@ CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.i: cmake_force
 CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Next_Largest_Element.cpp -o CMakeFiles\AveoRenzhio.dir\Next_Largest_Element.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.obj: ../Fibonacci_Modified.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Fibonacci_Modified.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Fibonacci_Modified.cpp
+
+CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Fibonacci_Modified.cpp > CMakeFiles\AveoRenzhio.dir\Fibonacci_Modified.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Fibonacci_Modified.cpp -o CMakeFiles\AveoRenzhio.dir\Fibonacci_Modified.cpp.s
 
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
@@ -1914,7 +1914,6 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.obj" \
-"CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.obj" \
@@ -1975,7 +1974,8 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.obj" \
-"CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj"
+"CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.obj"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -2055,7 +2055,6 @@ AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/KindergartenAdventures.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/ExtraLongFactorials.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/QueensAttackII.cpp.obj
-AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/FibonacciModified.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Poisonous_Plants_Optimised.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/SimpleArraySum.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/CompareTheTriplets.cpp.obj
@@ -2117,6 +2116,7 @@ AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Dynamic_Array.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/linklibs.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/objects1.rsp
