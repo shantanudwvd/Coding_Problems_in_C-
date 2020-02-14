@@ -148,4 +148,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Simple_Determinant.dir/DependInfo.cmake"
   "CMakeFiles/Fibonacci_Modified.dir/DependInfo.cmake"
   "CMakeFiles/Fibonacci_Recursion.dir/DependInfo.cmake"
+  "CMakeFiles/Sum_of_Product_of_Digits.dir/DependInfo.cmake"
   )

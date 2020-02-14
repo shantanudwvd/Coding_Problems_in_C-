@@ -1876,6 +1876,32 @@ CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Fibonacci_Recursion.cpp -o CMakeFiles\AveoRenzhio.dir\Fibonacci_Recursion.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.obj: ../Insertion_Sort_Newton_School.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Insertion_Sort_Newton_School.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Insertion_Sort_Newton_School.cpp
+
+CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Insertion_Sort_Newton_School.cpp > CMakeFiles\AveoRenzhio.dir\Insertion_Sort_Newton_School.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Insertion_Sort_Newton_School.cpp -o CMakeFiles\AveoRenzhio.dir\Insertion_Sort_Newton_School.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.obj: ../Sum_of_Product_of_Digits.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Sum_of_Product_of_Digits.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Sum_of_Product_of_Digits.cpp
+
+CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Sum_of_Product_of_Digits.cpp > CMakeFiles\AveoRenzhio.dir\Sum_of_Product_of_Digits.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Sum_of_Product_of_Digits.cpp -o CMakeFiles\AveoRenzhio.dir\Sum_of_Product_of_Digits.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Thoughts2BinarySampleProblem1.cpp.obj" \
@@ -2017,7 +2043,9 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/Insertion_Sort1.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/Insertion_Sort2.cpp.obj" \
-"CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.obj"
+"CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.obj"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -2162,11 +2190,13 @@ AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Fibonacci_Modified.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Insertion_Sort1.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Insertion_Sort2.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/linklibs.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/objects1.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Linking CXX executable AveoRenzhio.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Linking CXX executable AveoRenzhio.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AveoRenzhio.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -1344,6 +1344,19 @@ Fibonacci_Recursion/fast:
 	$(MAKE) -f CMakeFiles\Fibonacci_Recursion.dir\build.make CMakeFiles/Fibonacci_Recursion.dir/build
 .PHONY : Fibonacci_Recursion/fast
 
+#=============================================================================
+# Target rules for targets named Sum_of_Product_of_Digits
+
+# Build rule for target.
+Sum_of_Product_of_Digits: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Sum_of_Product_of_Digits
+.PHONY : Sum_of_Product_of_Digits
+
+# fast build rule for target.
+Sum_of_Product_of_Digits/fast:
+	$(MAKE) -f CMakeFiles\Sum_of_Product_of_Digits.dir\build.make CMakeFiles/Sum_of_Product_of_Digits.dir/build
+.PHONY : Sum_of_Product_of_Digits/fast
+
 2DArrays.obj: 2DArrays.cpp.obj
 
 .PHONY : 2DArrays.obj
@@ -2820,6 +2833,33 @@ Insertion_Sort2.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort2.cpp.s
 .PHONY : Insertion_Sort2.cpp.s
 
+Insertion_Sort_Newton_School.obj: Insertion_Sort_Newton_School.cpp.obj
+
+.PHONY : Insertion_Sort_Newton_School.obj
+
+# target to build an object file
+Insertion_Sort_Newton_School.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.obj
+.PHONY : Insertion_Sort_Newton_School.cpp.obj
+
+Insertion_Sort_Newton_School.i: Insertion_Sort_Newton_School.cpp.i
+
+.PHONY : Insertion_Sort_Newton_School.i
+
+# target to preprocess a source file
+Insertion_Sort_Newton_School.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.i
+.PHONY : Insertion_Sort_Newton_School.cpp.i
+
+Insertion_Sort_Newton_School.s: Insertion_Sort_Newton_School.cpp.s
+
+.PHONY : Insertion_Sort_Newton_School.s
+
+# target to generate assembly for a file
+Insertion_Sort_Newton_School.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.s
+.PHONY : Insertion_Sort_Newton_School.cpp.s
+
 IntegerTypes.obj: IntegerTypes.cpp.obj
 
 .PHONY : IntegerTypes.obj
@@ -4284,6 +4324,36 @@ StrongPassword.cpp.s:
 	$(MAKE) -f CMakeFiles\StrongPassword.dir\build.make CMakeFiles/StrongPassword.dir/StrongPassword.cpp.s
 .PHONY : StrongPassword.cpp.s
 
+Sum_of_Product_of_Digits.obj: Sum_of_Product_of_Digits.cpp.obj
+
+.PHONY : Sum_of_Product_of_Digits.obj
+
+# target to build an object file
+Sum_of_Product_of_Digits.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.obj
+	$(MAKE) -f CMakeFiles\Sum_of_Product_of_Digits.dir\build.make CMakeFiles/Sum_of_Product_of_Digits.dir/Sum_of_Product_of_Digits.cpp.obj
+.PHONY : Sum_of_Product_of_Digits.cpp.obj
+
+Sum_of_Product_of_Digits.i: Sum_of_Product_of_Digits.cpp.i
+
+.PHONY : Sum_of_Product_of_Digits.i
+
+# target to preprocess a source file
+Sum_of_Product_of_Digits.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.i
+	$(MAKE) -f CMakeFiles\Sum_of_Product_of_Digits.dir\build.make CMakeFiles/Sum_of_Product_of_Digits.dir/Sum_of_Product_of_Digits.cpp.i
+.PHONY : Sum_of_Product_of_Digits.cpp.i
+
+Sum_of_Product_of_Digits.s: Sum_of_Product_of_Digits.cpp.s
+
+.PHONY : Sum_of_Product_of_Digits.s
+
+# target to generate assembly for a file
+Sum_of_Product_of_Digits.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.s
+	$(MAKE) -f CMakeFiles\Sum_of_Product_of_Digits.dir\build.make CMakeFiles/Sum_of_Product_of_Digits.dir/Sum_of_Product_of_Digits.cpp.s
+.PHONY : Sum_of_Product_of_Digits.cpp.s
+
 TaumAndBday.obj: TaumAndBday.cpp.obj
 
 .PHONY : TaumAndBday.obj
@@ -5579,6 +5649,7 @@ help:
 	@echo ... Simple_Determinant
 	@echo ... Fibonacci_Modified
 	@echo ... Fibonacci_Recursion
+	@echo ... Sum_of_Product_of_Digits
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -5734,6 +5805,9 @@ help:
 	@echo ... Insertion_Sort2.obj
 	@echo ... Insertion_Sort2.i
 	@echo ... Insertion_Sort2.s
+	@echo ... Insertion_Sort_Newton_School.obj
+	@echo ... Insertion_Sort_Newton_School.i
+	@echo ... Insertion_Sort_Newton_School.s
 	@echo ... IntegerTypes.obj
 	@echo ... IntegerTypes.i
 	@echo ... IntegerTypes.s
@@ -5887,6 +5961,9 @@ help:
 	@echo ... StrongPassword.obj
 	@echo ... StrongPassword.i
 	@echo ... StrongPassword.s
+	@echo ... Sum_of_Product_of_Digits.obj
+	@echo ... Sum_of_Product_of_Digits.i
+	@echo ... Sum_of_Product_of_Digits.s
 	@echo ... TaumAndBday.obj
 	@echo ... TaumAndBday.i
 	@echo ... TaumAndBday.s
