@@ -1902,6 +1902,97 @@ CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Sum_of_Product_of_Digits.cpp -o CMakeFiles\AveoRenzhio.dir\Sum_of_Product_of_Digits.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.obj: ../Queue_operations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Queue_operations.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Queue_operations.cpp
+
+CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Queue_operations.cpp > CMakeFiles\AveoRenzhio.dir\Queue_operations.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Queue_operations.cpp -o CMakeFiles\AveoRenzhio.dir\Queue_operations.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.obj: ../Reverse_First_K_elements_of_Queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Reverse_First_K_elements_of_Queue.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Reverse_First_K_elements_of_Queue.cpp
+
+CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Reverse_First_K_elements_of_Queue.cpp > CMakeFiles\AveoRenzhio.dir\Reverse_First_K_elements_of_Queue.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Reverse_First_K_elements_of_Queue.cpp -o CMakeFiles\AveoRenzhio.dir\Reverse_First_K_elements_of_Queue.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.obj: ../QuickSort-1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\QuickSort-1.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuickSort-1.cpp
+
+CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuickSort-1.cpp > CMakeFiles\AveoRenzhio.dir\QuickSort-1.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuickSort-1.cpp -o CMakeFiles\AveoRenzhio.dir\QuickSort-1.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.obj: ../MergeSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\MergeSort.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\MergeSort.cpp
+
+CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\MergeSort.cpp > CMakeFiles\AveoRenzhio.dir\MergeSort.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\MergeSort.cpp -o CMakeFiles\AveoRenzhio.dir\MergeSort.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.obj: ../QuickSort-2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\QuickSort-2.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuickSort-2.cpp
+
+CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuickSort-2.cpp > CMakeFiles\AveoRenzhio.dir\QuickSort-2.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuickSort-2.cpp -o CMakeFiles\AveoRenzhio.dir\QuickSort-2.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.obj: ../Selection_Sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Selection_Sort.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Selection_Sort.cpp
+
+CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Selection_Sort.cpp > CMakeFiles\AveoRenzhio.dir\Selection_Sort.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Selection_Sort.cpp -o CMakeFiles\AveoRenzhio.dir\Selection_Sort.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.obj: ../Bubble_Sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Bubble_Sort.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Bubble_Sort.cpp
+
+CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Bubble_Sort.cpp > CMakeFiles\AveoRenzhio.dir\Bubble_Sort.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Bubble_Sort.cpp -o CMakeFiles\AveoRenzhio.dir\Bubble_Sort.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Thoughts2BinarySampleProblem1.cpp.obj" \
@@ -2045,7 +2136,14 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Insertion_Sort2.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.obj" \
-"CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.obj"
+"CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.obj"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -2192,11 +2290,18 @@ AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Insertion_Sort2.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/linklibs.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/objects1.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Linking CXX executable AveoRenzhio.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Linking CXX executable AveoRenzhio.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AveoRenzhio.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

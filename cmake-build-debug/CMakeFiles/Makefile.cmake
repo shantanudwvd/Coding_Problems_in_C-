@@ -149,4 +149,11 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Fibonacci_Modified.dir/DependInfo.cmake"
   "CMakeFiles/Fibonacci_Recursion.dir/DependInfo.cmake"
   "CMakeFiles/Sum_of_Product_of_Digits.dir/DependInfo.cmake"
+  "CMakeFiles/Insertion_Sort_Newton_School.dir/DependInfo.cmake"
+  "CMakeFiles/Queue_operations.dir/DependInfo.cmake"
+  "CMakeFiles/Reverse_First_K_elements_of_Queue.dir/DependInfo.cmake"
+  "CMakeFiles/QuickSort-1.dir/DependInfo.cmake"
+  "CMakeFiles/QuickSort-2.dir/DependInfo.cmake"
+  "CMakeFiles/Bubble_Sort.dir/DependInfo.cmake"
+  "CMakeFiles/Selection_Sort.dir/DependInfo.cmake"
   )

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\QuickSort-2.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\QuickSort-2.dir/objects.a @CMakeFiles\QuickSort-2.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  -O0 -g   -Wl,--whole-archive CMakeFiles\QuickSort-2.dir/objects.a -Wl,--no-whole-archive  -o QuickSort-2.exe -Wl,--out-implib,libQuickSort-2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QuickSort-2.dir\linklibs.rsp

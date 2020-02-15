@@ -3,8 +3,6 @@
 //
 #include<iostream>
 #include<cmath>
-#include<algorithm>
-#include<vector>
 using namespace std;
 int heapsize;
 void max_heapify(int arr[], int i)

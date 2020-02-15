@@ -1357,6 +1357,97 @@ Sum_of_Product_of_Digits/fast:
 	$(MAKE) -f CMakeFiles\Sum_of_Product_of_Digits.dir\build.make CMakeFiles/Sum_of_Product_of_Digits.dir/build
 .PHONY : Sum_of_Product_of_Digits/fast
 
+#=============================================================================
+# Target rules for targets named Insertion_Sort_Newton_School
+
+# Build rule for target.
+Insertion_Sort_Newton_School: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Insertion_Sort_Newton_School
+.PHONY : Insertion_Sort_Newton_School
+
+# fast build rule for target.
+Insertion_Sort_Newton_School/fast:
+	$(MAKE) -f CMakeFiles\Insertion_Sort_Newton_School.dir\build.make CMakeFiles/Insertion_Sort_Newton_School.dir/build
+.PHONY : Insertion_Sort_Newton_School/fast
+
+#=============================================================================
+# Target rules for targets named Queue_operations
+
+# Build rule for target.
+Queue_operations: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Queue_operations
+.PHONY : Queue_operations
+
+# fast build rule for target.
+Queue_operations/fast:
+	$(MAKE) -f CMakeFiles\Queue_operations.dir\build.make CMakeFiles/Queue_operations.dir/build
+.PHONY : Queue_operations/fast
+
+#=============================================================================
+# Target rules for targets named Reverse_First_K_elements_of_Queue
+
+# Build rule for target.
+Reverse_First_K_elements_of_Queue: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Reverse_First_K_elements_of_Queue
+.PHONY : Reverse_First_K_elements_of_Queue
+
+# fast build rule for target.
+Reverse_First_K_elements_of_Queue/fast:
+	$(MAKE) -f CMakeFiles\Reverse_First_K_elements_of_Queue.dir\build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build
+.PHONY : Reverse_First_K_elements_of_Queue/fast
+
+#=============================================================================
+# Target rules for targets named QuickSort-1
+
+# Build rule for target.
+QuickSort-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 QuickSort-1
+.PHONY : QuickSort-1
+
+# fast build rule for target.
+QuickSort-1/fast:
+	$(MAKE) -f CMakeFiles\QuickSort-1.dir\build.make CMakeFiles/QuickSort-1.dir/build
+.PHONY : QuickSort-1/fast
+
+#=============================================================================
+# Target rules for targets named QuickSort-2
+
+# Build rule for target.
+QuickSort-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 QuickSort-2
+.PHONY : QuickSort-2
+
+# fast build rule for target.
+QuickSort-2/fast:
+	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/build
+.PHONY : QuickSort-2/fast
+
+#=============================================================================
+# Target rules for targets named Bubble_Sort
+
+# Build rule for target.
+Bubble_Sort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Bubble_Sort
+.PHONY : Bubble_Sort
+
+# fast build rule for target.
+Bubble_Sort/fast:
+	$(MAKE) -f CMakeFiles\Bubble_Sort.dir\build.make CMakeFiles/Bubble_Sort.dir/build
+.PHONY : Bubble_Sort/fast
+
+#=============================================================================
+# Target rules for targets named Selection_Sort
+
+# Build rule for target.
+Selection_Sort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Selection_Sort
+.PHONY : Selection_Sort
+
+# fast build rule for target.
+Selection_Sort/fast:
+	$(MAKE) -f CMakeFiles\Selection_Sort.dir\build.make CMakeFiles/Selection_Sort.dir/build
+.PHONY : Selection_Sort/fast
+
 2DArrays.obj: 2DArrays.cpp.obj
 
 .PHONY : 2DArrays.obj
@@ -1824,6 +1915,36 @@ BeautifulTriplets.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/BeautifulTriplets.cpp.s
 	$(MAKE) -f CMakeFiles\BeautifulTriplets.dir\build.make CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.s
 .PHONY : BeautifulTriplets.cpp.s
+
+Bubble_Sort.obj: Bubble_Sort.cpp.obj
+
+.PHONY : Bubble_Sort.obj
+
+# target to build an object file
+Bubble_Sort.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.obj
+	$(MAKE) -f CMakeFiles\Bubble_Sort.dir\build.make CMakeFiles/Bubble_Sort.dir/Bubble_Sort.cpp.obj
+.PHONY : Bubble_Sort.cpp.obj
+
+Bubble_Sort.i: Bubble_Sort.cpp.i
+
+.PHONY : Bubble_Sort.i
+
+# target to preprocess a source file
+Bubble_Sort.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.i
+	$(MAKE) -f CMakeFiles\Bubble_Sort.dir\build.make CMakeFiles/Bubble_Sort.dir/Bubble_Sort.cpp.i
+.PHONY : Bubble_Sort.cpp.i
+
+Bubble_Sort.s: Bubble_Sort.cpp.s
+
+.PHONY : Bubble_Sort.s
+
+# target to generate assembly for a file
+Bubble_Sort.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Bubble_Sort.cpp.s
+	$(MAKE) -f CMakeFiles\Bubble_Sort.dir\build.make CMakeFiles/Bubble_Sort.dir/Bubble_Sort.cpp.s
+.PHONY : Bubble_Sort.cpp.s
 
 CalvinsGame.obj: CalvinsGame.cpp.obj
 
@@ -2840,6 +2961,7 @@ Insertion_Sort_Newton_School.obj: Insertion_Sort_Newton_School.cpp.obj
 # target to build an object file
 Insertion_Sort_Newton_School.cpp.obj:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.obj
+	$(MAKE) -f CMakeFiles\Insertion_Sort_Newton_School.dir\build.make CMakeFiles/Insertion_Sort_Newton_School.dir/Insertion_Sort_Newton_School.cpp.obj
 .PHONY : Insertion_Sort_Newton_School.cpp.obj
 
 Insertion_Sort_Newton_School.i: Insertion_Sort_Newton_School.cpp.i
@@ -2849,6 +2971,7 @@ Insertion_Sort_Newton_School.i: Insertion_Sort_Newton_School.cpp.i
 # target to preprocess a source file
 Insertion_Sort_Newton_School.cpp.i:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.i
+	$(MAKE) -f CMakeFiles\Insertion_Sort_Newton_School.dir\build.make CMakeFiles/Insertion_Sort_Newton_School.dir/Insertion_Sort_Newton_School.cpp.i
 .PHONY : Insertion_Sort_Newton_School.cpp.i
 
 Insertion_Sort_Newton_School.s: Insertion_Sort_Newton_School.cpp.s
@@ -2858,6 +2981,7 @@ Insertion_Sort_Newton_School.s: Insertion_Sort_Newton_School.cpp.s
 # target to generate assembly for a file
 Insertion_Sort_Newton_School.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Insertion_Sort_Newton_School.cpp.s
+	$(MAKE) -f CMakeFiles\Insertion_Sort_Newton_School.dir\build.make CMakeFiles/Insertion_Sort_Newton_School.dir/Insertion_Sort_Newton_School.cpp.s
 .PHONY : Insertion_Sort_Newton_School.cpp.s
 
 IntegerTypes.obj: IntegerTypes.cpp.obj
@@ -3379,6 +3503,33 @@ Maximizing_XOR.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.s
 .PHONY : Maximizing_XOR.cpp.s
 
+MergeSort.obj: MergeSort.cpp.obj
+
+.PHONY : MergeSort.obj
+
+# target to build an object file
+MergeSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.obj
+.PHONY : MergeSort.cpp.obj
+
+MergeSort.i: MergeSort.cpp.i
+
+.PHONY : MergeSort.i
+
+# target to preprocess a source file
+MergeSort.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.i
+.PHONY : MergeSort.cpp.i
+
+MergeSort.s: MergeSort.cpp.s
+
+.PHONY : MergeSort.s
+
+# target to generate assembly for a file
+MergeSort.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.s
+.PHONY : MergeSort.cpp.s
+
 Min_steps_i_a_grid.obj: Min_steps_i_a_grid.cpp.obj
 
 .PHONY : Min_steps_i_a_grid.obj
@@ -3835,6 +3986,96 @@ QueueUsingTwoStacks.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QueueUsingTwoStacks.cpp.s
 .PHONY : QueueUsingTwoStacks.cpp.s
 
+Queue_operations.obj: Queue_operations.cpp.obj
+
+.PHONY : Queue_operations.obj
+
+# target to build an object file
+Queue_operations.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.obj
+	$(MAKE) -f CMakeFiles\Queue_operations.dir\build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.obj
+.PHONY : Queue_operations.cpp.obj
+
+Queue_operations.i: Queue_operations.cpp.i
+
+.PHONY : Queue_operations.i
+
+# target to preprocess a source file
+Queue_operations.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.i
+	$(MAKE) -f CMakeFiles\Queue_operations.dir\build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.i
+.PHONY : Queue_operations.cpp.i
+
+Queue_operations.s: Queue_operations.cpp.s
+
+.PHONY : Queue_operations.s
+
+# target to generate assembly for a file
+Queue_operations.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.s
+	$(MAKE) -f CMakeFiles\Queue_operations.dir\build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.s
+.PHONY : Queue_operations.cpp.s
+
+QuickSort-1.obj: QuickSort-1.cpp.obj
+
+.PHONY : QuickSort-1.obj
+
+# target to build an object file
+QuickSort-1.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.obj
+	$(MAKE) -f CMakeFiles\QuickSort-1.dir\build.make CMakeFiles/QuickSort-1.dir/QuickSort-1.cpp.obj
+.PHONY : QuickSort-1.cpp.obj
+
+QuickSort-1.i: QuickSort-1.cpp.i
+
+.PHONY : QuickSort-1.i
+
+# target to preprocess a source file
+QuickSort-1.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.i
+	$(MAKE) -f CMakeFiles\QuickSort-1.dir\build.make CMakeFiles/QuickSort-1.dir/QuickSort-1.cpp.i
+.PHONY : QuickSort-1.cpp.i
+
+QuickSort-1.s: QuickSort-1.cpp.s
+
+.PHONY : QuickSort-1.s
+
+# target to generate assembly for a file
+QuickSort-1.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.s
+	$(MAKE) -f CMakeFiles\QuickSort-1.dir\build.make CMakeFiles/QuickSort-1.dir/QuickSort-1.cpp.s
+.PHONY : QuickSort-1.cpp.s
+
+QuickSort-2.obj: QuickSort-2.cpp.obj
+
+.PHONY : QuickSort-2.obj
+
+# target to build an object file
+QuickSort-2.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.obj
+	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.obj
+.PHONY : QuickSort-2.cpp.obj
+
+QuickSort-2.i: QuickSort-2.cpp.i
+
+.PHONY : QuickSort-2.i
+
+# target to preprocess a source file
+QuickSort-2.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.i
+	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.i
+.PHONY : QuickSort-2.cpp.i
+
+QuickSort-2.s: QuickSort-2.cpp.s
+
+.PHONY : QuickSort-2.s
+
+# target to generate assembly for a file
+QuickSort-2.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.s
+	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.s
+.PHONY : QuickSort-2.cpp.s
+
 RecursiveDigitSum.obj: RecursiveDigitSum.cpp.obj
 
 .PHONY : RecursiveDigitSum.obj
@@ -3918,6 +4159,36 @@ Remove_All_Adjacent_Duplicates_In_String.s: Remove_All_Adjacent_Duplicates_In_St
 Remove_All_Adjacent_Duplicates_In_String.cpp.s:
 	$(MAKE) -f CMakeFiles\Remove_All_Adjacent_Duplicates_In_String.dir\build.make CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/Remove_All_Adjacent_Duplicates_In_String.cpp.s
 .PHONY : Remove_All_Adjacent_Duplicates_In_String.cpp.s
+
+Reverse_First_K_elements_of_Queue.obj: Reverse_First_K_elements_of_Queue.cpp.obj
+
+.PHONY : Reverse_First_K_elements_of_Queue.obj
+
+# target to build an object file
+Reverse_First_K_elements_of_Queue.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.obj
+	$(MAKE) -f CMakeFiles\Reverse_First_K_elements_of_Queue.dir\build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.obj
+.PHONY : Reverse_First_K_elements_of_Queue.cpp.obj
+
+Reverse_First_K_elements_of_Queue.i: Reverse_First_K_elements_of_Queue.cpp.i
+
+.PHONY : Reverse_First_K_elements_of_Queue.i
+
+# target to preprocess a source file
+Reverse_First_K_elements_of_Queue.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.i
+	$(MAKE) -f CMakeFiles\Reverse_First_K_elements_of_Queue.dir\build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.i
+.PHONY : Reverse_First_K_elements_of_Queue.cpp.i
+
+Reverse_First_K_elements_of_Queue.s: Reverse_First_K_elements_of_Queue.cpp.s
+
+.PHONY : Reverse_First_K_elements_of_Queue.s
+
+# target to generate assembly for a file
+Reverse_First_K_elements_of_Queue.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.s
+	$(MAKE) -f CMakeFiles\Reverse_First_K_elements_of_Queue.dir\build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.s
+.PHONY : Reverse_First_K_elements_of_Queue.cpp.s
 
 RookMovement.obj: RookMovement.cpp.obj
 
@@ -4005,6 +4276,36 @@ Running_Time_of_Algorithms.s: Running_Time_of_Algorithms.cpp.s
 Running_Time_of_Algorithms.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Running_Time_of_Algorithms.cpp.s
 .PHONY : Running_Time_of_Algorithms.cpp.s
+
+Selection_Sort.obj: Selection_Sort.cpp.obj
+
+.PHONY : Selection_Sort.obj
+
+# target to build an object file
+Selection_Sort.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.obj
+	$(MAKE) -f CMakeFiles\Selection_Sort.dir\build.make CMakeFiles/Selection_Sort.dir/Selection_Sort.cpp.obj
+.PHONY : Selection_Sort.cpp.obj
+
+Selection_Sort.i: Selection_Sort.cpp.i
+
+.PHONY : Selection_Sort.i
+
+# target to preprocess a source file
+Selection_Sort.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.i
+	$(MAKE) -f CMakeFiles\Selection_Sort.dir\build.make CMakeFiles/Selection_Sort.dir/Selection_Sort.cpp.i
+.PHONY : Selection_Sort.cpp.i
+
+Selection_Sort.s: Selection_Sort.cpp.s
+
+.PHONY : Selection_Sort.s
+
+# target to generate assembly for a file
+Selection_Sort.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Selection_Sort.cpp.s
+	$(MAKE) -f CMakeFiles\Selection_Sort.dir\build.make CMakeFiles/Selection_Sort.dir/Selection_Sort.cpp.s
+.PHONY : Selection_Sort.cpp.s
 
 Set5Problem1TheGoldenCrown.obj: Set5Problem1TheGoldenCrown.cpp.obj
 
@@ -5650,6 +5951,13 @@ help:
 	@echo ... Fibonacci_Modified
 	@echo ... Fibonacci_Recursion
 	@echo ... Sum_of_Product_of_Digits
+	@echo ... Insertion_Sort_Newton_School
+	@echo ... Queue_operations
+	@echo ... Reverse_First_K_elements_of_Queue
+	@echo ... QuickSort-1
+	@echo ... QuickSort-2
+	@echo ... Bubble_Sort
+	@echo ... Selection_Sort
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -5700,6 +6008,9 @@ help:
 	@echo ... BeautifulTriplets.obj
 	@echo ... BeautifulTriplets.i
 	@echo ... BeautifulTriplets.s
+	@echo ... Bubble_Sort.obj
+	@echo ... Bubble_Sort.i
+	@echo ... Bubble_Sort.s
 	@echo ... CalvinsGame.obj
 	@echo ... CalvinsGame.i
 	@echo ... CalvinsGame.s
@@ -5862,6 +6173,9 @@ help:
 	@echo ... Maximizing_XOR.obj
 	@echo ... Maximizing_XOR.i
 	@echo ... Maximizing_XOR.s
+	@echo ... MergeSort.obj
+	@echo ... MergeSort.i
+	@echo ... MergeSort.s
 	@echo ... Min_steps_i_a_grid.obj
 	@echo ... Min_steps_i_a_grid.i
 	@echo ... Min_steps_i_a_grid.s
@@ -5910,6 +6224,15 @@ help:
 	@echo ... QueueUsingTwoStacks.obj
 	@echo ... QueueUsingTwoStacks.i
 	@echo ... QueueUsingTwoStacks.s
+	@echo ... Queue_operations.obj
+	@echo ... Queue_operations.i
+	@echo ... Queue_operations.s
+	@echo ... QuickSort-1.obj
+	@echo ... QuickSort-1.i
+	@echo ... QuickSort-1.s
+	@echo ... QuickSort-2.obj
+	@echo ... QuickSort-2.i
+	@echo ... QuickSort-2.s
 	@echo ... RecursiveDigitSum.obj
 	@echo ... RecursiveDigitSum.i
 	@echo ... RecursiveDigitSum.s
@@ -5919,6 +6242,9 @@ help:
 	@echo ... Remove_All_Adjacent_Duplicates_In_String.obj
 	@echo ... Remove_All_Adjacent_Duplicates_In_String.i
 	@echo ... Remove_All_Adjacent_Duplicates_In_String.s
+	@echo ... Reverse_First_K_elements_of_Queue.obj
+	@echo ... Reverse_First_K_elements_of_Queue.i
+	@echo ... Reverse_First_K_elements_of_Queue.s
 	@echo ... RookMovement.obj
 	@echo ... RookMovement.i
 	@echo ... RookMovement.s
@@ -5928,6 +6254,9 @@ help:
 	@echo ... Running_Time_of_Algorithms.obj
 	@echo ... Running_Time_of_Algorithms.i
 	@echo ... Running_Time_of_Algorithms.s
+	@echo ... Selection_Sort.obj
+	@echo ... Selection_Sort.i
+	@echo ... Selection_Sort.s
 	@echo ... Set5Problem1TheGoldenCrown.obj
 	@echo ... Set5Problem1TheGoldenCrown.i
 	@echo ... Set5Problem1TheGoldenCrown.s
