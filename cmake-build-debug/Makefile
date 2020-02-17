@@ -929,6 +929,19 @@ LisaWorkbook/fast:
 .PHONY : LisaWorkbook/fast
 
 #=============================================================================
+# Target rules for targets named Find_Pos_X
+
+# Build rule for target.
+Find_Pos_X: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Find_Pos_X
+.PHONY : Find_Pos_X
+
+# fast build rule for target.
+Find_Pos_X/fast:
+	$(MAKE) -f CMakeFiles\Find_Pos_X.dir\build.make CMakeFiles/Find_Pos_X.dir/build
+.PHONY : Find_Pos_X/fast
+
+#=============================================================================
 # Target rules for targets named stringstream
 
 # Build rule for target.
@@ -1397,19 +1410,6 @@ Reverse_First_K_elements_of_Queue/fast:
 .PHONY : Reverse_First_K_elements_of_Queue/fast
 
 #=============================================================================
-# Target rules for targets named QuickSort-1
-
-# Build rule for target.
-QuickSort-1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 QuickSort-1
-.PHONY : QuickSort-1
-
-# fast build rule for target.
-QuickSort-1/fast:
-	$(MAKE) -f CMakeFiles\QuickSort-1.dir\build.make CMakeFiles/QuickSort-1.dir/build
-.PHONY : QuickSort-1/fast
-
-#=============================================================================
 # Target rules for targets named QuickSort-2
 
 # Build rule for target.
@@ -1447,6 +1447,32 @@ Selection_Sort: cmake_check_build_system
 Selection_Sort/fast:
 	$(MAKE) -f CMakeFiles\Selection_Sort.dir\build.make CMakeFiles/Selection_Sort.dir/build
 .PHONY : Selection_Sort/fast
+
+#=============================================================================
+# Target rules for targets named MergeSort
+
+# Build rule for target.
+MergeSort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 MergeSort
+.PHONY : MergeSort
+
+# fast build rule for target.
+MergeSort/fast:
+	$(MAKE) -f CMakeFiles\MergeSort.dir\build.make CMakeFiles/MergeSort.dir/build
+.PHONY : MergeSort/fast
+
+#=============================================================================
+# Target rules for targets named Binary_Search
+
+# Build rule for target.
+Binary_Search: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Binary_Search
+.PHONY : Binary_Search
+
+# fast build rule for target.
+Binary_Search/fast:
+	$(MAKE) -f CMakeFiles\Binary_Search.dir\build.make CMakeFiles/Binary_Search.dir/build
+.PHONY : Binary_Search/fast
 
 2DArrays.obj: 2DArrays.cpp.obj
 
@@ -1915,6 +1941,36 @@ BeautifulTriplets.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/BeautifulTriplets.cpp.s
 	$(MAKE) -f CMakeFiles\BeautifulTriplets.dir\build.make CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.s
 .PHONY : BeautifulTriplets.cpp.s
+
+Binary_Search.obj: Binary_Search.cpp.obj
+
+.PHONY : Binary_Search.obj
+
+# target to build an object file
+Binary_Search.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Binary_Search.cpp.obj
+	$(MAKE) -f CMakeFiles\Binary_Search.dir\build.make CMakeFiles/Binary_Search.dir/Binary_Search.cpp.obj
+.PHONY : Binary_Search.cpp.obj
+
+Binary_Search.i: Binary_Search.cpp.i
+
+.PHONY : Binary_Search.i
+
+# target to preprocess a source file
+Binary_Search.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Binary_Search.cpp.i
+	$(MAKE) -f CMakeFiles\Binary_Search.dir\build.make CMakeFiles/Binary_Search.dir/Binary_Search.cpp.i
+.PHONY : Binary_Search.cpp.i
+
+Binary_Search.s: Binary_Search.cpp.s
+
+.PHONY : Binary_Search.s
+
+# target to generate assembly for a file
+Binary_Search.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Binary_Search.cpp.s
+	$(MAKE) -f CMakeFiles\Binary_Search.dir\build.make CMakeFiles/Binary_Search.dir/Binary_Search.cpp.s
+.PHONY : Binary_Search.cpp.s
 
 Bubble_Sort.obj: Bubble_Sort.cpp.obj
 
@@ -2638,6 +2694,36 @@ FindTheRunningMedianOptimized.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/FindTheRunningMedianOptimized.cpp.s
 	$(MAKE) -f CMakeFiles\FindTheRunningMedianOptimized.dir\build.make CMakeFiles/FindTheRunningMedianOptimized.dir/FindTheRunningMedianOptimized.cpp.s
 .PHONY : FindTheRunningMedianOptimized.cpp.s
+
+Find_Pos_X.obj: Find_Pos_X.cpp.obj
+
+.PHONY : Find_Pos_X.obj
+
+# target to build an object file
+Find_Pos_X.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Find_Pos_X.cpp.obj
+	$(MAKE) -f CMakeFiles\Find_Pos_X.dir\build.make CMakeFiles/Find_Pos_X.dir/Find_Pos_X.cpp.obj
+.PHONY : Find_Pos_X.cpp.obj
+
+Find_Pos_X.i: Find_Pos_X.cpp.i
+
+.PHONY : Find_Pos_X.i
+
+# target to preprocess a source file
+Find_Pos_X.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Find_Pos_X.cpp.i
+	$(MAKE) -f CMakeFiles\Find_Pos_X.dir\build.make CMakeFiles/Find_Pos_X.dir/Find_Pos_X.cpp.i
+.PHONY : Find_Pos_X.cpp.i
+
+Find_Pos_X.s: Find_Pos_X.cpp.s
+
+.PHONY : Find_Pos_X.s
+
+# target to generate assembly for a file
+Find_Pos_X.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Find_Pos_X.cpp.s
+	$(MAKE) -f CMakeFiles\Find_Pos_X.dir\build.make CMakeFiles/Find_Pos_X.dir/Find_Pos_X.cpp.s
+.PHONY : Find_Pos_X.cpp.s
 
 Find_the_Median.obj: Find_the_Median.cpp.obj
 
@@ -3395,6 +3481,33 @@ LittleMonkandWilliamson.cpp.s:
 	$(MAKE) -f CMakeFiles\LittleMonkandWilliamson.dir\build.make CMakeFiles/LittleMonkandWilliamson.dir/LittleMonkandWilliamson.cpp.s
 .PHONY : LittleMonkandWilliamson.cpp.s
 
+Makeitsame.obj: Makeitsame.cpp.obj
+
+.PHONY : Makeitsame.obj
+
+# target to build an object file
+Makeitsame.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Makeitsame.cpp.obj
+.PHONY : Makeitsame.cpp.obj
+
+Makeitsame.i: Makeitsame.cpp.i
+
+.PHONY : Makeitsame.i
+
+# target to preprocess a source file
+Makeitsame.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Makeitsame.cpp.i
+.PHONY : Makeitsame.cpp.i
+
+Makeitsame.s: Makeitsame.cpp.s
+
+.PHONY : Makeitsame.s
+
+# target to generate assembly for a file
+Makeitsame.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Makeitsame.cpp.s
+.PHONY : Makeitsame.cpp.s
+
 Making_Anagrams.obj: Making_Anagrams.cpp.obj
 
 .PHONY : Making_Anagrams.obj
@@ -3503,32 +3616,35 @@ Maximizing_XOR.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Maximizing_XOR.cpp.s
 .PHONY : Maximizing_XOR.cpp.s
 
-MergeSort.obj: MergeSort.cpp.obj
+Merge_Sort.obj: Merge_Sort.cpp.obj
 
-.PHONY : MergeSort.obj
+.PHONY : Merge_Sort.obj
 
 # target to build an object file
-MergeSort.cpp.obj:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.obj
-.PHONY : MergeSort.cpp.obj
+Merge_Sort.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Merge_Sort.cpp.obj
+	$(MAKE) -f CMakeFiles\MergeSort.dir\build.make CMakeFiles/MergeSort.dir/Merge_Sort.cpp.obj
+.PHONY : Merge_Sort.cpp.obj
 
-MergeSort.i: MergeSort.cpp.i
+Merge_Sort.i: Merge_Sort.cpp.i
 
-.PHONY : MergeSort.i
+.PHONY : Merge_Sort.i
 
 # target to preprocess a source file
-MergeSort.cpp.i:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.i
-.PHONY : MergeSort.cpp.i
+Merge_Sort.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Merge_Sort.cpp.i
+	$(MAKE) -f CMakeFiles\MergeSort.dir\build.make CMakeFiles/MergeSort.dir/Merge_Sort.cpp.i
+.PHONY : Merge_Sort.cpp.i
 
-MergeSort.s: MergeSort.cpp.s
+Merge_Sort.s: Merge_Sort.cpp.s
 
-.PHONY : MergeSort.s
+.PHONY : Merge_Sort.s
 
 # target to generate assembly for a file
-MergeSort.cpp.s:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/MergeSort.cpp.s
-.PHONY : MergeSort.cpp.s
+Merge_Sort.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Merge_Sort.cpp.s
+	$(MAKE) -f CMakeFiles\MergeSort.dir\build.make CMakeFiles/MergeSort.dir/Merge_Sort.cpp.s
+.PHONY : Merge_Sort.cpp.s
 
 Min_steps_i_a_grid.obj: Min_steps_i_a_grid.cpp.obj
 
@@ -3751,6 +3867,33 @@ Next_Largest_Element.s: Next_Largest_Element.cpp.s
 Next_Largest_Element.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.s
 .PHONY : Next_Largest_Element.cpp.s
+
+Pair_Sum.obj: Pair_Sum.cpp.obj
+
+.PHONY : Pair_Sum.obj
+
+# target to build an object file
+Pair_Sum.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Pair_Sum.cpp.obj
+.PHONY : Pair_Sum.cpp.obj
+
+Pair_Sum.i: Pair_Sum.cpp.i
+
+.PHONY : Pair_Sum.i
+
+# target to preprocess a source file
+Pair_Sum.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Pair_Sum.cpp.i
+.PHONY : Pair_Sum.cpp.i
+
+Pair_Sum.s: Pair_Sum.cpp.s
+
+.PHONY : Pair_Sum.s
+
+# target to generate assembly for a file
+Pair_Sum.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Pair_Sum.cpp.s
+.PHONY : Pair_Sum.cpp.s
 
 Pallindrome_Index.obj: Pallindrome_Index.cpp.obj
 
@@ -4016,65 +4159,35 @@ Queue_operations.cpp.s:
 	$(MAKE) -f CMakeFiles\Queue_operations.dir\build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.s
 .PHONY : Queue_operations.cpp.s
 
-QuickSort-1.obj: QuickSort-1.cpp.obj
+Quick_Sort.obj: Quick_Sort.cpp.obj
 
-.PHONY : QuickSort-1.obj
-
-# target to build an object file
-QuickSort-1.cpp.obj:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.obj
-	$(MAKE) -f CMakeFiles\QuickSort-1.dir\build.make CMakeFiles/QuickSort-1.dir/QuickSort-1.cpp.obj
-.PHONY : QuickSort-1.cpp.obj
-
-QuickSort-1.i: QuickSort-1.cpp.i
-
-.PHONY : QuickSort-1.i
-
-# target to preprocess a source file
-QuickSort-1.cpp.i:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.i
-	$(MAKE) -f CMakeFiles\QuickSort-1.dir\build.make CMakeFiles/QuickSort-1.dir/QuickSort-1.cpp.i
-.PHONY : QuickSort-1.cpp.i
-
-QuickSort-1.s: QuickSort-1.cpp.s
-
-.PHONY : QuickSort-1.s
-
-# target to generate assembly for a file
-QuickSort-1.cpp.s:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-1.cpp.s
-	$(MAKE) -f CMakeFiles\QuickSort-1.dir\build.make CMakeFiles/QuickSort-1.dir/QuickSort-1.cpp.s
-.PHONY : QuickSort-1.cpp.s
-
-QuickSort-2.obj: QuickSort-2.cpp.obj
-
-.PHONY : QuickSort-2.obj
+.PHONY : Quick_Sort.obj
 
 # target to build an object file
-QuickSort-2.cpp.obj:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.obj
-	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.obj
-.PHONY : QuickSort-2.cpp.obj
+Quick_Sort.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Quick_Sort.cpp.obj
+	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.obj
+.PHONY : Quick_Sort.cpp.obj
 
-QuickSort-2.i: QuickSort-2.cpp.i
+Quick_Sort.i: Quick_Sort.cpp.i
 
-.PHONY : QuickSort-2.i
+.PHONY : Quick_Sort.i
 
 # target to preprocess a source file
-QuickSort-2.cpp.i:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.i
-	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.i
-.PHONY : QuickSort-2.cpp.i
+Quick_Sort.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Quick_Sort.cpp.i
+	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.i
+.PHONY : Quick_Sort.cpp.i
 
-QuickSort-2.s: QuickSort-2.cpp.s
+Quick_Sort.s: Quick_Sort.cpp.s
 
-.PHONY : QuickSort-2.s
+.PHONY : Quick_Sort.s
 
 # target to generate assembly for a file
-QuickSort-2.cpp.s:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/QuickSort-2.cpp.s
-	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.s
-.PHONY : QuickSort-2.cpp.s
+Quick_Sort.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Quick_Sort.cpp.s
+	$(MAKE) -f CMakeFiles\QuickSort-2.dir\build.make CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.s
+.PHONY : Quick_Sort.cpp.s
 
 RecursiveDigitSum.obj: RecursiveDigitSum.cpp.obj
 
@@ -5918,6 +6031,7 @@ help:
 	@echo ... JumpingontheCloudsRevisited
 	@echo ... LarryArray
 	@echo ... LisaWorkbook
+	@echo ... Find_Pos_X
 	@echo ... stringstream
 	@echo ... LittleMonkandWilliamson
 	@echo ... SetProblem2BreakerOfChains
@@ -5954,10 +6068,11 @@ help:
 	@echo ... Insertion_Sort_Newton_School
 	@echo ... Queue_operations
 	@echo ... Reverse_First_K_elements_of_Queue
-	@echo ... QuickSort-1
 	@echo ... QuickSort-2
 	@echo ... Bubble_Sort
 	@echo ... Selection_Sort
+	@echo ... MergeSort
+	@echo ... Binary_Search
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -6008,6 +6123,9 @@ help:
 	@echo ... BeautifulTriplets.obj
 	@echo ... BeautifulTriplets.i
 	@echo ... BeautifulTriplets.s
+	@echo ... Binary_Search.obj
+	@echo ... Binary_Search.i
+	@echo ... Binary_Search.s
 	@echo ... Bubble_Sort.obj
 	@echo ... Bubble_Sort.i
 	@echo ... Bubble_Sort.s
@@ -6083,6 +6201,9 @@ help:
 	@echo ... FindTheRunningMedianOptimized.obj
 	@echo ... FindTheRunningMedianOptimized.i
 	@echo ... FindTheRunningMedianOptimized.s
+	@echo ... Find_Pos_X.obj
+	@echo ... Find_Pos_X.i
+	@echo ... Find_Pos_X.s
 	@echo ... Find_the_Median.obj
 	@echo ... Find_the_Median.i
 	@echo ... Find_the_Median.s
@@ -6161,6 +6282,9 @@ help:
 	@echo ... LittleMonkandWilliamson.obj
 	@echo ... LittleMonkandWilliamson.i
 	@echo ... LittleMonkandWilliamson.s
+	@echo ... Makeitsame.obj
+	@echo ... Makeitsame.i
+	@echo ... Makeitsame.s
 	@echo ... Making_Anagrams.obj
 	@echo ... Making_Anagrams.i
 	@echo ... Making_Anagrams.s
@@ -6173,9 +6297,9 @@ help:
 	@echo ... Maximizing_XOR.obj
 	@echo ... Maximizing_XOR.i
 	@echo ... Maximizing_XOR.s
-	@echo ... MergeSort.obj
-	@echo ... MergeSort.i
-	@echo ... MergeSort.s
+	@echo ... Merge_Sort.obj
+	@echo ... Merge_Sort.i
+	@echo ... Merge_Sort.s
 	@echo ... Min_steps_i_a_grid.obj
 	@echo ... Min_steps_i_a_grid.i
 	@echo ... Min_steps_i_a_grid.s
@@ -6200,6 +6324,9 @@ help:
 	@echo ... Next_Largest_Element.obj
 	@echo ... Next_Largest_Element.i
 	@echo ... Next_Largest_Element.s
+	@echo ... Pair_Sum.obj
+	@echo ... Pair_Sum.i
+	@echo ... Pair_Sum.s
 	@echo ... Pallindrome_Index.obj
 	@echo ... Pallindrome_Index.i
 	@echo ... Pallindrome_Index.s
@@ -6227,12 +6354,9 @@ help:
 	@echo ... Queue_operations.obj
 	@echo ... Queue_operations.i
 	@echo ... Queue_operations.s
-	@echo ... QuickSort-1.obj
-	@echo ... QuickSort-1.i
-	@echo ... QuickSort-1.s
-	@echo ... QuickSort-2.obj
-	@echo ... QuickSort-2.i
-	@echo ... QuickSort-2.s
+	@echo ... Quick_Sort.obj
+	@echo ... Quick_Sort.i
+	@echo ... Quick_Sort.s
 	@echo ... RecursiveDigitSum.obj
 	@echo ... RecursiveDigitSum.i
 	@echo ... RecursiveDigitSum.s

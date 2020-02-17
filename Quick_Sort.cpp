@@ -35,7 +35,7 @@ void quick_sort (int A[], int start, int end) {
         quick_sort(A, piv_pos + 1, end);
     }
 }
-int main() {
+int main () {
     cin >> size;
     int A[size+1];
     for (int i = 1; i <= size; ++i) {

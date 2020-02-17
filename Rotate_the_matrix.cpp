@@ -7,14 +7,21 @@ int main() {
     int size;
     cin>>size;
     int array[size+1][size+1];
-    for (int i = 0; i < size; ++i) {
+    for (int i = 1; i <= size; ++i) {
         for (int j = 0; j < size; ++j) {
             cin>>array[i][j];
         }
     }
     for (int i = 0; i < size; ++i) {
-        for (int j = 0, k = 0, l = size - 1; j < size; ++j, k++, l--) {
-            cout<<array[i+k][j+l]<<" ";
+        for (int j = size; j > 0; --j) {
+            cout<<array[j][i]<<" ";
+        }
+        cout<<endl;
+    }
+    cout<<endl;
+    for (int i = size; i > 0; --i) {
+        for (int j = size - 1; j >= 0; --j) {
+            cout<<array[i][j]<<" ";
         }
         cout<<endl;
     }

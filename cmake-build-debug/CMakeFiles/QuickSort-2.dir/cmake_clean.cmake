@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.obj"
+  "CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.obj"
   "QuickSort-2.exe"
   "QuickSort-2.exe.manifest"
   "QuickSort-2.pdb"

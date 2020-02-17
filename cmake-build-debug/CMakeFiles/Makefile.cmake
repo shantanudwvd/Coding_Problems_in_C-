@@ -116,6 +116,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/JumpingontheCloudsRevisited.dir/DependInfo.cmake"
   "CMakeFiles/LarryArray.dir/DependInfo.cmake"
   "CMakeFiles/LisaWorkbook.dir/DependInfo.cmake"
+  "CMakeFiles/Find_Pos_X.dir/DependInfo.cmake"
   "CMakeFiles/stringstream.dir/DependInfo.cmake"
   "CMakeFiles/LittleMonkandWilliamson.dir/DependInfo.cmake"
   "CMakeFiles/SetProblem2BreakerOfChains.dir/DependInfo.cmake"
@@ -152,8 +153,9 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Insertion_Sort_Newton_School.dir/DependInfo.cmake"
   "CMakeFiles/Queue_operations.dir/DependInfo.cmake"
   "CMakeFiles/Reverse_First_K_elements_of_Queue.dir/DependInfo.cmake"
-  "CMakeFiles/QuickSort-1.dir/DependInfo.cmake"
   "CMakeFiles/QuickSort-2.dir/DependInfo.cmake"
   "CMakeFiles/Bubble_Sort.dir/DependInfo.cmake"
   "CMakeFiles/Selection_Sort.dir/DependInfo.cmake"
+  "CMakeFiles/MergeSort.dir/DependInfo.cmake"
+  "CMakeFiles/Binary_Search.dir/DependInfo.cmake"
   )

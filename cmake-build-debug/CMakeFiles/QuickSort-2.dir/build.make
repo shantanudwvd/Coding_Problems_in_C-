@@ -56,27 +56,27 @@ include CMakeFiles/QuickSort-2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/QuickSort-2.dir/flags.make
 
-CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.obj: CMakeFiles/QuickSort-2.dir/flags.make
-CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.obj: ../QuickSort-2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\QuickSort-2.dir\QuickSort-2.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuickSort-2.cpp
+CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.obj: CMakeFiles/QuickSort-2.dir/flags.make
+CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.obj: ../Quick_Sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\QuickSort-2.dir\Quick_Sort.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Quick_Sort.cpp
 
-CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuickSort-2.cpp > CMakeFiles\QuickSort-2.dir\QuickSort-2.cpp.i
+CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Quick_Sort.cpp > CMakeFiles\QuickSort-2.dir\Quick_Sort.cpp.i
 
-CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\QuickSort-2.cpp -o CMakeFiles\QuickSort-2.dir\QuickSort-2.cpp.s
+CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Quick_Sort.cpp -o CMakeFiles\QuickSort-2.dir\Quick_Sort.cpp.s
 
 # Object files for target QuickSort-2
 QuickSort__2_OBJECTS = \
-"CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.obj"
+"CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.obj"
 
 # External object files for target QuickSort-2
 QuickSort__2_EXTERNAL_OBJECTS =
 
-QuickSort-2.exe: CMakeFiles/QuickSort-2.dir/QuickSort-2.cpp.obj
+QuickSort-2.exe: CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.obj
 QuickSort-2.exe: CMakeFiles/QuickSort-2.dir/build.make
 QuickSort-2.exe: CMakeFiles/QuickSort-2.dir/linklibs.rsp
 QuickSort-2.exe: CMakeFiles/QuickSort-2.dir/objects1.rsp
