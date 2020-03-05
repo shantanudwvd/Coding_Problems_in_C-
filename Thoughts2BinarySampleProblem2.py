@@ -1,4 +1,4 @@
-# def func(string1, string2, occu):
+pP# def func(string1, string2, occu):
 #     idxs = 0
 #     idxe = string1.index(string2, idxs)
 #     count = 0

@@ -2621,6 +2621,48 @@
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Boundary_Traversal_of_Matrix">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Boundary_Traversal_of_Matrix.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Boundary_Traversal_of_Matrix"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Boundary_Traversal_of_Matrix/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Boundary_Traversal_of_Matrix.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Boundary_Traversal_of_Matrix/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="LisaWorkbook">
 				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/LisaWorkbook.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -2742,6 +2784,48 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 stringstream/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Maximum_Product_ofK">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Maximum_Product_ofK.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Maximum_Product_ofK"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Maximum_Product_ofK/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Maximum_Product_ofK.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Maximum_Product_ofK/fast"/>
 					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -4343,8 +4427,8 @@
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="MergeSort">
-				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/MergeSort.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="Merge_Sort">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Merge_Sort.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -4358,14 +4442,14 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 MergeSort"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Merge_Sort"/>
 					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="MergeSort/fast">
-				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/MergeSort.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="Merge_Sort/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Merge_Sort.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -4379,7 +4463,7 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 MergeSort/fast"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Merge_Sort/fast"/>
 					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -4422,6 +4506,804 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary_Search/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rearrange_array_Optimised">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Rearrange_array_Optimised.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Rearrange_array_Optimised"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rearrange_array_Optimised/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Rearrange_array_Optimised.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Rearrange_array_Optimised/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayList">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/ArrayList.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayList"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayList/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/ArrayList.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayList/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Operations_in_Deque">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Operations_in_Deque.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Operations_in_Deque"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Operations_in_Deque/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Operations_in_Deque.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Operations_in_Deque/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Addition_of_Common_Elements">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Addition_of_Common_Elements.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Addition_of_Common_Elements"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Addition_of_Common_Elements/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Addition_of_Common_Elements.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Addition_of_Common_Elements/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Partiles_and_Seats">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Partiles_and_Seats.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Partiles_and_Seats"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Partiles_and_Seats/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Partiles_and_Seats.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Partiles_and_Seats/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary_String">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Binary_String.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary_String"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary_String/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Binary_String.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary_String/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Conversion_to_one">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Conversion_to_one.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Conversion_to_one"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Conversion_to_one/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Conversion_to_one.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Conversion_to_one/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Naive_Pattern_Search">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Naive_Pattern_Search.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Naive_Pattern_Search"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Naive_Pattern_Search/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Naive_Pattern_Search.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Naive_Pattern_Search/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Power_Set">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Power_Set.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Power_Set"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Power_Set/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Power_Set.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Power_Set/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kth_Smallest_Element">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Kth_Smallest_Element.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kth_Smallest_Element"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kth_Smallest_Element/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Kth_Smallest_Element.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kth_Smallest_Element/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary_Heap_Operations">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Binary_Heap_Operations.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary_Heap_Operations"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Binary_Heap_Operations/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Binary_Heap_Operations.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Binary_Heap_Operations/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nearly_Sorted">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Nearly_Sorted.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nearly_Sorted"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nearly_Sorted/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Nearly_Sorted.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nearly_Sorted/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kth_largest_element">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Kth_largest_element.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kth_largest_element"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kth_largest_element/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Kth_largest_element.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kth_largest_element/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Heaps_STL">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Heaps_STL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Heaps_STL"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Heaps_STL/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Heaps_STL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Heaps_STL/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Minimum_Cost_Of_Ropes">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Minimum_Cost_Of_Ropes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Minimum_Cost_Of_Ropes"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Minimum_Cost_Of_Ropes/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Minimum_Cost_Of_Ropes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Minimum_Cost_Of_Ropes/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="K_Most_Recurring_Elements">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/K_Most_Recurring_Elements.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 K_Most_Recurring_Elements"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="K_Most_Recurring_Elements/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/K_Most_Recurring_Elements.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 K_Most_Recurring_Elements/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Get_the_shadow">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Get_the_shadow.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Get_the_shadow"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Get_the_shadow/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Get_the_shadow.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Get_the_shadow/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kth_Smallest_Diff">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Kth_Smallest_Diff.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kth_Smallest_Diff"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kth_Smallest_Diff/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Kth_Smallest_Diff.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kth_Smallest_Diff/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kadans_Algorithm">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Kadans_Algorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kadans_Algorithm"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kadans_Algorithm/fast">
+				<Option output="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Kadans_Algorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Kadans_Algorithm/fast"/>
 					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -4473,6 +5355,10 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Absolute_Element_Sums.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Addition_of_Common_Elements.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Addition_of_Common_Elements"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/AlmostSorted.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="AlmostSorted"/>
@@ -4493,6 +5379,10 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="AppendandDelete"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ArrayList.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="ArrayList"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ArrayManipulation.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="ArrayManipulation"/>
@@ -4508,9 +5398,21 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="BeautifulTriplets"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Binary_Heap_Operations.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Binary_Heap_Operations"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Binary_Search.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="Binary_Search"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Binary_String.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Binary_String"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Boundary_Traversal_of_Matrix.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Boundary_Traversal_of_Matrix"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Bubble_Sort.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4526,6 +5428,9 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ChocolateFeast.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="ChocolateFeast"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Circular_Array_Rotation.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ClimbingTheLeaderboard.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4545,6 +5450,10 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="Contacts"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Conversion_to_one.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Conversion_to_one"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Correctness and the Loop Invariant.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -4556,6 +5465,9 @@
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/CuttheSticks.cpp">
 			<Option target="CuttheSticks"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Davis_Staircase.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Deque-STL-Alternate.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4582,6 +5494,9 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ExtraLongFactorials.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="ExtraLongFactorials"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Extract_Original.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Fibonacci_Modified.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4630,9 +5545,20 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="GamingArray"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Get_the_shadow.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Get_the_shadow"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Greater_and_smaller_ones.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="HeapSortingUsingMax_HeapifyCormenIndexingwith0"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Heaps_STL.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Heaps_STL"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/InsertionSortPart-1.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4654,6 +5580,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="IntegerTypes"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Inversion_Count.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/JesseandCookies.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="JesseandCookies"/>
@@ -4665,8 +5594,28 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="JumpingontheCloudsRevisited"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/K_Most_Recurring_Elements.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="K_Most_Recurring_Elements"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Kadans_Algorithm.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Kadans_Algorithm"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/KindergartenAdventures.cpp">
 			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Kth_Smallest_Diff.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Kth_Smallest_Diff"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Kth_Smallest_Element.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Kth_Smallest_Element"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Kth_largest_element.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Kth_largest_element"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/LarryArray.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4718,9 +5667,13 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Maximizing XOR.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Maximum_Product_ofK.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Maximum_Product_ofK"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Merge_Sort.cpp">
 			<Option target="AveoRenzhio"/>
-			<Option target="MergeSort"/>
+			<Option target="Merge_Sort"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Min_steps_i_a_grid.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4733,6 +5686,10 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="MinimumSwaps2Alternate"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Minimum_Cost_Of_Ropes.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Minimum_Cost_Of_Ropes"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Missing_Numbers.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -4742,11 +5699,26 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/MrXandhisShots.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/N-Queen_Problem.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Naive_Pattern_Search.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Naive_Pattern_Search"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Nearly_Sorted.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Nearly_Sorted"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/NewYearChaos.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Next_Largest_Element.cpp">
 			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Operations_in_Deque.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Operations_in_Deque"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Pair_Sum.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4754,6 +5726,10 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Pallindrome_Index.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="Equilibrium_Point"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Parties_and_Seats.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Partiles_and_Seats"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/PoisnousPlants.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4766,6 +5742,13 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Poisonous_Plants_Optimised.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="Poisonous_Plants_Optimised"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Power_Set.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Power_Set"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/QHEAP1.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/QueenAttackIIAlternate.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4788,6 +5771,10 @@
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Quick_Sort.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="QuickSort-2"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Rearrange_array_Optimised.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="Rearrange_array_Optimised"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/RecursiveDigitSum.cpp">
 			<Option target="AveoRenzhio"/>
@@ -4848,10 +5835,16 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="Simple_Transpose"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Sort_Anagram.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/SparseArrays.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Special_String_Again.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Square_root_of_an_integer.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/StrongPassword.cpp">

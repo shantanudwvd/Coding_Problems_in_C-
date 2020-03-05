@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Rearrange_array_Optimised.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Rearrange_array_Optimised.dir/objects.a @CMakeFiles\Rearrange_array_Optimised.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  -O0 -g   -Wl,--whole-archive CMakeFiles\Rearrange_array_Optimised.dir/objects.a -Wl,--no-whole-archive  -o Rearrange_array_Optimised.exe -Wl,--out-implib,libRearrange_array_Optimised.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Rearrange_array_Optimised.dir\linklibs.rsp
