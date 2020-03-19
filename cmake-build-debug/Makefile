@@ -1436,6 +1436,19 @@ Reverse_First_K_elements_of_Queue/fast:
 .PHONY : Reverse_First_K_elements_of_Queue/fast
 
 #=============================================================================
+# Target rules for targets named diagonal_traversal
+
+# Build rule for target.
+diagonal_traversal: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 diagonal_traversal
+.PHONY : diagonal_traversal
+
+# fast build rule for target.
+diagonal_traversal/fast:
+	$(MAKE) -f CMakeFiles\diagonal_traversal.dir\build.make CMakeFiles/diagonal_traversal.dir/build
+.PHONY : diagonal_traversal/fast
+
+#=============================================================================
 # Target rules for targets named QuickSort-2
 
 # Build rule for target.
@@ -1746,6 +1759,32 @@ Kadans_Algorithm: cmake_check_build_system
 Kadans_Algorithm/fast:
 	$(MAKE) -f CMakeFiles\Kadans_Algorithm.dir\build.make CMakeFiles/Kadans_Algorithm.dir/build
 .PHONY : Kadans_Algorithm/fast
+
+#=============================================================================
+# Target rules for targets named Second_Largest
+
+# Build rule for target.
+Second_Largest: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Second_Largest
+.PHONY : Second_Largest
+
+# fast build rule for target.
+Second_Largest/fast:
+	$(MAKE) -f CMakeFiles\Second_Largest.dir\build.make CMakeFiles/Second_Largest.dir/build
+.PHONY : Second_Largest/fast
+
+#=============================================================================
+# Target rules for targets named decoding_encoded_list
+
+# Build rule for target.
+decoding_encoded_list: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 decoding_encoded_list
+.PHONY : decoding_encoded_list
+
+# fast build rule for target.
+decoding_encoded_list/fast:
+	$(MAKE) -f CMakeFiles\decoding_encoded_list.dir\build.make CMakeFiles/decoding_encoded_list.dir/build
+.PHONY : decoding_encoded_list/fast
 
 2DArrays.obj: 2DArrays.cpp.obj
 
@@ -5482,6 +5521,36 @@ Running_Time_of_Algorithms.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Running_Time_of_Algorithms.cpp.s
 .PHONY : Running_Time_of_Algorithms.cpp.s
 
+Second_Largest.obj: Second_Largest.cpp.obj
+
+.PHONY : Second_Largest.obj
+
+# target to build an object file
+Second_Largest.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Second_Largest.cpp.obj
+	$(MAKE) -f CMakeFiles\Second_Largest.dir\build.make CMakeFiles/Second_Largest.dir/Second_Largest.cpp.obj
+.PHONY : Second_Largest.cpp.obj
+
+Second_Largest.i: Second_Largest.cpp.i
+
+.PHONY : Second_Largest.i
+
+# target to preprocess a source file
+Second_Largest.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Second_Largest.cpp.i
+	$(MAKE) -f CMakeFiles\Second_Largest.dir\build.make CMakeFiles/Second_Largest.dir/Second_Largest.cpp.i
+.PHONY : Second_Largest.cpp.i
+
+Second_Largest.s: Second_Largest.cpp.s
+
+.PHONY : Second_Largest.s
+
+# target to generate assembly for a file
+Second_Largest.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Second_Largest.cpp.s
+	$(MAKE) -f CMakeFiles\Second_Largest.dir\build.make CMakeFiles/Second_Largest.dir/Second_Largest.cpp.s
+.PHONY : Second_Largest.cpp.s
+
 Selection_Sort.obj: Selection_Sort.cpp.obj
 
 .PHONY : Selection_Sort.obj
@@ -6382,6 +6451,66 @@ data_types.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/data_types.cpp.s
 .PHONY : data_types.cpp.s
 
+decoding_encoded_list.obj: decoding_encoded_list.cpp.obj
+
+.PHONY : decoding_encoded_list.obj
+
+# target to build an object file
+decoding_encoded_list.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/decoding_encoded_list.cpp.obj
+	$(MAKE) -f CMakeFiles\decoding_encoded_list.dir\build.make CMakeFiles/decoding_encoded_list.dir/decoding_encoded_list.cpp.obj
+.PHONY : decoding_encoded_list.cpp.obj
+
+decoding_encoded_list.i: decoding_encoded_list.cpp.i
+
+.PHONY : decoding_encoded_list.i
+
+# target to preprocess a source file
+decoding_encoded_list.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/decoding_encoded_list.cpp.i
+	$(MAKE) -f CMakeFiles\decoding_encoded_list.dir\build.make CMakeFiles/decoding_encoded_list.dir/decoding_encoded_list.cpp.i
+.PHONY : decoding_encoded_list.cpp.i
+
+decoding_encoded_list.s: decoding_encoded_list.cpp.s
+
+.PHONY : decoding_encoded_list.s
+
+# target to generate assembly for a file
+decoding_encoded_list.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/decoding_encoded_list.cpp.s
+	$(MAKE) -f CMakeFiles\decoding_encoded_list.dir\build.make CMakeFiles/decoding_encoded_list.dir/decoding_encoded_list.cpp.s
+.PHONY : decoding_encoded_list.cpp.s
+
+diagonal_traversal.obj: diagonal_traversal.cpp.obj
+
+.PHONY : diagonal_traversal.obj
+
+# target to build an object file
+diagonal_traversal.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/diagonal_traversal.cpp.obj
+	$(MAKE) -f CMakeFiles\diagonal_traversal.dir\build.make CMakeFiles/diagonal_traversal.dir/diagonal_traversal.cpp.obj
+.PHONY : diagonal_traversal.cpp.obj
+
+diagonal_traversal.i: diagonal_traversal.cpp.i
+
+.PHONY : diagonal_traversal.i
+
+# target to preprocess a source file
+diagonal_traversal.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/diagonal_traversal.cpp.i
+	$(MAKE) -f CMakeFiles\diagonal_traversal.dir\build.make CMakeFiles/diagonal_traversal.dir/diagonal_traversal.cpp.i
+.PHONY : diagonal_traversal.cpp.i
+
+diagonal_traversal.s: diagonal_traversal.cpp.s
+
+.PHONY : diagonal_traversal.s
+
+# target to generate assembly for a file
+diagonal_traversal.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/diagonal_traversal.cpp.s
+	$(MAKE) -f CMakeFiles\diagonal_traversal.dir\build.make CMakeFiles/diagonal_traversal.dir/diagonal_traversal.cpp.s
+.PHONY : diagonal_traversal.cpp.s
+
 dictionariesandmaps.obj: dictionariesandmaps.cpp.obj
 
 .PHONY : dictionariesandmaps.obj
@@ -6789,6 +6918,33 @@ mars-exploration.s: mars-exploration.cpp.s
 mars-exploration.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.s
 .PHONY : mars-exploration.cpp.s
+
+move_zeroes.obj: move_zeroes.cpp.obj
+
+.PHONY : move_zeroes.obj
+
+# target to build an object file
+move_zeroes.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/move_zeroes.cpp.obj
+.PHONY : move_zeroes.cpp.obj
+
+move_zeroes.i: move_zeroes.cpp.i
+
+.PHONY : move_zeroes.i
+
+# target to preprocess a source file
+move_zeroes.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/move_zeroes.cpp.i
+.PHONY : move_zeroes.cpp.i
+
+move_zeroes.s: move_zeroes.cpp.s
+
+.PHONY : move_zeroes.s
+
+# target to generate assembly for a file
+move_zeroes.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/move_zeroes.cpp.s
+.PHONY : move_zeroes.cpp.s
 
 pangrams.obj: pangrams.cpp.obj
 
@@ -7216,6 +7372,7 @@ help:
 	@echo ... Insertion_Sort_Newton_School
 	@echo ... Queue_operations
 	@echo ... Reverse_First_K_elements_of_Queue
+	@echo ... diagonal_traversal
 	@echo ... QuickSort-2
 	@echo ... Bubble_Sort
 	@echo ... Selection_Sort
@@ -7240,6 +7397,8 @@ help:
 	@echo ... Get_the_shadow
 	@echo ... Kth_Smallest_Diff
 	@echo ... Kadans_Algorithm
+	@echo ... Second_Largest
+	@echo ... decoding_encoded_list
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -7629,6 +7788,9 @@ help:
 	@echo ... Running_Time_of_Algorithms.obj
 	@echo ... Running_Time_of_Algorithms.i
 	@echo ... Running_Time_of_Algorithms.s
+	@echo ... Second_Largest.obj
+	@echo ... Second_Largest.i
+	@echo ... Second_Largest.s
 	@echo ... Selection_Sort.obj
 	@echo ... Selection_Sort.i
 	@echo ... Selection_Sort.s
@@ -7722,6 +7884,12 @@ help:
 	@echo ... data_types.obj
 	@echo ... data_types.i
 	@echo ... data_types.s
+	@echo ... decoding_encoded_list.obj
+	@echo ... decoding_encoded_list.i
+	@echo ... decoding_encoded_list.s
+	@echo ... diagonal_traversal.obj
+	@echo ... diagonal_traversal.i
+	@echo ... diagonal_traversal.s
 	@echo ... dictionariesandmaps.obj
 	@echo ... dictionariesandmaps.i
 	@echo ... dictionariesandmaps.s
@@ -7764,6 +7932,9 @@ help:
 	@echo ... mars-exploration.obj
 	@echo ... mars-exploration.i
 	@echo ... mars-exploration.s
+	@echo ... move_zeroes.obj
+	@echo ... move_zeroes.i
+	@echo ... move_zeroes.s
 	@echo ... pangrams.obj
 	@echo ... pangrams.i
 	@echo ... pangrams.s

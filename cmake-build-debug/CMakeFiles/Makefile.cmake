@@ -155,6 +155,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Insertion_Sort_Newton_School.dir/DependInfo.cmake"
   "CMakeFiles/Queue_operations.dir/DependInfo.cmake"
   "CMakeFiles/Reverse_First_K_elements_of_Queue.dir/DependInfo.cmake"
+  "CMakeFiles/diagonal_traversal.dir/DependInfo.cmake"
   "CMakeFiles/QuickSort-2.dir/DependInfo.cmake"
   "CMakeFiles/Bubble_Sort.dir/DependInfo.cmake"
   "CMakeFiles/Selection_Sort.dir/DependInfo.cmake"
@@ -179,4 +180,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Get_the_shadow.dir/DependInfo.cmake"
   "CMakeFiles/Kth_Smallest_Diff.dir/DependInfo.cmake"
   "CMakeFiles/Kadans_Algorithm.dir/DependInfo.cmake"
+  "CMakeFiles/Second_Largest.dir/DependInfo.cmake"
+  "CMakeFiles/decoding_encoded_list.dir/DependInfo.cmake"
   )
