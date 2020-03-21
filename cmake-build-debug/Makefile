@@ -1293,6 +1293,19 @@ hiphiparray/fast:
 .PHONY : hiphiparray/fast
 
 #=============================================================================
+# Target rules for targets named move_zeroes
+
+# Build rule for target.
+move_zeroes: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 move_zeroes
+.PHONY : move_zeroes
+
+# fast build rule for target.
+move_zeroes/fast:
+	$(MAKE) -f CMakeFiles\move_zeroes.dir\build.make CMakeFiles/move_zeroes.dir/build
+.PHONY : move_zeroes/fast
+
+#=============================================================================
 # Target rules for targets named ExtraLongFactorials
 
 # Build rule for target.
@@ -6919,6 +6932,33 @@ mars-exploration.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.s
 .PHONY : mars-exploration.cpp.s
 
+minimum_average_waiting_time.obj: minimum_average_waiting_time.cpp.obj
+
+.PHONY : minimum_average_waiting_time.obj
+
+# target to build an object file
+minimum_average_waiting_time.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/minimum_average_waiting_time.cpp.obj
+.PHONY : minimum_average_waiting_time.cpp.obj
+
+minimum_average_waiting_time.i: minimum_average_waiting_time.cpp.i
+
+.PHONY : minimum_average_waiting_time.i
+
+# target to preprocess a source file
+minimum_average_waiting_time.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/minimum_average_waiting_time.cpp.i
+.PHONY : minimum_average_waiting_time.cpp.i
+
+minimum_average_waiting_time.s: minimum_average_waiting_time.cpp.s
+
+.PHONY : minimum_average_waiting_time.s
+
+# target to generate assembly for a file
+minimum_average_waiting_time.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/minimum_average_waiting_time.cpp.s
+.PHONY : minimum_average_waiting_time.cpp.s
+
 move_zeroes.obj: move_zeroes.cpp.obj
 
 .PHONY : move_zeroes.obj
@@ -6926,6 +6966,7 @@ move_zeroes.obj: move_zeroes.cpp.obj
 # target to build an object file
 move_zeroes.cpp.obj:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/move_zeroes.cpp.obj
+	$(MAKE) -f CMakeFiles\move_zeroes.dir\build.make CMakeFiles/move_zeroes.dir/move_zeroes.cpp.obj
 .PHONY : move_zeroes.cpp.obj
 
 move_zeroes.i: move_zeroes.cpp.i
@@ -6935,6 +6976,7 @@ move_zeroes.i: move_zeroes.cpp.i
 # target to preprocess a source file
 move_zeroes.cpp.i:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/move_zeroes.cpp.i
+	$(MAKE) -f CMakeFiles\move_zeroes.dir\build.make CMakeFiles/move_zeroes.dir/move_zeroes.cpp.i
 .PHONY : move_zeroes.cpp.i
 
 move_zeroes.s: move_zeroes.cpp.s
@@ -6944,6 +6986,7 @@ move_zeroes.s: move_zeroes.cpp.s
 # target to generate assembly for a file
 move_zeroes.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/move_zeroes.cpp.s
+	$(MAKE) -f CMakeFiles\move_zeroes.dir\build.make CMakeFiles/move_zeroes.dir/move_zeroes.cpp.s
 .PHONY : move_zeroes.cpp.s
 
 pangrams.obj: pangrams.cpp.obj
@@ -7361,6 +7404,7 @@ help:
 	@echo ... Poisonous_Plants_Optimised
 	@echo ... Deque-STL_Optimised
 	@echo ... hiphiparray
+	@echo ... move_zeroes
 	@echo ... ExtraLongFactorials
 	@echo ... Equilibrium_Point
 	@echo ... Simple_Transpose
@@ -7932,6 +7976,9 @@ help:
 	@echo ... mars-exploration.obj
 	@echo ... mars-exploration.i
 	@echo ... mars-exploration.s
+	@echo ... minimum_average_waiting_time.obj
+	@echo ... minimum_average_waiting_time.i
+	@echo ... minimum_average_waiting_time.s
 	@echo ... move_zeroes.obj
 	@echo ... move_zeroes.i
 	@echo ... move_zeroes.s

@@ -176,6 +176,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/magicsquareforming.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.obj"
+  "CMakeFiles/AveoRenzhio.dir/minimum_average_waiting_time.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/move_zeroes.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/pangrams.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.obj"

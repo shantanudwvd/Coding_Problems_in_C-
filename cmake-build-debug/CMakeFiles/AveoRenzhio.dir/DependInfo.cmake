@@ -178,6 +178,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/hiphiparray.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/hiphiparray.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/magicsquareforming.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/magicsquareforming.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/mars-exploration.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/mars-exploration.cpp.obj"
+  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/minimum_average_waiting_time.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/minimum_average_waiting_time.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/move_zeroes.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/move_zeroes.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/pangrams.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/pangrams.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/rearrange_array.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/rearrange_array.cpp.obj"

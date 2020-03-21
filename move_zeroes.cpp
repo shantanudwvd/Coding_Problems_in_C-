@@ -3,6 +3,7 @@
 //
 #include <iostream>
 #include <vector>
+#include <deque>
 using namespace std;
 int main() {
     int t;
@@ -15,6 +16,21 @@ int main() {
             cin>>val;
             array.push_back(val);
         }
-        for(int )
+        for (int k = 0; k < size; ++k) {
+            if(array.at(k) == 0) {
+                for (int j = size - 1; j > k; --j) {
+                    if (array.at(j) != 0) {
+                        int temp = array[j];
+                        array[j] = array[k];
+                        array[k] = temp;
+                        break;
+                    }
+                }
+            }
+        }
+        for (int l = 0; l < size; ++l) {
+            cout<< array.at(l)<<" ";
+        }
+        array.clear();
     }
 }

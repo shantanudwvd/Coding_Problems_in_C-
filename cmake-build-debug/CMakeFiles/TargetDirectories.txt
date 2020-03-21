@@ -89,6 +89,7 @@ C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFil
 C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Poisonous_Plants_Optimised.dir
 C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir
 C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/hiphiparray.dir
+C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/move_zeroes.dir
 C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/ExtraLongFactorials.dir
 C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Equilibrium_Point.dir
 C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Simple_Transpose.dir
