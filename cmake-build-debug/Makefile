@@ -38,10 +38,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-b
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -69,7 +69,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -1798,6 +1798,19 @@ decoding_encoded_list: cmake_check_build_system
 decoding_encoded_list/fast:
 	$(MAKE) -f CMakeFiles\decoding_encoded_list.dir\build.make CMakeFiles/decoding_encoded_list.dir/build
 .PHONY : decoding_encoded_list/fast
+
+#=============================================================================
+# Target rules for targets named Simple_Numbers
+
+# Build rule for target.
+Simple_Numbers: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Simple_Numbers
+.PHONY : Simple_Numbers
+
+# fast build rule for target.
+Simple_Numbers/fast:
+	$(MAKE) -f CMakeFiles\Simple_Numbers.dir\build.make CMakeFiles/Simple_Numbers.dir/build
+.PHONY : Simple_Numbers/fast
 
 2DArrays.obj: 2DArrays.cpp.obj
 
@@ -4643,6 +4656,33 @@ Minimum_Cost_Of_Ropes.cpp.s:
 	$(MAKE) -f CMakeFiles\Minimum_Cost_Of_Ropes.dir\build.make CMakeFiles/Minimum_Cost_Of_Ropes.dir/Minimum_Cost_Of_Ropes.cpp.s
 .PHONY : Minimum_Cost_Of_Ropes.cpp.s
 
+Minimum_elements_median_X.obj: Minimum_elements_median_X.cpp.obj
+
+.PHONY : Minimum_elements_median_X.obj
+
+# target to build an object file
+Minimum_elements_median_X.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Minimum_elements_median_X.cpp.obj
+.PHONY : Minimum_elements_median_X.cpp.obj
+
+Minimum_elements_median_X.i: Minimum_elements_median_X.cpp.i
+
+.PHONY : Minimum_elements_median_X.i
+
+# target to preprocess a source file
+Minimum_elements_median_X.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Minimum_elements_median_X.cpp.i
+.PHONY : Minimum_elements_median_X.cpp.i
+
+Minimum_elements_median_X.s: Minimum_elements_median_X.cpp.s
+
+.PHONY : Minimum_elements_median_X.s
+
+# target to generate assembly for a file
+Minimum_elements_median_X.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Minimum_elements_median_X.cpp.s
+.PHONY : Minimum_elements_median_X.cpp.s
+
 Missing_Numbers.obj: Missing_Numbers.cpp.obj
 
 .PHONY : Missing_Numbers.obj
@@ -5797,6 +5837,36 @@ Simple_Determinant.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Determinant.cpp.s
 	$(MAKE) -f CMakeFiles\Simple_Determinant.dir\build.make CMakeFiles/Simple_Determinant.dir/Simple_Determinant.cpp.s
 .PHONY : Simple_Determinant.cpp.s
+
+Simple_Numbers.obj: Simple_Numbers.cpp.obj
+
+.PHONY : Simple_Numbers.obj
+
+# target to build an object file
+Simple_Numbers.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Numbers.cpp.obj
+	$(MAKE) -f CMakeFiles\Simple_Numbers.dir\build.make CMakeFiles/Simple_Numbers.dir/Simple_Numbers.cpp.obj
+.PHONY : Simple_Numbers.cpp.obj
+
+Simple_Numbers.i: Simple_Numbers.cpp.i
+
+.PHONY : Simple_Numbers.i
+
+# target to preprocess a source file
+Simple_Numbers.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Numbers.cpp.i
+	$(MAKE) -f CMakeFiles\Simple_Numbers.dir\build.make CMakeFiles/Simple_Numbers.dir/Simple_Numbers.cpp.i
+.PHONY : Simple_Numbers.cpp.i
+
+Simple_Numbers.s: Simple_Numbers.cpp.s
+
+.PHONY : Simple_Numbers.s
+
+# target to generate assembly for a file
+Simple_Numbers.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Simple_Numbers.cpp.s
+	$(MAKE) -f CMakeFiles\Simple_Numbers.dir\build.make CMakeFiles/Simple_Numbers.dir/Simple_Numbers.cpp.s
+.PHONY : Simple_Numbers.cpp.s
 
 Simple_Transpose.obj: Simple_Transpose.cpp.obj
 
@@ -7443,6 +7513,7 @@ help:
 	@echo ... Kadans_Algorithm
 	@echo ... Second_Largest
 	@echo ... decoding_encoded_list
+	@echo ... Simple_Numbers
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -7739,6 +7810,9 @@ help:
 	@echo ... Minimum_Cost_Of_Ropes.obj
 	@echo ... Minimum_Cost_Of_Ropes.i
 	@echo ... Minimum_Cost_Of_Ropes.s
+	@echo ... Minimum_elements_median_X.obj
+	@echo ... Minimum_elements_median_X.i
+	@echo ... Minimum_elements_median_X.s
 	@echo ... Missing_Numbers.obj
 	@echo ... Missing_Numbers.i
 	@echo ... Missing_Numbers.s
@@ -7859,6 +7933,9 @@ help:
 	@echo ... Simple_Determinant.obj
 	@echo ... Simple_Determinant.i
 	@echo ... Simple_Determinant.s
+	@echo ... Simple_Numbers.obj
+	@echo ... Simple_Numbers.i
+	@echo ... Simple_Numbers.s
 	@echo ... Simple_Transpose.obj
 	@echo ... Simple_Transpose.i
 	@echo ... Simple_Transpose.s
