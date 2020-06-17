@@ -11,7 +11,6 @@ void printKMax(long int arr[], int n, int k){
         while (!queue.empty() && arr[queue.back()] <= arr[i]) {
             queue.pop_back();
         }
-
         queue.push_back(i);
     }
 

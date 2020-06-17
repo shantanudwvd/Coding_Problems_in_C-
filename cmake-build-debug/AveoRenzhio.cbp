@@ -6041,6 +6041,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="SherlockandSquares"/>
 		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Short_String.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/SimpleArraySum.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -6063,6 +6066,9 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Special_String_Again.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Split_the_Array.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Square_root_of_an_integer.cpp">

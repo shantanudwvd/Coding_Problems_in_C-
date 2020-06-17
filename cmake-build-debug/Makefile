@@ -5781,6 +5781,33 @@ SherlockandSquares.cpp.s:
 	$(MAKE) -f CMakeFiles\SherlockandSquares.dir\build.make CMakeFiles/SherlockandSquares.dir/SherlockandSquares.cpp.s
 .PHONY : SherlockandSquares.cpp.s
 
+Short_String.obj: Short_String.cpp.obj
+
+.PHONY : Short_String.obj
+
+# target to build an object file
+Short_String.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Short_String.cpp.obj
+.PHONY : Short_String.cpp.obj
+
+Short_String.i: Short_String.cpp.i
+
+.PHONY : Short_String.i
+
+# target to preprocess a source file
+Short_String.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Short_String.cpp.i
+.PHONY : Short_String.cpp.i
+
+Short_String.s: Short_String.cpp.s
+
+.PHONY : Short_String.s
+
+# target to generate assembly for a file
+Short_String.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Short_String.cpp.s
+.PHONY : Short_String.cpp.s
+
 SimpleArraySum.obj: SimpleArraySum.cpp.obj
 
 .PHONY : SimpleArraySum.obj
@@ -5978,6 +6005,33 @@ Special_String_Again.s: Special_String_Again.cpp.s
 Special_String_Again.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.s
 .PHONY : Special_String_Again.cpp.s
+
+Split_the_Array.obj: Split_the_Array.cpp.obj
+
+.PHONY : Split_the_Array.obj
+
+# target to build an object file
+Split_the_Array.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.obj
+.PHONY : Split_the_Array.cpp.obj
+
+Split_the_Array.i: Split_the_Array.cpp.i
+
+.PHONY : Split_the_Array.i
+
+# target to preprocess a source file
+Split_the_Array.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.i
+.PHONY : Split_the_Array.cpp.i
+
+Split_the_Array.s: Split_the_Array.cpp.s
+
+.PHONY : Split_the_Array.s
+
+# target to generate assembly for a file
+Split_the_Array.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.s
+.PHONY : Split_the_Array.cpp.s
 
 Square_root_of_an_integer.obj: Square_root_of_an_integer.cpp.obj
 
@@ -7927,6 +7981,9 @@ help:
 	@echo ... SherlockandSquares.obj
 	@echo ... SherlockandSquares.i
 	@echo ... SherlockandSquares.s
+	@echo ... Short_String.obj
+	@echo ... Short_String.i
+	@echo ... Short_String.s
 	@echo ... SimpleArraySum.obj
 	@echo ... SimpleArraySum.i
 	@echo ... SimpleArraySum.s
@@ -7948,6 +8005,9 @@ help:
 	@echo ... Special_String_Again.obj
 	@echo ... Special_String_Again.i
 	@echo ... Special_String_Again.s
+	@echo ... Split_the_Array.obj
+	@echo ... Split_the_Array.i
+	@echo ... Split_the_Array.s
 	@echo ... Square_root_of_an_integer.obj
 	@echo ... Square_root_of_an_integer.i
 	@echo ... Square_root_of_an_integer.s
