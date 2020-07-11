@@ -1,9 +1,9 @@
 //
 // Created by Shantanu on 2/7/2020.
 //
-#include<iostream>
-#include<cstdlib>
-#include<vector>
+#include <iostream>
+#include <cstdlib>
+#include <vector>
 using namespace std;
 int main()
 {
