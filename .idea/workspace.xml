@@ -3,6 +3,7 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="AveoRenzhio" targetName="shortest_unsorted_continous_subarray" />
+      <config projectName="AveoRenzhio" targetName="AppendandDelete" />
       <config projectName="AveoRenzhio" targetName="XOR-sequence" />
       <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
       <config projectName="AveoRenzhio" targetName="Rearrange_array_Optimised" />
@@ -16,7 +17,6 @@
       <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
       <config projectName="AveoRenzhio" targetName="Remove_All_Adjacent_Duplicates_In_String" />
       <config projectName="AveoRenzhio" targetName="ExtraLongFactorials" />
-      <config projectName="AveoRenzhio" targetName="Bubble_Sort" />
       <config projectName="AveoRenzhio" targetName="UtopianTree" />
       <config projectName="AveoRenzhio" targetName="Binary_String" />
       <config projectName="AveoRenzhio" targetName="QueenAttackIIAlternate" />
@@ -41,7 +41,7 @@
       <config projectName="AveoRenzhio" targetName="Get_the_shadow" />
       <config projectName="AveoRenzhio" targetName="ArrayList" />
       <config projectName="AveoRenzhio" targetName="Boundary_Traversal_of_Matrix" />
-      <config projectName="AveoRenzhio" targetName="AppendandDelete" />
+      <config projectName="AveoRenzhio" targetName="CalvinsGame" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandStevieSmith" />
       <config projectName="AveoRenzhio" targetName="AndProduct" />
       <config projectName="AveoRenzhio" targetName="Nearly_Sorted" />
@@ -49,6 +49,7 @@
       <config projectName="AveoRenzhio" targetName="fill_the_missing_spaces" />
       <config projectName="AveoRenzhio" targetName="Encryption" />
       <config projectName="AveoRenzhio" targetName="Simple_Transpose" />
+      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
       <config projectName="AveoRenzhio" targetName="Binary_Heap_Operations" />
       <config projectName="AveoRenzhio" targetName="PoisnousPlantsAlternate" />
       <config projectName="AveoRenzhio" targetName="magicsquareforming" />
@@ -59,7 +60,7 @@
       <config projectName="AveoRenzhio" targetName="LittleMonkandVirat" />
       <config projectName="AveoRenzhio" targetName="PoisnousPlants" />
       <config projectName="AveoRenzhio" targetName="QuickSort-2" />
-      <config projectName="AveoRenzhio" targetName="Balanced_Brackets_modified" />
+      <config projectName="AveoRenzhio" targetName="halloweensale" />
       <config projectName="AveoRenzhio" targetName="funnystring" />
       <config projectName="AveoRenzhio" targetName="ClimbingTheLeaderboard" />
       <config projectName="AveoRenzhio" targetName="Kth_largest_element" />
@@ -77,10 +78,8 @@
       <config projectName="AveoRenzhio" targetName="DequeSTL" />
       <config projectName="AveoRenzhio" targetName="dictionariesandmaps" />
       <config projectName="AveoRenzhio" targetName="Second_Largest" />
-      <config projectName="AveoRenzhio" targetName="halloweensale" />
       <config projectName="AveoRenzhio" targetName="TwoCharacters" />
       <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
-      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
       <config projectName="AveoRenzhio" targetName="Partiles_and_Seats" />
       <config projectName="AveoRenzhio" targetName="GameofThrones" />
       <config projectName="AveoRenzhio" targetName="Queue_operations" />
@@ -90,8 +89,9 @@
       <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
       <config projectName="AveoRenzhio" targetName="Equilibrium_Point" />
       <config projectName="AveoRenzhio" targetName="Minimum_Cost_Of_Ropes" />
+      <config projectName="AveoRenzhio" targetName="Kadans_Algorithm" />
       <config projectName="AveoRenzhio" targetName="move_zeroes" />
-      <config projectName="AveoRenzhio" targetName="Selection_Sort" />
+      <config projectName="AveoRenzhio" targetName="Bubble_Sort" />
       <config projectName="AveoRenzhio" targetName="CommonChild" />
       <config projectName="AveoRenzhio" targetName="Operations_in_Deque" />
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedian" />
@@ -99,21 +99,22 @@
       <config projectName="AveoRenzhio" targetName="QueensAttackII" />
       <config projectName="AveoRenzhio" targetName="Thoughts2BinarySampleProblem1" />
       <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
-      <config projectName="AveoRenzhio" targetName="Kadans_Algorithm" />
+      <config projectName="AveoRenzhio" targetName="StrongPassword" />
       <config projectName="AveoRenzhio" targetName="betweeentwosets" />
       <config projectName="AveoRenzhio" targetName="Poisonous_Plants_Optimised" />
-      <config projectName="AveoRenzhio" targetName="StrongPassword" />
       <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
       <config projectName="AveoRenzhio" targetName="TheBombermanGame" />
       <config projectName="AveoRenzhio" targetName="LarryArray" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
       <config projectName="AveoRenzhio" targetName="RookMovement" />
       <config projectName="AveoRenzhio" targetName="Sum_of_Product_of_Digits" />
       <config projectName="AveoRenzhio" targetName="Contacts" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
-      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
+      <config projectName="AveoRenzhio" targetName="Selection_Sort" />
+      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
       <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
       <config projectName="AveoRenzhio" targetName="TaumAndBday" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
+      <config projectName="AveoRenzhio" targetName="Balanced_Brackets_modified" />
       <config projectName="AveoRenzhio" targetName="remove_adjacent_characters" />
       <config projectName="AveoRenzhio" targetName="Heaps_STL" />
       <config projectName="AveoRenzhio" targetName="GamingArray" />
@@ -123,7 +124,6 @@
       <config projectName="AveoRenzhio" targetName="Red_knights_shortest_path" />
       <config projectName="AveoRenzhio" targetName="fairrations" />
       <config projectName="AveoRenzhio" targetName="LilysHomework" />
-      <config projectName="AveoRenzhio" targetName="CalvinsGame" />
       <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
       <config projectName="AveoRenzhio" targetName="Kth_Smallest_Element" />
       <config projectName="AveoRenzhio" targetName="Find_Pos_X" />
@@ -143,8 +143,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f40dc9a4-172e-4c63-a051-db14b069f909" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2DArrays.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2DArrays.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Absolute_Element_Sums.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Absolute_Element_Sums.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Simple_Numbers.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Simple_Numbers.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -865,90 +865,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTheRunningMedian" type="PythonConfigurationType" factoryName="Python">
-      <module name="AveoRenzhio" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Shantanu\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FindTheRunningMedian.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Selling_stocks" type="PythonConfigurationType" factoryName="Python">
-      <module name="AveoRenzhio" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selling_stocks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="WordsScore" type="PythonConfigurationType" factoryName="Python">
-      <module name="AveoRenzhio" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WordsScore.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="best_time_to_buy_and_sell_stocks-ii" type="PythonConfigurationType" factoryName="Python">
-      <module name="AveoRenzhio" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Shantanu\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/best_time_to_buy_and_sell_stocks-ii.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="CMake Application.2DArrays" />
       <item itemvalue="CMake Application.3DSurfaceArea" />
@@ -1081,10 +997,6 @@
       <item itemvalue="CMake Application.strangecode" />
       <item itemvalue="CMake Application.stringstream" />
       <item itemvalue="CMake Application.the_love_letter_mystery" />
-      <item itemvalue="Python.FindTheRunningMedian" />
-      <item itemvalue="Python.Selling_stocks" />
-      <item itemvalue="Python.WordsScore" />
-      <item itemvalue="Python.best_time_to_buy_and_sell_stocks-ii" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -1226,7 +1138,8 @@
       <workItem from="1594024333425" duration="1730000" />
       <workItem from="1594033472837" duration="932000" />
       <workItem from="1594155236741" duration="1812000" />
-      <workItem from="1594472250786" duration="382000" />
+      <workItem from="1594472250786" duration="1954000" />
+      <workItem from="1594974558064" duration="4087000" />
     </task>
     <servers />
   </component>
@@ -1250,6 +1163,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594472892341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1594472892341" />
     <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1588774686719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -1290,10 +1207,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="208" key="cloudConfig.PluginsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591603429743" />
-    <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1594472617605">
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1594974576045">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594472617605" />
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594974576045" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
