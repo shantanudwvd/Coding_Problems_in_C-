@@ -1812,6 +1812,32 @@ Simple_Numbers/fast:
 	$(MAKE) -f CMakeFiles\Simple_Numbers.dir\build.make CMakeFiles/Simple_Numbers.dir/build
 .PHONY : Simple_Numbers/fast
 
+#=============================================================================
+# Target rules for targets named monkandnicestrings
+
+# Build rule for target.
+monkandnicestrings: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 monkandnicestrings
+.PHONY : monkandnicestrings
+
+# fast build rule for target.
+monkandnicestrings/fast:
+	$(MAKE) -f CMakeFiles\monkandnicestrings.dir\build.make CMakeFiles/monkandnicestrings.dir/build
+.PHONY : monkandnicestrings/fast
+
+#=============================================================================
+# Target rules for targets named monkandrotation
+
+# Build rule for target.
+monkandrotation: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 monkandrotation
+.PHONY : monkandrotation
+
+# fast build rule for target.
+monkandrotation/fast:
+	$(MAKE) -f CMakeFiles\monkandrotation.dir\build.make CMakeFiles/monkandrotation.dir/build
+.PHONY : monkandrotation/fast
+
 2DArrays.obj: 2DArrays.cpp.obj
 
 .PHONY : 2DArrays.obj
@@ -2885,6 +2911,33 @@ CuttheSticks.s: CuttheSticks.cpp.s
 CuttheSticks.cpp.s:
 	$(MAKE) -f CMakeFiles\CuttheSticks.dir\build.make CMakeFiles/CuttheSticks.dir/CuttheSticks.cpp.s
 .PHONY : CuttheSticks.cpp.s
+
+Cyclic_Shift.obj: Cyclic_Shift.cpp.obj
+
+.PHONY : Cyclic_Shift.obj
+
+# target to build an object file
+Cyclic_Shift.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.obj
+.PHONY : Cyclic_Shift.cpp.obj
+
+Cyclic_Shift.i: Cyclic_Shift.cpp.i
+
+.PHONY : Cyclic_Shift.i
+
+# target to preprocess a source file
+Cyclic_Shift.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.i
+.PHONY : Cyclic_Shift.cpp.i
+
+Cyclic_Shift.s: Cyclic_Shift.cpp.s
+
+.PHONY : Cyclic_Shift.s
+
+# target to generate assembly for a file
+Cyclic_Shift.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.s
+.PHONY : Cyclic_Shift.cpp.s
 
 Davis_Staircase.obj: Davis_Staircase.cpp.obj
 
@@ -6180,6 +6233,33 @@ TheBombermanGame.cpp.s:
 	$(MAKE) -f CMakeFiles\TheBombermanGame.dir\build.make CMakeFiles/TheBombermanGame.dir/TheBombermanGame.cpp.s
 .PHONY : TheBombermanGame.cpp.s
 
+TheUnlucky13.obj: TheUnlucky13.cpp.obj
+
+.PHONY : TheUnlucky13.obj
+
+# target to build an object file
+TheUnlucky13.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.obj
+.PHONY : TheUnlucky13.cpp.obj
+
+TheUnlucky13.i: TheUnlucky13.cpp.i
+
+.PHONY : TheUnlucky13.i
+
+# target to preprocess a source file
+TheUnlucky13.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.i
+.PHONY : TheUnlucky13.cpp.i
+
+TheUnlucky13.s: TheUnlucky13.cpp.s
+
+.PHONY : TheUnlucky13.s
+
+# target to generate assembly for a file
+TheUnlucky13.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.s
+.PHONY : TheUnlucky13.cpp.s
+
 Thoughts2BinarySampleProblem1.obj: Thoughts2BinarySampleProblem1.cpp.obj
 
 .PHONY : Thoughts2BinarySampleProblem1.obj
@@ -7083,6 +7163,120 @@ minimum_average_waiting_time.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/minimum_average_waiting_time.cpp.s
 .PHONY : minimum_average_waiting_time.cpp.s
 
+monkandinversions.obj: monkandinversions.cpp.obj
+
+.PHONY : monkandinversions.obj
+
+# target to build an object file
+monkandinversions.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.obj
+.PHONY : monkandinversions.cpp.obj
+
+monkandinversions.i: monkandinversions.cpp.i
+
+.PHONY : monkandinversions.i
+
+# target to preprocess a source file
+monkandinversions.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.i
+.PHONY : monkandinversions.cpp.i
+
+monkandinversions.s: monkandinversions.cpp.s
+
+.PHONY : monkandinversions.s
+
+# target to generate assembly for a file
+monkandinversions.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.s
+.PHONY : monkandinversions.cpp.s
+
+monkandnicestrings.obj: monkandnicestrings.cpp.obj
+
+.PHONY : monkandnicestrings.obj
+
+# target to build an object file
+monkandnicestrings.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.obj
+	$(MAKE) -f CMakeFiles\monkandnicestrings.dir\build.make CMakeFiles/monkandnicestrings.dir/monkandnicestrings.cpp.obj
+.PHONY : monkandnicestrings.cpp.obj
+
+monkandnicestrings.i: monkandnicestrings.cpp.i
+
+.PHONY : monkandnicestrings.i
+
+# target to preprocess a source file
+monkandnicestrings.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.i
+	$(MAKE) -f CMakeFiles\monkandnicestrings.dir\build.make CMakeFiles/monkandnicestrings.dir/monkandnicestrings.cpp.i
+.PHONY : monkandnicestrings.cpp.i
+
+monkandnicestrings.s: monkandnicestrings.cpp.s
+
+.PHONY : monkandnicestrings.s
+
+# target to generate assembly for a file
+monkandnicestrings.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.s
+	$(MAKE) -f CMakeFiles\monkandnicestrings.dir\build.make CMakeFiles/monkandnicestrings.dir/monkandnicestrings.cpp.s
+.PHONY : monkandnicestrings.cpp.s
+
+monkandrotation.obj: monkandrotation.cpp.obj
+
+.PHONY : monkandrotation.obj
+
+# target to build an object file
+monkandrotation.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.obj
+	$(MAKE) -f CMakeFiles\monkandrotation.dir\build.make CMakeFiles/monkandrotation.dir/monkandrotation.cpp.obj
+.PHONY : monkandrotation.cpp.obj
+
+monkandrotation.i: monkandrotation.cpp.i
+
+.PHONY : monkandrotation.i
+
+# target to preprocess a source file
+monkandrotation.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.i
+	$(MAKE) -f CMakeFiles\monkandrotation.dir\build.make CMakeFiles/monkandrotation.dir/monkandrotation.cpp.i
+.PHONY : monkandrotation.cpp.i
+
+monkandrotation.s: monkandrotation.cpp.s
+
+.PHONY : monkandrotation.s
+
+# target to generate assembly for a file
+monkandrotation.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.s
+	$(MAKE) -f CMakeFiles\monkandrotation.dir\build.make CMakeFiles/monkandrotation.dir/monkandrotation.cpp.s
+.PHONY : monkandrotation.cpp.s
+
+monkandsuffixsort.obj: monkandsuffixsort.cpp.obj
+
+.PHONY : monkandsuffixsort.obj
+
+# target to build an object file
+monkandsuffixsort.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.obj
+.PHONY : monkandsuffixsort.cpp.obj
+
+monkandsuffixsort.i: monkandsuffixsort.cpp.i
+
+.PHONY : monkandsuffixsort.i
+
+# target to preprocess a source file
+monkandsuffixsort.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.i
+.PHONY : monkandsuffixsort.cpp.i
+
+monkandsuffixsort.s: monkandsuffixsort.cpp.s
+
+.PHONY : monkandsuffixsort.s
+
+# target to generate assembly for a file
+monkandsuffixsort.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.s
+.PHONY : monkandsuffixsort.cpp.s
+
 move_zeroes.obj: move_zeroes.cpp.obj
 
 .PHONY : move_zeroes.obj
@@ -7568,6 +7762,8 @@ help:
 	@echo ... Second_Largest
 	@echo ... decoding_encoded_list
 	@echo ... Simple_Numbers
+	@echo ... monkandnicestrings
+	@echo ... monkandrotation
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -7681,6 +7877,9 @@ help:
 	@echo ... CuttheSticks.obj
 	@echo ... CuttheSticks.i
 	@echo ... CuttheSticks.s
+	@echo ... Cyclic_Shift.obj
+	@echo ... Cyclic_Shift.i
+	@echo ... Cyclic_Shift.s
 	@echo ... Davis_Staircase.obj
 	@echo ... Davis_Staircase.i
 	@echo ... Davis_Staircase.s
@@ -8023,6 +8222,9 @@ help:
 	@echo ... TheBombermanGame.obj
 	@echo ... TheBombermanGame.i
 	@echo ... TheBombermanGame.s
+	@echo ... TheUnlucky13.obj
+	@echo ... TheUnlucky13.i
+	@echo ... TheUnlucky13.s
 	@echo ... Thoughts2BinarySampleProblem1.obj
 	@echo ... Thoughts2BinarySampleProblem1.i
 	@echo ... Thoughts2BinarySampleProblem1.s
@@ -8116,6 +8318,18 @@ help:
 	@echo ... minimum_average_waiting_time.obj
 	@echo ... minimum_average_waiting_time.i
 	@echo ... minimum_average_waiting_time.s
+	@echo ... monkandinversions.obj
+	@echo ... monkandinversions.i
+	@echo ... monkandinversions.s
+	@echo ... monkandnicestrings.obj
+	@echo ... monkandnicestrings.i
+	@echo ... monkandnicestrings.s
+	@echo ... monkandrotation.obj
+	@echo ... monkandrotation.i
+	@echo ... monkandrotation.s
+	@echo ... monkandsuffixsort.obj
+	@echo ... monkandsuffixsort.i
+	@echo ... monkandsuffixsort.s
 	@echo ... move_zeroes.obj
 	@echo ... move_zeroes.i
 	@echo ... move_zeroes.s

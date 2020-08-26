@@ -5,7 +5,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int maxProfit(deque<int> stock, int idx) {
-    auto max = 0;
+    auto max = 0;3
     for (int i = idx; i < stock.size(); ++i) {
         if(stock.at(i) > max) {
             max = stock.at(i);

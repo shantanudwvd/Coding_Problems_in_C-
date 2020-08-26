@@ -2539,6 +2539,84 @@ CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Split_the_Array.cpp -o CMakeFiles\AveoRenzhio.dir\Split_the_Array.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.obj: ../monkandnicestrings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\monkandnicestrings.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandnicestrings.cpp
+
+CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandnicestrings.cpp > CMakeFiles\AveoRenzhio.dir\monkandnicestrings.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandnicestrings.cpp -o CMakeFiles\AveoRenzhio.dir\monkandnicestrings.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.obj: ../monkandsuffixsort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\monkandsuffixsort.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandsuffixsort.cpp
+
+CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandsuffixsort.cpp > CMakeFiles\AveoRenzhio.dir\monkandsuffixsort.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandsuffixsort.cpp -o CMakeFiles\AveoRenzhio.dir\monkandsuffixsort.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.obj: ../monkandrotation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\monkandrotation.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandrotation.cpp
+
+CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandrotation.cpp > CMakeFiles\AveoRenzhio.dir\monkandrotation.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandrotation.cpp -o CMakeFiles\AveoRenzhio.dir\monkandrotation.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.obj: ../Cyclic_Shift.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Cyclic_Shift.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Cyclic_Shift.cpp
+
+CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Cyclic_Shift.cpp > CMakeFiles\AveoRenzhio.dir\Cyclic_Shift.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Cyclic_Shift.cpp -o CMakeFiles\AveoRenzhio.dir\Cyclic_Shift.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.obj: ../monkandinversions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building CXX object CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\monkandinversions.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandinversions.cpp
+
+CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandinversions.cpp > CMakeFiles\AveoRenzhio.dir\monkandinversions.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\monkandinversions.cpp -o CMakeFiles\AveoRenzhio.dir\monkandinversions.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.obj: ../TheUnlucky13.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\TheUnlucky13.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\TheUnlucky13.cpp
+
+CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\TheUnlucky13.cpp > CMakeFiles\AveoRenzhio.dir\TheUnlucky13.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\TheUnlucky13.cpp -o CMakeFiles\AveoRenzhio.dir\TheUnlucky13.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Thoughts2BinarySampleProblem1.cpp.obj" \
@@ -2731,7 +2809,13 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Minimum_elements_median_X.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/Simple_Numbers.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/Short_String.cpp.obj" \
-"CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.obj"
+"CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.obj" \
+"CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.obj"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -2927,11 +3011,17 @@ AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Minimum_elements_median_X.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Simple_Numbers.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Short_String.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/monkandnicestrings.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/linklibs.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/objects1.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Linking CXX executable AveoRenzhio.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Linking CXX executable AveoRenzhio.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AveoRenzhio.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
