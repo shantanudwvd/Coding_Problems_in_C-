@@ -890,6 +890,19 @@ JesseandCookies/fast:
 .PHONY : JesseandCookies/fast
 
 #=============================================================================
+# Target rules for targets named binary_number
+
+# Build rule for target.
+binary_number: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 binary_number
+.PHONY : binary_number
+
+# fast build rule for target.
+binary_number/fast:
+	$(MAKE) -f CMakeFiles\binary_number.dir\build.make CMakeFiles/binary_number.dir/build
+.PHONY : binary_number/fast
+
+#=============================================================================
 # Target rules for targets named JumpingontheCloudsRevisited
 
 # Build rule for target.
@@ -2572,6 +2585,33 @@ CamelCase.s: CamelCase.cpp.s
 CamelCase.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.s
 .PHONY : CamelCase.cpp.s
+
+Case_Specific_String.obj: Case_Specific_String.cpp.obj
+
+.PHONY : Case_Specific_String.obj
+
+# target to build an object file
+Case_Specific_String.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.obj
+.PHONY : Case_Specific_String.cpp.obj
+
+Case_Specific_String.i: Case_Specific_String.cpp.i
+
+.PHONY : Case_Specific_String.i
+
+# target to preprocess a source file
+Case_Specific_String.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.i
+.PHONY : Case_Specific_String.cpp.i
+
+Case_Specific_String.s: Case_Specific_String.cpp.s
+
+.PHONY : Case_Specific_String.s
+
+# target to generate assembly for a file
+Case_Specific_String.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.s
+.PHONY : Case_Specific_String.cpp.s
 
 ChocolateFeast.obj: ChocolateFeast.cpp.obj
 
@@ -6380,6 +6420,33 @@ TwoStrings.cpp.s:
 	$(MAKE) -f CMakeFiles\TwoStrings.dir\build.make CMakeFiles/TwoStrings.dir/TwoStrings.cpp.s
 .PHONY : TwoStrings.cpp.s
 
+TwoSum.obj: TwoSum.cpp.obj
+
+.PHONY : TwoSum.obj
+
+# target to build an object file
+TwoSum.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/TwoSum.cpp.obj
+.PHONY : TwoSum.cpp.obj
+
+TwoSum.i: TwoSum.cpp.i
+
+.PHONY : TwoSum.i
+
+# target to preprocess a source file
+TwoSum.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/TwoSum.cpp.i
+.PHONY : TwoSum.cpp.i
+
+TwoSum.s: TwoSum.cpp.s
+
+.PHONY : TwoSum.s
+
+# target to generate assembly for a file
+TwoSum.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/TwoSum.cpp.s
+.PHONY : TwoSum.cpp.s
+
 UtopianTree.obj: UtopianTree.cpp.obj
 
 .PHONY : UtopianTree.obj
@@ -6613,6 +6680,36 @@ betweeentwosets.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/betweeentwosets.cpp.s
 	$(MAKE) -f CMakeFiles\betweeentwosets.dir\build.make CMakeFiles/betweeentwosets.dir/betweeentwosets.cpp.s
 .PHONY : betweeentwosets.cpp.s
+
+binary_number.obj: binary_number.cpp.obj
+
+.PHONY : binary_number.obj
+
+# target to build an object file
+binary_number.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/binary_number.cpp.obj
+	$(MAKE) -f CMakeFiles\binary_number.dir\build.make CMakeFiles/binary_number.dir/binary_number.cpp.obj
+.PHONY : binary_number.cpp.obj
+
+binary_number.i: binary_number.cpp.i
+
+.PHONY : binary_number.i
+
+# target to preprocess a source file
+binary_number.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/binary_number.cpp.i
+	$(MAKE) -f CMakeFiles\binary_number.dir\build.make CMakeFiles/binary_number.dir/binary_number.cpp.i
+.PHONY : binary_number.cpp.i
+
+binary_number.s: binary_number.cpp.s
+
+.PHONY : binary_number.s
+
+# target to generate assembly for a file
+binary_number.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/binary_number.cpp.s
+	$(MAKE) -f CMakeFiles\binary_number.dir\build.make CMakeFiles/binary_number.dir/binary_number.cpp.s
+.PHONY : binary_number.cpp.s
 
 caesar-cipher-1.obj: caesar-cipher-1.cpp.obj
 
@@ -7691,6 +7788,7 @@ help:
 	@echo ... UtopianTree
 	@echo ... simpletexteditorusingvectors
 	@echo ... JesseandCookies
+	@echo ... binary_number
 	@echo ... JumpingontheCloudsRevisited
 	@echo ... LarryArray
 	@echo ... Boundary_Traversal_of_Matrix
@@ -7841,6 +7939,9 @@ help:
 	@echo ... CamelCase.obj
 	@echo ... CamelCase.i
 	@echo ... CamelCase.s
+	@echo ... Case_Specific_String.obj
+	@echo ... Case_Specific_String.i
+	@echo ... Case_Specific_String.s
 	@echo ... ChocolateFeast.obj
 	@echo ... ChocolateFeast.i
 	@echo ... ChocolateFeast.s
@@ -8237,6 +8338,9 @@ help:
 	@echo ... TwoStrings.obj
 	@echo ... TwoStrings.i
 	@echo ... TwoStrings.s
+	@echo ... TwoSum.obj
+	@echo ... TwoSum.i
+	@echo ... TwoSum.s
 	@echo ... UtopianTree.obj
 	@echo ... UtopianTree.i
 	@echo ... UtopianTree.s
@@ -8261,6 +8365,9 @@ help:
 	@echo ... betweeentwosets.obj
 	@echo ... betweeentwosets.i
 	@echo ... betweeentwosets.s
+	@echo ... binary_number.obj
+	@echo ... binary_number.i
+	@echo ... binary_number.s
 	@echo ... caesar-cipher-1.obj
 	@echo ... caesar-cipher-1.i
 	@echo ... caesar-cipher-1.s
