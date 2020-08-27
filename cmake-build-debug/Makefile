@@ -1851,6 +1851,19 @@ monkandrotation/fast:
 	$(MAKE) -f CMakeFiles\monkandrotation.dir\build.make CMakeFiles/monkandrotation.dir/build
 .PHONY : monkandrotation/fast
 
+#=============================================================================
+# Target rules for targets named DuplicatesataDistanceK
+
+# Build rule for target.
+DuplicatesataDistanceK: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 DuplicatesataDistanceK
+.PHONY : DuplicatesataDistanceK
+
+# fast build rule for target.
+DuplicatesataDistanceK/fast:
+	$(MAKE) -f CMakeFiles\DuplicatesataDistanceK.dir\build.make CMakeFiles/DuplicatesataDistanceK.dir/build
+.PHONY : DuplicatesataDistanceK/fast
+
 2DArrays.obj: 2DArrays.cpp.obj
 
 .PHONY : 2DArrays.obj
@@ -2586,33 +2599,6 @@ CamelCase.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.s
 .PHONY : CamelCase.cpp.s
 
-Case_Specific_String.obj: Case_Specific_String.cpp.obj
-
-.PHONY : Case_Specific_String.obj
-
-# target to build an object file
-Case_Specific_String.cpp.obj:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.obj
-.PHONY : Case_Specific_String.cpp.obj
-
-Case_Specific_String.i: Case_Specific_String.cpp.i
-
-.PHONY : Case_Specific_String.i
-
-# target to preprocess a source file
-Case_Specific_String.cpp.i:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.i
-.PHONY : Case_Specific_String.cpp.i
-
-Case_Specific_String.s: Case_Specific_String.cpp.s
-
-.PHONY : Case_Specific_String.s
-
-# target to generate assembly for a file
-Case_Specific_String.cpp.s:
-	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.s
-.PHONY : Case_Specific_String.cpp.s
-
 ChocolateFeast.obj: ChocolateFeast.cpp.obj
 
 .PHONY : ChocolateFeast.obj
@@ -3122,6 +3108,36 @@ DiagonalDifference.s: DiagonalDifference.cpp.s
 DiagonalDifference.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.s
 .PHONY : DiagonalDifference.cpp.s
+
+DuplicatesataDistanceK.obj: DuplicatesataDistanceK.cpp.obj
+
+.PHONY : DuplicatesataDistanceK.obj
+
+# target to build an object file
+DuplicatesataDistanceK.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.obj
+	$(MAKE) -f CMakeFiles\DuplicatesataDistanceK.dir\build.make CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.obj
+.PHONY : DuplicatesataDistanceK.cpp.obj
+
+DuplicatesataDistanceK.i: DuplicatesataDistanceK.cpp.i
+
+.PHONY : DuplicatesataDistanceK.i
+
+# target to preprocess a source file
+DuplicatesataDistanceK.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.i
+	$(MAKE) -f CMakeFiles\DuplicatesataDistanceK.dir\build.make CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.i
+.PHONY : DuplicatesataDistanceK.cpp.i
+
+DuplicatesataDistanceK.s: DuplicatesataDistanceK.cpp.s
+
+.PHONY : DuplicatesataDistanceK.s
+
+# target to generate assembly for a file
+DuplicatesataDistanceK.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.s
+	$(MAKE) -f CMakeFiles\DuplicatesataDistanceK.dir\build.make CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.s
+.PHONY : DuplicatesataDistanceK.cpp.s
 
 Dynamic_Array.obj: Dynamic_Array.cpp.obj
 
@@ -7862,6 +7878,7 @@ help:
 	@echo ... Simple_Numbers
 	@echo ... monkandnicestrings
 	@echo ... monkandrotation
+	@echo ... DuplicatesataDistanceK
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -7939,9 +7956,6 @@ help:
 	@echo ... CamelCase.obj
 	@echo ... CamelCase.i
 	@echo ... CamelCase.s
-	@echo ... Case_Specific_String.obj
-	@echo ... Case_Specific_String.i
-	@echo ... Case_Specific_String.s
 	@echo ... ChocolateFeast.obj
 	@echo ... ChocolateFeast.i
 	@echo ... ChocolateFeast.s
@@ -7996,6 +8010,9 @@ help:
 	@echo ... DiagonalDifference.obj
 	@echo ... DiagonalDifference.i
 	@echo ... DiagonalDifference.s
+	@echo ... DuplicatesataDistanceK.obj
+	@echo ... DuplicatesataDistanceK.i
+	@echo ... DuplicatesataDistanceK.s
 	@echo ... Dynamic_Array.obj
 	@echo ... Dynamic_Array.i
 	@echo ... Dynamic_Array.s

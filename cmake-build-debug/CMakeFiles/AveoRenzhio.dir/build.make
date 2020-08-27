@@ -2643,18 +2643,18 @@ CMakeFiles/AveoRenzhio.dir/binary_number.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/binary_number.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\binary_number.cpp -o CMakeFiles\AveoRenzhio.dir\binary_number.cpp.s
 
-CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
-CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.obj: ../Case_Specific_String.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\Case_Specific_String.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Case_Specific_String.cpp
+CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.obj: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.obj: ../DuplicatesataDistanceK.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AveoRenzhio.dir\DuplicatesataDistanceK.cpp.obj -c C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\DuplicatesataDistanceK.cpp
 
-CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Case_Specific_String.cpp > CMakeFiles\AveoRenzhio.dir\Case_Specific_String.cpp.i
+CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\DuplicatesataDistanceK.cpp > CMakeFiles\AveoRenzhio.dir\DuplicatesataDistanceK.cpp.i
 
-CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\Case_Specific_String.cpp -o CMakeFiles\AveoRenzhio.dir\Case_Specific_String.cpp.s
+CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Shantanu\CLionProjects\Coding_Problems_in_C-\DuplicatesataDistanceK.cpp -o CMakeFiles\AveoRenzhio.dir\DuplicatesataDistanceK.cpp.s
 
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
@@ -2857,7 +2857,7 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/TwoSum.cpp.obj" \
 "CMakeFiles/AveoRenzhio.dir/binary_number.cpp.obj" \
-"CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.obj"
+"CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.obj"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -3061,7 +3061,7 @@ AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/TheUnlucky13.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/TwoSum.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/binary_number.cpp.obj
-AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/Case_Specific_String.cpp.obj
+AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.obj
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/linklibs.rsp
 AveoRenzhio.exe: CMakeFiles/AveoRenzhio.dir/objects1.rsp
