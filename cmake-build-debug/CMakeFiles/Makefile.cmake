@@ -188,4 +188,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/monkandnicestrings.dir/DependInfo.cmake"
   "CMakeFiles/monkandrotation.dir/DependInfo.cmake"
   "CMakeFiles/DuplicatesataDistanceK.dir/DependInfo.cmake"
+  "CMakeFiles/Choose_Points.dir/DependInfo.cmake"
   )

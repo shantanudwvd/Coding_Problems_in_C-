@@ -29,6 +29,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/CalvinsGame.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/CalvinsGame.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/CamelCase.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ChocolateFeast.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/ChocolateFeast.cpp.obj"
+  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Choose_Points.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Choose_Points.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Circular_Array_Rotation.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Circular_Array_Rotation.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ClimbingTheLeaderboard.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/ClimbingTheLeaderboard.cpp.obj"
   "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ClosestNumbers.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/ClosestNumbers.cpp.obj"

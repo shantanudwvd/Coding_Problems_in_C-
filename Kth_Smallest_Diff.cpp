@@ -1,8 +1,8 @@
 //
 // Created by Shantanu on 3/4/2020.
 //
-#include<iostream>
-#include<cmath>
+#include <iostream>
+#include <cmath>
 using namespace std;
 int heapsize,length = 0;
 void min_heapify(int arr[], int i) {
@@ -39,7 +39,7 @@ void insert_value(int res[], int val) {
     increase_value(res, length, val);
 }
 int main() {
-    int array[10],res[10];
+    int array[10000],res[10000];
     int t;
     cin >> t;
     for(int l = 0, k, size; l < t; l++) {
@@ -50,19 +50,18 @@ int main() {
         length = 0;
         for(int i = 1, idx = 1; i <= size; i++) {
             for (int j = i + 1; j <= size; ++j) {
-                res[idx] = abs(array[i]-array[j]);
-                idx++;
-//                insert_value(res, abs(array[i]-array[j]));
+//                res[idx] = abs(array[i]-array[j]);
+//                idx++;
+                insert_value(res, abs(array[i]-array[j]));
             }
         }
+        heapsize=length;
         while(k > 1) {
+            int temp = res[1];
+            res[1] = res[heapsize];
+            res[heapsize] = temp;
+            heapsize-=1;k-=1;
             min_heapify(res, 1);
-            int temp = array[1];
-            array[1] = array[length];
-            array[length] = temp;
-            length -= 1;
-            heapsize = length;
-            k-=1;
         }
         cout<<res[1]<<endl;
     }

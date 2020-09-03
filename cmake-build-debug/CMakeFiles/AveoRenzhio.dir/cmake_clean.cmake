@@ -27,6 +27,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/CalvinsGame.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/CamelCase.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/ChocolateFeast.cpp.obj"
+  "CMakeFiles/AveoRenzhio.dir/Choose_Points.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/Circular_Array_Rotation.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/ClimbingTheLeaderboard.cpp.obj"
   "CMakeFiles/AveoRenzhio.dir/ClosestNumbers.cpp.obj"

@@ -1864,6 +1864,19 @@ DuplicatesataDistanceK/fast:
 	$(MAKE) -f CMakeFiles\DuplicatesataDistanceK.dir\build.make CMakeFiles/DuplicatesataDistanceK.dir/build
 .PHONY : DuplicatesataDistanceK/fast
 
+#=============================================================================
+# Target rules for targets named Choose_Points
+
+# Build rule for target.
+Choose_Points: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Choose_Points
+.PHONY : Choose_Points
+
+# fast build rule for target.
+Choose_Points/fast:
+	$(MAKE) -f CMakeFiles\Choose_Points.dir\build.make CMakeFiles/Choose_Points.dir/build
+.PHONY : Choose_Points/fast
+
 2DArrays.obj: 2DArrays.cpp.obj
 
 .PHONY : 2DArrays.obj
@@ -2628,6 +2641,36 @@ ChocolateFeast.cpp.s:
 	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/ChocolateFeast.cpp.s
 	$(MAKE) -f CMakeFiles\ChocolateFeast.dir\build.make CMakeFiles/ChocolateFeast.dir/ChocolateFeast.cpp.s
 .PHONY : ChocolateFeast.cpp.s
+
+Choose_Points.obj: Choose_Points.cpp.obj
+
+.PHONY : Choose_Points.obj
+
+# target to build an object file
+Choose_Points.cpp.obj:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Choose_Points.cpp.obj
+	$(MAKE) -f CMakeFiles\Choose_Points.dir\build.make CMakeFiles/Choose_Points.dir/Choose_Points.cpp.obj
+.PHONY : Choose_Points.cpp.obj
+
+Choose_Points.i: Choose_Points.cpp.i
+
+.PHONY : Choose_Points.i
+
+# target to preprocess a source file
+Choose_Points.cpp.i:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Choose_Points.cpp.i
+	$(MAKE) -f CMakeFiles\Choose_Points.dir\build.make CMakeFiles/Choose_Points.dir/Choose_Points.cpp.i
+.PHONY : Choose_Points.cpp.i
+
+Choose_Points.s: Choose_Points.cpp.s
+
+.PHONY : Choose_Points.s
+
+# target to generate assembly for a file
+Choose_Points.cpp.s:
+	$(MAKE) -f CMakeFiles\AveoRenzhio.dir\build.make CMakeFiles/AveoRenzhio.dir/Choose_Points.cpp.s
+	$(MAKE) -f CMakeFiles\Choose_Points.dir\build.make CMakeFiles/Choose_Points.dir/Choose_Points.cpp.s
+.PHONY : Choose_Points.cpp.s
 
 Circular_Array_Rotation.obj: Circular_Array_Rotation.cpp.obj
 
@@ -7879,6 +7922,7 @@ help:
 	@echo ... monkandnicestrings
 	@echo ... monkandrotation
 	@echo ... DuplicatesataDistanceK
+	@echo ... Choose_Points
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 2DArrays.obj
@@ -7959,6 +8003,9 @@ help:
 	@echo ... ChocolateFeast.obj
 	@echo ... ChocolateFeast.i
 	@echo ... ChocolateFeast.s
+	@echo ... Choose_Points.obj
+	@echo ... Choose_Points.i
+	@echo ... Choose_Points.s
 	@echo ... Circular_Array_Rotation.obj
 	@echo ... Circular_Array_Rotation.i
 	@echo ... Circular_Array_Rotation.s
