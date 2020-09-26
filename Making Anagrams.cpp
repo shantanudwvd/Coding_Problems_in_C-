@@ -2,19 +2,20 @@
 // Created by Shantanu Dwivedi on 4/22/2019.
 //
 #include <bits/stdc++.h>
-#include <cmath>
 #include <iostream>
+
 using namespace std;
+
 int main() {
     string str, str1;
     cin >> str >> str1;
     int count = 0;
     deque<char> first, second;
-    for (int i = 0; i < str.length(); ++i) {
-        first.push_back(str.at(i));
+    for (char &i : str) {
+        first.push_back(i);
     }
-    for (int k = 0; k < str1.length(); ++k) {
-        second.push_back(str1.at(k));
+    for (char &k : str1) {
+        second.push_back(k);
     }
     deque<char>::iterator itr, itr1;
     itr = first.begin();
@@ -35,12 +36,8 @@ int main() {
             itr++;
         }
     }
-    if (first.size() != 0 || second.size() != 0) {
+    if (!first.empty() || !second.empty()) {
         cout << (first.size() + second.size()) << endl;
     }
-    //    else
-    //    {
-    //        cout<<"0"<<endl;
-    //    }
 }
 

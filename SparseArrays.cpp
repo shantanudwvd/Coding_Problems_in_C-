@@ -1,41 +1,34 @@
 //
 // Created by aveorenzhio on 2/7/19.
 //
-//Two last test cases are failing
 #include<iostream>
-#include<cmath>
 #include<vector>
-#include<cstring>
+
 using namespace std;
-int main()
-{
+
+int main() {
     vector<string> str;
-    int n,q;
+    int n, q;
     string s;
-    cin>>n;
-    for(int i=0;i<n;i++)
-    {
-        cin>>s;
+    cin >> n;
+    for (int i = 0; i < n; i++) {
+        cin >> s;
         str.push_back(s);
     }
-    cin>>q;
+    cin >> q;
     string s1;
     vector<string> str1;
-    for(int i=0;i<q;i++)
-    {
-        cin>>s1;
+    for (int i = 0; i < q; i++) {
+        cin >> s1;
         str1.push_back(s1);
     }
-    for(int i=0;i<q;i++)
-    {
-        int count=0;
-        for(int j=0;j<n;j++)
-        {
-            if(str1.at(i)==str.at(j))
-            {
+    for (int i = 0; i < q; i++) {
+        int count = 0;
+        for (int j = 0; j < n; j++) {
+            if (str1.at(i) == str.at(j)) {
                 count++;
             }
         }
-        cout<<count<<endl;
+        cout << count << endl;
     }
 }

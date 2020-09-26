@@ -27,6 +27,52 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="SubArrayProduct">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/SubArrayProduct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 SubArrayProduct"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SubArrayProduct/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/SubArrayProduct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 SubArrayProduct/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="FindMinimum">
 				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/FindMinimum" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -165,6 +211,52 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="DuplicatesataDistanceK">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/DuplicatesataDistanceK" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 DuplicatesataDistanceK"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DuplicatesataDistanceK/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/DuplicatesataDistanceK" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 DuplicatesataDistanceK/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="binary_number">
 				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/binary_number" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -252,52 +344,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 move_zeroes/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Second_Largest">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Second_Largest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Second_Largest"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Second_Largest/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Second_Largest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Second_Largest/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -436,52 +482,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Heaps_STL/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Nearly_Sorted">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Nearly_Sorted" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nearly_Sorted"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Nearly_Sorted/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Nearly_Sorted" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nearly_Sorted/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1085,8 +1085,8 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="QuickSort-2">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/QuickSort-2" prefix_auto="0" extension_auto="0"/>
+			<Target title="LittleMonkandVirat">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/LittleMonkandVirat" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -1102,14 +1102,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort-2"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 LittleMonkandVirat"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="QuickSort-2/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/QuickSort-2" prefix_auto="0" extension_auto="0"/>
+			<Target title="LittleMonkandVirat/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/LittleMonkandVirat" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -1125,145 +1125,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort-2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Reverse_First_K_elements_of_Queue">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Reverse_First_K_elements_of_Queue" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Reverse_First_K_elements_of_Queue"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Reverse_First_K_elements_of_Queue/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Reverse_First_K_elements_of_Queue" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Reverse_First_K_elements_of_Queue/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Operations_in_Deque">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Operations_in_Deque" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Operations_in_Deque"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Operations_in_Deque/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Operations_in_Deque" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Operations_in_Deque/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Queue_operations">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Queue_operations" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Queue_operations"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Queue_operations/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Queue_operations" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Queue_operations/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 LittleMonkandVirat/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1632,52 +1494,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 remove_adjacent_characters/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Fibonacci_Recursion">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Fibonacci_Recursion" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fibonacci_Recursion"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Fibonacci_Recursion/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Fibonacci_Recursion" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fibonacci_Recursion/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -2281,6 +2097,98 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="K_Most_Recurring_Elements">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/K_Most_Recurring_Elements" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 K_Most_Recurring_Elements"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="K_Most_Recurring_Elements/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/K_Most_Recurring_Elements" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 K_Most_Recurring_Elements/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PoisnousPlantsAlternate">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/PoisnousPlantsAlternate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 PoisnousPlantsAlternate"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PoisnousPlantsAlternate/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/PoisnousPlantsAlternate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 PoisnousPlantsAlternate/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="LilysHomework">
 				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/LilysHomework" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -2368,6 +2276,52 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 shortest_unsorted_continous_subarray/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayJump">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/ArrayJump" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayJump"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayJump/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/ArrayJump" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayJump/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -2649,8 +2603,8 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="magicsquareforming">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/magicsquareforming" prefix_auto="0" extension_auto="0"/>
+			<Target title="QuickSort-2">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/QuickSort-2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2666,14 +2620,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 magicsquareforming"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort-2"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="magicsquareforming/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/magicsquareforming" prefix_auto="0" extension_auto="0"/>
+			<Target title="QuickSort-2/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/QuickSort-2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2689,7 +2643,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 magicsquareforming/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort-2/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -3339,144 +3293,6 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="K_Most_Recurring_Elements">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/K_Most_Recurring_Elements" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 K_Most_Recurring_Elements"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="K_Most_Recurring_Elements/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/K_Most_Recurring_Elements" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 K_Most_Recurring_Elements/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="PoisnousPlantsAlternate">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/PoisnousPlantsAlternate" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 PoisnousPlantsAlternate"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="PoisnousPlantsAlternate/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/PoisnousPlantsAlternate" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 PoisnousPlantsAlternate/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="TheBombermanGame">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/TheBombermanGame" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TheBombermanGame"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="TheBombermanGame/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/TheBombermanGame" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TheBombermanGame/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="AlternatingCharacters">
 				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/AlternatingCharacters" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -3569,98 +3385,6 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="Bubble_Sort">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Bubble_Sort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bubble_Sort"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Bubble_Sort/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Bubble_Sort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bubble_Sort/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Deque-STL-Alternate">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Deque-STL-Alternate" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Deque-STL-Alternate"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Deque-STL-Alternate/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Deque-STL-Alternate" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Deque-STL-Alternate/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="Choose_Points">
 				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Choose_Points" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -3748,6 +3472,98 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 CommonChild/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Deque-STL-Alternate">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Deque-STL-Alternate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Deque-STL-Alternate"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Deque-STL-Alternate/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Deque-STL-Alternate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Deque-STL-Alternate/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bubble_Sort">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Bubble_Sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bubble_Sort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Bubble_Sort/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Bubble_Sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bubble_Sort/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -3932,52 +3748,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 HeapSortingUsingMax_HeapifyCormenIndexingwith0/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="IntegerTypes">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/IntegerTypes" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 IntegerTypes"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="IntegerTypes/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/IntegerTypes" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 IntegerTypes/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -4402,52 +4172,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Simple_Determinant/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LittleMonkandVirat">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/LittleMonkandVirat" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 LittleMonkandVirat"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LittleMonkandVirat/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/LittleMonkandVirat" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 LittleMonkandVirat/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -4908,98 +4632,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 SherlockandSquares/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="DuplicatesataDistanceK">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/DuplicatesataDistanceK" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 DuplicatesataDistanceK"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="DuplicatesataDistanceK/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/DuplicatesataDistanceK" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 DuplicatesataDistanceK/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="TaumAndBday">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/TaumAndBday" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TaumAndBday"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="TaumAndBday/fast">
-				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/TaumAndBday" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TaumAndBday/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -5879,6 +5511,52 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Reverse_First_K_elements_of_Queue">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Reverse_First_K_elements_of_Queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Reverse_First_K_elements_of_Queue"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Reverse_First_K_elements_of_Queue/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Reverse_First_K_elements_of_Queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Reverse_First_K_elements_of_Queue/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="rearrange_array">
 				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/rearrange_array" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -6339,6 +6017,52 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Fibonacci_Recursion">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Fibonacci_Recursion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fibonacci_Recursion"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Fibonacci_Recursion/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Fibonacci_Recursion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fibonacci_Recursion/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="simpletexteditorusingvectors">
 				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/simpletexteditorusingvectors" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -6431,6 +6155,98 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Operations_in_Deque">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Operations_in_Deque" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Operations_in_Deque"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Operations_in_Deque/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Operations_in_Deque" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Operations_in_Deque/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Queue_operations">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Queue_operations" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Queue_operations"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Queue_operations/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Queue_operations" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 Queue_operations/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/2DArrays.cpp">
 			<Option target="AveoRenzhio"/>
@@ -6481,6 +6297,10 @@
 			<Option target="AppendandDelete"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/ArrayJump.cpp">
+			<Option target="ArrayJump"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/ArrayList.cpp">
 			<Option target="ArrayList"/>
 			<Option target="AveoRenzhio"/>
@@ -6502,9 +6322,6 @@
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/BeautifulTriplets.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="BeautifulTriplets"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/BikeRacers.cpp">
-			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Binary_Heap_Operations.cpp">
 			<Option target="Binary_Heap_Operations"/>
@@ -6581,9 +6398,6 @@
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/CuttheSticks.cpp">
 			<Option target="CuttheSticks"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Cyclic_Shift.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Davis_Staircase.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -6603,8 +6417,8 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/DuplicatesataDistanceK.cpp">
-			<Option target="AveoRenzhio"/>
 			<Option target="DuplicatesataDistanceK"/>
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Dynamic_Array.cpp">
 			<Option target="AveoRenzhio"/>
@@ -6617,16 +6431,13 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="ExtraLongFactorials"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Extract_Original.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Fibonacci_Modified.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="Fibonacci_Modified"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Fibonacci_Recursion.cpp">
-			<Option target="Fibonacci_Recursion"/>
 			<Option target="AveoRenzhio"/>
+			<Option target="Fibonacci_Recursion"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Find the Median.cpp">
 			<Option target="AveoRenzhio"/>
@@ -6689,12 +6500,6 @@
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/InfixToPostfix.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/InsertionSortPart-1.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/InsertionSortPart-2.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Insertion_Sort1.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -6705,9 +6510,8 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="Insertion_Sort_Newton_School"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/IntegerTypes.cpp">
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/InterviewQueries.cpp">
 			<Option target="AveoRenzhio"/>
-			<Option target="IntegerTypes"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Inversion_Count.cpp">
 			<Option target="AveoRenzhio"/>
@@ -6724,8 +6528,8 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/K_Most_Recurring_Elements.cpp">
-			<Option target="AveoRenzhio"/>
 			<Option target="K_Most_Recurring_Elements"/>
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Kadans_Algorithm.cpp">
 			<Option target="Kadans_Algorithm"/>
@@ -6777,23 +6581,17 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/LittleMonkandVirat.cpp">
-			<Option target="AveoRenzhio"/>
 			<Option target="LittleMonkandVirat"/>
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/LittleMonkandWilliamson.cpp">
 			<Option target="LittleMonkandWilliamson"/>
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Makeitsame.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Making Anagrams.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Mark and Toys.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/MaxMin.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Maximizing XOR.cpp">
@@ -6840,15 +6638,8 @@
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/MrXandhisShots.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/N-Queen_Problem.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Naive_Pattern_Search.cpp">
 			<Option target="Naive_Pattern_Search"/>
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Nearly_Sorted.cpp">
-			<Option target="Nearly_Sorted"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/NewYearChaos.cpp">
@@ -6858,13 +6649,10 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Operations_in_Deque.cpp">
-			<Option target="Operations_in_Deque"/>
 			<Option target="AveoRenzhio"/>
+			<Option target="Operations_in_Deque"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/OptimisedStack.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Pair_Sum.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Pallindrome_Index.cpp">
@@ -6880,8 +6668,8 @@
 			<Option target="PoisnousPlants"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/PoisnousPlantsAlternate.cpp">
-			<Option target="AveoRenzhio"/>
 			<Option target="PoisnousPlantsAlternate"/>
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Poisonous_Plants_Optimised.cpp">
 			<Option target="AveoRenzhio"/>
@@ -6918,8 +6706,8 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Queue_operations.cpp">
-			<Option target="Queue_operations"/>
 			<Option target="AveoRenzhio"/>
+			<Option target="Queue_operations"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Quick_Sort.cpp">
 			<Option target="QuickSort-2"/>
@@ -6940,8 +6728,8 @@
 			<Option target="Remove_All_Adjacent_Duplicates_In_String"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Reverse_First_K_elements_of_Queue.cpp">
-			<Option target="Reverse_First_K_elements_of_Queue"/>
 			<Option target="AveoRenzhio"/>
+			<Option target="Reverse_First_K_elements_of_Queue"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/RookMovement.cpp">
 			<Option target="AveoRenzhio"/>
@@ -6956,10 +6744,6 @@
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Sample_File.cpp">
 			<Option target="Sample_File"/>
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Second_Largest.cpp">
-			<Option target="Second_Largest"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Selection_Sort.cpp">
@@ -6978,15 +6762,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="SheldonandValidString"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Sherlock_and_the_valid_string.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/SherlockandSquares.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="SherlockandSquares"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Short_String.cpp">
-			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/SimpleArraySum.cpp">
 			<Option target="AveoRenzhio"/>
@@ -7003,19 +6781,7 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="Simple_Transpose"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Sort_Anagram.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/SparseArrays.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Special_String_Again.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Split_the_Array.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Square_root_of_an_integer.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/StackUsingQueues.cpp">
@@ -7026,19 +6792,12 @@
 			<Option target="StrongPassword"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/SubArrayProduct.cpp">
+			<Option target="SubArrayProduct"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Sum_of_Product_of_Digits.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="Sum_of_Product_of_Digits"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/TaumAndBday.cpp">
-			<Option target="AveoRenzhio"/>
-			<Option target="TaumAndBday"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/TheBombermanGame.cpp">
-			<Option target="AveoRenzhio"/>
-			<Option target="TheBombermanGame"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/TheUnlucky13.cpp">
 			<Option target="AveoRenzhio"/>
@@ -7055,9 +6814,6 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="TwoStrings"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/TwoSum.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/UtopianTree.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="UtopianTree"/>
@@ -7073,15 +6829,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="XOR-sequence"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/alternating-characters.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/best-time-to-buy-and-sell-stock-ii.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="best-time-to-buy-and-sell-stock-ii"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/best-time-to-buy-and-sell-stock-iii.cpp">
-			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/best-time-to-buy-and-sell-stock.cpp">
 			<Option target="AveoRenzhio"/>
@@ -7096,9 +6846,6 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/caesar-cipher-1.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/data_types.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/decoding_encoded_list.cpp">
@@ -7121,14 +6868,8 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="fill_the_missing_spaces"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/find_the_duplicate_in_array.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/flatlandspacestations.cpp">
 			<Option target="flatlandspacestations"/>
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/formated_dates.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/funnystring.cpp">
@@ -7154,10 +6895,6 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="hiphiparray"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/magicsquareforming.cpp">
-			<Option target="magicsquareforming"/>
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/mars-exploration.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -7168,18 +6905,12 @@
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/minimum_average_waiting_time.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/monkandinversions.cpp">
-			<Option target="AveoRenzhio"/>
-		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/monkandnicestrings.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="monkandnicestrings"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/monkandrotation.cpp">
 			<Option target="monkandrotation"/>
-			<Option target="AveoRenzhio"/>
-		</Unit>
-		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/monkandsuffixsort.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/move_zeroes.cpp">

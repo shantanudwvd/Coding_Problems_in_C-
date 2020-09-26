@@ -3,13 +3,15 @@
 //
 #include <iostream>
 #include <set>
+
 using namespace std;
+
 int main() {
-    set <int> array;
-    set <int> elems;
-    int s1,s2;
+    set<int> array;
+    set<int> elems;
+    int s1, s2;
     int t;
-    cin>>t;
+    cin >> t;
     for (int j = 0; j < t; ++j) {
         cin >> s1 >> s2;
         for (int i = 0, val; i < s1; ++i) {

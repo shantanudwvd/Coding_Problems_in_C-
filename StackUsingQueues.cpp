@@ -2,17 +2,18 @@
 // Created by shantanu on 24/09/20.
 //
 #include <bits/stdc++.h>
+
 using namespace std;
+
 class Stack {
     queue<int> q1, q2;
     int curr_size;
 public:
-    Stack()
-    {
+    Stack() {
         curr_size = 0;
     }
-    void push(int x)
-    {
+
+    void push(int x) {
         curr_size++;
         q2.push(x);
         while (!q1.empty()) {
@@ -23,26 +24,26 @@ public:
         q1 = q2;
         q2 = q;
     }
-    void pop()
-    {
+
+    void pop() {
         if (q1.empty())
             return;
         q1.pop();
         curr_size--;
     }
-    int top()
-    {
+
+    int top() {
         if (q1.empty())
             return -1;
         return q1.front();
     }
-    int size() const
-    {
+
+    int size() const {
         return curr_size;
     }
 };
-int main()
-{
+
+int main() {
     Stack s;
     s.push(1);
     s.push(2);

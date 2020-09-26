@@ -4,20 +4,22 @@
 #include <iostream>
 #include <vector>
 #include <deque>
+
 using namespace std;
+
 int main() {
     int t;
-    cin>>t;
+    cin >> t;
     for (int i = 0; i < t; ++i) {
         int size;
-        cin>>size;
+        cin >> size;
         vector<int> array;
         for (int j = 0, val; j < size; ++j) {
-            cin>>val;
+            cin >> val;
             array.push_back(val);
         }
         for (int k = 0; k < size; ++k) {
-            if(array.at(k) == 0) {
+            if (array.at(k) == 0) {
                 for (int j = size - 1; j > k; --j) {
                     if (array.at(j) != 0) {
                         int temp = array[j];
@@ -29,7 +31,7 @@ int main() {
             }
         }
         for (int l = 0; l < size; ++l) {
-            cout<< array.at(l)<<" ";
+            cout << array.at(l) << " ";
         }
         array.clear();
     }

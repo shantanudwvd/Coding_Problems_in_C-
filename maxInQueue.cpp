@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 int length=0;
-    void increase_value(int array[], int i, int val) {
+void increase_value(int array[], int i, int val) {
     array[i] = val;
     while(i > 1 && array[i/2] < array[i]) {
         int temp = array[i/2];
@@ -18,7 +18,7 @@ void insert_value(int array[], int val) {
     increase_value(array, length, val);
 }
 int main() {
-    int array[100000];
+    int array[1000000];
     int n;
     cin>>n;
     for (int i = 0, val = 0; i < n; ++i) {

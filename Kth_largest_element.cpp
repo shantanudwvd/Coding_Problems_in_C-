@@ -41,7 +41,7 @@ void insert_value(signed long long int array[], int val) {
 }
 int main() {
     int t;
-    signed long long int array[10000];
+    signed long long int array[100000];
     cin>>t;
     for (int i = 0,size,k; i < t; ++i) {
         cin>>size>>k;

@@ -4,8 +4,10 @@
 #include <cmath>
 #include <iostream>
 #include <unordered_map>
+
 using namespace std;
 int heapsize;
+
 void max_heapify(int arr[], int i) {
     int l = (2 * i);
     int r = (2 * i + 1);
@@ -27,11 +29,13 @@ void max_heapify(int arr[], int i) {
     }
     max_heapify(arr, largest);
 }
+
 void build_maxheap(int arr[]) {
     for (int k = floor(heapsize / 2); k >= 1; k--) {
         max_heapify(arr, k);
     }
 }
+
 void heapsort(int arr[]) {
     build_maxheap(arr);
     for (int j = heapsize; j >= 2; j--) {
@@ -42,6 +46,7 @@ void heapsort(int arr[]) {
         max_heapify(arr, 1);
     }
 }
+
 int main() {
     unordered_map<int, int> map1, map2;
     int size;

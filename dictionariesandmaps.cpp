@@ -4,27 +4,26 @@
 #include <vector>
 #include <iostream>
 #include <unordered_map>
+
 using namespace std;
-int main()
-{
-    unordered_map<string,signed long long int> dict;
+
+int main() {
+    unordered_map<string, signed long long int> dict;
     int n;
-    cin>>n;
-    for(int i=0;i<n;i++)
-    {
+    cin >> n;
+    for (int i = 0; i < n; i++) {
         long int val;
         string str;
-        cin>>str>>val;
-        dict.insert(pair<string,int>(str,val));
+        cin >> str >> val;
+        dict.insert(pair<string, int>(str, val));
     }
-    unordered_map<string,signed long long int>::iterator itr;
+    unordered_map<string, signed long long int>::iterator itr;
     string s;
-    while(cin>>s)
-    {
-        itr=dict.find(s);
-        if(itr==dict.end())
-            cout<<"Not found"<<endl;
+    while (cin >> s) {
+        itr = dict.find(s);
+        if (itr == dict.end())
+            cout << "Not found" << endl;
         else
-            cout<<s<<"="<<itr->second<<endl;
+            cout << s << "=" << itr->second << endl;
     }
 }

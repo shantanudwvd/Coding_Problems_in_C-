@@ -4,35 +4,37 @@
 #include<algorithm>
 #include <iostream>
 #include<cmath>
+
 using namespace std;
+
 int main() {
     int arr[100][100];
     int brr[100][100];
-    int n,sum=0,sum1=0;
-    cin>>n;
-    for(int i=0;i<n;i++) {
-        for(int j=0;j<n;j++) {
-            cin>>arr[i][j];
+    int n, sum = 0, sum1 = 0;
+    cin >> n;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            cin >> arr[i][j];
         }
     }
-    for(int i=0;i<n;i++) {
-        for(int j=0;j<n;j++) {
-            if(i==j) {
-                sum=sum+arr[i][j];
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (i == j) {
+                sum = sum + arr[i][j];
             }
         }
     }
-    for(int i=0;i<n;i++) {
-        for(int j=0,l=n-1;j<n;j++,l--) {
-            brr[i][j]=arr[i][l];
+    for (int i = 0; i < n; i++) {
+        for (int j = 0, l = n - 1; j < n; j++, l--) {
+            brr[i][j] = arr[i][l];
         }
     }
-    for(int i=0;i<n;i++) {
-        for(int j=0;j<n;j++) {
-            if(i==j) {
-                sum1=sum1+brr[i][j];
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (i == j) {
+                sum1 = sum1 + brr[i][j];
             }
         }
     }
-    cout<<abs(sum-sum1);
+    cout << abs(sum - sum1);
 }

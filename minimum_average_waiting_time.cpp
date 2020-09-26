@@ -6,8 +6,10 @@
 #include <deque>
 #include <iostream>
 #include <vector>
+
 using namespace std;
 int length = 0, heapsize, q;
+
 void min_heapify(unsigned long long int b[], int i) {
     int l = (2 * i);
     int r = (2 * i + 1);
@@ -29,12 +31,14 @@ void min_heapify(unsigned long long int b[], int i) {
     }
     min_heapify(b, smallest);
 }
+
 void build_minheap(unsigned long long int b[]) {
     heapsize = q;
     for (int k = floor(heapsize / 2); k >= 1; k--) {
         min_heapify(b, k);
     }
 }
+
 unsigned long long int extract_min(unsigned long long int b[]) {
     build_minheap(b);
     unsigned long long int m = b[1];
@@ -42,9 +46,10 @@ unsigned long long int extract_min(unsigned long long int b[]) {
     q--;
     return m;
 }
+
 int main() {
     unsigned long long int arr[1000][1000];
-    unsigned long long int ft[1000],st[1000],b[1000],awt[1000];
+    unsigned long long int ft[1000], st[1000], b[1000], awt[1000];
     vector<unsigned long long int> l;
     vector<unsigned long long int>::iterator itr;
     cin >> q;

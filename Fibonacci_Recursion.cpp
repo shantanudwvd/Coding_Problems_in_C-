@@ -2,14 +2,15 @@
 // Created by Shantanu on 2/14/2020.
 //
 #include<iostream>
+
 using namespace std;
+
 int main() {
     int n;
-    cin>>n;
-    if(n < 0 || n == 0) {
-        cout<<"-1"<<endl;
-    }
-    else {
+    cin >> n;
+    if (n < 0 || n == 0) {
+        cout << "-1" << endl;
+    } else {
         int fib[n + 1] = {};
         fib[0] = 0;
         fib[1] = 1;

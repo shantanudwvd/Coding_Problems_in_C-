@@ -3,18 +3,20 @@
 //
 #include <iostream>
 #include <deque>
+
 using namespace std;
+
 int main() {
     int n;
-    cin>>n;
+    cin >> n;
     deque<int> array;
     for (int i = 0, val; i < n; ++i) {
-        cin>>val;
+        cin >> val;
         array.push_back(val);
     }
     for (int i : array) {
-        cout<<i<<" ";
+        cout << i << " ";
     }
-    cout<<endl;
+    cout << endl;
 
 }

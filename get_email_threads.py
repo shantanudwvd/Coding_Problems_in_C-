@@ -1,5 +1,4 @@
 def getEmailThreads(emails):
-    # Write your code here
     sender = []
     reciever = []
     mess = ""

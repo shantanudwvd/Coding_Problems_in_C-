@@ -2,21 +2,21 @@
 // Created by Shantanu on 8/17/2020.
 //
 #include<bits/stdc++.h>
+
 using namespace std;
 
-long long answer (long long Num) {
+long long answer(long long Num) {
     // Write your code here
     answer(Num)
 }
 
 int main() {
 
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
     int T;
     cin >> T;
-    for(int t_i=0; t_i<T; t_i++)
-    {
+    for (int t_i = 0; t_i < T; t_i++) {
         long long Num;
         cin >> Num;
 

@@ -2,11 +2,13 @@
 // Created by shantanu on 24/09/20.
 //
 #include <bits/stdc++.h>
+
 using namespace std;
+
 struct Queue {
     stack<int> s1, s2;
-    void enQueue(int x)
-    {
+
+    void enQueue(int x) {
         while (!s1.empty()) {
             s2.push(s1.top());
             s1.pop();
@@ -17,8 +19,8 @@ struct Queue {
             s2.pop();
         }
     }
-    int deQueue()
-    {
+
+    int deQueue() {
         if (s1.empty()) {
             cout << "Q is Empty";
         }
@@ -27,8 +29,8 @@ struct Queue {
         return x;
     }
 };
-int main()
-{
+
+int main() {
     Queue q;
     q.enQueue(1);
     q.enQueue(2);

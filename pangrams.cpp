@@ -5,14 +5,16 @@
 #include <cmath>
 #include <cstring>
 #include <iostream>
+
 using namespace std;
+
 int main() {
     string str;
     getline(cin, str);
     deque<char> my_string;
     deque<char> alphabets;
-    for (int i = 0; i < str.length(); i++) {
-        my_string.push_back(str.at(i));
+    for (char & i : str) {
+        my_string.push_back(i);
     }
     deque<char>::iterator itr;
     int count = 0, temp = 0;
@@ -27,10 +29,10 @@ int main() {
             } else
                 itr++;
         }
-        if (count != 26 && my_string.size() == 0) {
+        if (count != 26 && my_string.empty()) {
             temp = 0;
             break;
-        } else if (count == 26 || my_string.size() == 0) {
+        } else if (count == 26 || my_string.empty()) {
             cout << "pangram" << endl;
             temp++;
             break;

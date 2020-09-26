@@ -3,8 +3,10 @@
 //
 #include <iostream>
 #include <deque>
+
 using namespace std;
-void printKMax(long int arr[], int n, int k){
+
+void printKMax(long int arr[], int n, int k) {
     std::deque<int> queue;
     for (int i = 0; i < k; i++) {
         while (!queue.empty() && arr[queue.back()] <= arr[i]) {
@@ -26,6 +28,7 @@ void printKMax(long int arr[], int n, int k){
     }
     cout << arr[queue.front()] << endl;
 }
+
 int main() {
     long int arr[100000];
     int queries = 0;

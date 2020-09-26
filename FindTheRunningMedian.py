@@ -1,10 +1,12 @@
 heapsize = 0
 minh = 1
 maxh = 1
+
+
 def max_heapify(max_heap, i):
     global heapsize
-    left = 2*i
-    right = 2*i + 1
+    left = 2 * i
+    right = 2 * i + 1
     if left <= heapsize and max_heap[left] > max_heap[i]:
         largest = left
     else:
@@ -22,8 +24,8 @@ def max_heapify(max_heap, i):
 
 def min_heapify(min_heap, i):
     global heapsize
-    left = 2*i
-    right = 2*i + 1
+    left = 2 * i
+    right = 2 * i + 1
     if left <= heapsize and min_heap[left] < min_heap[i]:
         smallest = left
     else:
@@ -41,18 +43,18 @@ def min_heapify(min_heap, i):
 
 def insert_valuein_max_heap(max_heap, length, val):
     max_heap[length] = val
-    while length > 1 and max_heap[length//2] < max_heap[length]:
-        swap = max_heap[length//2]
-        max_heap[length//2] = max_heap[length]
+    while length > 1 and max_heap[length // 2] < max_heap[length]:
+        swap = max_heap[length // 2]
+        max_heap[length // 2] = max_heap[length]
         max_heap[length] = swap
-        length //=2
+        length //= 2
 
 
 def insert_valuein_min_heap(min_heap, length, val):
     min_heap[length] = val
-    while length > 1 and min_heap[length//2] > min_heap[length]:
-        swap = min_heap[length//2]
-        min_heap[length//2] = min_heap[length]
+    while length > 1 and min_heap[length // 2] > min_heap[length]:
+        swap = min_heap[length // 2]
+        min_heap[length // 2] = min_heap[length]
         min_heap[length] = swap
         length //= 2
 
@@ -67,10 +69,11 @@ def insert_element(max_heap, min_heap, val, idx):
         insert_valuein_min_heap(min_heap, minh, val)
     compare_heaps(max_heap, min_heap, idx)
 
+
 def compare_heaps(max_heap, min_heap, idx):
     global maxh, minh, heapsize
     if maxh == minh:
-        print(float((max_heap[1]+min_heap[1])/2))
+        print(float((max_heap[1] + min_heap[1]) / 2))
         return
     elif maxh < minh:
         maxh += 1
@@ -101,23 +104,22 @@ def print_median(max_heap, min_heap, idx):
         else:
             print(float(min_heap[1]))
     else:
-        print(float((max_heap[1]+min_heap[1])/2))
+        print(float((max_heap[1] + min_heap[1]) / 2))
 
 
 size = int(input())
-max_heap = size*[0]
-min_heap = size*[0]
+max_heap = size * [0]
+min_heap = size * [0]
 a = int(input())
 print(float(a))
 b = int(input())
-print(float((a+b)/2))
+print(float((a + b) / 2))
 if a < b:
     max_heap[1] = a
     min_heap[1] = b
 else:
     min_heap[1] = a
     max_heap[1] = b
-for i in range(3, size+1):
+for i in range(3, size + 1):
     x = int(input())
     insert_element(max_heap, min_heap, x, i)
-

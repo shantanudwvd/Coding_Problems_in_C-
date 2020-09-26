@@ -131,6 +131,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named SubArrayProduct
+
+# Build rule for target.
+SubArrayProduct: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SubArrayProduct
+.PHONY : SubArrayProduct
+
+# fast build rule for target.
+SubArrayProduct/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SubArrayProduct.dir/build.make CMakeFiles/SubArrayProduct.dir/build
+.PHONY : SubArrayProduct/fast
+
+#=============================================================================
 # Target rules for targets named FindMinimum
 
 # Build rule for target.
@@ -170,6 +183,19 @@ pickingNumbers/fast:
 .PHONY : pickingNumbers/fast
 
 #=============================================================================
+# Target rules for targets named DuplicatesataDistanceK
+
+# Build rule for target.
+DuplicatesataDistanceK: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 DuplicatesataDistanceK
+.PHONY : DuplicatesataDistanceK
+
+# fast build rule for target.
+DuplicatesataDistanceK/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DuplicatesataDistanceK.dir/build.make CMakeFiles/DuplicatesataDistanceK.dir/build
+.PHONY : DuplicatesataDistanceK/fast
+
+#=============================================================================
 # Target rules for targets named binary_number
 
 # Build rule for target.
@@ -194,19 +220,6 @@ move_zeroes: cmake_check_build_system
 move_zeroes/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/move_zeroes.dir/build.make CMakeFiles/move_zeroes.dir/build
 .PHONY : move_zeroes/fast
-
-#=============================================================================
-# Target rules for targets named Second_Largest
-
-# Build rule for target.
-Second_Largest: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Second_Largest
-.PHONY : Second_Largest
-
-# fast build rule for target.
-Second_Largest/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Second_Largest.dir/build.make CMakeFiles/Second_Largest.dir/build
-.PHONY : Second_Largest/fast
 
 #=============================================================================
 # Target rules for targets named Kadans_Algorithm
@@ -246,19 +259,6 @@ Heaps_STL: cmake_check_build_system
 Heaps_STL/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Heaps_STL.dir/build.make CMakeFiles/Heaps_STL.dir/build
 .PHONY : Heaps_STL/fast
-
-#=============================================================================
-# Target rules for targets named Nearly_Sorted
-
-# Build rule for target.
-Nearly_Sorted: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Nearly_Sorted
-.PHONY : Nearly_Sorted
-
-# fast build rule for target.
-Nearly_Sorted/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nearly_Sorted.dir/build.make CMakeFiles/Nearly_Sorted.dir/build
-.PHONY : Nearly_Sorted/fast
 
 #=============================================================================
 # Target rules for targets named Get_the_shadow
@@ -430,56 +430,17 @@ Selection_Sort/fast:
 .PHONY : Selection_Sort/fast
 
 #=============================================================================
-# Target rules for targets named QuickSort-2
+# Target rules for targets named LittleMonkandVirat
 
 # Build rule for target.
-QuickSort-2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QuickSort-2
-.PHONY : QuickSort-2
+LittleMonkandVirat: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LittleMonkandVirat
+.PHONY : LittleMonkandVirat
 
 # fast build rule for target.
-QuickSort-2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort-2.dir/build.make CMakeFiles/QuickSort-2.dir/build
-.PHONY : QuickSort-2/fast
-
-#=============================================================================
-# Target rules for targets named Reverse_First_K_elements_of_Queue
-
-# Build rule for target.
-Reverse_First_K_elements_of_Queue: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Reverse_First_K_elements_of_Queue
-.PHONY : Reverse_First_K_elements_of_Queue
-
-# fast build rule for target.
-Reverse_First_K_elements_of_Queue/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build
-.PHONY : Reverse_First_K_elements_of_Queue/fast
-
-#=============================================================================
-# Target rules for targets named Operations_in_Deque
-
-# Build rule for target.
-Operations_in_Deque: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Operations_in_Deque
-.PHONY : Operations_in_Deque
-
-# fast build rule for target.
-Operations_in_Deque/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operations_in_Deque.dir/build.make CMakeFiles/Operations_in_Deque.dir/build
-.PHONY : Operations_in_Deque/fast
-
-#=============================================================================
-# Target rules for targets named Queue_operations
-
-# Build rule for target.
-Queue_operations: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Queue_operations
-.PHONY : Queue_operations
-
-# fast build rule for target.
-Queue_operations/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Queue_operations.dir/build.make CMakeFiles/Queue_operations.dir/build
-.PHONY : Queue_operations/fast
+LittleMonkandVirat/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandVirat.dir/build.make CMakeFiles/LittleMonkandVirat.dir/build
+.PHONY : LittleMonkandVirat/fast
 
 #=============================================================================
 # Target rules for targets named LisaWorkbook
@@ -584,19 +545,6 @@ remove_adjacent_characters: cmake_check_build_system
 remove_adjacent_characters/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/remove_adjacent_characters.dir/build.make CMakeFiles/remove_adjacent_characters.dir/build
 .PHONY : remove_adjacent_characters/fast
-
-#=============================================================================
-# Target rules for targets named Fibonacci_Recursion
-
-# Build rule for target.
-Fibonacci_Recursion: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Fibonacci_Recursion
-.PHONY : Fibonacci_Recursion
-
-# fast build rule for target.
-Fibonacci_Recursion/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fibonacci_Recursion.dir/build.make CMakeFiles/Fibonacci_Recursion.dir/build
-.PHONY : Fibonacci_Recursion/fast
 
 #=============================================================================
 # Target rules for targets named LittleMonkandABD
@@ -768,6 +716,32 @@ FindTheRunningMedianOptimized/fast:
 .PHONY : FindTheRunningMedianOptimized/fast
 
 #=============================================================================
+# Target rules for targets named K_Most_Recurring_Elements
+
+# Build rule for target.
+K_Most_Recurring_Elements: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 K_Most_Recurring_Elements
+.PHONY : K_Most_Recurring_Elements
+
+# fast build rule for target.
+K_Most_Recurring_Elements/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/K_Most_Recurring_Elements.dir/build.make CMakeFiles/K_Most_Recurring_Elements.dir/build
+.PHONY : K_Most_Recurring_Elements/fast
+
+#=============================================================================
+# Target rules for targets named PoisnousPlantsAlternate
+
+# Build rule for target.
+PoisnousPlantsAlternate: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 PoisnousPlantsAlternate
+.PHONY : PoisnousPlantsAlternate
+
+# fast build rule for target.
+PoisnousPlantsAlternate/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PoisnousPlantsAlternate.dir/build.make CMakeFiles/PoisnousPlantsAlternate.dir/build
+.PHONY : PoisnousPlantsAlternate/fast
+
+#=============================================================================
 # Target rules for targets named LilysHomework
 
 # Build rule for target.
@@ -792,6 +766,19 @@ shortest_unsorted_continous_subarray: cmake_check_build_system
 shortest_unsorted_continous_subarray/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/shortest_unsorted_continous_subarray.dir/build.make CMakeFiles/shortest_unsorted_continous_subarray.dir/build
 .PHONY : shortest_unsorted_continous_subarray/fast
+
+#=============================================================================
+# Target rules for targets named ArrayJump
+
+# Build rule for target.
+ArrayJump: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ArrayJump
+.PHONY : ArrayJump
+
+# fast build rule for target.
+ArrayJump/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ArrayJump.dir/build.make CMakeFiles/ArrayJump.dir/build
+.PHONY : ArrayJump/fast
 
 #=============================================================================
 # Target rules for targets named FindTheRunningMedianAlternate
@@ -872,17 +859,17 @@ funnystring/fast:
 .PHONY : funnystring/fast
 
 #=============================================================================
-# Target rules for targets named magicsquareforming
+# Target rules for targets named QuickSort-2
 
 # Build rule for target.
-magicsquareforming: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 magicsquareforming
-.PHONY : magicsquareforming
+QuickSort-2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QuickSort-2
+.PHONY : QuickSort-2
 
 # fast build rule for target.
-magicsquareforming/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/magicsquareforming.dir/build.make CMakeFiles/magicsquareforming.dir/build
-.PHONY : magicsquareforming/fast
+QuickSort-2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort-2.dir/build.make CMakeFiles/QuickSort-2.dir/build
+.PHONY : QuickSort-2/fast
 
 #=============================================================================
 # Target rules for targets named BalancedBrackets
@@ -1067,45 +1054,6 @@ PoisnousPlants/fast:
 .PHONY : 3DSurfaceArea/fast
 
 #=============================================================================
-# Target rules for targets named K_Most_Recurring_Elements
-
-# Build rule for target.
-K_Most_Recurring_Elements: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 K_Most_Recurring_Elements
-.PHONY : K_Most_Recurring_Elements
-
-# fast build rule for target.
-K_Most_Recurring_Elements/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/K_Most_Recurring_Elements.dir/build.make CMakeFiles/K_Most_Recurring_Elements.dir/build
-.PHONY : K_Most_Recurring_Elements/fast
-
-#=============================================================================
-# Target rules for targets named PoisnousPlantsAlternate
-
-# Build rule for target.
-PoisnousPlantsAlternate: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 PoisnousPlantsAlternate
-.PHONY : PoisnousPlantsAlternate
-
-# fast build rule for target.
-PoisnousPlantsAlternate/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PoisnousPlantsAlternate.dir/build.make CMakeFiles/PoisnousPlantsAlternate.dir/build
-.PHONY : PoisnousPlantsAlternate/fast
-
-#=============================================================================
-# Target rules for targets named TheBombermanGame
-
-# Build rule for target.
-TheBombermanGame: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TheBombermanGame
-.PHONY : TheBombermanGame
-
-# fast build rule for target.
-TheBombermanGame/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TheBombermanGame.dir/build.make CMakeFiles/TheBombermanGame.dir/build
-.PHONY : TheBombermanGame/fast
-
-#=============================================================================
 # Target rules for targets named AlternatingCharacters
 
 # Build rule for target.
@@ -1132,32 +1080,6 @@ AngryProfessor/fast:
 .PHONY : AngryProfessor/fast
 
 #=============================================================================
-# Target rules for targets named Bubble_Sort
-
-# Build rule for target.
-Bubble_Sort: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Bubble_Sort
-.PHONY : Bubble_Sort
-
-# fast build rule for target.
-Bubble_Sort/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Bubble_Sort.dir/build.make CMakeFiles/Bubble_Sort.dir/build
-.PHONY : Bubble_Sort/fast
-
-#=============================================================================
-# Target rules for targets named Deque-STL-Alternate
-
-# Build rule for target.
-Deque-STL-Alternate: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Deque-STL-Alternate
-.PHONY : Deque-STL-Alternate
-
-# fast build rule for target.
-Deque-STL-Alternate/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Deque-STL-Alternate.dir/build.make CMakeFiles/Deque-STL-Alternate.dir/build
-.PHONY : Deque-STL-Alternate/fast
-
-#=============================================================================
 # Target rules for targets named Choose_Points
 
 # Build rule for target.
@@ -1182,6 +1104,32 @@ CommonChild: cmake_check_build_system
 CommonChild/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CommonChild.dir/build.make CMakeFiles/CommonChild.dir/build
 .PHONY : CommonChild/fast
+
+#=============================================================================
+# Target rules for targets named Deque-STL-Alternate
+
+# Build rule for target.
+Deque-STL-Alternate: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Deque-STL-Alternate
+.PHONY : Deque-STL-Alternate
+
+# fast build rule for target.
+Deque-STL-Alternate/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Deque-STL-Alternate.dir/build.make CMakeFiles/Deque-STL-Alternate.dir/build
+.PHONY : Deque-STL-Alternate/fast
+
+#=============================================================================
+# Target rules for targets named Bubble_Sort
+
+# Build rule for target.
+Bubble_Sort: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Bubble_Sort
+.PHONY : Bubble_Sort
+
+# fast build rule for target.
+Bubble_Sort/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Bubble_Sort.dir/build.make CMakeFiles/Bubble_Sort.dir/build
+.PHONY : Bubble_Sort/fast
 
 #=============================================================================
 # Target rules for targets named Merge_Sort
@@ -1234,19 +1182,6 @@ HeapSortingUsingMax_HeapifyCormenIndexingwith0: cmake_check_build_system
 HeapSortingUsingMax_HeapifyCormenIndexingwith0/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/build.make CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/build
 .PHONY : HeapSortingUsingMax_HeapifyCormenIndexingwith0/fast
-
-#=============================================================================
-# Target rules for targets named IntegerTypes
-
-# Build rule for target.
-IntegerTypes: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 IntegerTypes
-.PHONY : IntegerTypes
-
-# fast build rule for target.
-IntegerTypes/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IntegerTypes.dir/build.make CMakeFiles/IntegerTypes.dir/build
-.PHONY : IntegerTypes/fast
 
 #=============================================================================
 # Target rules for targets named StrongPassword
@@ -1364,19 +1299,6 @@ Simple_Determinant: cmake_check_build_system
 Simple_Determinant/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Simple_Determinant.dir/build.make CMakeFiles/Simple_Determinant.dir/build
 .PHONY : Simple_Determinant/fast
-
-#=============================================================================
-# Target rules for targets named LittleMonkandVirat
-
-# Build rule for target.
-LittleMonkandVirat: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LittleMonkandVirat
-.PHONY : LittleMonkandVirat
-
-# fast build rule for target.
-LittleMonkandVirat/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandVirat.dir/build.make CMakeFiles/LittleMonkandVirat.dir/build
-.PHONY : LittleMonkandVirat/fast
 
 #=============================================================================
 # Target rules for targets named JesseandCookies
@@ -1507,32 +1429,6 @@ SherlockandSquares: cmake_check_build_system
 SherlockandSquares/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SherlockandSquares.dir/build.make CMakeFiles/SherlockandSquares.dir/build
 .PHONY : SherlockandSquares/fast
-
-#=============================================================================
-# Target rules for targets named DuplicatesataDistanceK
-
-# Build rule for target.
-DuplicatesataDistanceK: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 DuplicatesataDistanceK
-.PHONY : DuplicatesataDistanceK
-
-# fast build rule for target.
-DuplicatesataDistanceK/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DuplicatesataDistanceK.dir/build.make CMakeFiles/DuplicatesataDistanceK.dir/build
-.PHONY : DuplicatesataDistanceK/fast
-
-#=============================================================================
-# Target rules for targets named TaumAndBday
-
-# Build rule for target.
-TaumAndBday: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TaumAndBday
-.PHONY : TaumAndBday
-
-# fast build rule for target.
-TaumAndBday/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TaumAndBday.dir/build.make CMakeFiles/TaumAndBday.dir/build
-.PHONY : TaumAndBday/fast
 
 #=============================================================================
 # Target rules for targets named FraudulentActivityNotificationsOptimized
@@ -1782,6 +1678,19 @@ the_love_letter_mystery/fast:
 .PHONY : the_love_letter_mystery/fast
 
 #=============================================================================
+# Target rules for targets named Reverse_First_K_elements_of_Queue
+
+# Build rule for target.
+Reverse_First_K_elements_of_Queue: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Reverse_First_K_elements_of_Queue
+.PHONY : Reverse_First_K_elements_of_Queue
+
+# fast build rule for target.
+Reverse_First_K_elements_of_Queue/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build
+.PHONY : Reverse_First_K_elements_of_Queue/fast
+
+#=============================================================================
 # Target rules for targets named rearrange_array
 
 # Build rule for target.
@@ -1912,6 +1821,19 @@ Fibonacci_Modified/fast:
 .PHONY : Fibonacci_Modified/fast
 
 #=============================================================================
+# Target rules for targets named Fibonacci_Recursion
+
+# Build rule for target.
+Fibonacci_Recursion: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Fibonacci_Recursion
+.PHONY : Fibonacci_Recursion
+
+# fast build rule for target.
+Fibonacci_Recursion/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fibonacci_Recursion.dir/build.make CMakeFiles/Fibonacci_Recursion.dir/build
+.PHONY : Fibonacci_Recursion/fast
+
+#=============================================================================
 # Target rules for targets named simpletexteditorusingvectors
 
 # Build rule for target.
@@ -1936,6 +1858,32 @@ Sum_of_Product_of_Digits: cmake_check_build_system
 Sum_of_Product_of_Digits/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Sum_of_Product_of_Digits.dir/build.make CMakeFiles/Sum_of_Product_of_Digits.dir/build
 .PHONY : Sum_of_Product_of_Digits/fast
+
+#=============================================================================
+# Target rules for targets named Operations_in_Deque
+
+# Build rule for target.
+Operations_in_Deque: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Operations_in_Deque
+.PHONY : Operations_in_Deque
+
+# fast build rule for target.
+Operations_in_Deque/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operations_in_Deque.dir/build.make CMakeFiles/Operations_in_Deque.dir/build
+.PHONY : Operations_in_Deque/fast
+
+#=============================================================================
+# Target rules for targets named Queue_operations
+
+# Build rule for target.
+Queue_operations: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Queue_operations
+.PHONY : Queue_operations
+
+# fast build rule for target.
+Queue_operations/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Queue_operations.dir/build.make CMakeFiles/Queue_operations.dir/build
+.PHONY : Queue_operations/fast
 
 2DArrays.o: 2DArrays.cpp.o
 
@@ -2318,6 +2266,36 @@ AppendandDelete.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AppendandDelete.cpp.s
 .PHONY : AppendandDelete.cpp.s
 
+ArrayJump.o: ArrayJump.cpp.o
+
+.PHONY : ArrayJump.o
+
+# target to build an object file
+ArrayJump.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ArrayJump.dir/build.make CMakeFiles/ArrayJump.dir/ArrayJump.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ArrayJump.cpp.o
+.PHONY : ArrayJump.cpp.o
+
+ArrayJump.i: ArrayJump.cpp.i
+
+.PHONY : ArrayJump.i
+
+# target to preprocess a source file
+ArrayJump.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ArrayJump.dir/build.make CMakeFiles/ArrayJump.dir/ArrayJump.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ArrayJump.cpp.i
+.PHONY : ArrayJump.cpp.i
+
+ArrayJump.s: ArrayJump.cpp.s
+
+.PHONY : ArrayJump.s
+
+# target to generate assembly for a file
+ArrayJump.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ArrayJump.dir/build.make CMakeFiles/ArrayJump.dir/ArrayJump.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/ArrayJump.cpp.s
+.PHONY : ArrayJump.cpp.s
+
 ArrayList.o: ArrayList.cpp.o
 
 .PHONY : ArrayList.o
@@ -2491,33 +2469,6 @@ BeautifulTriplets.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/BeautifulTriplets.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BeautifulTriplets.dir/build.make CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.s
 .PHONY : BeautifulTriplets.cpp.s
-
-BikeRacers.o: BikeRacers.cpp.o
-
-.PHONY : BikeRacers.o
-
-# target to build an object file
-BikeRacers.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/BikeRacers.cpp.o
-.PHONY : BikeRacers.cpp.o
-
-BikeRacers.i: BikeRacers.cpp.i
-
-.PHONY : BikeRacers.i
-
-# target to preprocess a source file
-BikeRacers.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/BikeRacers.cpp.i
-.PHONY : BikeRacers.cpp.i
-
-BikeRacers.s: BikeRacers.cpp.s
-
-.PHONY : BikeRacers.s
-
-# target to generate assembly for a file
-BikeRacers.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/BikeRacers.cpp.s
-.PHONY : BikeRacers.cpp.s
 
 Binary_Heap_Operations.o: Binary_Heap_Operations.cpp.o
 
@@ -3122,33 +3073,6 @@ CuttheSticks.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CuttheSticks.dir/build.make CMakeFiles/CuttheSticks.dir/CuttheSticks.cpp.s
 .PHONY : CuttheSticks.cpp.s
 
-Cyclic_Shift.o: Cyclic_Shift.cpp.o
-
-.PHONY : Cyclic_Shift.o
-
-# target to build an object file
-Cyclic_Shift.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.o
-.PHONY : Cyclic_Shift.cpp.o
-
-Cyclic_Shift.i: Cyclic_Shift.cpp.i
-
-.PHONY : Cyclic_Shift.i
-
-# target to preprocess a source file
-Cyclic_Shift.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.i
-.PHONY : Cyclic_Shift.cpp.i
-
-Cyclic_Shift.s: Cyclic_Shift.cpp.s
-
-.PHONY : Cyclic_Shift.s
-
-# target to generate assembly for a file
-Cyclic_Shift.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Cyclic_Shift.cpp.s
-.PHONY : Cyclic_Shift.cpp.s
-
 Davis_Staircase.o: Davis_Staircase.cpp.o
 
 .PHONY : Davis_Staircase.o
@@ -3299,8 +3223,8 @@ DuplicatesataDistanceK.o: DuplicatesataDistanceK.cpp.o
 
 # target to build an object file
 DuplicatesataDistanceK.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DuplicatesataDistanceK.dir/build.make CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.o
 .PHONY : DuplicatesataDistanceK.cpp.o
 
 DuplicatesataDistanceK.i: DuplicatesataDistanceK.cpp.i
@@ -3309,8 +3233,8 @@ DuplicatesataDistanceK.i: DuplicatesataDistanceK.cpp.i
 
 # target to preprocess a source file
 DuplicatesataDistanceK.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DuplicatesataDistanceK.dir/build.make CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.i
 .PHONY : DuplicatesataDistanceK.cpp.i
 
 DuplicatesataDistanceK.s: DuplicatesataDistanceK.cpp.s
@@ -3319,8 +3243,8 @@ DuplicatesataDistanceK.s: DuplicatesataDistanceK.cpp.s
 
 # target to generate assembly for a file
 DuplicatesataDistanceK.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DuplicatesataDistanceK.dir/build.make CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DuplicatesataDistanceK.cpp.s
 .PHONY : DuplicatesataDistanceK.cpp.s
 
 Dynamic_Array.o: Dynamic_Array.cpp.o
@@ -3410,33 +3334,6 @@ ExtraLongFactorials.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ExtraLongFactorials.dir/build.make CMakeFiles/ExtraLongFactorials.dir/ExtraLongFactorials.cpp.s
 .PHONY : ExtraLongFactorials.cpp.s
 
-Extract_Original.o: Extract_Original.cpp.o
-
-.PHONY : Extract_Original.o
-
-# target to build an object file
-Extract_Original.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Extract_Original.cpp.o
-.PHONY : Extract_Original.cpp.o
-
-Extract_Original.i: Extract_Original.cpp.i
-
-.PHONY : Extract_Original.i
-
-# target to preprocess a source file
-Extract_Original.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Extract_Original.cpp.i
-.PHONY : Extract_Original.cpp.i
-
-Extract_Original.s: Extract_Original.cpp.s
-
-.PHONY : Extract_Original.s
-
-# target to generate assembly for a file
-Extract_Original.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Extract_Original.cpp.s
-.PHONY : Extract_Original.cpp.s
-
 Fibonacci_Modified.o: Fibonacci_Modified.cpp.o
 
 .PHONY : Fibonacci_Modified.o
@@ -3473,8 +3370,8 @@ Fibonacci_Recursion.o: Fibonacci_Recursion.cpp.o
 
 # target to build an object file
 Fibonacci_Recursion.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fibonacci_Recursion.dir/build.make CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fibonacci_Recursion.dir/build.make CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.o
 .PHONY : Fibonacci_Recursion.cpp.o
 
 Fibonacci_Recursion.i: Fibonacci_Recursion.cpp.i
@@ -3483,8 +3380,8 @@ Fibonacci_Recursion.i: Fibonacci_Recursion.cpp.i
 
 # target to preprocess a source file
 Fibonacci_Recursion.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fibonacci_Recursion.dir/build.make CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fibonacci_Recursion.dir/build.make CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.i
 .PHONY : Fibonacci_Recursion.cpp.i
 
 Fibonacci_Recursion.s: Fibonacci_Recursion.cpp.s
@@ -3493,8 +3390,8 @@ Fibonacci_Recursion.s: Fibonacci_Recursion.cpp.s
 
 # target to generate assembly for a file
 Fibonacci_Recursion.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fibonacci_Recursion.dir/build.make CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Fibonacci_Recursion.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Fibonacci_Recursion.dir/build.make CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.s
 .PHONY : Fibonacci_Recursion.cpp.s
 
 FindMinimum.o: FindMinimum.cpp.o
@@ -3968,60 +3865,6 @@ InfixToPostfix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InfixToPostfix.cpp.s
 .PHONY : InfixToPostfix.cpp.s
 
-InsertionSortPart-1.o: InsertionSortPart-1.cpp.o
-
-.PHONY : InsertionSortPart-1.o
-
-# target to build an object file
-InsertionSortPart-1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.o
-.PHONY : InsertionSortPart-1.cpp.o
-
-InsertionSortPart-1.i: InsertionSortPart-1.cpp.i
-
-.PHONY : InsertionSortPart-1.i
-
-# target to preprocess a source file
-InsertionSortPart-1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.i
-.PHONY : InsertionSortPart-1.cpp.i
-
-InsertionSortPart-1.s: InsertionSortPart-1.cpp.s
-
-.PHONY : InsertionSortPart-1.s
-
-# target to generate assembly for a file
-InsertionSortPart-1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InsertionSortPart-1.cpp.s
-.PHONY : InsertionSortPart-1.cpp.s
-
-InsertionSortPart-2.o: InsertionSortPart-2.cpp.o
-
-.PHONY : InsertionSortPart-2.o
-
-# target to build an object file
-InsertionSortPart-2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.o
-.PHONY : InsertionSortPart-2.cpp.o
-
-InsertionSortPart-2.i: InsertionSortPart-2.cpp.i
-
-.PHONY : InsertionSortPart-2.i
-
-# target to preprocess a source file
-InsertionSortPart-2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.i
-.PHONY : InsertionSortPart-2.cpp.i
-
-InsertionSortPart-2.s: InsertionSortPart-2.cpp.s
-
-.PHONY : InsertionSortPart-2.s
-
-# target to generate assembly for a file
-InsertionSortPart-2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InsertionSortPart-2.cpp.s
-.PHONY : InsertionSortPart-2.cpp.s
-
 Insertion_Sort1.o: Insertion_Sort1.cpp.o
 
 .PHONY : Insertion_Sort1.o
@@ -4106,35 +3949,32 @@ Insertion_Sort_Newton_School.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Insertion_Sort_Newton_School.dir/build.make CMakeFiles/Insertion_Sort_Newton_School.dir/Insertion_Sort_Newton_School.cpp.s
 .PHONY : Insertion_Sort_Newton_School.cpp.s
 
-IntegerTypes.o: IntegerTypes.cpp.o
+InterviewQueries.o: InterviewQueries.cpp.o
 
-.PHONY : IntegerTypes.o
+.PHONY : InterviewQueries.o
 
 # target to build an object file
-IntegerTypes.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/IntegerTypes.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IntegerTypes.dir/build.make CMakeFiles/IntegerTypes.dir/IntegerTypes.cpp.o
-.PHONY : IntegerTypes.cpp.o
+InterviewQueries.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.o
+.PHONY : InterviewQueries.cpp.o
 
-IntegerTypes.i: IntegerTypes.cpp.i
+InterviewQueries.i: InterviewQueries.cpp.i
 
-.PHONY : IntegerTypes.i
+.PHONY : InterviewQueries.i
 
 # target to preprocess a source file
-IntegerTypes.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/IntegerTypes.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IntegerTypes.dir/build.make CMakeFiles/IntegerTypes.dir/IntegerTypes.cpp.i
-.PHONY : IntegerTypes.cpp.i
+InterviewQueries.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.i
+.PHONY : InterviewQueries.cpp.i
 
-IntegerTypes.s: IntegerTypes.cpp.s
+InterviewQueries.s: InterviewQueries.cpp.s
 
-.PHONY : IntegerTypes.s
+.PHONY : InterviewQueries.s
 
 # target to generate assembly for a file
-IntegerTypes.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/IntegerTypes.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/IntegerTypes.dir/build.make CMakeFiles/IntegerTypes.dir/IntegerTypes.cpp.s
-.PHONY : IntegerTypes.cpp.s
+InterviewQueries.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.s
+.PHONY : InterviewQueries.cpp.s
 
 Inversion_Count.o: Inversion_Count.cpp.o
 
@@ -4256,8 +4096,8 @@ K_Most_Recurring_Elements.o: K_Most_Recurring_Elements.cpp.o
 
 # target to build an object file
 K_Most_Recurring_Elements.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/K_Most_Recurring_Elements.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/K_Most_Recurring_Elements.dir/build.make CMakeFiles/K_Most_Recurring_Elements.dir/K_Most_Recurring_Elements.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/K_Most_Recurring_Elements.cpp.o
 .PHONY : K_Most_Recurring_Elements.cpp.o
 
 K_Most_Recurring_Elements.i: K_Most_Recurring_Elements.cpp.i
@@ -4266,8 +4106,8 @@ K_Most_Recurring_Elements.i: K_Most_Recurring_Elements.cpp.i
 
 # target to preprocess a source file
 K_Most_Recurring_Elements.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/K_Most_Recurring_Elements.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/K_Most_Recurring_Elements.dir/build.make CMakeFiles/K_Most_Recurring_Elements.dir/K_Most_Recurring_Elements.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/K_Most_Recurring_Elements.cpp.i
 .PHONY : K_Most_Recurring_Elements.cpp.i
 
 K_Most_Recurring_Elements.s: K_Most_Recurring_Elements.cpp.s
@@ -4276,8 +4116,8 @@ K_Most_Recurring_Elements.s: K_Most_Recurring_Elements.cpp.s
 
 # target to generate assembly for a file
 K_Most_Recurring_Elements.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/K_Most_Recurring_Elements.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/K_Most_Recurring_Elements.dir/build.make CMakeFiles/K_Most_Recurring_Elements.dir/K_Most_Recurring_Elements.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/K_Most_Recurring_Elements.cpp.s
 .PHONY : K_Most_Recurring_Elements.cpp.s
 
 Kadans_Algorithm.o: Kadans_Algorithm.cpp.o
@@ -4667,8 +4507,8 @@ LittleMonkandVirat.o: LittleMonkandVirat.cpp.o
 
 # target to build an object file
 LittleMonkandVirat.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LittleMonkandVirat.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandVirat.dir/build.make CMakeFiles/LittleMonkandVirat.dir/LittleMonkandVirat.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LittleMonkandVirat.cpp.o
 .PHONY : LittleMonkandVirat.cpp.o
 
 LittleMonkandVirat.i: LittleMonkandVirat.cpp.i
@@ -4677,8 +4517,8 @@ LittleMonkandVirat.i: LittleMonkandVirat.cpp.i
 
 # target to preprocess a source file
 LittleMonkandVirat.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LittleMonkandVirat.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandVirat.dir/build.make CMakeFiles/LittleMonkandVirat.dir/LittleMonkandVirat.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LittleMonkandVirat.cpp.i
 .PHONY : LittleMonkandVirat.cpp.i
 
 LittleMonkandVirat.s: LittleMonkandVirat.cpp.s
@@ -4687,8 +4527,8 @@ LittleMonkandVirat.s: LittleMonkandVirat.cpp.s
 
 # target to generate assembly for a file
 LittleMonkandVirat.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LittleMonkandVirat.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandVirat.dir/build.make CMakeFiles/LittleMonkandVirat.dir/LittleMonkandVirat.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LittleMonkandVirat.cpp.s
 .PHONY : LittleMonkandVirat.cpp.s
 
 LittleMonkandWilliamson.o: LittleMonkandWilliamson.cpp.o
@@ -4720,33 +4560,6 @@ LittleMonkandWilliamson.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandWilliamson.dir/build.make CMakeFiles/LittleMonkandWilliamson.dir/LittleMonkandWilliamson.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LittleMonkandWilliamson.cpp.s
 .PHONY : LittleMonkandWilliamson.cpp.s
-
-Makeitsame.o: Makeitsame.cpp.o
-
-.PHONY : Makeitsame.o
-
-# target to build an object file
-Makeitsame.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Makeitsame.cpp.o
-.PHONY : Makeitsame.cpp.o
-
-Makeitsame.i: Makeitsame.cpp.i
-
-.PHONY : Makeitsame.i
-
-# target to preprocess a source file
-Makeitsame.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Makeitsame.cpp.i
-.PHONY : Makeitsame.cpp.i
-
-Makeitsame.s: Makeitsame.cpp.s
-
-.PHONY : Makeitsame.s
-
-# target to generate assembly for a file
-Makeitsame.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Makeitsame.cpp.s
-.PHONY : Makeitsame.cpp.s
 
 Making_Anagrams.o: Making_Anagrams.cpp.o
 
@@ -4801,33 +4614,6 @@ Mark_and_Toys.s: Mark_and_Toys.cpp.s
 Mark_and_Toys.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.s
 .PHONY : Mark_and_Toys.cpp.s
-
-MaxMin.o: MaxMin.cpp.o
-
-.PHONY : MaxMin.o
-
-# target to build an object file
-MaxMin.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.o
-.PHONY : MaxMin.cpp.o
-
-MaxMin.i: MaxMin.cpp.i
-
-.PHONY : MaxMin.i
-
-# target to preprocess a source file
-MaxMin.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.i
-.PHONY : MaxMin.cpp.i
-
-MaxMin.s: MaxMin.cpp.s
-
-.PHONY : MaxMin.s
-
-# target to generate assembly for a file
-MaxMin.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.s
-.PHONY : MaxMin.cpp.s
 
 Maximizing_XOR.o: Maximizing_XOR.cpp.o
 
@@ -5195,33 +4981,6 @@ MrXandhisShots.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MrXandhisShots.cpp.s
 .PHONY : MrXandhisShots.cpp.s
 
-N-Queen_Problem.o: N-Queen_Problem.cpp.o
-
-.PHONY : N-Queen_Problem.o
-
-# target to build an object file
-N-Queen_Problem.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/N-Queen_Problem.cpp.o
-.PHONY : N-Queen_Problem.cpp.o
-
-N-Queen_Problem.i: N-Queen_Problem.cpp.i
-
-.PHONY : N-Queen_Problem.i
-
-# target to preprocess a source file
-N-Queen_Problem.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/N-Queen_Problem.cpp.i
-.PHONY : N-Queen_Problem.cpp.i
-
-N-Queen_Problem.s: N-Queen_Problem.cpp.s
-
-.PHONY : N-Queen_Problem.s
-
-# target to generate assembly for a file
-N-Queen_Problem.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/N-Queen_Problem.cpp.s
-.PHONY : N-Queen_Problem.cpp.s
-
 Naive_Pattern_Search.o: Naive_Pattern_Search.cpp.o
 
 .PHONY : Naive_Pattern_Search.o
@@ -5251,36 +5010,6 @@ Naive_Pattern_Search.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Naive_Pattern_Search.dir/build.make CMakeFiles/Naive_Pattern_Search.dir/Naive_Pattern_Search.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Naive_Pattern_Search.cpp.s
 .PHONY : Naive_Pattern_Search.cpp.s
-
-Nearly_Sorted.o: Nearly_Sorted.cpp.o
-
-.PHONY : Nearly_Sorted.o
-
-# target to build an object file
-Nearly_Sorted.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nearly_Sorted.dir/build.make CMakeFiles/Nearly_Sorted.dir/Nearly_Sorted.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Nearly_Sorted.cpp.o
-.PHONY : Nearly_Sorted.cpp.o
-
-Nearly_Sorted.i: Nearly_Sorted.cpp.i
-
-.PHONY : Nearly_Sorted.i
-
-# target to preprocess a source file
-Nearly_Sorted.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nearly_Sorted.dir/build.make CMakeFiles/Nearly_Sorted.dir/Nearly_Sorted.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Nearly_Sorted.cpp.i
-.PHONY : Nearly_Sorted.cpp.i
-
-Nearly_Sorted.s: Nearly_Sorted.cpp.s
-
-.PHONY : Nearly_Sorted.s
-
-# target to generate assembly for a file
-Nearly_Sorted.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Nearly_Sorted.dir/build.make CMakeFiles/Nearly_Sorted.dir/Nearly_Sorted.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Nearly_Sorted.cpp.s
-.PHONY : Nearly_Sorted.cpp.s
 
 NewYearChaos.o: NewYearChaos.cpp.o
 
@@ -5342,8 +5071,8 @@ Operations_in_Deque.o: Operations_in_Deque.cpp.o
 
 # target to build an object file
 Operations_in_Deque.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operations_in_Deque.dir/build.make CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Operations_in_Deque.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operations_in_Deque.dir/build.make CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.o
 .PHONY : Operations_in_Deque.cpp.o
 
 Operations_in_Deque.i: Operations_in_Deque.cpp.i
@@ -5352,8 +5081,8 @@ Operations_in_Deque.i: Operations_in_Deque.cpp.i
 
 # target to preprocess a source file
 Operations_in_Deque.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operations_in_Deque.dir/build.make CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Operations_in_Deque.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operations_in_Deque.dir/build.make CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.i
 .PHONY : Operations_in_Deque.cpp.i
 
 Operations_in_Deque.s: Operations_in_Deque.cpp.s
@@ -5362,8 +5091,8 @@ Operations_in_Deque.s: Operations_in_Deque.cpp.s
 
 # target to generate assembly for a file
 Operations_in_Deque.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operations_in_Deque.dir/build.make CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Operations_in_Deque.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Operations_in_Deque.dir/build.make CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.s
 .PHONY : Operations_in_Deque.cpp.s
 
 OptimisedStack.o: OptimisedStack.cpp.o
@@ -5392,33 +5121,6 @@ OptimisedStack.s: OptimisedStack.cpp.s
 OptimisedStack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/OptimisedStack.cpp.s
 .PHONY : OptimisedStack.cpp.s
-
-Pair_Sum.o: Pair_Sum.cpp.o
-
-.PHONY : Pair_Sum.o
-
-# target to build an object file
-Pair_Sum.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Pair_Sum.cpp.o
-.PHONY : Pair_Sum.cpp.o
-
-Pair_Sum.i: Pair_Sum.cpp.i
-
-.PHONY : Pair_Sum.i
-
-# target to preprocess a source file
-Pair_Sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Pair_Sum.cpp.i
-.PHONY : Pair_Sum.cpp.i
-
-Pair_Sum.s: Pair_Sum.cpp.s
-
-.PHONY : Pair_Sum.s
-
-# target to generate assembly for a file
-Pair_Sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Pair_Sum.cpp.s
-.PHONY : Pair_Sum.cpp.s
 
 Pallindrome_Index.o: Pallindrome_Index.cpp.o
 
@@ -5516,8 +5218,8 @@ PoisnousPlantsAlternate.o: PoisnousPlantsAlternate.cpp.o
 
 # target to build an object file
 PoisnousPlantsAlternate.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PoisnousPlantsAlternate.dir/build.make CMakeFiles/PoisnousPlantsAlternate.dir/PoisnousPlantsAlternate.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.o
 .PHONY : PoisnousPlantsAlternate.cpp.o
 
 PoisnousPlantsAlternate.i: PoisnousPlantsAlternate.cpp.i
@@ -5526,8 +5228,8 @@ PoisnousPlantsAlternate.i: PoisnousPlantsAlternate.cpp.i
 
 # target to preprocess a source file
 PoisnousPlantsAlternate.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PoisnousPlantsAlternate.dir/build.make CMakeFiles/PoisnousPlantsAlternate.dir/PoisnousPlantsAlternate.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.i
 .PHONY : PoisnousPlantsAlternate.cpp.i
 
 PoisnousPlantsAlternate.s: PoisnousPlantsAlternate.cpp.s
@@ -5536,8 +5238,8 @@ PoisnousPlantsAlternate.s: PoisnousPlantsAlternate.cpp.s
 
 # target to generate assembly for a file
 PoisnousPlantsAlternate.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PoisnousPlantsAlternate.dir/build.make CMakeFiles/PoisnousPlantsAlternate.dir/PoisnousPlantsAlternate.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PoisnousPlantsAlternate.cpp.s
 .PHONY : PoisnousPlantsAlternate.cpp.s
 
 Poisonous_Plants_Optimised.o: Poisonous_Plants_Optimised.cpp.o
@@ -5828,8 +5530,8 @@ Queue_operations.o: Queue_operations.cpp.o
 
 # target to build an object file
 Queue_operations.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Queue_operations.dir/build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Queue_operations.dir/build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.o
 .PHONY : Queue_operations.cpp.o
 
 Queue_operations.i: Queue_operations.cpp.i
@@ -5838,8 +5540,8 @@ Queue_operations.i: Queue_operations.cpp.i
 
 # target to preprocess a source file
 Queue_operations.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Queue_operations.dir/build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Queue_operations.dir/build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.i
 .PHONY : Queue_operations.cpp.i
 
 Queue_operations.s: Queue_operations.cpp.s
@@ -5848,8 +5550,8 @@ Queue_operations.s: Queue_operations.cpp.s
 
 # target to generate assembly for a file
 Queue_operations.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Queue_operations.dir/build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Queue_operations.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Queue_operations.dir/build.make CMakeFiles/Queue_operations.dir/Queue_operations.cpp.s
 .PHONY : Queue_operations.cpp.s
 
 Quick_Sort.o: Quick_Sort.cpp.o
@@ -6002,8 +5704,8 @@ Reverse_First_K_elements_of_Queue.o: Reverse_First_K_elements_of_Queue.cpp.o
 
 # target to build an object file
 Reverse_First_K_elements_of_Queue.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o
 .PHONY : Reverse_First_K_elements_of_Queue.cpp.o
 
 Reverse_First_K_elements_of_Queue.i: Reverse_First_K_elements_of_Queue.cpp.i
@@ -6012,8 +5714,8 @@ Reverse_First_K_elements_of_Queue.i: Reverse_First_K_elements_of_Queue.cpp.i
 
 # target to preprocess a source file
 Reverse_First_K_elements_of_Queue.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.i
 .PHONY : Reverse_First_K_elements_of_Queue.cpp.i
 
 Reverse_First_K_elements_of_Queue.s: Reverse_First_K_elements_of_Queue.cpp.s
@@ -6022,8 +5724,8 @@ Reverse_First_K_elements_of_Queue.s: Reverse_First_K_elements_of_Queue.cpp.s
 
 # target to generate assembly for a file
 Reverse_First_K_elements_of_Queue.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Reverse_First_K_elements_of_Queue.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.s
 .PHONY : Reverse_First_K_elements_of_Queue.cpp.s
 
 RookMovement.o: RookMovement.cpp.o
@@ -6142,36 +5844,6 @@ Sample_File.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Sample_File.dir/build.make CMakeFiles/Sample_File.dir/Sample_File.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sample_File.cpp.s
 .PHONY : Sample_File.cpp.s
-
-Second_Largest.o: Second_Largest.cpp.o
-
-.PHONY : Second_Largest.o
-
-# target to build an object file
-Second_Largest.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Second_Largest.dir/build.make CMakeFiles/Second_Largest.dir/Second_Largest.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Second_Largest.cpp.o
-.PHONY : Second_Largest.cpp.o
-
-Second_Largest.i: Second_Largest.cpp.i
-
-.PHONY : Second_Largest.i
-
-# target to preprocess a source file
-Second_Largest.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Second_Largest.dir/build.make CMakeFiles/Second_Largest.dir/Second_Largest.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Second_Largest.cpp.i
-.PHONY : Second_Largest.cpp.i
-
-Second_Largest.s: Second_Largest.cpp.s
-
-.PHONY : Second_Largest.s
-
-# target to generate assembly for a file
-Second_Largest.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Second_Largest.dir/build.make CMakeFiles/Second_Largest.dir/Second_Largest.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Second_Largest.cpp.s
-.PHONY : Second_Largest.cpp.s
 
 Selection_Sort.o: Selection_Sort.cpp.o
 
@@ -6293,33 +5965,6 @@ SheldonandValidString.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SheldonandValidString.dir/build.make CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.s
 .PHONY : SheldonandValidString.cpp.s
 
-Sherlock_and_the_valid_string.o: Sherlock_and_the_valid_string.cpp.o
-
-.PHONY : Sherlock_and_the_valid_string.o
-
-# target to build an object file
-Sherlock_and_the_valid_string.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.o
-.PHONY : Sherlock_and_the_valid_string.cpp.o
-
-Sherlock_and_the_valid_string.i: Sherlock_and_the_valid_string.cpp.i
-
-.PHONY : Sherlock_and_the_valid_string.i
-
-# target to preprocess a source file
-Sherlock_and_the_valid_string.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.i
-.PHONY : Sherlock_and_the_valid_string.cpp.i
-
-Sherlock_and_the_valid_string.s: Sherlock_and_the_valid_string.cpp.s
-
-.PHONY : Sherlock_and_the_valid_string.s
-
-# target to generate assembly for a file
-Sherlock_and_the_valid_string.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sherlock_and_the_valid_string.cpp.s
-.PHONY : Sherlock_and_the_valid_string.cpp.s
-
 SherlockandSquares.o: SherlockandSquares.cpp.o
 
 .PHONY : SherlockandSquares.o
@@ -6349,33 +5994,6 @@ SherlockandSquares.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SherlockandSquares.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SherlockandSquares.dir/build.make CMakeFiles/SherlockandSquares.dir/SherlockandSquares.cpp.s
 .PHONY : SherlockandSquares.cpp.s
-
-Short_String.o: Short_String.cpp.o
-
-.PHONY : Short_String.o
-
-# target to build an object file
-Short_String.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Short_String.cpp.o
-.PHONY : Short_String.cpp.o
-
-Short_String.i: Short_String.cpp.i
-
-.PHONY : Short_String.i
-
-# target to preprocess a source file
-Short_String.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Short_String.cpp.i
-.PHONY : Short_String.cpp.i
-
-Short_String.s: Short_String.cpp.s
-
-.PHONY : Short_String.s
-
-# target to generate assembly for a file
-Short_String.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Short_String.cpp.s
-.PHONY : Short_String.cpp.s
 
 SimpleArraySum.o: SimpleArraySum.cpp.o
 
@@ -6494,33 +6112,6 @@ Simple_Transpose.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Simple_Transpose.dir/build.make CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.s
 .PHONY : Simple_Transpose.cpp.s
 
-Sort_Anagram.o: Sort_Anagram.cpp.o
-
-.PHONY : Sort_Anagram.o
-
-# target to build an object file
-Sort_Anagram.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sort_Anagram.cpp.o
-.PHONY : Sort_Anagram.cpp.o
-
-Sort_Anagram.i: Sort_Anagram.cpp.i
-
-.PHONY : Sort_Anagram.i
-
-# target to preprocess a source file
-Sort_Anagram.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sort_Anagram.cpp.i
-.PHONY : Sort_Anagram.cpp.i
-
-Sort_Anagram.s: Sort_Anagram.cpp.s
-
-.PHONY : Sort_Anagram.s
-
-# target to generate assembly for a file
-Sort_Anagram.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sort_Anagram.cpp.s
-.PHONY : Sort_Anagram.cpp.s
-
 SparseArrays.o: SparseArrays.cpp.o
 
 .PHONY : SparseArrays.o
@@ -6547,87 +6138,6 @@ SparseArrays.s: SparseArrays.cpp.s
 SparseArrays.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SparseArrays.cpp.s
 .PHONY : SparseArrays.cpp.s
-
-Special_String_Again.o: Special_String_Again.cpp.o
-
-.PHONY : Special_String_Again.o
-
-# target to build an object file
-Special_String_Again.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.o
-.PHONY : Special_String_Again.cpp.o
-
-Special_String_Again.i: Special_String_Again.cpp.i
-
-.PHONY : Special_String_Again.i
-
-# target to preprocess a source file
-Special_String_Again.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.i
-.PHONY : Special_String_Again.cpp.i
-
-Special_String_Again.s: Special_String_Again.cpp.s
-
-.PHONY : Special_String_Again.s
-
-# target to generate assembly for a file
-Special_String_Again.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Special_String_Again.cpp.s
-.PHONY : Special_String_Again.cpp.s
-
-Split_the_Array.o: Split_the_Array.cpp.o
-
-.PHONY : Split_the_Array.o
-
-# target to build an object file
-Split_the_Array.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.o
-.PHONY : Split_the_Array.cpp.o
-
-Split_the_Array.i: Split_the_Array.cpp.i
-
-.PHONY : Split_the_Array.i
-
-# target to preprocess a source file
-Split_the_Array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.i
-.PHONY : Split_the_Array.cpp.i
-
-Split_the_Array.s: Split_the_Array.cpp.s
-
-.PHONY : Split_the_Array.s
-
-# target to generate assembly for a file
-Split_the_Array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Split_the_Array.cpp.s
-.PHONY : Split_the_Array.cpp.s
-
-Square_root_of_an_integer.o: Square_root_of_an_integer.cpp.o
-
-.PHONY : Square_root_of_an_integer.o
-
-# target to build an object file
-Square_root_of_an_integer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Square_root_of_an_integer.cpp.o
-.PHONY : Square_root_of_an_integer.cpp.o
-
-Square_root_of_an_integer.i: Square_root_of_an_integer.cpp.i
-
-.PHONY : Square_root_of_an_integer.i
-
-# target to preprocess a source file
-Square_root_of_an_integer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Square_root_of_an_integer.cpp.i
-.PHONY : Square_root_of_an_integer.cpp.i
-
-Square_root_of_an_integer.s: Square_root_of_an_integer.cpp.s
-
-.PHONY : Square_root_of_an_integer.s
-
-# target to generate assembly for a file
-Square_root_of_an_integer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Square_root_of_an_integer.cpp.s
-.PHONY : Square_root_of_an_integer.cpp.s
 
 StackUsingQueues.o: StackUsingQueues.cpp.o
 
@@ -6692,6 +6202,7 @@ SubArrayProduct.o: SubArrayProduct.cpp.o
 
 # target to build an object file
 SubArrayProduct.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SubArrayProduct.dir/build.make CMakeFiles/SubArrayProduct.dir/SubArrayProduct.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SubArrayProduct.cpp.o
 .PHONY : SubArrayProduct.cpp.o
 
@@ -6701,6 +6212,7 @@ SubArrayProduct.i: SubArrayProduct.cpp.i
 
 # target to preprocess a source file
 SubArrayProduct.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SubArrayProduct.dir/build.make CMakeFiles/SubArrayProduct.dir/SubArrayProduct.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SubArrayProduct.cpp.i
 .PHONY : SubArrayProduct.cpp.i
 
@@ -6710,6 +6222,7 @@ SubArrayProduct.s: SubArrayProduct.cpp.s
 
 # target to generate assembly for a file
 SubArrayProduct.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SubArrayProduct.dir/build.make CMakeFiles/SubArrayProduct.dir/SubArrayProduct.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SubArrayProduct.cpp.s
 .PHONY : SubArrayProduct.cpp.s
 
@@ -6742,66 +6255,6 @@ Sum_of_Product_of_Digits.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Sum_of_Product_of_Digits.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Sum_of_Product_of_Digits.dir/build.make CMakeFiles/Sum_of_Product_of_Digits.dir/Sum_of_Product_of_Digits.cpp.s
 .PHONY : Sum_of_Product_of_Digits.cpp.s
-
-TaumAndBday.o: TaumAndBday.cpp.o
-
-.PHONY : TaumAndBday.o
-
-# target to build an object file
-TaumAndBday.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TaumAndBday.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TaumAndBday.dir/build.make CMakeFiles/TaumAndBday.dir/TaumAndBday.cpp.o
-.PHONY : TaumAndBday.cpp.o
-
-TaumAndBday.i: TaumAndBday.cpp.i
-
-.PHONY : TaumAndBday.i
-
-# target to preprocess a source file
-TaumAndBday.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TaumAndBday.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TaumAndBday.dir/build.make CMakeFiles/TaumAndBday.dir/TaumAndBday.cpp.i
-.PHONY : TaumAndBday.cpp.i
-
-TaumAndBday.s: TaumAndBday.cpp.s
-
-.PHONY : TaumAndBday.s
-
-# target to generate assembly for a file
-TaumAndBday.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TaumAndBday.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TaumAndBday.dir/build.make CMakeFiles/TaumAndBday.dir/TaumAndBday.cpp.s
-.PHONY : TaumAndBday.cpp.s
-
-TheBombermanGame.o: TheBombermanGame.cpp.o
-
-.PHONY : TheBombermanGame.o
-
-# target to build an object file
-TheBombermanGame.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TheBombermanGame.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TheBombermanGame.dir/build.make CMakeFiles/TheBombermanGame.dir/TheBombermanGame.cpp.o
-.PHONY : TheBombermanGame.cpp.o
-
-TheBombermanGame.i: TheBombermanGame.cpp.i
-
-.PHONY : TheBombermanGame.i
-
-# target to preprocess a source file
-TheBombermanGame.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TheBombermanGame.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TheBombermanGame.dir/build.make CMakeFiles/TheBombermanGame.dir/TheBombermanGame.cpp.i
-.PHONY : TheBombermanGame.cpp.i
-
-TheBombermanGame.s: TheBombermanGame.cpp.s
-
-.PHONY : TheBombermanGame.s
-
-# target to generate assembly for a file
-TheBombermanGame.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TheBombermanGame.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TheBombermanGame.dir/build.make CMakeFiles/TheBombermanGame.dir/TheBombermanGame.cpp.s
-.PHONY : TheBombermanGame.cpp.s
 
 TheUnlucky13.o: TheUnlucky13.cpp.o
 
@@ -6920,33 +6373,6 @@ TwoStrings.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TwoStrings.dir/build.make CMakeFiles/TwoStrings.dir/TwoStrings.cpp.s
 .PHONY : TwoStrings.cpp.s
 
-TwoSum.o: TwoSum.cpp.o
-
-.PHONY : TwoSum.o
-
-# target to build an object file
-TwoSum.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TwoSum.cpp.o
-.PHONY : TwoSum.cpp.o
-
-TwoSum.i: TwoSum.cpp.i
-
-.PHONY : TwoSum.i
-
-# target to preprocess a source file
-TwoSum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TwoSum.cpp.i
-.PHONY : TwoSum.cpp.i
-
-TwoSum.s: TwoSum.cpp.s
-
-.PHONY : TwoSum.s
-
-# target to generate assembly for a file
-TwoSum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TwoSum.cpp.s
-.PHONY : TwoSum.cpp.s
-
 UtopianTree.o: UtopianTree.cpp.o
 
 .PHONY : UtopianTree.o
@@ -7037,33 +6463,6 @@ XOR-sequence.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/XOR-sequence.dir/build.make CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.s
 .PHONY : XOR-sequence.cpp.s
 
-alternating-characters.o: alternating-characters.cpp.o
-
-.PHONY : alternating-characters.o
-
-# target to build an object file
-alternating-characters.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.o
-.PHONY : alternating-characters.cpp.o
-
-alternating-characters.i: alternating-characters.cpp.i
-
-.PHONY : alternating-characters.i
-
-# target to preprocess a source file
-alternating-characters.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.i
-.PHONY : alternating-characters.cpp.i
-
-alternating-characters.s: alternating-characters.cpp.s
-
-.PHONY : alternating-characters.s
-
-# target to generate assembly for a file
-alternating-characters.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/alternating-characters.cpp.s
-.PHONY : alternating-characters.cpp.s
-
 best-time-to-buy-and-sell-stock-ii.o: best-time-to-buy-and-sell-stock-ii.cpp.o
 
 .PHONY : best-time-to-buy-and-sell-stock-ii.o
@@ -7093,33 +6492,6 @@ best-time-to-buy-and-sell-stock-ii.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/build.make CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.s
 .PHONY : best-time-to-buy-and-sell-stock-ii.cpp.s
-
-best-time-to-buy-and-sell-stock-iii.o: best-time-to-buy-and-sell-stock-iii.cpp.o
-
-.PHONY : best-time-to-buy-and-sell-stock-iii.o
-
-# target to build an object file
-best-time-to-buy-and-sell-stock-iii.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.o
-.PHONY : best-time-to-buy-and-sell-stock-iii.cpp.o
-
-best-time-to-buy-and-sell-stock-iii.i: best-time-to-buy-and-sell-stock-iii.cpp.i
-
-.PHONY : best-time-to-buy-and-sell-stock-iii.i
-
-# target to preprocess a source file
-best-time-to-buy-and-sell-stock-iii.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.i
-.PHONY : best-time-to-buy-and-sell-stock-iii.cpp.i
-
-best-time-to-buy-and-sell-stock-iii.s: best-time-to-buy-and-sell-stock-iii.cpp.s
-
-.PHONY : best-time-to-buy-and-sell-stock-iii.s
-
-# target to generate assembly for a file
-best-time-to-buy-and-sell-stock-iii.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-iii.cpp.s
-.PHONY : best-time-to-buy-and-sell-stock-iii.cpp.s
 
 best-time-to-buy-and-sell-stock.o: best-time-to-buy-and-sell-stock.cpp.o
 
@@ -7237,33 +6609,6 @@ caesar-cipher-1.s: caesar-cipher-1.cpp.s
 caesar-cipher-1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/caesar-cipher-1.cpp.s
 .PHONY : caesar-cipher-1.cpp.s
-
-data_types.o: data_types.cpp.o
-
-.PHONY : data_types.o
-
-# target to build an object file
-data_types.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/data_types.cpp.o
-.PHONY : data_types.cpp.o
-
-data_types.i: data_types.cpp.i
-
-.PHONY : data_types.i
-
-# target to preprocess a source file
-data_types.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/data_types.cpp.i
-.PHONY : data_types.cpp.i
-
-data_types.s: data_types.cpp.s
-
-.PHONY : data_types.s
-
-# target to generate assembly for a file
-data_types.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/data_types.cpp.s
-.PHONY : data_types.cpp.s
 
 decoding_encoded_list.o: decoding_encoded_list.cpp.o
 
@@ -7415,33 +6760,6 @@ fill_the_missing_spaces.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fill_the_missing_spaces.dir/build.make CMakeFiles/fill_the_missing_spaces.dir/fill_the_missing_spaces.cpp.s
 .PHONY : fill_the_missing_spaces.cpp.s
 
-find_the_duplicate_in_array.o: find_the_duplicate_in_array.cpp.o
-
-.PHONY : find_the_duplicate_in_array.o
-
-# target to build an object file
-find_the_duplicate_in_array.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.o
-.PHONY : find_the_duplicate_in_array.cpp.o
-
-find_the_duplicate_in_array.i: find_the_duplicate_in_array.cpp.i
-
-.PHONY : find_the_duplicate_in_array.i
-
-# target to preprocess a source file
-find_the_duplicate_in_array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.i
-.PHONY : find_the_duplicate_in_array.cpp.i
-
-find_the_duplicate_in_array.s: find_the_duplicate_in_array.cpp.s
-
-.PHONY : find_the_duplicate_in_array.s
-
-# target to generate assembly for a file
-find_the_duplicate_in_array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/find_the_duplicate_in_array.cpp.s
-.PHONY : find_the_duplicate_in_array.cpp.s
-
 flatlandspacestations.o: flatlandspacestations.cpp.o
 
 .PHONY : flatlandspacestations.o
@@ -7471,33 +6789,6 @@ flatlandspacestations.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/flatlandspacestations.dir/build.make CMakeFiles/flatlandspacestations.dir/flatlandspacestations.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/flatlandspacestations.cpp.s
 .PHONY : flatlandspacestations.cpp.s
-
-formated_dates.o: formated_dates.cpp.o
-
-.PHONY : formated_dates.o
-
-# target to build an object file
-formated_dates.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.o
-.PHONY : formated_dates.cpp.o
-
-formated_dates.i: formated_dates.cpp.i
-
-.PHONY : formated_dates.i
-
-# target to preprocess a source file
-formated_dates.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.i
-.PHONY : formated_dates.cpp.i
-
-formated_dates.s: formated_dates.cpp.s
-
-.PHONY : formated_dates.s
-
-# target to generate assembly for a file
-formated_dates.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/formated_dates.cpp.s
-.PHONY : formated_dates.cpp.s
 
 funnystring.o: funnystring.cpp.o
 
@@ -7676,36 +6967,6 @@ hiphiparray.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hiphiparray.dir/build.make CMakeFiles/hiphiparray.dir/hiphiparray.cpp.s
 .PHONY : hiphiparray.cpp.s
 
-magicsquareforming.o: magicsquareforming.cpp.o
-
-.PHONY : magicsquareforming.o
-
-# target to build an object file
-magicsquareforming.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/magicsquareforming.dir/build.make CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/magicsquareforming.cpp.o
-.PHONY : magicsquareforming.cpp.o
-
-magicsquareforming.i: magicsquareforming.cpp.i
-
-.PHONY : magicsquareforming.i
-
-# target to preprocess a source file
-magicsquareforming.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/magicsquareforming.dir/build.make CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/magicsquareforming.cpp.i
-.PHONY : magicsquareforming.cpp.i
-
-magicsquareforming.s: magicsquareforming.cpp.s
-
-.PHONY : magicsquareforming.s
-
-# target to generate assembly for a file
-magicsquareforming.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/magicsquareforming.dir/build.make CMakeFiles/magicsquareforming.dir/magicsquareforming.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/magicsquareforming.cpp.s
-.PHONY : magicsquareforming.cpp.s
-
 mars-exploration.o: mars-exploration.cpp.o
 
 .PHONY : mars-exploration.o
@@ -7790,33 +7051,6 @@ minimum_average_waiting_time.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/minimum_average_waiting_time.cpp.s
 .PHONY : minimum_average_waiting_time.cpp.s
 
-monkandinversions.o: monkandinversions.cpp.o
-
-.PHONY : monkandinversions.o
-
-# target to build an object file
-monkandinversions.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.o
-.PHONY : monkandinversions.cpp.o
-
-monkandinversions.i: monkandinversions.cpp.i
-
-.PHONY : monkandinversions.i
-
-# target to preprocess a source file
-monkandinversions.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.i
-.PHONY : monkandinversions.cpp.i
-
-monkandinversions.s: monkandinversions.cpp.s
-
-.PHONY : monkandinversions.s
-
-# target to generate assembly for a file
-monkandinversions.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/monkandinversions.cpp.s
-.PHONY : monkandinversions.cpp.s
-
 monkandnicestrings.o: monkandnicestrings.cpp.o
 
 .PHONY : monkandnicestrings.o
@@ -7876,33 +7110,6 @@ monkandrotation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/monkandrotation.dir/build.make CMakeFiles/monkandrotation.dir/monkandrotation.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/monkandrotation.cpp.s
 .PHONY : monkandrotation.cpp.s
-
-monkandsuffixsort.o: monkandsuffixsort.cpp.o
-
-.PHONY : monkandsuffixsort.o
-
-# target to build an object file
-monkandsuffixsort.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.o
-.PHONY : monkandsuffixsort.cpp.o
-
-monkandsuffixsort.i: monkandsuffixsort.cpp.i
-
-.PHONY : monkandsuffixsort.i
-
-# target to preprocess a source file
-monkandsuffixsort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.i
-.PHONY : monkandsuffixsort.cpp.i
-
-monkandsuffixsort.s: monkandsuffixsort.cpp.s
-
-.PHONY : monkandsuffixsort.s
-
-# target to generate assembly for a file
-monkandsuffixsort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/monkandsuffixsort.cpp.s
-.PHONY : monkandsuffixsort.cpp.s
 
 move_zeroes.o: move_zeroes.cpp.o
 
@@ -8327,6 +7534,7 @@ help:
 	@echo "... AndProduct"
 	@echo "... AngryProfessor"
 	@echo "... AppendandDelete"
+	@echo "... ArrayJump"
 	@echo "... ArrayList"
 	@echo "... ArrayManipulation"
 	@echo "... AveoRenzhio"
@@ -8369,7 +7577,6 @@ help:
 	@echo "... HeapSortingUsingMax_HeapifyCormenIndexingwith0"
 	@echo "... Heaps_STL"
 	@echo "... Insertion_Sort_Newton_School"
-	@echo "... IntegerTypes"
 	@echo "... JesseandCookies"
 	@echo "... JumpingontheCloudsRevisited"
 	@echo "... K_Most_Recurring_Elements"
@@ -8391,7 +7598,6 @@ help:
 	@echo "... MinimumSwaps2Alternate"
 	@echo "... Minimum_Cost_Of_Ropes"
 	@echo "... Naive_Pattern_Search"
-	@echo "... Nearly_Sorted"
 	@echo "... Operations_in_Deque"
 	@echo "... Partiles_and_Seats"
 	@echo "... PoisnousPlants"
@@ -8409,7 +7615,6 @@ help:
 	@echo "... RookMovement"
 	@echo "... Rotate_the_matrix"
 	@echo "... Sample_File"
-	@echo "... Second_Largest"
 	@echo "... Selection_Sort"
 	@echo "... Set5Problem1TheGoldenCrown"
 	@echo "... SetProblem2BreakerOfChains"
@@ -8419,9 +7624,8 @@ help:
 	@echo "... Simple_Numbers"
 	@echo "... Simple_Transpose"
 	@echo "... StrongPassword"
+	@echo "... SubArrayProduct"
 	@echo "... Sum_of_Product_of_Digits"
-	@echo "... TaumAndBday"
-	@echo "... TheBombermanGame"
 	@echo "... Thoughts2BinarySampleProblem1"
 	@echo "... TimeinWords"
 	@echo "... TwoStrings"
@@ -8443,7 +7647,6 @@ help:
 	@echo "... heapsortingusingmaxheapifycormen"
 	@echo "... heapsortingusingminheapifycormen"
 	@echo "... hiphiparray"
-	@echo "... magicsquareforming"
 	@echo "... maxInQueue"
 	@echo "... monkandnicestrings"
 	@echo "... monkandrotation"
@@ -8495,6 +7698,9 @@ help:
 	@echo "... AppendandDelete.o"
 	@echo "... AppendandDelete.i"
 	@echo "... AppendandDelete.s"
+	@echo "... ArrayJump.o"
+	@echo "... ArrayJump.i"
+	@echo "... ArrayJump.s"
 	@echo "... ArrayList.o"
 	@echo "... ArrayList.i"
 	@echo "... ArrayList.s"
@@ -8513,9 +7719,6 @@ help:
 	@echo "... BeautifulTriplets.o"
 	@echo "... BeautifulTriplets.i"
 	@echo "... BeautifulTriplets.s"
-	@echo "... BikeRacers.o"
-	@echo "... BikeRacers.i"
-	@echo "... BikeRacers.s"
 	@echo "... Binary_Heap_Operations.o"
 	@echo "... Binary_Heap_Operations.i"
 	@echo "... Binary_Heap_Operations.s"
@@ -8579,9 +7782,6 @@ help:
 	@echo "... CuttheSticks.o"
 	@echo "... CuttheSticks.i"
 	@echo "... CuttheSticks.s"
-	@echo "... Cyclic_Shift.o"
-	@echo "... Cyclic_Shift.i"
-	@echo "... Cyclic_Shift.s"
 	@echo "... Davis_Staircase.o"
 	@echo "... Davis_Staircase.i"
 	@echo "... Davis_Staircase.s"
@@ -8609,9 +7809,6 @@ help:
 	@echo "... ExtraLongFactorials.o"
 	@echo "... ExtraLongFactorials.i"
 	@echo "... ExtraLongFactorials.s"
-	@echo "... Extract_Original.o"
-	@echo "... Extract_Original.i"
-	@echo "... Extract_Original.s"
 	@echo "... Fibonacci_Modified.o"
 	@echo "... Fibonacci_Modified.i"
 	@echo "... Fibonacci_Modified.s"
@@ -8666,12 +7863,6 @@ help:
 	@echo "... InfixToPostfix.o"
 	@echo "... InfixToPostfix.i"
 	@echo "... InfixToPostfix.s"
-	@echo "... InsertionSortPart-1.o"
-	@echo "... InsertionSortPart-1.i"
-	@echo "... InsertionSortPart-1.s"
-	@echo "... InsertionSortPart-2.o"
-	@echo "... InsertionSortPart-2.i"
-	@echo "... InsertionSortPart-2.s"
 	@echo "... Insertion_Sort1.o"
 	@echo "... Insertion_Sort1.i"
 	@echo "... Insertion_Sort1.s"
@@ -8681,9 +7872,9 @@ help:
 	@echo "... Insertion_Sort_Newton_School.o"
 	@echo "... Insertion_Sort_Newton_School.i"
 	@echo "... Insertion_Sort_Newton_School.s"
-	@echo "... IntegerTypes.o"
-	@echo "... IntegerTypes.i"
-	@echo "... IntegerTypes.s"
+	@echo "... InterviewQueries.o"
+	@echo "... InterviewQueries.i"
+	@echo "... InterviewQueries.s"
 	@echo "... Inversion_Count.o"
 	@echo "... Inversion_Count.i"
 	@echo "... Inversion_Count.s"
@@ -8744,18 +7935,12 @@ help:
 	@echo "... LittleMonkandWilliamson.o"
 	@echo "... LittleMonkandWilliamson.i"
 	@echo "... LittleMonkandWilliamson.s"
-	@echo "... Makeitsame.o"
-	@echo "... Makeitsame.i"
-	@echo "... Makeitsame.s"
 	@echo "... Making_Anagrams.o"
 	@echo "... Making_Anagrams.i"
 	@echo "... Making_Anagrams.s"
 	@echo "... Mark_and_Toys.o"
 	@echo "... Mark_and_Toys.i"
 	@echo "... Mark_and_Toys.s"
-	@echo "... MaxMin.o"
-	@echo "... MaxMin.i"
-	@echo "... MaxMin.s"
 	@echo "... Maximizing_XOR.o"
 	@echo "... Maximizing_XOR.i"
 	@echo "... Maximizing_XOR.s"
@@ -8795,15 +7980,9 @@ help:
 	@echo "... MrXandhisShots.o"
 	@echo "... MrXandhisShots.i"
 	@echo "... MrXandhisShots.s"
-	@echo "... N-Queen_Problem.o"
-	@echo "... N-Queen_Problem.i"
-	@echo "... N-Queen_Problem.s"
 	@echo "... Naive_Pattern_Search.o"
 	@echo "... Naive_Pattern_Search.i"
 	@echo "... Naive_Pattern_Search.s"
-	@echo "... Nearly_Sorted.o"
-	@echo "... Nearly_Sorted.i"
-	@echo "... Nearly_Sorted.s"
 	@echo "... NewYearChaos.o"
 	@echo "... NewYearChaos.i"
 	@echo "... NewYearChaos.s"
@@ -8816,9 +7995,6 @@ help:
 	@echo "... OptimisedStack.o"
 	@echo "... OptimisedStack.i"
 	@echo "... OptimisedStack.s"
-	@echo "... Pair_Sum.o"
-	@echo "... Pair_Sum.i"
-	@echo "... Pair_Sum.s"
 	@echo "... Pallindrome_Index.o"
 	@echo "... Pallindrome_Index.i"
 	@echo "... Pallindrome_Index.s"
@@ -8894,9 +8070,6 @@ help:
 	@echo "... Sample_File.o"
 	@echo "... Sample_File.i"
 	@echo "... Sample_File.s"
-	@echo "... Second_Largest.o"
-	@echo "... Second_Largest.i"
-	@echo "... Second_Largest.s"
 	@echo "... Selection_Sort.o"
 	@echo "... Selection_Sort.i"
 	@echo "... Selection_Sort.s"
@@ -8909,15 +8082,9 @@ help:
 	@echo "... SheldonandValidString.o"
 	@echo "... SheldonandValidString.i"
 	@echo "... SheldonandValidString.s"
-	@echo "... Sherlock_and_the_valid_string.o"
-	@echo "... Sherlock_and_the_valid_string.i"
-	@echo "... Sherlock_and_the_valid_string.s"
 	@echo "... SherlockandSquares.o"
 	@echo "... SherlockandSquares.i"
 	@echo "... SherlockandSquares.s"
-	@echo "... Short_String.o"
-	@echo "... Short_String.i"
-	@echo "... Short_String.s"
 	@echo "... SimpleArraySum.o"
 	@echo "... SimpleArraySum.i"
 	@echo "... SimpleArraySum.s"
@@ -8930,21 +8097,9 @@ help:
 	@echo "... Simple_Transpose.o"
 	@echo "... Simple_Transpose.i"
 	@echo "... Simple_Transpose.s"
-	@echo "... Sort_Anagram.o"
-	@echo "... Sort_Anagram.i"
-	@echo "... Sort_Anagram.s"
 	@echo "... SparseArrays.o"
 	@echo "... SparseArrays.i"
 	@echo "... SparseArrays.s"
-	@echo "... Special_String_Again.o"
-	@echo "... Special_String_Again.i"
-	@echo "... Special_String_Again.s"
-	@echo "... Split_the_Array.o"
-	@echo "... Split_the_Array.i"
-	@echo "... Split_the_Array.s"
-	@echo "... Square_root_of_an_integer.o"
-	@echo "... Square_root_of_an_integer.i"
-	@echo "... Square_root_of_an_integer.s"
 	@echo "... StackUsingQueues.o"
 	@echo "... StackUsingQueues.i"
 	@echo "... StackUsingQueues.s"
@@ -8957,12 +8112,6 @@ help:
 	@echo "... Sum_of_Product_of_Digits.o"
 	@echo "... Sum_of_Product_of_Digits.i"
 	@echo "... Sum_of_Product_of_Digits.s"
-	@echo "... TaumAndBday.o"
-	@echo "... TaumAndBday.i"
-	@echo "... TaumAndBday.s"
-	@echo "... TheBombermanGame.o"
-	@echo "... TheBombermanGame.i"
-	@echo "... TheBombermanGame.s"
 	@echo "... TheUnlucky13.o"
 	@echo "... TheUnlucky13.i"
 	@echo "... TheUnlucky13.s"
@@ -8975,9 +8124,6 @@ help:
 	@echo "... TwoStrings.o"
 	@echo "... TwoStrings.i"
 	@echo "... TwoStrings.s"
-	@echo "... TwoSum.o"
-	@echo "... TwoSum.i"
-	@echo "... TwoSum.s"
 	@echo "... UtopianTree.o"
 	@echo "... UtopianTree.i"
 	@echo "... UtopianTree.s"
@@ -8987,15 +8133,9 @@ help:
 	@echo "... XOR-sequence.o"
 	@echo "... XOR-sequence.i"
 	@echo "... XOR-sequence.s"
-	@echo "... alternating-characters.o"
-	@echo "... alternating-characters.i"
-	@echo "... alternating-characters.s"
 	@echo "... best-time-to-buy-and-sell-stock-ii.o"
 	@echo "... best-time-to-buy-and-sell-stock-ii.i"
 	@echo "... best-time-to-buy-and-sell-stock-ii.s"
-	@echo "... best-time-to-buy-and-sell-stock-iii.o"
-	@echo "... best-time-to-buy-and-sell-stock-iii.i"
-	@echo "... best-time-to-buy-and-sell-stock-iii.s"
 	@echo "... best-time-to-buy-and-sell-stock.o"
 	@echo "... best-time-to-buy-and-sell-stock.i"
 	@echo "... best-time-to-buy-and-sell-stock.s"
@@ -9008,9 +8148,6 @@ help:
 	@echo "... caesar-cipher-1.o"
 	@echo "... caesar-cipher-1.i"
 	@echo "... caesar-cipher-1.s"
-	@echo "... data_types.o"
-	@echo "... data_types.i"
-	@echo "... data_types.s"
 	@echo "... decoding_encoded_list.o"
 	@echo "... decoding_encoded_list.i"
 	@echo "... decoding_encoded_list.s"
@@ -9026,15 +8163,9 @@ help:
 	@echo "... fill_the_missing_spaces.o"
 	@echo "... fill_the_missing_spaces.i"
 	@echo "... fill_the_missing_spaces.s"
-	@echo "... find_the_duplicate_in_array.o"
-	@echo "... find_the_duplicate_in_array.i"
-	@echo "... find_the_duplicate_in_array.s"
 	@echo "... flatlandspacestations.o"
 	@echo "... flatlandspacestations.i"
 	@echo "... flatlandspacestations.s"
-	@echo "... formated_dates.o"
-	@echo "... formated_dates.i"
-	@echo "... formated_dates.s"
 	@echo "... funnystring.o"
 	@echo "... funnystring.i"
 	@echo "... funnystring.s"
@@ -9053,9 +8184,6 @@ help:
 	@echo "... hiphiparray.o"
 	@echo "... hiphiparray.i"
 	@echo "... hiphiparray.s"
-	@echo "... magicsquareforming.o"
-	@echo "... magicsquareforming.i"
-	@echo "... magicsquareforming.s"
 	@echo "... mars-exploration.o"
 	@echo "... mars-exploration.i"
 	@echo "... mars-exploration.s"
@@ -9065,18 +8193,12 @@ help:
 	@echo "... minimum_average_waiting_time.o"
 	@echo "... minimum_average_waiting_time.i"
 	@echo "... minimum_average_waiting_time.s"
-	@echo "... monkandinversions.o"
-	@echo "... monkandinversions.i"
-	@echo "... monkandinversions.s"
 	@echo "... monkandnicestrings.o"
 	@echo "... monkandnicestrings.i"
 	@echo "... monkandnicestrings.s"
 	@echo "... monkandrotation.o"
 	@echo "... monkandrotation.i"
 	@echo "... monkandrotation.s"
-	@echo "... monkandsuffixsort.o"
-	@echo "... monkandsuffixsort.i"
-	@echo "... monkandsuffixsort.s"
 	@echo "... move_zeroes.o"
 	@echo "... move_zeroes.i"
 	@echo "... move_zeroes.s"
