@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Power_Set.dir/Power_Set.cpp.obj"
-  "Power_Set.exe"
-  "Power_Set.exe.manifest"
+  "CMakeFiles/Power_Set.dir/Power_Set.cpp.o"
+  "Power_Set"
   "Power_Set.pdb"
-  "libPower_Set.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

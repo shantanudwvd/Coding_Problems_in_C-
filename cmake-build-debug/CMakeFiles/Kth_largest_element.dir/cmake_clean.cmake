@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Kth_largest_element.dir/Kth_largest_element.cpp.obj"
-  "Kth_largest_element.exe"
-  "Kth_largest_element.exe.manifest"
+  "CMakeFiles/Kth_largest_element.dir/Kth_largest_element.cpp.o"
+  "Kth_largest_element"
   "Kth_largest_element.pdb"
-  "libKth_largest_element.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

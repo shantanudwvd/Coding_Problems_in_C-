@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Maximum_Product_ofK.dir/Maximum_Product_ofK.cpp.obj"
-  "Maximum_Product_ofK.exe"
-  "Maximum_Product_ofK.exe.manifest"
+  "CMakeFiles/Maximum_Product_ofK.dir/Maximum_Product_ofK.cpp.o"
+  "Maximum_Product_ofK"
   "Maximum_Product_ofK.pdb"
-  "libMaximum_Product_ofK.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

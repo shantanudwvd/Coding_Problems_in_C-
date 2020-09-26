@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/diagonal_traversal.dir/diagonal_traversal.cpp.obj"
-  "diagonal_traversal.exe"
-  "diagonal_traversal.exe.manifest"
+  "CMakeFiles/diagonal_traversal.dir/diagonal_traversal.cpp.o"
+  "diagonal_traversal"
   "diagonal_traversal.pdb"
-  "libdiagonal_traversal.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

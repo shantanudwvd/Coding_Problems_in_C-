@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TaumAndBday.dir/TaumAndBday.cpp.obj"
-  "TaumAndBday.exe"
-  "TaumAndBday.exe.manifest"
+  "CMakeFiles/TaumAndBday.dir/TaumAndBday.cpp.o"
+  "TaumAndBday"
   "TaumAndBday.pdb"
-  "libTaumAndBday.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

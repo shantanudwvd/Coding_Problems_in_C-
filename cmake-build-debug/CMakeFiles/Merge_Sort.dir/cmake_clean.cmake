@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Merge_Sort.dir/Merge_Sort.cpp.obj"
-  "Merge_Sort.exe"
-  "Merge_Sort.exe.manifest"
+  "CMakeFiles/Merge_Sort.dir/Merge_Sort.cpp.o"
+  "Merge_Sort"
   "Merge_Sort.pdb"
-  "libMerge_Sort.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

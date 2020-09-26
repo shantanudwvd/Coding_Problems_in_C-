@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.obj"
-  "Fibonacci_Recursion.exe"
-  "Fibonacci_Recursion.exe.manifest"
+  "CMakeFiles/Fibonacci_Recursion.dir/Fibonacci_Recursion.cpp.o"
+  "Fibonacci_Recursion"
   "Fibonacci_Recursion.pdb"
-  "libFibonacci_Recursion.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

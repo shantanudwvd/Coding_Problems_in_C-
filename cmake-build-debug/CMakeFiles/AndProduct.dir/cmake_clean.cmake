@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "AndProduct.exe"
-  "AndProduct.exe.manifest"
+  "AndProduct"
   "AndProduct.pdb"
-  "CMakeFiles/AndProduct.dir/ANDProduct.cpp.obj"
-  "libAndProduct.dll.a"
+  "CMakeFiles/AndProduct.dir/ANDProduct.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

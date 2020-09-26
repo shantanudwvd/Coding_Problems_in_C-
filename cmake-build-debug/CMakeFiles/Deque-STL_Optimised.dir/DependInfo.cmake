@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Deque-STL_Optimised.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/Deque-STL_Optimised.cpp.obj"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/Deque-STL_Optimised.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/Deque-STL_Optimised.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

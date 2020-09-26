@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Simple_Determinant.dir/Simple_Determinant.cpp.obj"
-  "Simple_Determinant.exe"
-  "Simple_Determinant.exe.manifest"
+  "CMakeFiles/Simple_Determinant.dir/Simple_Determinant.cpp.o"
+  "Simple_Determinant"
   "Simple_Determinant.pdb"
-  "libSimple_Determinant.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

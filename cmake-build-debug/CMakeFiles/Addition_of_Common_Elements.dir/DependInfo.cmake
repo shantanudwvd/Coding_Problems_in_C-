@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/Addition_of_Common_Elements.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Addition_of_Common_Elements.dir/Addition_of_Common_Elements.cpp.obj"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/Addition_of_Common_Elements.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Addition_of_Common_Elements.dir/Addition_of_Common_Elements.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

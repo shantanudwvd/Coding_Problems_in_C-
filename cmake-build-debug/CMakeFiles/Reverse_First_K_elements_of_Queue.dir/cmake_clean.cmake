@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.obj"
-  "Reverse_First_K_elements_of_Queue.exe"
-  "Reverse_First_K_elements_of_Queue.exe.manifest"
+  "CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o"
+  "Reverse_First_K_elements_of_Queue"
   "Reverse_First_K_elements_of_Queue.pdb"
-  "libReverse_First_K_elements_of_Queue.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

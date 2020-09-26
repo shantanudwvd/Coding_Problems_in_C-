@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "ArrayList.exe"
-  "ArrayList.exe.manifest"
+  "ArrayList"
   "ArrayList.pdb"
-  "CMakeFiles/ArrayList.dir/ArrayList.cpp.obj"
-  "libArrayList.dll.a"
+  "CMakeFiles/ArrayList.dir/ArrayList.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

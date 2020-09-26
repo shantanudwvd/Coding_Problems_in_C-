@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Kadans_Algorithm.dir/Kadans_Algorithm.cpp.obj"
-  "Kadans_Algorithm.exe"
-  "Kadans_Algorithm.exe.manifest"
+  "CMakeFiles/Kadans_Algorithm.dir/Kadans_Algorithm.cpp.o"
+  "Kadans_Algorithm"
   "Kadans_Algorithm.pdb"
-  "libKadans_Algorithm.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

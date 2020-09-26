@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Find_Pos_X.dir/Find_Pos_X.cpp.obj"
-  "Find_Pos_X.exe"
-  "Find_Pos_X.exe.manifest"
+  "CMakeFiles/Find_Pos_X.dir/Find_Pos_X.cpp.o"
+  "Find_Pos_X"
   "Find_Pos_X.pdb"
-  "libFind_Pos_X.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

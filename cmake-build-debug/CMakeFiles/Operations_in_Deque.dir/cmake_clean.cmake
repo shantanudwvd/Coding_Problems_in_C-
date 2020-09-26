@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.obj"
-  "Operations_in_Deque.exe"
-  "Operations_in_Deque.exe.manifest"
+  "CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.o"
+  "Operations_in_Deque"
   "Operations_in_Deque.pdb"
-  "libOperations_in_Deque.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

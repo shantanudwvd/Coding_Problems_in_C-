@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.obj"
-  "Simple_Transpose.exe"
-  "Simple_Transpose.exe.manifest"
+  "CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.o"
+  "Simple_Transpose"
   "Simple_Transpose.pdb"
-  "libSimple_Transpose.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

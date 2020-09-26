@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Second_Largest.dir/Second_Largest.cpp.obj"
-  "Second_Largest.exe"
-  "Second_Largest.exe.manifest"
+  "CMakeFiles/Second_Largest.dir/Second_Largest.cpp.o"
+  "Second_Largest"
   "Second_Largest.pdb"
-  "libSecond_Largest.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

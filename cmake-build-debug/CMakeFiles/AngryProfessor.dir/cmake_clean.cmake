@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "AngryProfessor.exe"
-  "AngryProfessor.exe.manifest"
+  "AngryProfessor"
   "AngryProfessor.pdb"
-  "CMakeFiles/AngryProfessor.dir/AngryProfessor.cpp.obj"
-  "libAngryProfessor.dll.a"
+  "CMakeFiles/AngryProfessor.dir/AngryProfessor.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

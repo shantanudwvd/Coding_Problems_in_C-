@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Deque-STL-Alternate.dir/Deque-STL-Alternate.cpp.obj"
-  "Deque-STL-Alternate.exe"
-  "Deque-STL-Alternate.exe.manifest"
+  "CMakeFiles/Deque-STL-Alternate.dir/Deque-STL-Alternate.cpp.o"
+  "Deque-STL-Alternate"
   "Deque-STL-Alternate.pdb"
-  "libDeque-STL-Alternate.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

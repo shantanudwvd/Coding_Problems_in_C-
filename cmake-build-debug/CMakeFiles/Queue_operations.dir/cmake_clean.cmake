@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Queue_operations.dir/Queue_operations.cpp.obj"
-  "Queue_operations.exe"
-  "Queue_operations.exe.manifest"
+  "CMakeFiles/Queue_operations.dir/Queue_operations.cpp.o"
+  "Queue_operations"
   "Queue_operations.pdb"
-  "libQueue_operations.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "Binary_String.exe"
-  "Binary_String.exe.manifest"
+  "Binary_String"
   "Binary_String.pdb"
-  "CMakeFiles/Binary_String.dir/Binary_String.cpp.obj"
-  "libBinary_String.dll.a"
+  "CMakeFiles/Binary_String.dir/Binary_String.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

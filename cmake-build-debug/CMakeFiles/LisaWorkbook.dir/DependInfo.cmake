@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/LisaWorkbook.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/LisaWorkbook.cpp.obj"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/LisaWorkbook.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/LisaWorkbook.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

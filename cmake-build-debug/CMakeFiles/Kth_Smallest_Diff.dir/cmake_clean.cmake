@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Kth_Smallest_Diff.dir/Kth_Smallest_Diff.cpp.obj"
-  "Kth_Smallest_Diff.exe"
-  "Kth_Smallest_Diff.exe.manifest"
+  "CMakeFiles/Kth_Smallest_Diff.dir/Kth_Smallest_Diff.cpp.o"
+  "Kth_Smallest_Diff"
   "Kth_Smallest_Diff.pdb"
-  "libKth_Smallest_Diff.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

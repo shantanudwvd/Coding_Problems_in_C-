@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Poisonous_Plants_Optimised.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Poisonous_Plants_Optimised.dir/objects.a @CMakeFiles\Poisonous_Plants_Optimised.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  -O0 -g   -Wl,--whole-archive CMakeFiles\Poisonous_Plants_Optimised.dir/objects.a -Wl,--no-whole-archive  -o Poisonous_Plants_Optimised.exe -Wl,--out-implib,libPoisonous_Plants_Optimised.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Poisonous_Plants_Optimised.dir\linklibs.rsp
+/usr/bin/c++   -O0 -g   CMakeFiles/Poisonous_Plants_Optimised.dir/Poisonous_Plants_Optimised.cpp.o  -o Poisonous_Plants_Optimised 

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Minimum_Cost_Of_Ropes.dir/Minimum_Cost_Of_Ropes.cpp.obj"
-  "Minimum_Cost_Of_Ropes.exe"
-  "Minimum_Cost_Of_Ropes.exe.manifest"
+  "CMakeFiles/Minimum_Cost_Of_Ropes.dir/Minimum_Cost_Of_Ropes.cpp.o"
+  "Minimum_Cost_Of_Ropes"
   "Minimum_Cost_Of_Ropes.pdb"
-  "libMinimum_Cost_Of_Ropes.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

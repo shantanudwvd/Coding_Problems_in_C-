@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/binary_number.dir/binary_number.cpp.obj"
-  "binary_number.exe"
-  "binary_number.exe.manifest"
+  "CMakeFiles/binary_number.dir/binary_number.cpp.o"
+  "binary_number"
   "binary_number.pdb"
-  "libbinary_number.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

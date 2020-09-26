@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.obj"
-  "DuplicatesataDistanceK.exe"
-  "DuplicatesataDistanceK.exe.manifest"
+  "CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.o"
+  "DuplicatesataDistanceK"
   "DuplicatesataDistanceK.pdb"
-  "libDuplicatesataDistanceK.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

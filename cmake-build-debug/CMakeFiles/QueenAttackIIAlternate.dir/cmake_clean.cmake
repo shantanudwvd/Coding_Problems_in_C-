@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/QueenAttackIIAlternate.dir/QueenAttackIIAlternate.cpp.obj"
-  "QueenAttackIIAlternate.exe"
-  "QueenAttackIIAlternate.exe.manifest"
+  "CMakeFiles/QueenAttackIIAlternate.dir/QueenAttackIIAlternate.cpp.o"
+  "QueenAttackIIAlternate"
   "QueenAttackIIAlternate.pdb"
-  "libQueenAttackIIAlternate.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

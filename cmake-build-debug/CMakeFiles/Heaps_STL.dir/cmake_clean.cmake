@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Heaps_STL.dir/Heaps_STL.cpp.obj"
-  "Heaps_STL.exe"
-  "Heaps_STL.exe.manifest"
+  "CMakeFiles/Heaps_STL.dir/Heaps_STL.cpp.o"
+  "Heaps_STL"
   "Heaps_STL.pdb"
-  "libHeaps_STL.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

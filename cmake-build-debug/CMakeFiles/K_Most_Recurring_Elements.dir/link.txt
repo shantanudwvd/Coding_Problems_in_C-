@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\K_Most_Recurring_Elements.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\K_Most_Recurring_Elements.dir/objects.a @CMakeFiles\K_Most_Recurring_Elements.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  -O0 -g   -Wl,--whole-archive CMakeFiles\K_Most_Recurring_Elements.dir/objects.a -Wl,--no-whole-archive  -o K_Most_Recurring_Elements.exe -Wl,--out-implib,libK_Most_Recurring_Elements.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\K_Most_Recurring_Elements.dir\linklibs.rsp
+/usr/bin/c++   -O0 -g   CMakeFiles/K_Most_Recurring_Elements.dir/K_Most_Recurring_Elements.cpp.o  -o K_Most_Recurring_Elements 

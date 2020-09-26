@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 int max_ele, idx, comp;
-void max_in_window(const long int arr[], int start, int end) {
+void max_in_window(const int arr[], int start, int end) {
     /* If the index is between the indexes of next windows then no need to
     compare elements of the maximum element in the previous window that were
     in previous window */
@@ -38,7 +38,7 @@ void max_in_window(const long int arr[], int start, int end) {
     }
 }
 int main() {
-    long int arr[100000];
+    int arr[100000];
     int queries;
     cin>>queries;
     for(int i = 1,size,ws;i <= queries;i++) {
@@ -65,5 +65,4 @@ int main() {
         }
         cout<<endl;
     }
-    cout<<comp<<endl;
 }

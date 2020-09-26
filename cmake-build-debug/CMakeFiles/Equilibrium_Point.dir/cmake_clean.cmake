@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Equilibrium_Point.dir/Pallindrome_Index.cpp.obj"
-  "Equilibrium_Point.exe"
-  "Equilibrium_Point.exe.manifest"
+  "CMakeFiles/Equilibrium_Point.dir/Pallindrome_Index.cpp.o"
+  "Equilibrium_Point"
   "Equilibrium_Point.pdb"
-  "libEquilibrium_Point.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

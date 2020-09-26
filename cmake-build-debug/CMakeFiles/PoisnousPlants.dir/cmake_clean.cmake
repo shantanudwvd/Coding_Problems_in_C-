@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/PoisnousPlants.dir/PoisnousPlants.cpp.obj"
-  "PoisnousPlants.exe"
-  "PoisnousPlants.exe.manifest"
+  "CMakeFiles/PoisnousPlants.dir/PoisnousPlants.cpp.o"
+  "PoisnousPlants"
   "PoisnousPlants.pdb"
-  "libPoisnousPlants.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

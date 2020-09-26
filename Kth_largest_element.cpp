@@ -2,7 +2,6 @@
 // Created by Shantanu on 3/3/2020.
 //
 #include<iostream>
-#include<cmath>
 using namespace std;
 int heapsize, length;
 void max_heapify(signed long long int arr[], int i) {

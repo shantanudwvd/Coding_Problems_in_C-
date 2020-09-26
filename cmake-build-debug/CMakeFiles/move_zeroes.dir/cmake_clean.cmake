@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/move_zeroes.dir/move_zeroes.cpp.obj"
-  "libmove_zeroes.dll.a"
-  "move_zeroes.exe"
-  "move_zeroes.exe.manifest"
+  "CMakeFiles/move_zeroes.dir/move_zeroes.cpp.o"
+  "move_zeroes"
   "move_zeroes.pdb"
 )
 

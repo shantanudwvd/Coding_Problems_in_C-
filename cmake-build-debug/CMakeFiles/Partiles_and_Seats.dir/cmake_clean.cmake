@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Partiles_and_Seats.dir/Parties_and_Seats.cpp.obj"
-  "Partiles_and_Seats.exe"
-  "Partiles_and_Seats.exe.manifest"
+  "CMakeFiles/Partiles_and_Seats.dir/Parties_and_Seats.cpp.o"
+  "Partiles_and_Seats"
   "Partiles_and_Seats.pdb"
-  "libPartiles_and_Seats.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

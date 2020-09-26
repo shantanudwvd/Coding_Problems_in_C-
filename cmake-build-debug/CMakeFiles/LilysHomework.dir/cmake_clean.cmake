@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LilysHomework.dir/LilysHomework.cpp.obj"
-  "LilysHomework.exe"
-  "LilysHomework.exe.manifest"
+  "CMakeFiles/LilysHomework.dir/LilysHomework.cpp.o"
+  "LilysHomework"
   "LilysHomework.pdb"
-  "libLilysHomework.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/ExtraLongFactorials.cpp" "C:/Users/Shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/ExtraLongFactorials.dir/ExtraLongFactorials.cpp.obj"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/ExtraLongFactorials.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/ExtraLongFactorials.dir/ExtraLongFactorials.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

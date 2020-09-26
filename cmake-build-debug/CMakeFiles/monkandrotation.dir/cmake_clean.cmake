@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/monkandrotation.dir/monkandrotation.cpp.obj"
-  "libmonkandrotation.dll.a"
-  "monkandrotation.exe"
-  "monkandrotation.exe.manifest"
+  "CMakeFiles/monkandrotation.dir/monkandrotation.cpp.o"
+  "monkandrotation"
   "monkandrotation.pdb"
 )
 

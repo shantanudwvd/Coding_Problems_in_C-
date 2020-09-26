@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/hiphiparray.dir/hiphiparray.cpp.obj"
-  "hiphiparray.exe"
-  "hiphiparray.exe.manifest"
+  "CMakeFiles/hiphiparray.dir/hiphiparray.cpp.o"
+  "hiphiparray"
   "hiphiparray.pdb"
-  "libhiphiparray.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

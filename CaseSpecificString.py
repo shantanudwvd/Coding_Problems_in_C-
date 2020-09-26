@@ -1,21 +1,21 @@
 original = input()
-lwrcase = ""
-uprcase = ""
+lowerCase = ""
+upperCase = ""
 for i in original:
     if i.islower():
-        lwrcase += i
+        lowerCase += i
     else:
-        uprcase += i
-lwrcase = sorted(lwrcase)
-uprcase = sorted(uprcase)
+        upperCase += i
+lowerCase = sorted(lowerCase)
+upperCase = sorted(upperCase)
 final_string = ""
-lwi=0
-upi=0
+lwi = 0
+upi = 0
 for i in original:
     if i.islower():
-        final_string += lwrcase[lwi]
-        lwi+=1
+        final_string += lowerCase[lwi]
+        lwi += 1
     else:
-        final_string += uprcase[upi]
-        upi+=1
+        final_string += upperCase[upi]
+        upi += 1
 print(final_string)

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "AlternatingCharacters.exe"
-  "AlternatingCharacters.exe.manifest"
+  "AlternatingCharacters"
   "AlternatingCharacters.pdb"
-  "CMakeFiles/AlternatingCharacters.dir/AlternatingCharacters.cpp.obj"
-  "libAlternatingCharacters.dll.a"
+  "CMakeFiles/AlternatingCharacters.dir/AlternatingCharacters.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

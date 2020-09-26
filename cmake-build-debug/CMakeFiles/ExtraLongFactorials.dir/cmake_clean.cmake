@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ExtraLongFactorials.dir/ExtraLongFactorials.cpp.obj"
-  "ExtraLongFactorials.exe"
-  "ExtraLongFactorials.exe.manifest"
+  "CMakeFiles/ExtraLongFactorials.dir/ExtraLongFactorials.cpp.o"
+  "ExtraLongFactorials"
   "ExtraLongFactorials.pdb"
-  "libExtraLongFactorials.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

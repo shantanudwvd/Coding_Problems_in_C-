@@ -3,7 +3,6 @@
 //
 #include <iostream>
 #include <cmath>
-#include <bits/stdc++.h>
 using namespace std;
 int heapsize,n,low,high;
 void min_heapify(int arr[],int i)

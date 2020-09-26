@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Selection_Sort.dir/Selection_Sort.cpp.obj"
-  "Selection_Sort.exe"
-  "Selection_Sort.exe.manifest"
+  "CMakeFiles/Selection_Sort.dir/Selection_Sort.cpp.o"
+  "Selection_Sort"
   "Selection_Sort.pdb"
-  "libSelection_Sort.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

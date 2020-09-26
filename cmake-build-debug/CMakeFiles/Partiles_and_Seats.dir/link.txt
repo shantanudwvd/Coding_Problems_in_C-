@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Partiles_and_Seats.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Partiles_and_Seats.dir/objects.a @CMakeFiles\Partiles_and_Seats.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  -O0 -g   -Wl,--whole-archive CMakeFiles\Partiles_and_Seats.dir/objects.a -Wl,--no-whole-archive  -o Partiles_and_Seats.exe -Wl,--out-implib,libPartiles_and_Seats.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Partiles_and_Seats.dir\linklibs.rsp
+/usr/bin/c++   -O0 -g   CMakeFiles/Partiles_and_Seats.dir/Parties_and_Seats.cpp.o  -o Partiles_and_Seats 

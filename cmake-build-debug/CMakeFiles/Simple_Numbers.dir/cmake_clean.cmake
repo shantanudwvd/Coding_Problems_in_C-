@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Simple_Numbers.dir/Simple_Numbers.cpp.obj"
-  "Simple_Numbers.exe"
-  "Simple_Numbers.exe.manifest"
+  "CMakeFiles/Simple_Numbers.dir/Simple_Numbers.cpp.o"
+  "Simple_Numbers"
   "Simple_Numbers.pdb"
-  "libSimple_Numbers.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/monkandnicestrings.dir/monkandnicestrings.cpp.obj"
-  "libmonkandnicestrings.dll.a"
-  "monkandnicestrings.exe"
-  "monkandnicestrings.exe.manifest"
+  "CMakeFiles/monkandnicestrings.dir/monkandnicestrings.cpp.o"
+  "monkandnicestrings"
   "monkandnicestrings.pdb"
 )
 

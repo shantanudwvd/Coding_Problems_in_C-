@@ -2,8 +2,6 @@
 // Created by Shantanu Dwivedi on 4/24/2019.
 //
 #include <iostream>
-#include <cmath>
-#include <bits/stdc++.h>
 using namespace std;
 int main()
 {
