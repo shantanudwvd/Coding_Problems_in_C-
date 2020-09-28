@@ -9,31 +9,34 @@ using namespace std;
 int main() {
     int size;
     cin >> size;
-    int stock[size + 1];
+    int prices[size + 1] = {};
     for (int i = 1; i <= size; ++i) {
-        cin >> stock[i];
+        cin >> prices[i];
     }
-    auto profit = 0, idx = 0;
-    bool buy = false, sell = false;
-    for (int i = 1; i <= size;) {
-        if (buy) {
-            if (stock[i] > stock[idx] && stock[i] > stock[i + 1]) {
-                profit += abs(stock[i] - stock[idx]);
-                sell = false;
-                buy = false;
-                i += 1;
-            } else if (i == size) {
-                profit += abs(stock[i] - stock[idx]);
-                sell = false;
-                buy = false;
-                break;
+    auto profit = 0;
+    auto buy = 0, sell = 0;
+    for (int i = 1; i + 1 <= size;) {
+        if (prices[i] < prices[i + 1]) {
+            buy = prices[i];
+            for (int j = i + 1; j + 1 <= size; ++j) {
+                if (prices[j] > prices[j + 1]) {
+                    sell = prices[j];
+                    i = j + 1;
+                    break;
+                }
             }
-        } else if (stock[i] < stock[i + 1]) {
-            buy = true;
-            idx = i;
-            i += 1;
+            if (sell == 0) {
+                profit += abs(buy - prices[size]);
+                buy = 0;
+                sell = 0;
+                break;
+            } else {
+                profit += abs(buy - sell);
+                buy = 0;
+                sell = 0;
+            }
         } else {
-            i += 1;
+            i++;
         }
     }
     cout << profit << endl;

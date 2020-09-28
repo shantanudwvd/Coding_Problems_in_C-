@@ -131,6 +131,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named SumOfMinMax
+
+# Build rule for target.
+SumOfMinMax: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SumOfMinMax
+.PHONY : SumOfMinMax
+
+# fast build rule for target.
+SumOfMinMax/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SumOfMinMax.dir/build.make CMakeFiles/SumOfMinMax.dir/build
+.PHONY : SumOfMinMax/fast
+
+#=============================================================================
 # Target rules for targets named SubArrayProduct
 
 # Build rule for target.
@@ -3838,6 +3851,33 @@ Heaps_STL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Heaps_STL.cpp.s
 .PHONY : Heaps_STL.cpp.s
 
+HeightProblem.o: HeightProblem.cpp.o
+
+.PHONY : HeightProblem.o
+
+# target to build an object file
+HeightProblem.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.o
+.PHONY : HeightProblem.cpp.o
+
+HeightProblem.i: HeightProblem.cpp.i
+
+.PHONY : HeightProblem.i
+
+# target to preprocess a source file
+HeightProblem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.i
+.PHONY : HeightProblem.cpp.i
+
+HeightProblem.s: HeightProblem.cpp.s
+
+.PHONY : HeightProblem.s
+
+# target to generate assembly for a file
+HeightProblem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.s
+.PHONY : HeightProblem.cpp.s
+
 InfixToPostfix.o: InfixToPostfix.cpp.o
 
 .PHONY : InfixToPostfix.o
@@ -4560,6 +4600,33 @@ LittleMonkandWilliamson.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandWilliamson.dir/build.make CMakeFiles/LittleMonkandWilliamson.dir/LittleMonkandWilliamson.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LittleMonkandWilliamson.cpp.s
 .PHONY : LittleMonkandWilliamson.cpp.s
+
+LongestConsecutiveSequence.o: LongestConsecutiveSequence.cpp.o
+
+.PHONY : LongestConsecutiveSequence.o
+
+# target to build an object file
+LongestConsecutiveSequence.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.o
+.PHONY : LongestConsecutiveSequence.cpp.o
+
+LongestConsecutiveSequence.i: LongestConsecutiveSequence.cpp.i
+
+.PHONY : LongestConsecutiveSequence.i
+
+# target to preprocess a source file
+LongestConsecutiveSequence.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.i
+.PHONY : LongestConsecutiveSequence.cpp.i
+
+LongestConsecutiveSequence.s: LongestConsecutiveSequence.cpp.s
+
+.PHONY : LongestConsecutiveSequence.s
+
+# target to generate assembly for a file
+LongestConsecutiveSequence.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.s
+.PHONY : LongestConsecutiveSequence.cpp.s
 
 Making_Anagrams.o: Making_Anagrams.cpp.o
 
@@ -6226,6 +6293,36 @@ SubArrayProduct.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SubArrayProduct.cpp.s
 .PHONY : SubArrayProduct.cpp.s
 
+SumOfMinMax.o: SumOfMinMax.cpp.o
+
+.PHONY : SumOfMinMax.o
+
+# target to build an object file
+SumOfMinMax.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SumOfMinMax.dir/build.make CMakeFiles/SumOfMinMax.dir/SumOfMinMax.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o
+.PHONY : SumOfMinMax.cpp.o
+
+SumOfMinMax.i: SumOfMinMax.cpp.i
+
+.PHONY : SumOfMinMax.i
+
+# target to preprocess a source file
+SumOfMinMax.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SumOfMinMax.dir/build.make CMakeFiles/SumOfMinMax.dir/SumOfMinMax.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.i
+.PHONY : SumOfMinMax.cpp.i
+
+SumOfMinMax.s: SumOfMinMax.cpp.s
+
+.PHONY : SumOfMinMax.s
+
+# target to generate assembly for a file
+SumOfMinMax.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SumOfMinMax.dir/build.make CMakeFiles/SumOfMinMax.dir/SumOfMinMax.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.s
+.PHONY : SumOfMinMax.cpp.s
+
 Sum_of_Product_of_Digits.o: Sum_of_Product_of_Digits.cpp.o
 
 .PHONY : Sum_of_Product_of_Digits.o
@@ -7625,6 +7722,7 @@ help:
 	@echo "... Simple_Transpose"
 	@echo "... StrongPassword"
 	@echo "... SubArrayProduct"
+	@echo "... SumOfMinMax"
 	@echo "... Sum_of_Product_of_Digits"
 	@echo "... Thoughts2BinarySampleProblem1"
 	@echo "... TimeinWords"
@@ -7860,6 +7958,9 @@ help:
 	@echo "... Heaps_STL.o"
 	@echo "... Heaps_STL.i"
 	@echo "... Heaps_STL.s"
+	@echo "... HeightProblem.o"
+	@echo "... HeightProblem.i"
+	@echo "... HeightProblem.s"
 	@echo "... InfixToPostfix.o"
 	@echo "... InfixToPostfix.i"
 	@echo "... InfixToPostfix.s"
@@ -7935,6 +8036,9 @@ help:
 	@echo "... LittleMonkandWilliamson.o"
 	@echo "... LittleMonkandWilliamson.i"
 	@echo "... LittleMonkandWilliamson.s"
+	@echo "... LongestConsecutiveSequence.o"
+	@echo "... LongestConsecutiveSequence.i"
+	@echo "... LongestConsecutiveSequence.s"
 	@echo "... Making_Anagrams.o"
 	@echo "... Making_Anagrams.i"
 	@echo "... Making_Anagrams.s"
@@ -8109,6 +8213,9 @@ help:
 	@echo "... SubArrayProduct.o"
 	@echo "... SubArrayProduct.i"
 	@echo "... SubArrayProduct.s"
+	@echo "... SumOfMinMax.o"
+	@echo "... SumOfMinMax.i"
+	@echo "... SumOfMinMax.s"
 	@echo "... Sum_of_Product_of_Digits.o"
 	@echo "... Sum_of_Product_of_Digits.i"
 	@echo "... Sum_of_Product_of_Digits.s"

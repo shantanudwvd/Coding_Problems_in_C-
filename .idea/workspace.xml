@@ -23,141 +23,142 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="AveoRenzhio" targetName="Rearrange_array_Optimised" />
-      <config projectName="AveoRenzhio" targetName="Minimum_Cost_Of_Ropes" />
-      <config projectName="AveoRenzhio" targetName="Kadans_Algorithm" />
-      <config projectName="AveoRenzhio" targetName="Fibonacci_Recursion" />
-      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
-      <config projectName="AveoRenzhio" targetName="Queue_operations" />
-      <config projectName="AveoRenzhio" targetName="Operations_in_Deque" />
-      <config projectName="AveoRenzhio" targetName="Simple_Determinant" />
-      <config projectName="AveoRenzhio" targetName="AngryProfessor" />
-      <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
-      <config projectName="AveoRenzhio" targetName="Simple_Numbers" />
-      <config projectName="AveoRenzhio" targetName="Encryption" />
-      <config projectName="AveoRenzhio" targetName="Sum_of_Product_of_Digits" />
-      <config projectName="AveoRenzhio" targetName="diagonal_traversal" />
-      <config projectName="AveoRenzhio" targetName="Binary_Heap_Operations" />
-      <config projectName="AveoRenzhio" targetName="Red_knights_shortest_path" />
-      <config projectName="AveoRenzhio" targetName="Min_steps_i_a_grid" />
-      <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
-      <config projectName="AveoRenzhio" targetName="Kth_largest_element" />
-      <config projectName="AveoRenzhio" targetName="PoisnousPlants" />
-      <config projectName="AveoRenzhio" targetName="Thoughts2BinarySampleProblem1" />
-      <config projectName="AveoRenzhio" targetName="remove_adjacent_characters" />
-      <config projectName="AveoRenzhio" targetName="Power_Set" />
-      <config projectName="AveoRenzhio" targetName="Merge_Sort" />
-      <config projectName="AveoRenzhio" targetName="Conversion_to_one" />
-      <config projectName="AveoRenzhio" targetName="Deque-STL_Optimised" />
-      <config projectName="AveoRenzhio" targetName="CuttheSticks" />
-      <config projectName="AveoRenzhio" targetName="Heaps_STL" />
-      <config projectName="AveoRenzhio" targetName="best_time_to_buy_and_sell_stock" />
-      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
-      <config projectName="AveoRenzhio" targetName="maxInQueue" />
-      <config projectName="AveoRenzhio" targetName="QuickSort-2" />
-      <config projectName="AveoRenzhio" targetName="Binary_Search" />
-      <config projectName="AveoRenzhio" targetName="Maximum_Product_ofK" />
-      <config projectName="AveoRenzhio" targetName="LilysHomework" />
-      <config projectName="AveoRenzhio" targetName="UtopianTree" />
-      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
-      <config projectName="AveoRenzhio" targetName="pickingNumbers" />
-      <config projectName="AveoRenzhio" targetName="Poisonous_Plants_Optimised" />
-      <config projectName="AveoRenzhio" targetName="SubArrayProduct" />
-      <config projectName="AveoRenzhio" targetName="the_love_letter_mystery" />
-      <config projectName="AveoRenzhio" targetName="rearrange_array" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandStevieSmith" />
-      <config projectName="AveoRenzhio" targetName="QueensAttackII" />
-      <config projectName="AveoRenzhio" targetName="JumpingontheCloudsRevisited" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandWilliamson" />
-      <config projectName="AveoRenzhio" targetName="Kth_Smallest_Element" />
-      <config projectName="AveoRenzhio" targetName="DuplicatesataDistanceK" />
-      <config projectName="AveoRenzhio" targetName="Insertion_Sort_Newton_School" />
-      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
-      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
-      <config projectName="AveoRenzhio" targetName="Naive_Pattern_Search" />
-      <config projectName="AveoRenzhio" targetName="Waiter" />
-      <config projectName="AveoRenzhio" targetName="halloweensale" />
-      <config projectName="AveoRenzhio" targetName="RookMovement" />
-      <config projectName="AveoRenzhio" targetName="ArrayList" />
-      <config projectName="AveoRenzhio" targetName="Rotate_the_matrix" />
-      <config projectName="AveoRenzhio" targetName="AppendandDelete" />
-      <config projectName="AveoRenzhio" targetName="best-time-to-buy-and-sell-stock-ii" />
-      <config projectName="AveoRenzhio" targetName="FindTheRunningMedian" />
-      <config projectName="AveoRenzhio" targetName="CommonChild" />
-      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
-      <config projectName="AveoRenzhio" targetName="XOR-sequence" />
-      <config projectName="AveoRenzhio" targetName="ExtraLongFactorials" />
-      <config projectName="AveoRenzhio" targetName="MinimumSwaps2Alternate" />
-      <config projectName="AveoRenzhio" targetName="Addition_of_Common_Elements" />
-      <config projectName="AveoRenzhio" targetName="Contacts" />
-      <config projectName="AveoRenzhio" targetName="AlternatingCharacters" />
-      <config projectName="AveoRenzhio" targetName="StrongPassword" />
-      <config projectName="AveoRenzhio" targetName="Kth_Smallest_Diff" />
-      <config projectName="AveoRenzhio" targetName="monkandrotation" />
-      <config projectName="AveoRenzhio" targetName="decoding_encoded_list" />
-      <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
-      <config projectName="AveoRenzhio" targetName="stringstream" />
-      <config projectName="AveoRenzhio" targetName="Remove_All_Adjacent_Duplicates_In_String" />
-      <config projectName="AveoRenzhio" targetName="LarryArray" />
-      <config projectName="AveoRenzhio" targetName="DequeSTL" />
-      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
-      <config projectName="AveoRenzhio" targetName="AndProduct" />
-      <config projectName="AveoRenzhio" targetName="Balanced_Brackets_modified" />
-      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
-      <config projectName="AveoRenzhio" targetName="fill_the_missing_spaces" />
-      <config projectName="AveoRenzhio" targetName="monkandnicestrings" />
-      <config projectName="AveoRenzhio" targetName="fairrations" />
-      <config projectName="AveoRenzhio" targetName="binary_number" />
-      <config projectName="AveoRenzhio" targetName="Partiles_and_Seats" />
-      <config projectName="AveoRenzhio" targetName="flatlandspacestations" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
-      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
-      <config projectName="AveoRenzhio" targetName="Anagrams" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
-      <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
-      <config projectName="AveoRenzhio" targetName="FindMinimum" />
-      <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
-      <config projectName="AveoRenzhio" targetName="Equilibrium_Point" />
-      <config projectName="AveoRenzhio" targetName="Selection_Sort" />
-      <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
-      <config projectName="AveoRenzhio" targetName="2DArrays" />
-      <config projectName="AveoRenzhio" targetName="Find_Pos_X" />
-      <config projectName="AveoRenzhio" targetName="LilyHomeworkAlternate" />
-      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
-      <config projectName="AveoRenzhio" targetName="strangecode" />
-      <config projectName="AveoRenzhio" targetName="hiphiparray" />
-      <config projectName="AveoRenzhio" targetName="TimeinWords" />
-      <config projectName="AveoRenzhio" targetName="Bubble_Sort" />
-      <config projectName="AveoRenzhio" targetName="AlmostSorted" />
-      <config projectName="AveoRenzhio" targetName="SheldonandValidString" />
-      <config projectName="AveoRenzhio" targetName="simpletexteditorusingvectors" />
-      <config projectName="AveoRenzhio" targetName="K_Most_Recurring_Elements" />
-      <config projectName="AveoRenzhio" targetName="Choose_Points" />
-      <config projectName="AveoRenzhio" targetName="Binary_String" />
-      <config projectName="AveoRenzhio" targetName="ClimbingTheLeaderboard" />
-      <config projectName="AveoRenzhio" targetName="GameofThrones" />
-      <config projectName="AveoRenzhio" targetName="Reverse_First_K_elements_of_Queue" />
-      <config projectName="AveoRenzhio" targetName="funnystring" />
-      <config projectName="AveoRenzhio" targetName="Simple_Transpose" />
-      <config projectName="AveoRenzhio" targetName="QueenAttackIIAlternate" />
-      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifications" />
-      <config projectName="AveoRenzhio" targetName="TwoStrings" />
-      <config projectName="AveoRenzhio" targetName="Fibonacci_Modified" />
-      <config projectName="AveoRenzhio" targetName="GamingArray" />
       <config projectName="AveoRenzhio" targetName="shortest_unsorted_continous_subarray" />
-      <config projectName="AveoRenzhio" targetName="betweeentwosets" />
-      <config projectName="AveoRenzhio" targetName="Boundary_Traversal_of_Matrix" />
-      <config projectName="AveoRenzhio" targetName="CalvinsGame" />
-      <config projectName="AveoRenzhio" targetName="Get_the_shadow" />
-      <config projectName="AveoRenzhio" targetName="move_zeroes" />
+      <config projectName="AveoRenzhio" targetName="XOR-sequence" />
+      <config projectName="AveoRenzhio" targetName="Rearrange_array_Optimised" />
+      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
+      <config projectName="AveoRenzhio" targetName="Insertion_Sort_Newton_School" />
+      <config projectName="AveoRenzhio" targetName="SheldonandValidString" />
+      <config projectName="AveoRenzhio" targetName="Naive_Pattern_Search" />
+      <config projectName="AveoRenzhio" targetName="best-time-to-buy-and-sell-stock-ii" />
+      <config projectName="AveoRenzhio" targetName="diagonal_traversal" />
+      <config projectName="AveoRenzhio" targetName="Remove_All_Adjacent_Duplicates_In_String" />
+      <config projectName="AveoRenzhio" targetName="ExtraLongFactorials" />
+      <config projectName="AveoRenzhio" targetName="Bubble_Sort" />
+      <config projectName="AveoRenzhio" targetName="UtopianTree" />
+      <config projectName="AveoRenzhio" targetName="Binary_String" />
+      <config projectName="AveoRenzhio" targetName="QueenAttackIIAlternate" />
+      <config projectName="AveoRenzhio" targetName="Reverse_First_K_elements_of_Queue" />
+      <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
+      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifications" />
+      <config projectName="AveoRenzhio" targetName="stringstream" />
+      <config projectName="AveoRenzhio" targetName="binary_number" />
+      <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
+      <config projectName="AveoRenzhio" targetName="Fibonacci_Recursion" />
+      <config projectName="AveoRenzhio" targetName="Anagrams" />
       <config projectName="AveoRenzhio" targetName="ArrayJump" />
+      <config projectName="AveoRenzhio" targetName="Kth_Smallest_Diff" />
+      <config projectName="AveoRenzhio" targetName="2DArrays" />
+      <config projectName="AveoRenzhio" targetName="AlmostSorted" />
+      <config projectName="AveoRenzhio" targetName="JumpingontheCloudsRevisited" />
+      <config projectName="AveoRenzhio" targetName="Rotate_the_matrix" />
+      <config projectName="AveoRenzhio" targetName="best_time_to_buy_and_sell_stock" />
+      <config projectName="AveoRenzhio" targetName="monkandrotation" />
+      <config projectName="AveoRenzhio" targetName="rearrange_array" />
+      <config projectName="AveoRenzhio" targetName="Fibonacci_Modified" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandWilliamson" />
+      <config projectName="AveoRenzhio" targetName="Choose_Points" />
       <config projectName="AveoRenzhio" targetName="BeautifulTriplets" />
-      <config projectName="AveoRenzhio" targetName="PoisnousPlantsAlternate" />
-      <config projectName="AveoRenzhio" targetName="LittleMonkandVirat" />
-      <config projectName="AveoRenzhio" targetName="Sample_File" />
+      <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
+      <config projectName="AveoRenzhio" targetName="Get_the_shadow" />
+      <config projectName="AveoRenzhio" targetName="ArrayList" />
+      <config projectName="AveoRenzhio" targetName="pickingNumbers" />
+      <config projectName="AveoRenzhio" targetName="Boundary_Traversal_of_Matrix" />
+      <config projectName="AveoRenzhio" targetName="AppendandDelete" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandStevieSmith" />
+      <config projectName="AveoRenzhio" targetName="AndProduct" />
+      <config projectName="AveoRenzhio" targetName="JesseandCookies" />
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedianAlternate" />
-      <config projectName="AveoRenzhio" targetName="SherlockandSquares" />
+      <config projectName="AveoRenzhio" targetName="fill_the_missing_spaces" />
+      <config projectName="AveoRenzhio" targetName="Encryption" />
+      <config projectName="AveoRenzhio" targetName="Simple_Transpose" />
+      <config projectName="AveoRenzhio" targetName="Binary_Heap_Operations" />
+      <config projectName="AveoRenzhio" targetName="PoisnousPlantsAlternate" />
+      <config projectName="AveoRenzhio" targetName="Addition_of_Common_Elements" />
+      <config projectName="AveoRenzhio" targetName="AngryProfessor" />
+      <config projectName="AveoRenzhio" targetName="simpletexteditorusingvectors" />
+      <config projectName="AveoRenzhio" targetName="decoding_encoded_list" />
+      <config projectName="AveoRenzhio" targetName="Simple_Determinant" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandVirat" />
+      <config projectName="AveoRenzhio" targetName="PoisnousPlants" />
+      <config projectName="AveoRenzhio" targetName="SumOfMinMax" />
+      <config projectName="AveoRenzhio" targetName="QuickSort-2" />
+      <config projectName="AveoRenzhio" targetName="Balanced_Brackets_modified" />
+      <config projectName="AveoRenzhio" targetName="funnystring" />
+      <config projectName="AveoRenzhio" targetName="ClimbingTheLeaderboard" />
+      <config projectName="AveoRenzhio" targetName="Min_steps_i_a_grid" />
+      <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
+      <config projectName="AveoRenzhio" targetName="hiphiparray" />
+      <config projectName="AveoRenzhio" targetName="CuttheSticks" />
+      <config projectName="AveoRenzhio" targetName="LilyHomeworkAlternate" />
+      <config projectName="AveoRenzhio" targetName="AlternatingCharacters" />
+      <config projectName="AveoRenzhio" targetName="Binary_Search" />
+      <config projectName="AveoRenzhio" targetName="MinimumSwaps2Alternate" />
+      <config projectName="AveoRenzhio" targetName="Waiter" />
+      <config projectName="AveoRenzhio" targetName="flatlandspacestations" />
+      <config projectName="AveoRenzhio" targetName="Power_Set" />
+      <config projectName="AveoRenzhio" targetName="DequeSTL" />
+      <config projectName="AveoRenzhio" targetName="Sample_File" />
       <config projectName="AveoRenzhio" targetName="dictionariesandmaps" />
+      <config projectName="AveoRenzhio" targetName="Equilibrium_Point" />
+      <config projectName="AveoRenzhio" targetName="halloweensale" />
+      <config projectName="AveoRenzhio" targetName="Set5Problem1TheGoldenCrown" />
+      <config projectName="AveoRenzhio" targetName="Poisonous_Plants_Optimised" />
+      <config projectName="AveoRenzhio" targetName="ChocolateFeast" />
+      <config projectName="AveoRenzhio" targetName="Partiles_and_Seats" />
+      <config projectName="AveoRenzhio" targetName="GameofThrones" />
+      <config projectName="AveoRenzhio" targetName="Queue_operations" />
+      <config projectName="AveoRenzhio" targetName="Deque-STL-Alternate" />
+      <config projectName="AveoRenzhio" targetName="Simple_Numbers" />
+      <config projectName="AveoRenzhio" targetName="Merge_Sort" />
+      <config projectName="AveoRenzhio" targetName="ArrayManipulation" />
+      <config projectName="AveoRenzhio" targetName="Minimum_Cost_Of_Ropes" />
+      <config projectName="AveoRenzhio" targetName="monkandnicestrings" />
+      <config projectName="AveoRenzhio" targetName="3DSurfaceArea" />
+      <config projectName="AveoRenzhio" targetName="Selection_Sort" />
+      <config projectName="AveoRenzhio" targetName="SubArrayProduct" />
+      <config projectName="AveoRenzhio" targetName="CommonChild" />
+      <config projectName="AveoRenzhio" targetName="Operations_in_Deque" />
+      <config projectName="AveoRenzhio" targetName="FindTheRunningMedian" />
+      <config projectName="AveoRenzhio" targetName="SherlockandSquares" />
+      <config projectName="AveoRenzhio" targetName="QueensAttackII" />
+      <config projectName="AveoRenzhio" targetName="Thoughts2BinarySampleProblem1" />
+      <config projectName="AveoRenzhio" targetName="Kth_largest_element" />
+      <config projectName="AveoRenzhio" targetName="Kadans_Algorithm" />
+      <config projectName="AveoRenzhio" targetName="betweeentwosets" />
+      <config projectName="AveoRenzhio" targetName="maxInQueue" />
+      <config projectName="AveoRenzhio" targetName="StrongPassword" />
+      <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
+      <config projectName="AveoRenzhio" targetName="move_zeroes" />
+      <config projectName="AveoRenzhio" targetName="LarryArray" />
+      <config projectName="AveoRenzhio" targetName="RookMovement" />
+      <config projectName="AveoRenzhio" targetName="Sum_of_Product_of_Digits" />
+      <config projectName="AveoRenzhio" targetName="Contacts" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingmaxheapifycormen" />
+      <config projectName="AveoRenzhio" targetName="LisaWorkbook" />
+      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
+      <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
+      <config projectName="AveoRenzhio" targetName="FindMinimum" />
+      <config projectName="AveoRenzhio" targetName="remove_adjacent_characters" />
+      <config projectName="AveoRenzhio" targetName="Heaps_STL" />
+      <config projectName="AveoRenzhio" targetName="DuplicatesataDistanceK" />
+      <config projectName="AveoRenzhio" targetName="GamingArray" />
+      <config projectName="AveoRenzhio" targetName="strangecode" />
+      <config projectName="AveoRenzhio" targetName="TwoStrings" />
+      <config projectName="AveoRenzhio" targetName="Conversion_to_one" />
+      <config projectName="AveoRenzhio" targetName="TimeinWords" />
+      <config projectName="AveoRenzhio" targetName="Red_knights_shortest_path" />
+      <config projectName="AveoRenzhio" targetName="fairrations" />
+      <config projectName="AveoRenzhio" targetName="LilysHomework" />
+      <config projectName="AveoRenzhio" targetName="CalvinsGame" />
+      <config projectName="AveoRenzhio" targetName="heapsortingusingminheapifycormen" />
+      <config projectName="AveoRenzhio" targetName="Kth_Smallest_Element" />
+      <config projectName="AveoRenzhio" targetName="Find_Pos_X" />
+      <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
+      <config projectName="AveoRenzhio" targetName="the_love_letter_mystery" />
+      <config projectName="AveoRenzhio" targetName="Maximum_Product_ofK" />
+      <config projectName="AveoRenzhio" targetName="Deque-STL_Optimised" />
+      <config projectName="AveoRenzhio" targetName="K_Most_Recurring_Elements" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -167,341 +168,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f40dc9a4-172e-4c63-a051-db14b069f909" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayJump.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterviewQueries.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/SubArrayProduct.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/SubArrayProduct" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeightProblem.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LongestConsecutiveSequence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumOfMinMax.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2DArrays.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2DArrays.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3DSurfaceArea.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/3DSurfaceArea.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACM-ICPC_Team.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ACM-ICPC_Team.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANDProduct.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ANDProduct.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AVeryBigSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AVeryBigSum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abbreviation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Abbreviation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Absolute_Element_Sums.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Absolute_Element_Sums.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Addition_of_Common_Elements.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Addition_of_Common_Elements.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlmostSorted.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AlmostSorted.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlternatingCharacters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AlternatingCharacters.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anagrams.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Anagrams.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AngryProfessor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AngryProfessor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppendandDelete.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AppendandDelete.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayManipulation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayManipulation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ascending_Minima_Algo.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AvoidFloodInTheCity.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AvoidFloodInTheCity.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedBrackets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BalancedBrackets.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Balanced_Brackets_modified.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Balanced_Brackets_modified.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BeautifulTriplets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BeautifulTriplets.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary_Heap_Operations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Heap_Operations.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary_Search.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_Search.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary_String.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Binary_String.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BitwiseAND.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BitwiseAND.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boundary_Traversal_of_Matrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Boundary_Traversal_of_Matrix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bubble_Sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Bubble_Sort.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalvinsGame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CalvinsGame.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CamelCase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CamelCase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChocolateFeast.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ChocolateFeast.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Choose_Points.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Choose_Points.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Circular_Array_Rotation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Circular_Array_Rotation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbingTheLeaderboard.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ClimbingTheLeaderboard.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClosestNumbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ClosestNumbers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommonChild.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CommonChild.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CompareTheTriplets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CompareTheTriplets.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Contacts.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Contacts.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conversion_to_one.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Conversion_to_one.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Correctness and the Loop Invariant.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Correctness and the Loop Invariant.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Counting Sort 1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Counting Sort 1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Counting Sort 2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Counting Sort 2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuttheSticks.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CuttheSticks.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cyclic_Shift.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Davis_Staircase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Davis_Staircase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deque-STL-Alternate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Deque-STL-Alternate.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deque-STL_Optimised.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Deque-STL_Optimised.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DequeSTL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DequeSTL.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiagonalDifference.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DiagonalDifference.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DuplicatesataDistanceK.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DuplicatesataDistanceK.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic_Array.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_Array.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryption.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Encryption.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtraLongFactorials.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ExtraLongFactorials.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extract_Original.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci_Modified.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci_Modified.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibonacci_Recursion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonacci_Recursion.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find the Median.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Find the Median.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindMinimum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FindMinimum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindTheRunningMedian.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FindTheRunningMedian.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindTheRunningMedian.py" beforeDir="false" afterPath="$PROJECT_DIR$/FindTheRunningMedian.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindTheRunningMedianAlternate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FindTheRunningMedianAlternate.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindTheRunningMedianOptimized.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FindTheRunningMedianOptimized.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find_Pos_X.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Find_Pos_X.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FraudulentActivityNotifications.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FraudulentActivityNotifications.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FraudulentActivityNotificationsOptimized.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FraudulentActivityNotificationsOptimized.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameofThrones.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GameofThrones.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameofTwoStacks.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GameofTwoStacks.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GamingArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GamingArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Get_the_shadow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Get_the_shadow.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greater_and_smaller_ones.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Greater_and_smaller_ones.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HeapSortingUsingMax_HeapifyCormenIndexingwith0.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heaps_STL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Heaps_STL.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InfixToPostfix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/InfixToPostfix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsertionSortPart-1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsertionSortPart-2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Insertion_Sort1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Insertion_Sort1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Insertion_Sort2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Insertion_Sort2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Insertion_Sort_Newton_School.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Insertion_Sort_Newton_School.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntegerTypes.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JesseandCookies.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/JesseandCookies.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JimandtheSkyscrapers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/JimandtheSkyscrapers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumpingontheCloudsRevisited.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/JumpingontheCloudsRevisited.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K_Most_Recurring_Elements.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/K_Most_Recurring_Elements.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KindergartenAdventures.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/KindergartenAdventures.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kth_Smallest_Diff.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kth_Smallest_Diff.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kth_Smallest_Element.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kth_Smallest_Element.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kth_largest_element.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kth_largest_element.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LarryArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LarryArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightCircularShift.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightCircularShift.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library_Fine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Library_Fine.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LilyHomeworkAlternate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LilyHomeworkAlternate.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LilysHomework.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LilysHomework.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LisaWorkbook.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LisaWorkbook.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LittleMonkandABD.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LittleMonkandABD.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LittleMonkandStevieSmith.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LittleMonkandStevieSmith.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LittleMonkandVirat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LittleMonkandVirat.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LittleMonkandWilliamson.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LittleMonkandWilliamson.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makeitsame.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Making Anagrams.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Making Anagrams.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mark and Toys.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Mark and Toys.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxMin.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maximizing XOR.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Maximizing XOR.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maximum_Element.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Maximum_Element.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maximum_Product_ofK.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Maximum_Product_ofK.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Merge_Sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Merge_Sort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiddleOprInStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MiddleOprInStack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Min_steps_i_a_grid.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Min_steps_i_a_grid.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MinimumAbsoluteDiffInAnArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MinimumAbsoluteDiffInAnArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MinimumSwaps2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MinimumSwaps2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MinimumSwaps2Alternate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MinimumSwaps2Alternate.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minimum_Cost_Of_Ropes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Minimum_Cost_Of_Ropes.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minimum_elements_median_X.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Minimum_elements_median_X.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Missing_Numbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Missing_Numbers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonkandtheMagicalCandyBags.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MonkandtheMagicalCandyBags.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MrXandhisShots.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MrXandhisShots.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/N-Queen_Problem.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Naive_Pattern_Search.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Naive_Pattern_Search.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nearly_Sorted.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewYearChaos.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/NewYearChaos.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Next_Largest_Element.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Next_Largest_Element.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operations_in_Deque.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Operations_in_Deque.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OptimisedStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/OptimisedStack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pair_Sum.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pallindrome_Index.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Pallindrome_Index.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parties_and_Seats.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Parties_and_Seats.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoisnousPlants.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PoisnousPlants.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PoisnousPlantsAlternate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PoisnousPlantsAlternate.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Poisonous_Plants_Optimised.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Poisonous_Plants_Optimised.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Power_Set.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Power_Set.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrefixToINfix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PrefixToINfix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrefixToPostfix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PrefixToPostfix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QHEAP1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/QHEAP1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QueenAttackIIAlternate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/QueenAttackIIAlternate.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QueensAttackII.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/QueensAttackII.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuerieswithFixedLength.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/QuerieswithFixedLength.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QueueUsingStacks.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/QueueUsingStacks.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QueueUsingTwoStacks.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/QueueUsingTwoStacks.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue_operations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Queue_operations.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quick_Sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Quick_Sort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rearrange_array_Optimised.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Rearrange_array_Optimised.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveDigitSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/RecursiveDigitSum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Red_knights_shortest_path.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Red_knights_shortest_path.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Remove_All_Adjacent_Duplicates_In_String.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Remove_All_Adjacent_Duplicates_In_String.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reverse_First_K_elements_of_Queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse_First_K_elements_of_Queue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RookMovement.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/RookMovement.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rotate_the_matrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Rotate_the_matrix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Running Time of Algorithms.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Running Time of Algorithms.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sample_File.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Sample_File.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Second_Largest.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selection_Sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Selection_Sort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set5Problem1TheGoldenCrown.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Set5Problem1TheGoldenCrown.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SetProblem2BreakerOfChains.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SetProblem2BreakerOfChains.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SheldonandValidString.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SheldonandValidString.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sherlock_and_the_valid_string.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SherlockandSquares.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SherlockandSquares.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Short_String.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleArraySum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleArraySum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple_Numbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Simple_Numbers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple_Transpose.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Simple_Transpose.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort_Anagram.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparseArrays.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SparseArrays.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Special_String_Again.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Split_the_Array.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Square_root_of_an_integer.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StackUsingQueues.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/StackUsingQueues.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StrongPassword.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/StrongPassword.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SubArrayProduct.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SubArrayProduct.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sum_of_Product_of_Digits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Sum_of_Product_of_Digits.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaumAndBday.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheBombermanGame.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheUnlucky13.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TheUnlucky13.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thoughts2BinarySampleProblem1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Thoughts2BinarySampleProblem1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thoughts2BinarySampleProblem2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TimeinWords.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TimeinWords.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoStrings.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TwoStrings.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSum.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSums.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UtopianTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/UtopianTree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Waiter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Waiter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WordsScore.py" beforeDir="false" afterPath="$PROJECT_DIR$/WordsScore.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XOR-sequence.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/XOR-sequence.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alternating-characters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewQueries.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewQueries.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/best-time-to-buy-and-sell-stock-ii.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/best-time-to-buy-and-sell-stock-ii.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/best-time-to-buy-and-sell-stock-iii.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/best-time-to-buy-and-sell-stock.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/best-time-to-buy-and-sell-stock.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/best_time_to_buy_and_sell_stocks-ii.py" beforeDir="false" afterPath="$PROJECT_DIR$/best_time_to_buy_and_sell_stocks-ii.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/betweeentwosets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/betweeentwosets.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_number.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/binary_number.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caesar-cipher-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/caesar-cipher-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/best_time_to_buy_and_sell_stocks-ii.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/AveoRenzhio.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/AveoRenzhio.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Anagrams.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Anagrams.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AndProduct.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AppendandDelete.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AppendandDelete.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ArrayList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ArrayList.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Balanced_Brackets_modified.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Balanced_Brackets_modified.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BeautifulTriplets.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Heap_Operations.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Heap_Operations.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Search.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Search.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_String.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_String.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bubble_Sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bubble_Sort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Choose_Points.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Choose_Points.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CommonChild.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CommonChild.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Conversion_to_one.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Conversion_to_one.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/Deque-STL_Optimised.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/Deque-STL_Optimised.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DuplicatesataDistanceK.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DuplicatesataDistanceK.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Equilibrium_Point.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Equilibrium_Point.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtraLongFactorials.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtraLongFactorials.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Recursion.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Recursion.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Find_Pos_X.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Find_Pos_X.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GamingArray.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Get_the_shadow.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Get_the_shadow.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Insertion_Sort_Newton_School.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Insertion_Sort_Newton_School.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/IntegerTypes.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kadans_Algorithm.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kadans_Algorithm.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Diff.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Diff.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Element.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Element.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_largest_element.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_largest_element.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandABD.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Maximum_Product_ofK.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Maximum_Product_ofK.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Merge_Sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Merge_Sort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Min_steps_i_a_grid.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Min_steps_i_a_grid.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Minimum_Cost_Of_Ropes.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Minimum_Cost_Of_Ropes.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Nearly_Sorted.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Nearly_Sorted.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Partiles_and_Seats.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Partiles_and_Seats.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlants.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlants.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlantsAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlantsAlternate.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poisonous_Plants_Optimised.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poisonous_Plants_Optimised.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Power_Set.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Power_Set.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QuickSort-2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QuickSort-2.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Queue_operations.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Queue_operations.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rearrange_array_Optimised.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rearrange_array_Optimised.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Reverse_First_K_elements_of_Queue.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Reverse_First_K_elements_of_Queue.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rotate_the_matrix.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rotate_the_matrix.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Selection_Sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Selection_Sort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Determinant.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Determinant.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Transpose.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Transpose.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TheBombermanGame.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best_time_to_buy_and_sell_stock.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best_time_to_buy_and_sell_stock.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/binary_number.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/binary_number.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diagonal_traversal.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diagonal_traversal.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/dictionariesandmaps.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fill_the_missing_spaces.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fill_the_missing_spaces.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/maxInQueue.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/maxInQueue.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/monkandrotation.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/monkandrotation.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pickingNumbers.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/pickingNumbers.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rearrange_array.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rearrange_array.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Deque-STL_Optimised" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Deque-STL_Optimised" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_types.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/decoding_encoded_list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/decoding_encoded_list.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagonal_traversal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/diagonal_traversal.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionariesandmaps.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/dictionariesandmaps.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fairrations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/fairrations.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fill_the_missing_spaces.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/fill_the_missing_spaces.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find_the_duplicate_in_array.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/find_the_duplicate_in_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_the_duplicate_in_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flatlandspacestations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/flatlandspacestations.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formated_dates.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funnystring.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/funnystring.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_email_threads.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_email_threads.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank-in-a-string.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank-in-a-string.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/halloweensale.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/halloweensale.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heapsortingusingmaxheapifycormen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/heapsortingusingmaxheapifycormen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heapsortingusingminheapifycormen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/heapsortingusingminheapifycormen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hiphiparray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hiphiparray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magicsquareforming.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mars-exploration.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mars-exploration.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maxInQueue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/maxInQueue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minimum_average_waiting_time.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/minimum_average_waiting_time.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monkandinversions.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/monkandnicestrings.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/monkandnicestrings.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monkandrotation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/monkandrotation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monkandsuffixsort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/move_zeroes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/move_zeroes.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pangrams.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/pangrams.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pickingNumbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/pickingNumbers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rearrange_array.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/rearrange_array.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remove_adjacent_characters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/remove_adjacent_characters.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shortest_unsorted_continous_subarray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/shortest_unsorted_continous_subarray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpletexteditorusingvectors.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/simpletexteditorusingvectors.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strangecode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/strangecode.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringstream.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/stringstream.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/subArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super_reduced_string.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/super_reduced_string.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the-love-letter-mystery.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/the-love-letter-mystery.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the_love_letter_mystery.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/the_love_letter_mystery.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-strings.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/two-strings.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -539,9 +256,6 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="pDkjoZpQ" />
   </component>
-  <component name="OCResolveContextSettings">
-    <option name="configuration" value="0-Debug-AveoRenzhio" />
-  </component>
   <component name="ProjectId" id="1TgkFKfPMNMePgsyy9TUU0c3roM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -567,7 +281,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="CMake Application.ArrayJump">
+  <component name="RunManager" selected="CMake Application.SumOfMinMax">
     <configuration name="2DArrays" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="2DArrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="2DArrays">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1073,6 +787,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfMinMax" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="SumOfMinMax" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="SumOfMinMax">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sum_of_Product_of_Digits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="Sum_of_Product_of_Digits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="Sum_of_Product_of_Digits">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1104,11 +823,6 @@
       </method>
     </configuration>
     <configuration name="XOR-sequence" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="XOR-sequence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="XOR-sequence">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -1295,6 +1009,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="best_time_to_buy_and_sell_stocks-ii" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AveoRenzhio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/best_time_to_buy_and_sell_stocks-ii.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="monkbeingmonitor" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AveoRenzhio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1418,6 +1153,7 @@
       <item itemvalue="CMake Application.Simple_Transpose" />
       <item itemvalue="CMake Application.StrongPassword" />
       <item itemvalue="CMake Application.SubArrayProduct" />
+      <item itemvalue="CMake Application.SumOfMinMax" />
       <item itemvalue="CMake Application.Sum_of_Product_of_Digits" />
       <item itemvalue="CMake Application.Thoughts2BinarySampleProblem1" />
       <item itemvalue="CMake Application.TimeinWords" />
@@ -1454,6 +1190,7 @@
       <item itemvalue="CMake Application.the_love_letter_mystery" />
       <item itemvalue="Python.CaseSpecificString" />
       <item itemvalue="Python.StrongPassword" />
+      <item itemvalue="Python.best_time_to_buy_and_sell_stocks-ii" />
       <item itemvalue="Python.monkbeingmonitor" />
     </list>
   </component>
@@ -1652,6 +1389,12 @@
       <workItem from="1601118657555" duration="1008000" />
       <workItem from="1601121048576" duration="8778000" />
       <workItem from="1601140780569" duration="3972000" />
+      <workItem from="1601182305347" duration="2960000" />
+      <workItem from="1601186334032" duration="4686000" />
+      <workItem from="1601216470777" duration="1281000" />
+      <workItem from="1601266287978" duration="4586000" />
+      <workItem from="1601275325481" duration="3203000" />
+      <workItem from="1601284942428" duration="1201000" />
     </task>
     <servers />
   </component>
@@ -1691,57 +1434,57 @@
     </state>
     <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597669259582" />
     <state x="510" y="149" width="424" height="491" key="FileChooserDialogImpl/72.29.1294.739@72.29.1294.739" timestamp="1600153037699" />
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1601130763819">
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1601279585902">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601130763819" />
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601279585902" />
     <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1601100412614" />
     <state width="1248" height="241" key="GridCell.Tab.0.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1601130763818">
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1601279585902">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601130763818" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601279585902" />
     <state width="1320" height="172" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1601100412610" />
     <state width="1248" height="241" key="GridCell.Tab.0.center/72.29.1294.739@72.29.1294.739" timestamp="1600688664531" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1601130763818">
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1601279585902">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601130763818" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601279585902" />
     <state width="1320" height="172" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1601100412608" />
     <state width="1248" height="241" key="GridCell.Tab.0.left/72.29.1294.739@72.29.1294.739" timestamp="1600688664531" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1601130763819">
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1601279585902">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601130763819" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601279585902" />
     <state width="1320" height="172" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1601100412612" />
     <state width="1248" height="241" key="GridCell.Tab.0.right/72.29.1294.739@72.29.1294.739" timestamp="1600688664532" />
-    <state width="1320" height="247" key="GridCell.Tab.1.bottom" timestamp="1601130763812">
+    <state width="1320" height="247" key="GridCell.Tab.1.bottom" timestamp="1601191841232">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599141908627" />
-    <state width="1320" height="247" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601130763812" />
+    <state width="1320" height="247" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601191841232" />
     <state width="1248" height="241" key="GridCell.Tab.1.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="247" key="GridCell.Tab.1.center" timestamp="1601130763811">
+    <state width="1320" height="247" key="GridCell.Tab.1.center" timestamp="1601191841232">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="247" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1601130763811" />
+    <state width="1320" height="247" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1601191841232" />
     <state width="1248" height="241" key="GridCell.Tab.1.center/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="247" key="GridCell.Tab.1.left" timestamp="1601130763811">
+    <state width="1320" height="247" key="GridCell.Tab.1.left" timestamp="1601191841231">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="247" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1601130763811" />
+    <state width="1320" height="247" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1601191841231" />
     <state width="1248" height="241" key="GridCell.Tab.1.left/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="247" key="GridCell.Tab.1.right" timestamp="1601130763812">
+    <state width="1320" height="247" key="GridCell.Tab.1.right" timestamp="1601191841232">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="247" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1601130763812" />
+    <state width="1320" height="247" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1601191841232" />
     <state width="1248" height="241" key="GridCell.Tab.1.right/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
     <state x="184" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600941040358">
       <screen x="0" y="29" width="1366" height="739" />
@@ -1764,11 +1507,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/best-time-to-buy-and-sell-stock-ii.cpp</url>
-          <line>17</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/Simple_Transpose.cpp</url>
           <line>3</line>

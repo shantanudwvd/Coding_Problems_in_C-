@@ -27,6 +27,52 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="SumOfMinMax">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/SumOfMinMax" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 SumOfMinMax"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SumOfMinMax/fast">
+				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/SumOfMinMax" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 SumOfMinMax/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="SubArrayProduct">
 				<Option output="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/SubArrayProduct" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -6497,6 +6543,9 @@
 			<Option target="Heaps_STL"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/HeightProblem.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/InfixToPostfix.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -6586,6 +6635,9 @@
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/LittleMonkandWilliamson.cpp">
 			<Option target="LittleMonkandWilliamson"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/LongestConsecutiveSequence.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Making Anagrams.cpp">
@@ -6793,6 +6845,10 @@
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/SubArrayProduct.cpp">
 			<Option target="SubArrayProduct"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/SumOfMinMax.cpp">
+			<Option target="SumOfMinMax"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/shantanu/CLionProjects/Coding_Problems_in_C-/Sum_of_Product_of_Digits.cpp">

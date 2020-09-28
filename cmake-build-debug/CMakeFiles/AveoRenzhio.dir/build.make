@@ -2560,6 +2560,45 @@ CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/InterviewQueries.cpp -o CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.o: ../HeightProblem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/HeightProblem.cpp
+
+CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/HeightProblem.cpp > CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/HeightProblem.cpp -o CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o: ../SumOfMinMax.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/SumOfMinMax.cpp
+
+CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/SumOfMinMax.cpp > CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/SumOfMinMax.cpp -o CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.o: ../LongestConsecutiveSequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/LongestConsecutiveSequence.cpp
+
+CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/LongestConsecutiveSequence.cpp > CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/LongestConsecutiveSequence.cpp -o CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Thoughts2BinarySampleProblem1.cpp.o" \
@@ -2752,7 +2791,10 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/MinimumAbsoluteDiffInAnArray.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/Sample_File.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/ArrayJump.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.o"
+"CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.o"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -2948,9 +2990,12 @@ AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MinimumAbsoluteDiffInAnArray.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Sample_File.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/ArrayJump.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Linking CXX executable AveoRenzhio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Linking CXX executable AveoRenzhio"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AveoRenzhio.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

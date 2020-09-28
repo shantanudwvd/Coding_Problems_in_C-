@@ -2,6 +2,7 @@
 // Created by shantanu on 26/09/20.
 //
 #include <iostream>
+#include <deque>
 
 using namespace std;
 int length = 0, heapsize;
@@ -76,6 +77,13 @@ int main() {
             insert_value(array, val);
         } else if (q == 2) {
 
+
+        } else if (q == 3) {
+            max_heapify(array, 1);
+            cout << array[1] << endl;
+        } else if (q == 4) {
+            min_heapify(array, 1);
+            cout << array[1] << endl;
         }
     }
 }

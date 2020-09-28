@@ -48,6 +48,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/SumOfMinMax.dir/DependInfo.cmake"
   "CMakeFiles/SubArrayProduct.dir/DependInfo.cmake"
   "CMakeFiles/FindMinimum.dir/DependInfo.cmake"
   "CMakeFiles/maxInQueue.dir/DependInfo.cmake"
