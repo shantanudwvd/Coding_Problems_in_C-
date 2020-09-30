@@ -63,10 +63,10 @@ RM = /snap/clion/126/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/shantanu/CLionProjects/Coding_Problems_in_C-
+CMAKE_SOURCE_DIR = /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug
+CMAKE_BINARY_DIR = /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/FraudulentActivityNotificationsOptimized.dir/depend.make
@@ -79,16 +79,16 @@ include CMakeFiles/FraudulentActivityNotificationsOptimized.dir/flags.make
 
 CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.o: CMakeFiles/FraudulentActivityNotificationsOptimized.dir/flags.make
 CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.o: ../FraudulentActivityNotificationsOptimized.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.o -c /home/shantanu/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotificationsOptimized.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.o -c /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotificationsOptimized.cpp
 
 CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shantanu/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotificationsOptimized.cpp > CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotificationsOptimized.cpp > CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.i
 
 CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shantanu/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotificationsOptimized.cpp -o CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotificationsOptimized.cpp -o CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.s
 
 # Object files for target FraudulentActivityNotificationsOptimized
 FraudulentActivityNotificationsOptimized_OBJECTS = \
@@ -100,7 +100,7 @@ FraudulentActivityNotificationsOptimized_EXTERNAL_OBJECTS =
 FraudulentActivityNotificationsOptimized: CMakeFiles/FraudulentActivityNotificationsOptimized.dir/FraudulentActivityNotificationsOptimized.cpp.o
 FraudulentActivityNotificationsOptimized: CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build.make
 FraudulentActivityNotificationsOptimized: CMakeFiles/FraudulentActivityNotificationsOptimized.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable FraudulentActivityNotificationsOptimized"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable FraudulentActivityNotificationsOptimized"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/FraudulentActivityNotificationsOptimized.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -113,6 +113,6 @@ CMakeFiles/FraudulentActivityNotificationsOptimized.dir/clean:
 .PHONY : CMakeFiles/FraudulentActivityNotificationsOptimized.dir/clean
 
 CMakeFiles/FraudulentActivityNotificationsOptimized.dir/depend:
-	cd /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/shantanu/CLionProjects/Coding_Problems_in_C- /home/shantanu/CLionProjects/Coding_Problems_in_C- /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aveorenzhio/CLionProjects/Coding_Problems_in_C- /home/aveorenzhio/CLionProjects/Coding_Problems_in_C- /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/FraudulentActivityNotificationsOptimized.dir/depend
 

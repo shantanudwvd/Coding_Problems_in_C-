@@ -1,1 +1,0 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Second_Largest.dir/Second_Largest.cpp.o  -o Second_Largest 

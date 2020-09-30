@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/Naive_Pattern_Search.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/Naive_Pattern_Search.cpp.o"
+  "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Naive_Pattern_Search.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/Naive_Pattern_Search.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

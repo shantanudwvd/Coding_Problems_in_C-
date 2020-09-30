@@ -1,1 +1,0 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/IntegerTypes.dir/IntegerTypes.cpp.o  -o IntegerTypes 

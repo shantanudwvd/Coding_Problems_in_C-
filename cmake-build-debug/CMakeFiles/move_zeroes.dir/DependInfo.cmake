@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/move_zeroes.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/move_zeroes.dir/move_zeroes.cpp.o"
+  "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/move_zeroes.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/move_zeroes.dir/move_zeroes.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

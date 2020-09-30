@@ -1,1 +1,0 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Nearly_Sorted.dir/Nearly_Sorted.cpp.o  -o Nearly_Sorted 

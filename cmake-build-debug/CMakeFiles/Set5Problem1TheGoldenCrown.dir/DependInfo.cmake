@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/Set5Problem1TheGoldenCrown.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/Set5Problem1TheGoldenCrown.cpp.o"
+  "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Set5Problem1TheGoldenCrown.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/Set5Problem1TheGoldenCrown.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
