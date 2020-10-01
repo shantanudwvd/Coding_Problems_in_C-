@@ -131,6 +131,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named InterviewQueries
+
+# Build rule for target.
+InterviewQueries: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 InterviewQueries
+.PHONY : InterviewQueries
+
+# fast build rule for target.
+InterviewQueries/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/InterviewQueries.dir/build.make CMakeFiles/InterviewQueries.dir/build
+.PHONY : InterviewQueries/fast
+
+#=============================================================================
 # Target rules for targets named SumOfMinMax
 
 # Build rule for target.
@@ -3995,6 +4008,7 @@ InterviewQueries.o: InterviewQueries.cpp.o
 
 # target to build an object file
 InterviewQueries.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/InterviewQueries.dir/build.make CMakeFiles/InterviewQueries.dir/InterviewQueries.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.o
 .PHONY : InterviewQueries.cpp.o
 
@@ -4004,6 +4018,7 @@ InterviewQueries.i: InterviewQueries.cpp.i
 
 # target to preprocess a source file
 InterviewQueries.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/InterviewQueries.dir/build.make CMakeFiles/InterviewQueries.dir/InterviewQueries.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.i
 .PHONY : InterviewQueries.cpp.i
 
@@ -4013,6 +4028,7 @@ InterviewQueries.s: InterviewQueries.cpp.s
 
 # target to generate assembly for a file
 InterviewQueries.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/InterviewQueries.dir/build.make CMakeFiles/InterviewQueries.dir/InterviewQueries.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.s
 .PHONY : InterviewQueries.cpp.s
 
@@ -7674,6 +7690,7 @@ help:
 	@echo "... HeapSortingUsingMax_HeapifyCormenIndexingwith0"
 	@echo "... Heaps_STL"
 	@echo "... Insertion_Sort_Newton_School"
+	@echo "... InterviewQueries"
 	@echo "... JesseandCookies"
 	@echo "... JumpingontheCloudsRevisited"
 	@echo "... K_Most_Recurring_Elements"

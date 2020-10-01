@@ -73,6 +73,7 @@ CMAKE_BINARY_DIR = /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-b
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
+all: CMakeFiles/InterviewQueries.dir/all
 all: CMakeFiles/SumOfMinMax.dir/all
 all: CMakeFiles/SubArrayProduct.dir/all
 all: CMakeFiles/FindMinimum.dir/all
@@ -218,6 +219,7 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
+clean: CMakeFiles/InterviewQueries.dir/clean
 clean: CMakeFiles/SumOfMinMax.dir/clean
 clean: CMakeFiles/SubArrayProduct.dir/clean
 clean: CMakeFiles/FindMinimum.dir/clean
@@ -358,18 +360,45 @@ clean: CMakeFiles/Queue_operations.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/InterviewQueries.dir
+
+# All Build rule for target.
+CMakeFiles/InterviewQueries.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/InterviewQueries.dir/build.make CMakeFiles/InterviewQueries.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/InterviewQueries.dir/build.make CMakeFiles/InterviewQueries.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target InterviewQueries"
+.PHONY : CMakeFiles/InterviewQueries.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/InterviewQueries.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/InterviewQueries.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/InterviewQueries.dir/rule
+
+# Convenience name for target.
+InterviewQueries: CMakeFiles/InterviewQueries.dir/rule
+
+.PHONY : InterviewQueries
+
+# clean rule for target.
+CMakeFiles/InterviewQueries.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/InterviewQueries.dir/build.make CMakeFiles/InterviewQueries.dir/clean
+.PHONY : CMakeFiles/InterviewQueries.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/SumOfMinMax.dir
 
 # All Build rule for target.
 CMakeFiles/SumOfMinMax.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SumOfMinMax.dir/build.make CMakeFiles/SumOfMinMax.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SumOfMinMax.dir/build.make CMakeFiles/SumOfMinMax.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=85 "Built target SumOfMinMax"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target SumOfMinMax"
 .PHONY : CMakeFiles/SumOfMinMax.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SumOfMinMax.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SumOfMinMax.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/SumOfMinMax.dir/rule
@@ -391,12 +420,12 @@ CMakeFiles/SumOfMinMax.dir/clean:
 CMakeFiles/SubArrayProduct.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SubArrayProduct.dir/build.make CMakeFiles/SubArrayProduct.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SubArrayProduct.dir/build.make CMakeFiles/SubArrayProduct.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target SubArrayProduct"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=85 "Built target SubArrayProduct"
 .PHONY : CMakeFiles/SubArrayProduct.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SubArrayProduct.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SubArrayProduct.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/SubArrayProduct.dir/rule
@@ -472,12 +501,12 @@ CMakeFiles/maxInQueue.dir/clean:
 CMakeFiles/pickingNumbers.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pickingNumbers.dir/build.make CMakeFiles/pickingNumbers.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pickingNumbers.dir/build.make CMakeFiles/pickingNumbers.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target pickingNumbers"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=97 "Built target pickingNumbers"
 .PHONY : CMakeFiles/pickingNumbers.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pickingNumbers.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/pickingNumbers.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/pickingNumbers.dir/rule
@@ -499,12 +528,12 @@ CMakeFiles/pickingNumbers.dir/clean:
 CMakeFiles/DuplicatesataDistanceK.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DuplicatesataDistanceK.dir/build.make CMakeFiles/DuplicatesataDistanceK.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DuplicatesataDistanceK.dir/build.make CMakeFiles/DuplicatesataDistanceK.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=56 "Built target DuplicatesataDistanceK"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target DuplicatesataDistanceK"
 .PHONY : CMakeFiles/DuplicatesataDistanceK.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/DuplicatesataDistanceK.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/DuplicatesataDistanceK.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/DuplicatesataDistanceK.dir/rule
@@ -607,12 +636,12 @@ CMakeFiles/Kadans_Algorithm.dir/clean:
 CMakeFiles/Minimum_Cost_Of_Ropes.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Minimum_Cost_Of_Ropes.dir/build.make CMakeFiles/Minimum_Cost_Of_Ropes.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Minimum_Cost_Of_Ropes.dir/build.make CMakeFiles/Minimum_Cost_Of_Ropes.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Minimum_Cost_Of_Ropes"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=73 "Built target Minimum_Cost_Of_Ropes"
 .PHONY : CMakeFiles/Minimum_Cost_Of_Ropes.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Minimum_Cost_Of_Ropes.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Minimum_Cost_Of_Ropes.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Minimum_Cost_Of_Ropes.dir/rule
@@ -661,12 +690,12 @@ CMakeFiles/Heaps_STL.dir/clean:
 CMakeFiles/Get_the_shadow.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Get_the_shadow.dir/build.make CMakeFiles/Get_the_shadow.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Get_the_shadow.dir/build.make CMakeFiles/Get_the_shadow.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=63 "Built target Get_the_shadow"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Get_the_shadow"
 .PHONY : CMakeFiles/Get_the_shadow.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Get_the_shadow.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Get_the_shadow.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Get_the_shadow.dir/rule
@@ -715,12 +744,12 @@ CMakeFiles/Maximum_Product_ofK.dir/clean:
 CMakeFiles/Power_Set.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Power_Set.dir/build.make CMakeFiles/Power_Set.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Power_Set.dir/build.make CMakeFiles/Power_Set.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Power_Set"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=76 "Built target Power_Set"
 .PHONY : CMakeFiles/Power_Set.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Power_Set.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Power_Set.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Power_Set.dir/rule
@@ -742,12 +771,12 @@ CMakeFiles/Power_Set.dir/clean:
 CMakeFiles/Naive_Pattern_Search.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Naive_Pattern_Search.dir/build.make CMakeFiles/Naive_Pattern_Search.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Naive_Pattern_Search.dir/build.make CMakeFiles/Naive_Pattern_Search.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=73 "Built target Naive_Pattern_Search"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Naive_Pattern_Search"
 .PHONY : CMakeFiles/Naive_Pattern_Search.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Naive_Pattern_Search.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Naive_Pattern_Search.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Naive_Pattern_Search.dir/rule
@@ -769,12 +798,12 @@ CMakeFiles/Naive_Pattern_Search.dir/clean:
 CMakeFiles/Binary_String.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Binary_String.dir/build.make CMakeFiles/Binary_String.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Binary_String.dir/build.make CMakeFiles/Binary_String.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=50 "Built target Binary_String"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Binary_String"
 .PHONY : CMakeFiles/Binary_String.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Binary_String.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Binary_String.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Binary_String.dir/rule
@@ -823,12 +852,12 @@ CMakeFiles/Binary_Heap_Operations.dir/clean:
 CMakeFiles/Boundary_Traversal_of_Matrix.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Boundary_Traversal_of_Matrix.dir/build.make CMakeFiles/Boundary_Traversal_of_Matrix.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Boundary_Traversal_of_Matrix.dir/build.make CMakeFiles/Boundary_Traversal_of_Matrix.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Boundary_Traversal_of_Matrix"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=50 "Built target Boundary_Traversal_of_Matrix"
 .PHONY : CMakeFiles/Boundary_Traversal_of_Matrix.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Boundary_Traversal_of_Matrix.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Boundary_Traversal_of_Matrix.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Boundary_Traversal_of_Matrix.dir/rule
@@ -1012,12 +1041,12 @@ CMakeFiles/Selection_Sort.dir/clean:
 CMakeFiles/LittleMonkandVirat.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandVirat.dir/build.make CMakeFiles/LittleMonkandVirat.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandVirat.dir/build.make CMakeFiles/LittleMonkandVirat.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=70 "Built target LittleMonkandVirat"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target LittleMonkandVirat"
 .PHONY : CMakeFiles/LittleMonkandVirat.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LittleMonkandVirat.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/LittleMonkandVirat.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/LittleMonkandVirat.dir/rule
@@ -1201,12 +1230,12 @@ CMakeFiles/Sample_File.dir/clean:
 CMakeFiles/FindTheRunningMedian.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FindTheRunningMedian.dir/build.make CMakeFiles/FindTheRunningMedian.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FindTheRunningMedian.dir/build.make CMakeFiles/FindTheRunningMedian.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=59 "Built target FindTheRunningMedian"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target FindTheRunningMedian"
 .PHONY : CMakeFiles/FindTheRunningMedian.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/FindTheRunningMedian.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/FindTheRunningMedian.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/FindTheRunningMedian.dir/rule
@@ -1282,12 +1311,12 @@ CMakeFiles/LittleMonkandABD.dir/clean:
 CMakeFiles/heapsortingusingmaxheapifycormen.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/heapsortingusingmaxheapifycormen.dir/build.make CMakeFiles/heapsortingusingmaxheapifycormen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/heapsortingusingmaxheapifycormen.dir/build.make CMakeFiles/heapsortingusingmaxheapifycormen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target heapsortingusingmaxheapifycormen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=94 "Built target heapsortingusingmaxheapifycormen"
 .PHONY : CMakeFiles/heapsortingusingmaxheapifycormen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/heapsortingusingmaxheapifycormen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/heapsortingusingmaxheapifycormen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/heapsortingusingmaxheapifycormen.dir/rule
@@ -1417,12 +1446,12 @@ CMakeFiles/DequeSTL.dir/clean:
 CMakeFiles/Kth_largest_element.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Kth_largest_element.dir/build.make CMakeFiles/Kth_largest_element.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Kth_largest_element.dir/build.make CMakeFiles/Kth_largest_element.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=67 "Built target Kth_largest_element"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Kth_largest_element"
 .PHONY : CMakeFiles/Kth_largest_element.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Kth_largest_element.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Kth_largest_element.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Kth_largest_element.dir/rule
@@ -1444,12 +1473,12 @@ CMakeFiles/Kth_largest_element.dir/clean:
 CMakeFiles/GameofTwoStacks.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GameofTwoStacks.dir/build.make CMakeFiles/GameofTwoStacks.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GameofTwoStacks.dir/build.make CMakeFiles/GameofTwoStacks.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=62 "Built target GameofTwoStacks"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target GameofTwoStacks"
 .PHONY : CMakeFiles/GameofTwoStacks.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/GameofTwoStacks.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/GameofTwoStacks.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/GameofTwoStacks.dir/rule
@@ -1552,12 +1581,12 @@ CMakeFiles/LittleMonkandWilliamson.dir/clean:
 CMakeFiles/QueenAttackIIAlternate.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueenAttackIIAlternate.dir/build.make CMakeFiles/QueenAttackIIAlternate.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueenAttackIIAlternate.dir/build.make CMakeFiles/QueenAttackIIAlternate.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=76 "Built target QueenAttackIIAlternate"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target QueenAttackIIAlternate"
 .PHONY : CMakeFiles/QueenAttackIIAlternate.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/QueenAttackIIAlternate.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/QueenAttackIIAlternate.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/QueenAttackIIAlternate.dir/rule
@@ -1579,12 +1608,12 @@ CMakeFiles/QueenAttackIIAlternate.dir/clean:
 CMakeFiles/FindTheRunningMedianOptimized.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FindTheRunningMedianOptimized.dir/build.make CMakeFiles/FindTheRunningMedianOptimized.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FindTheRunningMedianOptimized.dir/build.make CMakeFiles/FindTheRunningMedianOptimized.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=60 "Built target FindTheRunningMedianOptimized"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target FindTheRunningMedianOptimized"
 .PHONY : CMakeFiles/FindTheRunningMedianOptimized.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/FindTheRunningMedianOptimized.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/FindTheRunningMedianOptimized.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/FindTheRunningMedianOptimized.dir/rule
@@ -1741,12 +1770,12 @@ CMakeFiles/ArrayJump.dir/clean:
 CMakeFiles/FindTheRunningMedianAlternate.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FindTheRunningMedianAlternate.dir/build.make CMakeFiles/FindTheRunningMedianAlternate.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FindTheRunningMedianAlternate.dir/build.make CMakeFiles/FindTheRunningMedianAlternate.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target FindTheRunningMedianAlternate"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=59 "Built target FindTheRunningMedianAlternate"
 .PHONY : CMakeFiles/FindTheRunningMedianAlternate.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/FindTheRunningMedianAlternate.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/FindTheRunningMedianAlternate.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/FindTheRunningMedianAlternate.dir/rule
@@ -1822,12 +1851,12 @@ CMakeFiles/Conversion_to_one.dir/clean:
 CMakeFiles/Find_Pos_X.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Find_Pos_X.dir/build.make CMakeFiles/Find_Pos_X.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Find_Pos_X.dir/build.make CMakeFiles/Find_Pos_X.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Find_Pos_X"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=60 "Built target Find_Pos_X"
 .PHONY : CMakeFiles/Find_Pos_X.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Find_Pos_X.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Find_Pos_X.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Find_Pos_X.dir/rule
@@ -1849,12 +1878,12 @@ CMakeFiles/Find_Pos_X.dir/clean:
 CMakeFiles/heapsortingusingminheapifycormen.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/heapsortingusingminheapifycormen.dir/build.make CMakeFiles/heapsortingusingminheapifycormen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/heapsortingusingminheapifycormen.dir/build.make CMakeFiles/heapsortingusingminheapifycormen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=94 "Built target heapsortingusingminheapifycormen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target heapsortingusingminheapifycormen"
 .PHONY : CMakeFiles/heapsortingusingminheapifycormen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/heapsortingusingminheapifycormen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/heapsortingusingminheapifycormen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/heapsortingusingminheapifycormen.dir/rule
@@ -1957,12 +1986,12 @@ CMakeFiles/BalancedBrackets.dir/clean:
 CMakeFiles/LittleMonkandStevieSmith.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandStevieSmith.dir/build.make CMakeFiles/LittleMonkandStevieSmith.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LittleMonkandStevieSmith.dir/build.make CMakeFiles/LittleMonkandStevieSmith.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target LittleMonkandStevieSmith"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=70 "Built target LittleMonkandStevieSmith"
 .PHONY : CMakeFiles/LittleMonkandStevieSmith.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LittleMonkandStevieSmith.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/LittleMonkandStevieSmith.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/LittleMonkandStevieSmith.dir/rule
@@ -1984,12 +2013,12 @@ CMakeFiles/LittleMonkandStevieSmith.dir/clean:
 CMakeFiles/GamingArray.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GamingArray.dir/build.make CMakeFiles/GamingArray.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/GamingArray.dir/build.make CMakeFiles/GamingArray.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target GamingArray"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=62 "Built target GamingArray"
 .PHONY : CMakeFiles/GamingArray.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/GamingArray.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/GamingArray.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/GamingArray.dir/rule
@@ -2173,12 +2202,12 @@ CMakeFiles/QueensAttackII.dir/clean:
 CMakeFiles/Anagrams.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Anagrams.dir/build.make CMakeFiles/Anagrams.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Anagrams.dir/build.make CMakeFiles/Anagrams.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=3 "Built target Anagrams"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Anagrams"
 .PHONY : CMakeFiles/Anagrams.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Anagrams.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Anagrams.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Anagrams.dir/rule
@@ -2389,12 +2418,12 @@ CMakeFiles/Choose_Points.dir/clean:
 CMakeFiles/CommonChild.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CommonChild.dir/build.make CMakeFiles/CommonChild.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CommonChild.dir/build.make CMakeFiles/CommonChild.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=53 "Built target CommonChild"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target CommonChild"
 .PHONY : CMakeFiles/CommonChild.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CommonChild.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CommonChild.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CommonChild.dir/rule
@@ -2551,12 +2580,12 @@ CMakeFiles/betweeentwosets.dir/clean:
 CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/build.make CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/build.make CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target HeapSortingUsingMax_HeapifyCormenIndexingwith0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=63 "Built target HeapSortingUsingMax_HeapifyCormenIndexingwith0"
 .PHONY : CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/rule
@@ -2632,12 +2661,12 @@ CMakeFiles/fairrations.dir/clean:
 CMakeFiles/AndProduct.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AndProduct.dir/build.make CMakeFiles/AndProduct.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AndProduct.dir/build.make CMakeFiles/AndProduct.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target AndProduct"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=3 "Built target AndProduct"
 .PHONY : CMakeFiles/AndProduct.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AndProduct.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/AndProduct.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/AndProduct.dir/rule
@@ -2659,12 +2688,12 @@ CMakeFiles/AndProduct.dir/clean:
 CMakeFiles/SetProblem2BreakerOfChains.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SetProblem2BreakerOfChains.dir/build.make CMakeFiles/SetProblem2BreakerOfChains.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SetProblem2BreakerOfChains.dir/build.make CMakeFiles/SetProblem2BreakerOfChains.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target SetProblem2BreakerOfChains"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=82 "Built target SetProblem2BreakerOfChains"
 .PHONY : CMakeFiles/SetProblem2BreakerOfChains.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SetProblem2BreakerOfChains.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SetProblem2BreakerOfChains.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/SetProblem2BreakerOfChains.dir/rule
@@ -2848,12 +2877,12 @@ CMakeFiles/JesseandCookies.dir/clean:
 CMakeFiles/dictionariesandmaps.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dictionariesandmaps.dir/build.make CMakeFiles/dictionariesandmaps.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dictionariesandmaps.dir/build.make CMakeFiles/dictionariesandmaps.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=91 "Built target dictionariesandmaps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target dictionariesandmaps"
 .PHONY : CMakeFiles/dictionariesandmaps.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dictionariesandmaps.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/dictionariesandmaps.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/dictionariesandmaps.dir/rule
@@ -2983,12 +3012,12 @@ CMakeFiles/FraudulentActivityNotifications.dir/clean:
 CMakeFiles/Encryption.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Encryption.dir/build.make CMakeFiles/Encryption.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Encryption.dir/build.make CMakeFiles/Encryption.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Encryption"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=56 "Built target Encryption"
 .PHONY : CMakeFiles/Encryption.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Encryption.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Encryption.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Encryption.dir/rule
@@ -3253,12 +3282,12 @@ CMakeFiles/stringstream.dir/clean:
 CMakeFiles/Kth_Smallest_Element.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Kth_Smallest_Element.dir/build.make CMakeFiles/Kth_Smallest_Element.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Kth_Smallest_Element.dir/build.make CMakeFiles/Kth_Smallest_Element.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Kth_Smallest_Element"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=67 "Built target Kth_Smallest_Element"
 .PHONY : CMakeFiles/Kth_Smallest_Element.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Kth_Smallest_Element.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Kth_Smallest_Element.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Kth_Smallest_Element.dir/rule
@@ -3388,12 +3417,12 @@ CMakeFiles/Poisonous_Plants_Optimised.dir/clean:
 CMakeFiles/Waiter.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Waiter.dir/build.make CMakeFiles/Waiter.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Waiter.dir/build.make CMakeFiles/Waiter.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Waiter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=88 "Built target Waiter"
 .PHONY : CMakeFiles/Waiter.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Waiter.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Waiter.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Waiter.dir/rule
@@ -3415,12 +3444,12 @@ CMakeFiles/Waiter.dir/clean:
 CMakeFiles/XOR-sequence.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/XOR-sequence.dir/build.make CMakeFiles/XOR-sequence.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/XOR-sequence.dir/build.make CMakeFiles/XOR-sequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=88 "Built target XOR-sequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target XOR-sequence"
 .PHONY : CMakeFiles/XOR-sequence.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/XOR-sequence.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/XOR-sequence.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/XOR-sequence.dir/rule
@@ -3442,12 +3471,12 @@ CMakeFiles/XOR-sequence.dir/clean:
 CMakeFiles/Contacts.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Contacts.dir/build.make CMakeFiles/Contacts.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Contacts.dir/build.make CMakeFiles/Contacts.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Contacts"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=53 "Built target Contacts"
 .PHONY : CMakeFiles/Contacts.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Contacts.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Contacts.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Contacts.dir/rule
@@ -3550,12 +3579,12 @@ CMakeFiles/ExtraLongFactorials.dir/clean:
 CMakeFiles/SheldonandValidString.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SheldonandValidString.dir/build.make CMakeFiles/SheldonandValidString.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SheldonandValidString.dir/build.make CMakeFiles/SheldonandValidString.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=82 "Built target SheldonandValidString"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target SheldonandValidString"
 .PHONY : CMakeFiles/SheldonandValidString.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SheldonandValidString.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SheldonandValidString.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/SheldonandValidString.dir/rule
@@ -3604,12 +3633,12 @@ CMakeFiles/the_love_letter_mystery.dir/clean:
 CMakeFiles/Reverse_First_K_elements_of_Queue.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=79 "Built target Reverse_First_K_elements_of_Queue"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Reverse_First_K_elements_of_Queue"
 .PHONY : CMakeFiles/Reverse_First_K_elements_of_Queue.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Reverse_First_K_elements_of_Queue.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Reverse_First_K_elements_of_Queue.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Reverse_First_K_elements_of_Queue.dir/rule
@@ -3631,12 +3660,12 @@ CMakeFiles/Reverse_First_K_elements_of_Queue.dir/clean:
 CMakeFiles/rearrange_array.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rearrange_array.dir/build.make CMakeFiles/rearrange_array.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rearrange_array.dir/build.make CMakeFiles/rearrange_array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=97 "Built target rearrange_array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target rearrange_array"
 .PHONY : CMakeFiles/rearrange_array.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/rearrange_array.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/rearrange_array.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/rearrange_array.dir/rule
@@ -3712,12 +3741,12 @@ CMakeFiles/Red_knights_shortest_path.dir/clean:
 CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/build.make CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/build.make CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target Remove_All_Adjacent_Duplicates_In_String"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=79 "Built target Remove_All_Adjacent_Duplicates_In_String"
 .PHONY : CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Remove_All_Adjacent_Duplicates_In_String.dir/rule
@@ -3793,12 +3822,12 @@ CMakeFiles/hiphiparray.dir/clean:
 CMakeFiles/diagonal_traversal.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/diagonal_traversal.dir/build.make CMakeFiles/diagonal_traversal.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/diagonal_traversal.dir/build.make CMakeFiles/diagonal_traversal.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num= "Built target diagonal_traversal"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=91 "Built target diagonal_traversal"
 .PHONY : CMakeFiles/diagonal_traversal.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/diagonal_traversal.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/diagonal_traversal.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/diagonal_traversal.dir/rule

@@ -2,89 +2,91 @@
 // Created by shantanu on 26/09/20.
 //
 #include <iostream>
-#include <deque>
+#include <algorithm>
+#include <vector>
 
 using namespace std;
 int length = 0, heapsize;
 
-void min_heapify(int arr[], int i) {
-    int l = 2 * i;
-    int r = 2 * i + 1;
+void min_heapify(vector<int> &array, int i) {
+    int l = 2 * i + 1;
+    int r = 2 * i + 2;
     int smallest;
-    if (l <= heapsize && arr[l] < arr[i]) {
+    if (l < heapsize && array[l] < array[i]) {
         smallest = l;
     } else {
         smallest = i;
     }
-    if (r <= heapsize && arr[r] < arr[smallest]) {
+    if (r < heapsize && array[r] < array[smallest]) {
         smallest = r;
     }
     if (smallest == i)
         return;
     else if (smallest != i) {
-        int swap = arr[i];
-        arr[i] = arr[smallest];
-        arr[smallest] = swap;
+        int swap = array[i];
+        array[i] = array[smallest];
+        array[smallest] = swap;
     }
-    min_heapify(arr, smallest);
+    min_heapify(array, smallest);
 }
 
-void max_heapify(int arr[], int i) {
-    int l = 2 * i;
-    int r = 2 * i + 1;
+void max_heapify(vector<int> &array, int i) {
+    int l = 2 * i + 1;
+    int r = 2 * i + 2;
     int largest;
-    if (l <= heapsize && arr[l] > arr[i]) {
+    if (l < heapsize && array[l] > array[i]) {
         largest = l;
     } else {
         largest = i;
     }
-    if (r <= heapsize && arr[r] > arr[largest]) {
+    if (r < heapsize && array[r] > array[largest]) {
         largest = r;
     }
     if (largest == i)
         return;
     if (largest != i) {
-        int swap = arr[i];
-        arr[i] = arr[largest];
-        arr[largest] = swap;
+        int swap = array[i];
+        array[i] = array[largest];
+        array[largest] = swap;
     }
-    max_heapify(arr, largest);
-}
-
-void increase_value(int array[], int i, int val) {
-    array[i] = val;
-    while (i > 1 && array[i / 2] < array[i]) {
-        int temp = array[i / 2];
-        array[i / 2] = array[i];
-        array[i] = temp;
-        i = i / 2;
-    }
-}
-
-void insert_value(int array[], int val) {
-    length = length + 1;
-    increase_value(array, length, val);
+    max_heapify(array, largest);
 }
 
 int main() {
-    int array[1000000];
+    vector<int> array;
     int queries;
     cin >> queries;
     for (int i = 0, q, val; i < queries; ++i) {
         cin >> q;
         if (q == 1) {
             cin >> val;
-            insert_value(array, val);
+            array.push_back(val);
+            length += 1;
         } else if (q == 2) {
-
-
+            cin >> val;
+            auto ans = std::find(array.begin(), array.end(), val);
+            if (ans == array.end())
+                cout << "-1" << endl;
+            else {
+                array.erase(ans);
+                length -= 1;
+            }
         } else if (q == 3) {
-            max_heapify(array, 1);
-            cout << array[1] << endl;
+            heapsize = length;
+            if (length == 0)
+                cout<< "-1" <<endl;
+            else {
+                max_heapify(array, 0);
+                cout << array[0] << endl;
+            }
         } else if (q == 4) {
-            min_heapify(array, 1);
-            cout << array[1] << endl;
+            heapsize = length;
+            if (length == 0)
+                cout<< "-1" <<endl;
+            else {
+                min_heapify(array, 0);
+                cout << array[0] << endl;
+            }
         }
     }
 }
-
