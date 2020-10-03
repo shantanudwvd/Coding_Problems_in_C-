@@ -131,6 +131,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named base26root
+
+# Build rule for target.
+base26root: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 base26root
+.PHONY : base26root
+
+# fast build rule for target.
+base26root/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/base26root.dir/build.make CMakeFiles/base26root.dir/build
+.PHONY : base26root/fast
+
+#=============================================================================
 # Target rules for targets named InterviewQueries
 
 # Build rule for target.
@@ -6576,6 +6589,36 @@ XOR-sequence.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/XOR-sequence.dir/build.make CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.s
 .PHONY : XOR-sequence.cpp.s
 
+base26root.o: base26root.cpp.o
+
+.PHONY : base26root.o
+
+# target to build an object file
+base26root.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/base26root.dir/build.make CMakeFiles/base26root.dir/base26root.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/base26root.cpp.o
+.PHONY : base26root.cpp.o
+
+base26root.i: base26root.cpp.i
+
+.PHONY : base26root.i
+
+# target to preprocess a source file
+base26root.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/base26root.dir/build.make CMakeFiles/base26root.dir/base26root.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/base26root.cpp.i
+.PHONY : base26root.cpp.i
+
+base26root.s: base26root.cpp.s
+
+.PHONY : base26root.s
+
+# target to generate assembly for a file
+base26root.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/base26root.dir/build.make CMakeFiles/base26root.dir/base26root.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/base26root.cpp.s
+.PHONY : base26root.cpp.s
+
 best-time-to-buy-and-sell-stock-ii.o: best-time-to-buy-and-sell-stock-ii.cpp.o
 
 .PHONY : best-time-to-buy-and-sell-stock-ii.o
@@ -7747,6 +7790,7 @@ help:
 	@echo "... UtopianTree"
 	@echo "... Waiter"
 	@echo "... XOR-sequence"
+	@echo "... base26root"
 	@echo "... best-time-to-buy-and-sell-stock-ii"
 	@echo "... best_time_to_buy_and_sell_stock"
 	@echo "... betweeentwosets"
@@ -8257,6 +8301,9 @@ help:
 	@echo "... XOR-sequence.o"
 	@echo "... XOR-sequence.i"
 	@echo "... XOR-sequence.s"
+	@echo "... base26root.o"
+	@echo "... base26root.i"
+	@echo "... base26root.s"
 	@echo "... best-time-to-buy-and-sell-stock-ii.o"
 	@echo "... best-time-to-buy-and-sell-stock-ii.i"
 	@echo "... best-time-to-buy-and-sell-stock-ii.s"

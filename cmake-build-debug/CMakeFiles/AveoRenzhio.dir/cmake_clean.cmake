@@ -159,6 +159,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/UtopianTree.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/Waiter.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/XOR-sequence.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/base26root.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/betweeentwosets.cpp.o"

@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -g   CMakeFiles/base26root.dir/base26root.cpp.o  -o base26root 

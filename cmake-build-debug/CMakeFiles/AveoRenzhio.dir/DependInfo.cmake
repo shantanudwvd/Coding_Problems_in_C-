@@ -162,6 +162,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/UtopianTree.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/UtopianTree.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Waiter.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Waiter.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/XOR-sequence.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/XOR-sequence.cpp.o"
+  "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/base26root.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/base26root.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/best-time-to-buy-and-sell-stock-ii.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock-ii.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/best-time-to-buy-and-sell-stock.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/best-time-to-buy-and-sell-stock.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/betweeentwosets.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/betweeentwosets.cpp.o"
