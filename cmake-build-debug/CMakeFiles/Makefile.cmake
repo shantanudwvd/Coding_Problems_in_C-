@@ -48,7 +48,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/base26root.dir/DependInfo.cmake"
+  "CMakeFiles/DijsktraAlgorithm.dir/DependInfo.cmake"
+  "CMakeFiles/BinaryTreeSet1.dir/DependInfo.cmake"
   "CMakeFiles/InterviewQueries.dir/DependInfo.cmake"
   "CMakeFiles/SumOfMinMax.dir/DependInfo.cmake"
   "CMakeFiles/SubArrayProduct.dir/DependInfo.cmake"
@@ -120,6 +121,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Anagrams.dir/DependInfo.cmake"
   "CMakeFiles/ArrayManipulation.dir/DependInfo.cmake"
   "CMakeFiles/CuttheSticks.dir/DependInfo.cmake"
+  "CMakeFiles/PrimsMinimumSpanningTree.dir/DependInfo.cmake"
   "CMakeFiles/PoisnousPlants.dir/DependInfo.cmake"
   "CMakeFiles/3DSurfaceArea.dir/DependInfo.cmake"
   "CMakeFiles/AlternatingCharacters.dir/DependInfo.cmake"

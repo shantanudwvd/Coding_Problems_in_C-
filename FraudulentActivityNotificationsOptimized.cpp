@@ -120,13 +120,8 @@ int main() {
         int count = 2;
         first = array[i];
         second = array[i + 1];
-        if (first <= second) {
-            maxh[1] = first;
-            minh[1] = second;
-        } else {
-            maxh[1] = first;
-            minh[1] = second;
-        }
+        maxh[1] = first;
+        minh[1] = second;
         maxlen = 1;
         minlen = 1;
         ct = 0;

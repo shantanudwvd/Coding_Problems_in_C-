@@ -131,17 +131,30 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named base26root
+# Target rules for targets named DijsktraAlgorithm
 
 # Build rule for target.
-base26root: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 base26root
-.PHONY : base26root
+DijsktraAlgorithm: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 DijsktraAlgorithm
+.PHONY : DijsktraAlgorithm
 
 # fast build rule for target.
-base26root/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/base26root.dir/build.make CMakeFiles/base26root.dir/build
-.PHONY : base26root/fast
+DijsktraAlgorithm/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DijsktraAlgorithm.dir/build.make CMakeFiles/DijsktraAlgorithm.dir/build
+.PHONY : DijsktraAlgorithm/fast
+
+#=============================================================================
+# Target rules for targets named BinaryTreeSet1
+
+# Build rule for target.
+BinaryTreeSet1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 BinaryTreeSet1
+.PHONY : BinaryTreeSet1
+
+# fast build rule for target.
+BinaryTreeSet1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BinaryTreeSet1.dir/build.make CMakeFiles/BinaryTreeSet1.dir/build
+.PHONY : BinaryTreeSet1/fast
 
 #=============================================================================
 # Target rules for targets named InterviewQueries
@@ -1065,6 +1078,19 @@ CuttheSticks: cmake_check_build_system
 CuttheSticks/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CuttheSticks.dir/build.make CMakeFiles/CuttheSticks.dir/build
 .PHONY : CuttheSticks/fast
+
+#=============================================================================
+# Target rules for targets named PrimsMinimumSpanningTree
+
+# Build rule for target.
+PrimsMinimumSpanningTree: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 PrimsMinimumSpanningTree
+.PHONY : PrimsMinimumSpanningTree
+
+# fast build rule for target.
+PrimsMinimumSpanningTree/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PrimsMinimumSpanningTree.dir/build.make CMakeFiles/PrimsMinimumSpanningTree.dir/build
+.PHONY : PrimsMinimumSpanningTree/fast
 
 #=============================================================================
 # Target rules for targets named PoisnousPlants
@@ -2509,6 +2535,36 @@ BeautifulTriplets.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BeautifulTriplets.dir/build.make CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.s
 .PHONY : BeautifulTriplets.cpp.s
 
+BinaryTreeSet1.o: BinaryTreeSet1.cpp.o
+
+.PHONY : BinaryTreeSet1.o
+
+# target to build an object file
+BinaryTreeSet1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BinaryTreeSet1.dir/build.make CMakeFiles/BinaryTreeSet1.dir/BinaryTreeSet1.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.o
+.PHONY : BinaryTreeSet1.cpp.o
+
+BinaryTreeSet1.i: BinaryTreeSet1.cpp.i
+
+.PHONY : BinaryTreeSet1.i
+
+# target to preprocess a source file
+BinaryTreeSet1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BinaryTreeSet1.dir/build.make CMakeFiles/BinaryTreeSet1.dir/BinaryTreeSet1.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.i
+.PHONY : BinaryTreeSet1.cpp.i
+
+BinaryTreeSet1.s: BinaryTreeSet1.cpp.s
+
+.PHONY : BinaryTreeSet1.s
+
+# target to generate assembly for a file
+BinaryTreeSet1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BinaryTreeSet1.dir/build.make CMakeFiles/BinaryTreeSet1.dir/BinaryTreeSet1.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.s
+.PHONY : BinaryTreeSet1.cpp.s
+
 Binary_Heap_Operations.o: Binary_Heap_Operations.cpp.o
 
 .PHONY : Binary_Heap_Operations.o
@@ -3255,6 +3311,36 @@ DiagonalDifference.s: DiagonalDifference.cpp.s
 DiagonalDifference.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DiagonalDifference.cpp.s
 .PHONY : DiagonalDifference.cpp.s
+
+DijsktraAlgorithm.o: DijsktraAlgorithm.cpp.o
+
+.PHONY : DijsktraAlgorithm.o
+
+# target to build an object file
+DijsktraAlgorithm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DijsktraAlgorithm.dir/build.make CMakeFiles/DijsktraAlgorithm.dir/DijsktraAlgorithm.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.o
+.PHONY : DijsktraAlgorithm.cpp.o
+
+DijsktraAlgorithm.i: DijsktraAlgorithm.cpp.i
+
+.PHONY : DijsktraAlgorithm.i
+
+# target to preprocess a source file
+DijsktraAlgorithm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DijsktraAlgorithm.dir/build.make CMakeFiles/DijsktraAlgorithm.dir/DijsktraAlgorithm.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.i
+.PHONY : DijsktraAlgorithm.cpp.i
+
+DijsktraAlgorithm.s: DijsktraAlgorithm.cpp.s
+
+.PHONY : DijsktraAlgorithm.s
+
+# target to generate assembly for a file
+DijsktraAlgorithm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DijsktraAlgorithm.dir/build.make CMakeFiles/DijsktraAlgorithm.dir/DijsktraAlgorithm.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.s
+.PHONY : DijsktraAlgorithm.cpp.s
 
 DuplicatesataDistanceK.o: DuplicatesataDistanceK.cpp.o
 
@@ -5452,6 +5538,36 @@ PrefixToPostfix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PrefixToPostfix.cpp.s
 .PHONY : PrefixToPostfix.cpp.s
 
+PrimsMinimumSpanningTree.o: PrimsMinimumSpanningTree.cpp.o
+
+.PHONY : PrimsMinimumSpanningTree.o
+
+# target to build an object file
+PrimsMinimumSpanningTree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PrimsMinimumSpanningTree.dir/build.make CMakeFiles/PrimsMinimumSpanningTree.dir/PrimsMinimumSpanningTree.cpp.o
+.PHONY : PrimsMinimumSpanningTree.cpp.o
+
+PrimsMinimumSpanningTree.i: PrimsMinimumSpanningTree.cpp.i
+
+.PHONY : PrimsMinimumSpanningTree.i
+
+# target to preprocess a source file
+PrimsMinimumSpanningTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PrimsMinimumSpanningTree.dir/build.make CMakeFiles/PrimsMinimumSpanningTree.dir/PrimsMinimumSpanningTree.cpp.i
+.PHONY : PrimsMinimumSpanningTree.cpp.i
+
+PrimsMinimumSpanningTree.s: PrimsMinimumSpanningTree.cpp.s
+
+.PHONY : PrimsMinimumSpanningTree.s
+
+# target to generate assembly for a file
+PrimsMinimumSpanningTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/PrimsMinimumSpanningTree.dir/build.make CMakeFiles/PrimsMinimumSpanningTree.dir/PrimsMinimumSpanningTree.cpp.s
+.PHONY : PrimsMinimumSpanningTree.cpp.s
+
 QHEAP1.o: QHEAP1.cpp.o
 
 .PHONY : QHEAP1.o
@@ -6589,36 +6705,6 @@ XOR-sequence.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/XOR-sequence.dir/build.make CMakeFiles/XOR-sequence.dir/XOR-sequence.cpp.s
 .PHONY : XOR-sequence.cpp.s
 
-base26root.o: base26root.cpp.o
-
-.PHONY : base26root.o
-
-# target to build an object file
-base26root.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/base26root.dir/build.make CMakeFiles/base26root.dir/base26root.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/base26root.cpp.o
-.PHONY : base26root.cpp.o
-
-base26root.i: base26root.cpp.i
-
-.PHONY : base26root.i
-
-# target to preprocess a source file
-base26root.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/base26root.dir/build.make CMakeFiles/base26root.dir/base26root.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/base26root.cpp.i
-.PHONY : base26root.cpp.i
-
-base26root.s: base26root.cpp.s
-
-.PHONY : base26root.s
-
-# target to generate assembly for a file
-base26root.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/base26root.dir/build.make CMakeFiles/base26root.dir/base26root.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/base26root.cpp.s
-.PHONY : base26root.cpp.s
-
 best-time-to-buy-and-sell-stock-ii.o: best-time-to-buy-and-sell-stock-ii.cpp.o
 
 .PHONY : best-time-to-buy-and-sell-stock-ii.o
@@ -7697,6 +7783,7 @@ help:
 	@echo "... BalancedBrackets"
 	@echo "... Balanced_Brackets_modified"
 	@echo "... BeautifulTriplets"
+	@echo "... BinaryTreeSet1"
 	@echo "... Binary_Heap_Operations"
 	@echo "... Binary_Search"
 	@echo "... Binary_String"
@@ -7713,6 +7800,7 @@ help:
 	@echo "... Deque-STL-Alternate"
 	@echo "... Deque-STL_Optimised"
 	@echo "... DequeSTL"
+	@echo "... DijsktraAlgorithm"
 	@echo "... DuplicatesataDistanceK"
 	@echo "... Encryption"
 	@echo "... Equilibrium_Point"
@@ -7761,6 +7849,7 @@ help:
 	@echo "... PoisnousPlantsAlternate"
 	@echo "... Poisonous_Plants_Optimised"
 	@echo "... Power_Set"
+	@echo "... PrimsMinimumSpanningTree"
 	@echo "... QueenAttackIIAlternate"
 	@echo "... QueensAttackII"
 	@echo "... Queue_operations"
@@ -7790,7 +7879,6 @@ help:
 	@echo "... UtopianTree"
 	@echo "... Waiter"
 	@echo "... XOR-sequence"
-	@echo "... base26root"
 	@echo "... best-time-to-buy-and-sell-stock-ii"
 	@echo "... best_time_to_buy_and_sell_stock"
 	@echo "... betweeentwosets"
@@ -7878,6 +7966,9 @@ help:
 	@echo "... BeautifulTriplets.o"
 	@echo "... BeautifulTriplets.i"
 	@echo "... BeautifulTriplets.s"
+	@echo "... BinaryTreeSet1.o"
+	@echo "... BinaryTreeSet1.i"
+	@echo "... BinaryTreeSet1.s"
 	@echo "... Binary_Heap_Operations.o"
 	@echo "... Binary_Heap_Operations.i"
 	@echo "... Binary_Heap_Operations.s"
@@ -7956,6 +8047,9 @@ help:
 	@echo "... DiagonalDifference.o"
 	@echo "... DiagonalDifference.i"
 	@echo "... DiagonalDifference.s"
+	@echo "... DijsktraAlgorithm.o"
+	@echo "... DijsktraAlgorithm.i"
+	@echo "... DijsktraAlgorithm.s"
 	@echo "... DuplicatesataDistanceK.o"
 	@echo "... DuplicatesataDistanceK.i"
 	@echo "... DuplicatesataDistanceK.s"
@@ -8184,6 +8278,9 @@ help:
 	@echo "... PrefixToPostfix.o"
 	@echo "... PrefixToPostfix.i"
 	@echo "... PrefixToPostfix.s"
+	@echo "... PrimsMinimumSpanningTree.o"
+	@echo "... PrimsMinimumSpanningTree.i"
+	@echo "... PrimsMinimumSpanningTree.s"
 	@echo "... QHEAP1.o"
 	@echo "... QHEAP1.i"
 	@echo "... QHEAP1.s"
@@ -8301,9 +8398,6 @@ help:
 	@echo "... XOR-sequence.o"
 	@echo "... XOR-sequence.i"
 	@echo "... XOR-sequence.s"
-	@echo "... base26root.o"
-	@echo "... base26root.i"
-	@echo "... base26root.s"
 	@echo "... best-time-to-buy-and-sell-stock-ii.o"
 	@echo "... best-time-to-buy-and-sell-stock-ii.i"
 	@echo "... best-time-to-buy-and-sell-stock-ii.s"

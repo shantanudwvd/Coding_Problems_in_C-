@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -g   CMakeFiles/BinaryTreeSet1.dir/BinaryTreeSet1.cpp.o  -o BinaryTreeSet1 

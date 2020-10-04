@@ -2599,18 +2599,44 @@ CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/LongestConsecutiveSequence.cpp -o CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.s
 
-CMakeFiles/AveoRenzhio.dir/base26root.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
-CMakeFiles/AveoRenzhio.dir/base26root.cpp.o: ../base26root.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/AveoRenzhio.dir/base26root.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/base26root.cpp.o -c /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/base26root.cpp
+CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.o: ../BinaryTreeSet1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.o -c /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/BinaryTreeSet1.cpp
 
-CMakeFiles/AveoRenzhio.dir/base26root.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/base26root.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/base26root.cpp > CMakeFiles/AveoRenzhio.dir/base26root.cpp.i
+CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/BinaryTreeSet1.cpp > CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.i
 
-CMakeFiles/AveoRenzhio.dir/base26root.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/base26root.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/base26root.cpp -o CMakeFiles/AveoRenzhio.dir/base26root.cpp.s
+CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/BinaryTreeSet1.cpp -o CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.o: ../PrimsMinimumSpanningTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building CXX object CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.o -c /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/PrimsMinimumSpanningTree.cpp
+
+CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/PrimsMinimumSpanningTree.cpp > CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/PrimsMinimumSpanningTree.cpp -o CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.o: ../DijsktraAlgorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.o -c /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/DijsktraAlgorithm.cpp
+
+CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/DijsktraAlgorithm.cpp > CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/DijsktraAlgorithm.cpp -o CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.s
 
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
@@ -2808,7 +2834,9 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/base26root.cpp.o"
+"CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.o"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -3007,10 +3035,12 @@ AveoRenzhio: CMakeFiles/AveoRenzhio.dir/InterviewQueries.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/HeightProblem.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/LongestConsecutiveSequence.cpp.o
-AveoRenzhio: CMakeFiles/AveoRenzhio.dir/base26root.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/BinaryTreeSet1.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/PrimsMinimumSpanningTree.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Linking CXX executable AveoRenzhio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Linking CXX executable AveoRenzhio"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AveoRenzhio.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
