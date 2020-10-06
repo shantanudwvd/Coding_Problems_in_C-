@@ -1509,6 +1509,19 @@ FraudulentActivityNotificationsOptimized/fast:
 .PHONY : FraudulentActivityNotificationsOptimized/fast
 
 #=============================================================================
+# Target rules for targets named AppendAndDeleteAlternate
+
+# Build rule for target.
+AppendAndDeleteAlternate: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 AppendAndDeleteAlternate
+.PHONY : AppendAndDeleteAlternate
+
+# fast build rule for target.
+AppendAndDeleteAlternate/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AppendAndDeleteAlternate.dir/build.make CMakeFiles/AppendAndDeleteAlternate.dir/build
+.PHONY : AppendAndDeleteAlternate/fast
+
+#=============================================================================
 # Target rules for targets named Balanced_Brackets_modified
 
 # Build rule for target.
@@ -2300,6 +2313,36 @@ AngryProfessor.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AngryProfessor.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AngryProfessor.dir/build.make CMakeFiles/AngryProfessor.dir/AngryProfessor.cpp.s
 .PHONY : AngryProfessor.cpp.s
+
+AppendAndDeleteAlternate.o: AppendAndDeleteAlternate.cpp.o
+
+.PHONY : AppendAndDeleteAlternate.o
+
+# target to build an object file
+AppendAndDeleteAlternate.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AppendAndDeleteAlternate.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AppendAndDeleteAlternate.dir/build.make CMakeFiles/AppendAndDeleteAlternate.dir/AppendAndDeleteAlternate.cpp.o
+.PHONY : AppendAndDeleteAlternate.cpp.o
+
+AppendAndDeleteAlternate.i: AppendAndDeleteAlternate.cpp.i
+
+.PHONY : AppendAndDeleteAlternate.i
+
+# target to preprocess a source file
+AppendAndDeleteAlternate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AppendAndDeleteAlternate.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AppendAndDeleteAlternate.dir/build.make CMakeFiles/AppendAndDeleteAlternate.dir/AppendAndDeleteAlternate.cpp.i
+.PHONY : AppendAndDeleteAlternate.cpp.i
+
+AppendAndDeleteAlternate.s: AppendAndDeleteAlternate.cpp.s
+
+.PHONY : AppendAndDeleteAlternate.s
+
+# target to generate assembly for a file
+AppendAndDeleteAlternate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/AppendAndDeleteAlternate.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AppendAndDeleteAlternate.dir/build.make CMakeFiles/AppendAndDeleteAlternate.dir/AppendAndDeleteAlternate.cpp.s
+.PHONY : AppendAndDeleteAlternate.cpp.s
 
 AppendandDelete.o: AppendandDelete.cpp.o
 
@@ -7775,6 +7818,7 @@ help:
 	@echo "... Anagrams"
 	@echo "... AndProduct"
 	@echo "... AngryProfessor"
+	@echo "... AppendAndDeleteAlternate"
 	@echo "... AppendandDelete"
 	@echo "... ArrayJump"
 	@echo "... ArrayList"
@@ -7942,6 +7986,9 @@ help:
 	@echo "... AngryProfessor.o"
 	@echo "... AngryProfessor.i"
 	@echo "... AngryProfessor.s"
+	@echo "... AppendAndDeleteAlternate.o"
+	@echo "... AppendAndDeleteAlternate.i"
+	@echo "... AppendAndDeleteAlternate.s"
 	@echo "... AppendandDelete.o"
 	@echo "... AppendandDelete.i"
 	@echo "... AppendandDelete.s"

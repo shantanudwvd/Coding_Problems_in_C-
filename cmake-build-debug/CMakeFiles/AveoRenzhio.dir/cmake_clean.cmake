@@ -13,6 +13,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/AlternatingCharacters.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/Anagrams.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/AngryProfessor.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/AppendAndDeleteAlternate.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/AppendandDelete.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/ArrayJump.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/ArrayList.cpp.o"

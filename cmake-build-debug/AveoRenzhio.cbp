@@ -4701,6 +4701,50 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="AppendAndDeleteAlternate">
+				<Option output="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/AppendAndDeleteAlternate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 AppendAndDeleteAlternate"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AppendAndDeleteAlternate/fast">
+				<Option output="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/AppendAndDeleteAlternate" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 AppendAndDeleteAlternate/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="Balanced_Brackets_modified">
 				<Option output="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Balanced_Brackets_modified" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -6242,6 +6286,10 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/AngryProfessor.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="AngryProfessor"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/AppendAndDeleteAlternate.cpp">
+			<Option target="AveoRenzhio"/>
+			<Option target="AppendAndDeleteAlternate"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/AppendandDelete.cpp">
 			<Option target="AppendandDelete"/>

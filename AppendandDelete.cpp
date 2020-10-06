@@ -19,7 +19,6 @@ int main() {
     if (s == t) {
         cout << "Yes" << endl;
     } else {
-
         for (char i : s) {
             str.push_back(i);
         }

@@ -16,6 +16,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/AlternatingCharacters.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/AlternatingCharacters.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Anagrams.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Anagrams.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/AngryProfessor.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/AngryProfessor.cpp.o"
+  "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/AppendAndDeleteAlternate.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/AppendAndDeleteAlternate.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/AppendandDelete.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/AppendandDelete.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/ArrayJump.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/ArrayJump.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/ArrayList.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/ArrayList.cpp.o"
