@@ -30,6 +30,7 @@
       <config projectName="AveoRenzhio" targetName="FraudulentActivityNotificationsOptimized" />
       <config projectName="AveoRenzhio" targetName="Queue_operations" />
       <config projectName="AveoRenzhio" targetName="Operations_in_Deque" />
+      <config projectName="AveoRenzhio" targetName="FraudulentActivityNotifUsingCountSort" />
       <config projectName="AveoRenzhio" targetName="Simple_Determinant" />
       <config projectName="AveoRenzhio" targetName="AngryProfessor" />
       <config projectName="AveoRenzhio" targetName="BalancedBrackets" />
@@ -47,9 +48,13 @@
       <config projectName="AveoRenzhio" targetName="PoisnousPlants" />
       <config projectName="AveoRenzhio" targetName="Thoughts2BinarySampleProblem1" />
       <config projectName="AveoRenzhio" targetName="remove_adjacent_characters" />
+      <config projectName="AveoRenzhio" targetName="Power_Set" />
       <config projectName="AveoRenzhio" targetName="Merge_Sort" />
       <config projectName="AveoRenzhio" targetName="Conversion_to_one" />
+<<<<<<< Updated upstream
       <config projectName="AveoRenzhio" targetName="Power_Set" />
+=======
+>>>>>>> Stashed changes
       <config projectName="AveoRenzhio" targetName="Counting_Sort" />
       <config projectName="AveoRenzhio" targetName="Deque-STL_Optimised" />
       <config projectName="AveoRenzhio" targetName="CuttheSticks" />
@@ -78,8 +83,8 @@
       <config projectName="AveoRenzhio" targetName="FindTheRunningMedianOptimized" />
       <config projectName="AveoRenzhio" targetName="JesseandCookies" />
       <config projectName="AveoRenzhio" targetName="Naive_Pattern_Search" />
-      <config projectName="AveoRenzhio" targetName="halloweensale" />
       <config projectName="AveoRenzhio" targetName="Waiter" />
+      <config projectName="AveoRenzhio" targetName="halloweensale" />
       <config projectName="AveoRenzhio" targetName="RookMovement" />
       <config projectName="AveoRenzhio" targetName="ArrayList" />
       <config projectName="AveoRenzhio" targetName="Rotate_the_matrix" />
@@ -105,8 +110,8 @@
       <config projectName="AveoRenzhio" targetName="DequeSTL" />
       <config projectName="AveoRenzhio" targetName="SetProblem2BreakerOfChains" />
       <config projectName="AveoRenzhio" targetName="AndProduct" />
-      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
       <config projectName="AveoRenzhio" targetName="Balanced_Brackets_modified" />
+      <config projectName="AveoRenzhio" targetName="ACM-ICPC_Team" />
       <config projectName="AveoRenzhio" targetName="fill_the_missing_spaces" />
       <config projectName="AveoRenzhio" targetName="monkandnicestrings" />
       <config projectName="AveoRenzhio" targetName="fairrations" />
@@ -117,8 +122,8 @@
       <config projectName="AveoRenzhio" targetName="HeapSortingUsingMax_HeapifyCormenIndexingwith0" />
       <config projectName="AveoRenzhio" targetName="Anagrams" />
       <config projectName="AveoRenzhio" targetName="LittleMonkandABD" />
-      <config projectName="AveoRenzhio" targetName="FindMinimum" />
       <config projectName="AveoRenzhio" targetName="GameofTwoStacks" />
+      <config projectName="AveoRenzhio" targetName="FindMinimum" />
       <config projectName="AveoRenzhio" targetName="AveoRenzhio" />
       <config projectName="AveoRenzhio" targetName="Equilibrium_Point" />
       <config projectName="AveoRenzhio" targetName="Selection_Sort" />
@@ -175,6 +180,17 @@
   <component name="ChangeListManager">
     <list default="true" id="f40dc9a4-172e-4c63-a051-db14b069f909" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Counting_Sort.cpp" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change afterPath="$PROJECT_DIR$/FraudulentActivityNotifUsingCountSort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Counting_Sort.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Counting_Sort.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Counting_Sort.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Counting_Sort.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Counting_Sort.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Counting_Sort.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Counting_Sort.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FraudulentActivityNotifications.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FraudulentActivityNotifications.cpp" afterDir="false" />
@@ -211,15 +227,31 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Heap_Operations.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Heap_Operations.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Search.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Search.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_String.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_String.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boundary_Traversal_of_Matrix.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boundary_Traversal_of_Matrix.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bubble_Sort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bubble_Sort.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Choose_Points.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Choose_Points.dir/build.make" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_String.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_String.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boundary_Traversal_of_Matrix.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boundary_Traversal_of_Matrix.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bubble_Sort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bubble_Sort.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bubble_Sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bubble_Sort.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CalvinsGame.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ChocolateFeast.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Choose_Points.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Choose_Points.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Choose_Points.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Choose_Points.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ClimbingTheLeaderboard.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CommonChild.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CommonChild.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CommonChild.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CommonChild.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Contacts.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Conversion_to_one.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Conversion_to_one.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Conversion_to_one.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Conversion_to_one.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/build.make" afterDir="false" />
@@ -228,7 +260,10 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Deque-STL_Optimised.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DequeSTL.dir/progress.make" afterDir="false" />
+=======
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DijsktraAlgorithm.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DijsktraAlgorithm.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DijsktraAlgorithm.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DijsktraAlgorithm.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DuplicatesataDistanceK.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DuplicatesataDistanceK.dir/build.make" afterDir="false" />
@@ -237,12 +272,18 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Equilibrium_Point.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Equilibrium_Point.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Equilibrium_Point.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Equilibrium_Point.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtraLongFactorials.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtraLongFactorials.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtraLongFactorials.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ExtraLongFactorials.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Modified.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Modified.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Modified.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Modified.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Recursion.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Recursion.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindMinimum.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindMinimum.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindMinimum.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindMinimum.dir/progress.make" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Modified.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Modified.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Recursion.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fibonacci_Recursion.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindMinimum.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindMinimum.dir/build.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedian.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/progress.make" afterDir="false" />
@@ -252,6 +293,10 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotificationsOptimized.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/build.make" afterDir="false" />
@@ -260,6 +305,10 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Get_the_shadow.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Get_the_shadow.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Get_the_shadow.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Get_the_shadow.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HeapSortingUsingMax_HeapifyCormenIndexingwith0.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Heaps_STL.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Heaps_STL.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Heaps_STL.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Heaps_STL.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Insertion_Sort_Newton_School.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Insertion_Sort_Newton_School.dir/build.make" afterDir="false" />
@@ -268,9 +317,17 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JesseandCookies.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/K_Most_Recurring_Elements.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/K_Most_Recurring_Elements.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/K_Most_Recurring_Elements.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/K_Most_Recurring_Elements.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kadans_Algorithm.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kadans_Algorithm.dir/build.make" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JumpingontheCloudsRevisited.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/K_Most_Recurring_Elements.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/K_Most_Recurring_Elements.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/K_Most_Recurring_Elements.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/K_Most_Recurring_Elements.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kadans_Algorithm.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kadans_Algorithm.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kadans_Algorithm.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kadans_Algorithm.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Diff.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Diff.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Diff.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Diff.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Element.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Element.dir/build.make" afterDir="false" />
@@ -279,6 +336,10 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilyHomeworkAlternate.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/build.make" afterDir="false" />
@@ -287,18 +348,30 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandVirat.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Maximum_Product_ofK.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Maximum_Product_ofK.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Merge_Sort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Merge_Sort.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Merge_Sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Merge_Sort.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Min_steps_i_a_grid.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Min_steps_i_a_grid.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MinimumSwaps2Alternate.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MinimumSwaps2Alternate.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MinimumSwaps2Alternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/MinimumSwaps2Alternate.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Minimum_Cost_Of_Ropes.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Minimum_Cost_Of_Ropes.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Minimum_Cost_Of_Ropes.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Minimum_Cost_Of_Ropes.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operations_in_Deque.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operations_in_Deque.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operations_in_Deque.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operations_in_Deque.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Partiles_and_Seats.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Partiles_and_Seats.dir/build.make" afterDir="false" />
@@ -307,10 +380,18 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlantsAlternate.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlantsAlternate.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlantsAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlantsAlternate.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poisonous_Plants_Optimised.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poisonous_Plants_Optimised.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poisonous_Plants_Optimised.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poisonous_Plants_Optimised.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Power_Set.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Power_Set.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Power_Set.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Power_Set.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PrimsMinimumSpanningTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PrimsMinimumSpanningTree.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueensAttackII.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Queue_operations.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Queue_operations.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Queue_operations.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Queue_operations.dir/progress.make" afterDir="false" />
@@ -325,12 +406,26 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rotate_the_matrix.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rotate_the_matrix.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Selection_Sort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Selection_Sort.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/build.make" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rotate_the_matrix.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rotate_the_matrix.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Selection_Sort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Selection_Sort.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SetProblem2BreakerOfChains.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Determinant.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Determinant.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/progress.make" afterDir="false" />
@@ -344,9 +439,18 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Thoughts2BinarySampleProblem1.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/build.make" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/XOR-sequence.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/progress.make" afterDir="false" />
@@ -365,6 +469,10 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/halloweensale.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/build.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/progress.make" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hiphiparray.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hiphiparray.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hiphiparray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hiphiparray.dir/progress.make" afterDir="false" />
@@ -447,7 +555,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="CMake Application.AppendAndDeleteAlternate">
+  <component name="RunManager" selected="CMake Application.Counting_Sort">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -689,6 +797,11 @@
       </method>
     </configuration>
     <configuration name="Find_Pos_X" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="Find_Pos_X" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="Find_Pos_X">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FraudulentActivityNotifUsingCountSort" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="FraudulentActivityNotifUsingCountSort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="FraudulentActivityNotifUsingCountSort">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -1028,11 +1141,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="best-time-to-buy-and-sell-stock-ii" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="best-time-to-buy-and-sell-stock-ii" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="best-time-to-buy-and-sell-stock-ii">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1166,6 +1274,11 @@
     <configuration name="the_love_letter_mystery" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AveoRenzhio" TARGET_NAME="the_love_letter_mystery" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AveoRenzhio" RUN_TARGET_NAME="the_love_letter_mystery">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="CaseSpecificString" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -1302,6 +1415,7 @@
       <item itemvalue="CMake Application.FindTheRunningMedian" />
       <item itemvalue="CMake Application.Find_Pos_X" />
       <item itemvalue="CMake Application.FraudulentActivityNotificationsOptimized" />
+      <item itemvalue="CMake Application.FraudulentActivityNotifUsingCountSort" />
       <item itemvalue="CMake Application.FraudulentActivityNotifications" />
       <item itemvalue="CMake Application.GameofThrones" />
       <item itemvalue="CMake Application.GameofTwoStacks" />
@@ -1620,7 +1734,13 @@
       <workItem from="1602056843208" duration="1169000" />
       <workItem from="1602158821794" duration="1118000" />
       <workItem from="1602178603710" duration="745000" />
+<<<<<<< Updated upstream
       <workItem from="1602322455328" duration="5961000" />
+=======
+      <workItem from="1602322455328" duration="7694000" />
+      <workItem from="1602340878245" duration="690000" />
+      <workItem from="1602345863137" duration="9965000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -1660,57 +1780,57 @@
     </state>
     <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597669259582" />
     <state x="510" y="149" width="424" height="491" key="FileChooserDialogImpl/72.29.1294.739@72.29.1294.739" timestamp="1600153037699" />
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1601989308251">
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom" timestamp="1602357592124">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601989308251" />
+    <state width="1320" height="170" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602357592124" />
     <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1601100412614" />
     <state width="1248" height="241" key="GridCell.Tab.0.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1601989308250">
+    <state width="1320" height="170" key="GridCell.Tab.0.center" timestamp="1602357592124">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="170" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601989308250" />
+    <state width="1320" height="170" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1602357592124" />
     <state width="1320" height="172" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1601100412610" />
     <state width="1248" height="241" key="GridCell.Tab.0.center/72.29.1294.739@72.29.1294.739" timestamp="1600688664531" />
-    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1601989308250">
+    <state width="1320" height="170" key="GridCell.Tab.0.left" timestamp="1602357592124">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="170" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601989308250" />
+    <state width="1320" height="170" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1602357592124" />
     <state width="1320" height="172" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1601100412608" />
     <state width="1248" height="241" key="GridCell.Tab.0.left/72.29.1294.739@72.29.1294.739" timestamp="1600688664531" />
-    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1601989308251">
+    <state width="1320" height="170" key="GridCell.Tab.0.right" timestamp="1602357592124">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="170" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601989308251" />
+    <state width="1320" height="170" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1602357592124" />
     <state width="1320" height="172" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1601100412612" />
     <state width="1248" height="241" key="GridCell.Tab.0.right/72.29.1294.739@72.29.1294.739" timestamp="1600688664532" />
-    <state width="1320" height="247" key="GridCell.Tab.1.bottom" timestamp="1601989308244">
+    <state width="1320" height="247" key="GridCell.Tab.1.bottom" timestamp="1602357592120">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599141908627" />
-    <state width="1320" height="247" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601989308244" />
+    <state width="1320" height="247" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602357592120" />
     <state width="1248" height="241" key="GridCell.Tab.1.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="247" key="GridCell.Tab.1.center" timestamp="1601989308244">
+    <state width="1320" height="247" key="GridCell.Tab.1.center" timestamp="1602357592119">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="247" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1601989308244" />
+    <state width="1320" height="247" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1602357592119" />
     <state width="1248" height="241" key="GridCell.Tab.1.center/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="247" key="GridCell.Tab.1.left" timestamp="1601989308244">
+    <state width="1320" height="247" key="GridCell.Tab.1.left" timestamp="1602357592119">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="247" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1601989308244" />
+    <state width="1320" height="247" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1602357592119" />
     <state width="1248" height="241" key="GridCell.Tab.1.left/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="247" key="GridCell.Tab.1.right" timestamp="1601989308244">
+    <state width="1320" height="247" key="GridCell.Tab.1.right" timestamp="1602357592120">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="247" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1601989308244" />
+    <state width="1320" height="247" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1602357592120" />
     <state width="1248" height="241" key="GridCell.Tab.1.right/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
     <state x="184" y="27" width="1125" height="741" key="SettingsEditor" timestamp="1602159081341">
       <screen x="0" y="27" width="1366" height="741" />
@@ -1832,6 +1952,16 @@
           <url>file://$PROJECT_DIR$/AppendandDelete.cpp</url>
           <line>31</line>
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/FraudulentActivityNotifUsingCountSort.cpp</url>
+          <line>38</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Counting_Sort.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/StrongPassword.py</url>

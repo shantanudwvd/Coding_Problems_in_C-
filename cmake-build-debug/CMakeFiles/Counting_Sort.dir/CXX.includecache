@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Counting_Sort.cpp
+iostream
+-
+algorithm
+-
+cmath
+-
+

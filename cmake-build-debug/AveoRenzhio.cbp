@@ -27,6 +27,50 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="FraudulentActivityNotifUsingCountSort">
+				<Option output="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/FraudulentActivityNotifUsingCountSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 FraudulentActivityNotifUsingCountSort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FraudulentActivityNotifUsingCountSort/fast">
+				<Option output="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/FraudulentActivityNotifUsingCountSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 FraudulentActivityNotifUsingCountSort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="DijsktraAlgorithm">
 				<Option output="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/DijsktraAlgorithm" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -6514,6 +6558,10 @@
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Find_Pos_X.cpp">
 			<Option target="Find_Pos_X"/>
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotifUsingCountSort.cpp">
+			<Option target="FraudulentActivityNotifUsingCountSort"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/FraudulentActivityNotifications.cpp">
