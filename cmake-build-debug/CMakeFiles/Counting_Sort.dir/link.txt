@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -g   CMakeFiles/Counting_Sort.dir/Counting_Sort.cpp.o  -o Counting_Sort 

@@ -59,10 +59,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/126/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/129/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/126/bin/cmake/linux/bin/cmake -E rm -f
+RM = /snap/clion/129/bin/cmake/linux/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -79,7 +79,7 @@ CMAKE_BINARY_DIR = /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-b
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/snap/clion/126/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/snap/clion/129/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -90,7 +90,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/snap/clion/126/bin/cmake/linux/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/snap/clion/129/bin/cmake/linux/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -558,6 +558,19 @@ LarryArray: cmake_check_build_system
 LarryArray/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LarryArray.dir/build.make CMakeFiles/LarryArray.dir/build
 .PHONY : LarryArray/fast
+
+#=============================================================================
+# Target rules for targets named Counting_Sort
+
+# Build rule for target.
+Counting_Sort: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Counting_Sort
+.PHONY : Counting_Sort
+
+# fast build rule for target.
+Counting_Sort/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Counting_Sort.dir/build.make CMakeFiles/Counting_Sort.dir/build
+.PHONY : Counting_Sort/fast
 
 #=============================================================================
 # Target rules for targets named Sample_File
@@ -3129,6 +3142,36 @@ Correctness_and_the_Loop_Invariant.s: Correctness_and_the_Loop_Invariant.cpp.s
 Correctness_and_the_Loop_Invariant.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Correctness_and_the_Loop_Invariant.cpp.s
 .PHONY : Correctness_and_the_Loop_Invariant.cpp.s
+
+Counting_Sort.o: Counting_Sort.cpp.o
+
+.PHONY : Counting_Sort.o
+
+# target to build an object file
+Counting_Sort.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Counting_Sort.dir/build.make CMakeFiles/Counting_Sort.dir/Counting_Sort.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Counting_Sort.cpp.o
+.PHONY : Counting_Sort.cpp.o
+
+Counting_Sort.i: Counting_Sort.cpp.i
+
+.PHONY : Counting_Sort.i
+
+# target to preprocess a source file
+Counting_Sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Counting_Sort.dir/build.make CMakeFiles/Counting_Sort.dir/Counting_Sort.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Counting_Sort.cpp.i
+.PHONY : Counting_Sort.cpp.i
+
+Counting_Sort.s: Counting_Sort.cpp.s
+
+.PHONY : Counting_Sort.s
+
+# target to generate assembly for a file
+Counting_Sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Counting_Sort.dir/build.make CMakeFiles/Counting_Sort.dir/Counting_Sort.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Counting_Sort.cpp.s
+.PHONY : Counting_Sort.cpp.s
 
 Counting_Sort_1.o: Counting_Sort_1.cpp.o
 
@@ -7840,6 +7883,7 @@ help:
 	@echo "... CommonChild"
 	@echo "... Contacts"
 	@echo "... Conversion_to_one"
+	@echo "... Counting_Sort"
 	@echo "... CuttheSticks"
 	@echo "... Deque-STL-Alternate"
 	@echo "... Deque-STL_Optimised"
@@ -8070,6 +8114,9 @@ help:
 	@echo "... Correctness_and_the_Loop_Invariant.o"
 	@echo "... Correctness_and_the_Loop_Invariant.i"
 	@echo "... Correctness_and_the_Loop_Invariant.s"
+	@echo "... Counting_Sort.o"
+	@echo "... Counting_Sort.i"
+	@echo "... Counting_Sort.s"
 	@echo "... Counting_Sort_1.o"
 	@echo "... Counting_Sort_1.i"
 	@echo "... Counting_Sort_1.s"
