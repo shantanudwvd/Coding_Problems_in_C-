@@ -131,6 +131,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named Modified_Counting_Sort
+
+# Build rule for target.
+Modified_Counting_Sort: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Modified_Counting_Sort
+.PHONY : Modified_Counting_Sort
+
+# fast build rule for target.
+Modified_Counting_Sort/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Modified_Counting_Sort.dir/build.make CMakeFiles/Modified_Counting_Sort.dir/build
+.PHONY : Modified_Counting_Sort/fast
+
+#=============================================================================
 # Target rules for targets named FraudulentActivityNotifUsingCountSort
 
 # Build rule for target.
@@ -571,19 +584,6 @@ LarryArray: cmake_check_build_system
 LarryArray/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LarryArray.dir/build.make CMakeFiles/LarryArray.dir/build
 .PHONY : LarryArray/fast
-
-#=============================================================================
-# Target rules for targets named Counting_Sort
-
-# Build rule for target.
-Counting_Sort: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Counting_Sort
-.PHONY : Counting_Sort
-
-# fast build rule for target.
-Counting_Sort/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Counting_Sort.dir/build.make CMakeFiles/Counting_Sort.dir/build
-.PHONY : Counting_Sort/fast
 
 #=============================================================================
 # Target rules for targets named Sample_File
@@ -3156,36 +3156,6 @@ Correctness_and_the_Loop_Invariant.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Correctness_and_the_Loop_Invariant.cpp.s
 .PHONY : Correctness_and_the_Loop_Invariant.cpp.s
 
-Counting_Sort.o: Counting_Sort.cpp.o
-
-.PHONY : Counting_Sort.o
-
-# target to build an object file
-Counting_Sort.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Counting_Sort.dir/build.make CMakeFiles/Counting_Sort.dir/Counting_Sort.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Counting_Sort.cpp.o
-.PHONY : Counting_Sort.cpp.o
-
-Counting_Sort.i: Counting_Sort.cpp.i
-
-.PHONY : Counting_Sort.i
-
-# target to preprocess a source file
-Counting_Sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Counting_Sort.dir/build.make CMakeFiles/Counting_Sort.dir/Counting_Sort.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Counting_Sort.cpp.i
-.PHONY : Counting_Sort.cpp.i
-
-Counting_Sort.s: Counting_Sort.cpp.s
-
-.PHONY : Counting_Sort.s
-
-# target to generate assembly for a file
-Counting_Sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Counting_Sort.dir/build.make CMakeFiles/Counting_Sort.dir/Counting_Sort.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Counting_Sort.cpp.s
-.PHONY : Counting_Sort.cpp.s
-
 Counting_Sort_1.o: Counting_Sort_1.cpp.o
 
 .PHONY : Counting_Sort_1.o
@@ -5237,6 +5207,36 @@ Missing_Numbers.s: Missing_Numbers.cpp.s
 Missing_Numbers.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Missing_Numbers.cpp.s
 .PHONY : Missing_Numbers.cpp.s
+
+Modified_Counting_Sort.o: Modified_Counting_Sort.cpp.o
+
+.PHONY : Modified_Counting_Sort.o
+
+# target to build an object file
+Modified_Counting_Sort.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Modified_Counting_Sort.dir/build.make CMakeFiles/Modified_Counting_Sort.dir/Modified_Counting_Sort.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Modified_Counting_Sort.cpp.o
+.PHONY : Modified_Counting_Sort.cpp.o
+
+Modified_Counting_Sort.i: Modified_Counting_Sort.cpp.i
+
+.PHONY : Modified_Counting_Sort.i
+
+# target to preprocess a source file
+Modified_Counting_Sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Modified_Counting_Sort.dir/build.make CMakeFiles/Modified_Counting_Sort.dir/Modified_Counting_Sort.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Modified_Counting_Sort.cpp.i
+.PHONY : Modified_Counting_Sort.cpp.i
+
+Modified_Counting_Sort.s: Modified_Counting_Sort.cpp.s
+
+.PHONY : Modified_Counting_Sort.s
+
+# target to generate assembly for a file
+Modified_Counting_Sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Modified_Counting_Sort.dir/build.make CMakeFiles/Modified_Counting_Sort.dir/Modified_Counting_Sort.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Modified_Counting_Sort.cpp.s
+.PHONY : Modified_Counting_Sort.cpp.s
 
 MonkandtheMagicalCandyBags.o: MonkandtheMagicalCandyBags.cpp.o
 
@@ -7926,7 +7926,6 @@ help:
 	@echo "... CommonChild"
 	@echo "... Contacts"
 	@echo "... Conversion_to_one"
-	@echo "... Counting_Sort"
 	@echo "... CuttheSticks"
 	@echo "... Deque-STL-Alternate"
 	@echo "... Deque-STL_Optimised"
@@ -7974,6 +7973,7 @@ help:
 	@echo "... Min_steps_i_a_grid"
 	@echo "... MinimumSwaps2Alternate"
 	@echo "... Minimum_Cost_Of_Ropes"
+	@echo "... Modified_Counting_Sort"
 	@echo "... Naive_Pattern_Search"
 	@echo "... Operations_in_Deque"
 	@echo "... Partiles_and_Seats"
@@ -8158,9 +8158,6 @@ help:
 	@echo "... Correctness_and_the_Loop_Invariant.o"
 	@echo "... Correctness_and_the_Loop_Invariant.i"
 	@echo "... Correctness_and_the_Loop_Invariant.s"
-	@echo "... Counting_Sort.o"
-	@echo "... Counting_Sort.i"
-	@echo "... Counting_Sort.s"
 	@echo "... Counting_Sort_1.o"
 	@echo "... Counting_Sort_1.i"
 	@echo "... Counting_Sort_1.s"
@@ -8374,6 +8371,9 @@ help:
 	@echo "... Missing_Numbers.o"
 	@echo "... Missing_Numbers.i"
 	@echo "... Missing_Numbers.s"
+	@echo "... Modified_Counting_Sort.o"
+	@echo "... Modified_Counting_Sort.i"
+	@echo "... Modified_Counting_Sort.s"
 	@echo "... MonkandtheMagicalCandyBags.o"
 	@echo "... MonkandtheMagicalCandyBags.i"
 	@echo "... MonkandtheMagicalCandyBags.s"

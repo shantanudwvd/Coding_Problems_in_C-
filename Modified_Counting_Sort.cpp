@@ -2,24 +2,6 @@
 // Created by aveorenzhio on 10/10/20.
 //
 #include <iostream>
-<<<<<<< Updated upstream
-
-using namespace std;
-
-void Counting_Sort() {
-        
-}
-
-int main() {
-    int array[100000];
-    int n;
-    cin >> n;
-    for (int i = 1; i <= n; ++i) {
-        cin >> array[i];
-    }
-
-}
-=======
 #include <algorithm>
 #include <cmath>
 
@@ -49,16 +31,16 @@ int main() {
     float median;
     for (int i = 0; i < n - td; ++i) {
         Count_Sort(array, count, sorted, start, end);
-//        for (int j = 0; j < td; ++j) {
-//            cout << sorted[j] << " ";
-//        }
-//        cout<<endl;
+        for (int j = 0; j < td; ++j) {
+            cout << sorted[j] << " ";
+        }
+        cout<<endl;
         if (td % 2 != 0) {
             median = sorted[int(ceil(td / 2))];
-//            cout << "Median is: " << median << endl;
+            cout << "Median is: " << median << endl;
         } else {
             median = (sorted[td / 2] + sorted[td / 2 + 1]) / 2;
-//            cout << "Median is: " << median << endl;
+            cout << "Median is: " << median << endl;
         }
         auto nota = array[end];
         if (nota >= 2 * median) {
@@ -71,4 +53,3 @@ int main() {
     }
     cout << notif;
 }
->>>>>>> Stashed changes
