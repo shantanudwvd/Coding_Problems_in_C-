@@ -31,22 +31,21 @@ int main() {
     float median;
     for (int i = 0; i < n - td; ++i) {
         Count_Sort(array, count, sorted, start, end);
-        for (int j = 0; j < td; ++j) {
+        /*for (int j = 0; j < td; ++j) {
             cout << sorted[j] << " ";
-        }
-        cout<<endl;
+        }*/
         if (td % 2 != 0) {
             median = sorted[int(ceil(td / 2))];
-            cout << "Median is: " << median << endl;
+//            cout << "Median is: " << median << endl;
         } else {
             median = (sorted[td / 2] + sorted[td / 2 + 1]) / 2;
-            cout << "Median is: " << median << endl;
+//            cout << "Median is: " << median << endl;
         }
         auto nota = array[end];
         if (nota >= 2 * median) {
             notif++;
         }
-        std::fill_n(count, 9, 0);
+        std::fill_n(count, 200, 0);
         std::fill_n(sorted, n, 0);
         start++;
         end++;
