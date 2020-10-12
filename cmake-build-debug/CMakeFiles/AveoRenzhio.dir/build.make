@@ -2677,6 +2677,32 @@ CMakeFiles/AveoRenzhio.dir/Modified_Counting_Sort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/Modified_Counting_Sort.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Modified_Counting_Sort.cpp -o CMakeFiles/AveoRenzhio.dir/Modified_Counting_Sort.cpp.s
 
+CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.o: ../MaxDiffBWTwoElements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.o -c /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MaxDiffBWTwoElements.cpp
+
+CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MaxDiffBWTwoElements.cpp > CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MaxDiffBWTwoElements.cpp -o CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.s
+
+CMakeFiles/AveoRenzhio.dir/pattern.cpp.o: CMakeFiles/AveoRenzhio.dir/flags.make
+CMakeFiles/AveoRenzhio.dir/pattern.cpp.o: ../pattern.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/AveoRenzhio.dir/pattern.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AveoRenzhio.dir/pattern.cpp.o -c /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/pattern.cpp
+
+CMakeFiles/AveoRenzhio.dir/pattern.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AveoRenzhio.dir/pattern.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/pattern.cpp > CMakeFiles/AveoRenzhio.dir/pattern.cpp.i
+
+CMakeFiles/AveoRenzhio.dir/pattern.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AveoRenzhio.dir/pattern.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/pattern.cpp -o CMakeFiles/AveoRenzhio.dir/pattern.cpp.s
+
 # Object files for target AveoRenzhio
 AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/Thoughts2BinarySampleProblem1.cpp.o" \
@@ -2878,7 +2904,9 @@ AveoRenzhio_OBJECTS = \
 "CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/AppendAndDeleteAlternate.cpp.o" \
 "CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotifUsingCountSort.cpp.o" \
-"CMakeFiles/AveoRenzhio.dir/Modified_Counting_Sort.cpp.o"
+"CMakeFiles/AveoRenzhio.dir/Modified_Counting_Sort.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.o" \
+"CMakeFiles/AveoRenzhio.dir/pattern.cpp.o"
 
 # External object files for target AveoRenzhio
 AveoRenzhio_EXTERNAL_OBJECTS =
@@ -3083,9 +3111,11 @@ AveoRenzhio: CMakeFiles/AveoRenzhio.dir/DijsktraAlgorithm.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/AppendAndDeleteAlternate.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/FraudulentActivityNotifUsingCountSort.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/Modified_Counting_Sort.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.o
+AveoRenzhio: CMakeFiles/AveoRenzhio.dir/pattern.cpp.o
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/build.make
 AveoRenzhio: CMakeFiles/AveoRenzhio.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Linking CXX executable AveoRenzhio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Linking CXX executable AveoRenzhio"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AveoRenzhio.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

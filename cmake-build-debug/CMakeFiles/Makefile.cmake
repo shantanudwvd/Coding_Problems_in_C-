@@ -56,6 +56,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/SumOfMinMax.dir/DependInfo.cmake"
   "CMakeFiles/SubArrayProduct.dir/DependInfo.cmake"
   "CMakeFiles/FindMinimum.dir/DependInfo.cmake"
+  "CMakeFiles/pattern.dir/DependInfo.cmake"
   "CMakeFiles/maxInQueue.dir/DependInfo.cmake"
   "CMakeFiles/pickingNumbers.dir/DependInfo.cmake"
   "CMakeFiles/DuplicatesataDistanceK.dir/DependInfo.cmake"

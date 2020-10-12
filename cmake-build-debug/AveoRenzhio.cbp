@@ -379,6 +379,50 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="pattern">
+				<Option output="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 pattern"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pattern/fast">
+				<Option output="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/pattern" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 pattern/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="maxInQueue">
 				<Option output="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/maxInQueue" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug"/>
@@ -6699,6 +6743,9 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Mark and Toys.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MaxDiffBWTwoElements.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Maximizing XOR.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
@@ -7035,6 +7082,10 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/pangrams.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/pattern.cpp">
+			<Option target="pattern"/>
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/pickingNumbers.cpp">

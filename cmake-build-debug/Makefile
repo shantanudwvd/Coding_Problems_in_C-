@@ -235,6 +235,19 @@ FindMinimum/fast:
 .PHONY : FindMinimum/fast
 
 #=============================================================================
+# Target rules for targets named pattern
+
+# Build rule for target.
+pattern: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pattern
+.PHONY : pattern
+
+# fast build rule for target.
+pattern/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pattern.dir/build.make CMakeFiles/pattern.dir/build
+.PHONY : pattern/fast
+
+#=============================================================================
 # Target rules for targets named maxInQueue
 
 # Build rule for target.
@@ -4896,6 +4909,33 @@ Mark_and_Toys.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Mark_and_Toys.cpp.s
 .PHONY : Mark_and_Toys.cpp.s
 
+MaxDiffBWTwoElements.o: MaxDiffBWTwoElements.cpp.o
+
+.PHONY : MaxDiffBWTwoElements.o
+
+# target to build an object file
+MaxDiffBWTwoElements.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.o
+.PHONY : MaxDiffBWTwoElements.cpp.o
+
+MaxDiffBWTwoElements.i: MaxDiffBWTwoElements.cpp.i
+
+.PHONY : MaxDiffBWTwoElements.i
+
+# target to preprocess a source file
+MaxDiffBWTwoElements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.i
+.PHONY : MaxDiffBWTwoElements.cpp.i
+
+MaxDiffBWTwoElements.s: MaxDiffBWTwoElements.cpp.s
+
+.PHONY : MaxDiffBWTwoElements.s
+
+# target to generate assembly for a file
+MaxDiffBWTwoElements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.s
+.PHONY : MaxDiffBWTwoElements.cpp.s
+
 Maximizing_XOR.o: Maximizing_XOR.cpp.o
 
 .PHONY : Maximizing_XOR.o
@@ -7539,6 +7579,36 @@ pangrams.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/pangrams.cpp.s
 .PHONY : pangrams.cpp.s
 
+pattern.o: pattern.cpp.o
+
+.PHONY : pattern.o
+
+# target to build an object file
+pattern.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pattern.dir/build.make CMakeFiles/pattern.dir/pattern.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/pattern.cpp.o
+.PHONY : pattern.cpp.o
+
+pattern.i: pattern.cpp.i
+
+.PHONY : pattern.i
+
+# target to preprocess a source file
+pattern.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pattern.dir/build.make CMakeFiles/pattern.dir/pattern.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/pattern.cpp.i
+.PHONY : pattern.cpp.i
+
+pattern.s: pattern.cpp.s
+
+.PHONY : pattern.s
+
+# target to generate assembly for a file
+pattern.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pattern.dir/build.make CMakeFiles/pattern.dir/pattern.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/pattern.cpp.s
+.PHONY : pattern.cpp.s
+
 pickingNumbers.o: pickingNumbers.cpp.o
 
 .PHONY : pickingNumbers.o
@@ -8030,6 +8100,7 @@ help:
 	@echo "... monkandnicestrings"
 	@echo "... monkandrotation"
 	@echo "... move_zeroes"
+	@echo "... pattern"
 	@echo "... pickingNumbers"
 	@echo "... rearrange_array"
 	@echo "... remove_adjacent_characters"
@@ -8338,6 +8409,9 @@ help:
 	@echo "... Mark_and_Toys.o"
 	@echo "... Mark_and_Toys.i"
 	@echo "... Mark_and_Toys.s"
+	@echo "... MaxDiffBWTwoElements.o"
+	@echo "... MaxDiffBWTwoElements.i"
+	@echo "... MaxDiffBWTwoElements.s"
 	@echo "... Maximizing_XOR.o"
 	@echo "... Maximizing_XOR.i"
 	@echo "... Maximizing_XOR.s"
@@ -8611,6 +8685,9 @@ help:
 	@echo "... pangrams.o"
 	@echo "... pangrams.i"
 	@echo "... pangrams.s"
+	@echo "... pattern.o"
+	@echo "... pattern.i"
+	@echo "... pattern.s"
 	@echo "... pickingNumbers.o"
 	@echo "... pickingNumbers.i"
 	@echo "... pickingNumbers.s"
