@@ -175,76 +175,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f40dc9a4-172e-4c63-a051-db14b069f909" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MaxDiffBWTwoElements.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/AveoRenzhio.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/AveoRenzhio.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CuttheSticks.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindTheRunningMedianOptimized.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Find_Pos_X.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Find_Pos_X.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FraudulentActivityNotifications.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofThrones.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GameofTwoStacks.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Get_the_shadow.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Get_the_shadow.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Diff.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Diff.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Element.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Kth_Smallest_Element.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LarryArray.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LilysHomework.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LisaWorkbook.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandStevieSmith.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LittleMonkandWilliamson.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Maximum_Product_ofK.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Maximum_Product_ofK.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Min_steps_i_a_grid.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Min_steps_i_a_grid.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Naive_Pattern_Search.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operations_in_Deque.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operations_in_Deque.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlants.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PoisnousPlants.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poisonous_Plants_Optimised.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Poisonous_Plants_Optimised.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Power_Set.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Power_Set.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueenAttackIIAlternate.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Queue_operations.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Queue_operations.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QuickSort-2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QuickSort-2.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Red_knights_shortest_path.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Red_knights_shortest_path.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Reverse_First_K_elements_of_Queue.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Reverse_First_K_elements_of_Queue.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/RookMovement.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rotate_the_matrix.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Rotate_the_matrix.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sample_File.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Set5Problem1TheGoldenCrown.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SheldonandValidString.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SherlockandSquares.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Simple_Numbers.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StrongPassword.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SubArrayProduct.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sum_of_Product_of_Digits.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sum_of_Product_of_Digits.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TimeinWords.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TwoStrings.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UtopianTree.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Waiter.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best_time_to_buy_and_sell_stock.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/best_time_to_buy_and_sell_stock.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/betweeentwosets.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/betweeentwosets.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/binary_number.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/binary_number.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diagonal_traversal.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/diagonal_traversal.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fairrations.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fill_the_missing_spaces.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/fill_the_missing_spaces.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/funnystring.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingmaxheapifycormen.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/heapsortingusingminheapifycormen.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hiphiparray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hiphiparray.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/maxInQueue.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/maxInQueue.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/monkandrotation.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/monkandrotation.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/move_zeroes.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/move_zeroes.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-    </list>
+    <list default="true" id="f40dc9a4-172e-4c63-a051-db14b069f909" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1496,7 +1427,7 @@
       <workItem from="1602345863137" duration="9965000" />
       <workItem from="1602394516432" duration="7565000" />
       <workItem from="1602481393332" duration="4255000" />
-      <workItem from="1602488143080" duration="3048000" />
+      <workItem from="1602488143080" duration="3719000" />
     </task>
     <servers />
   </component>
@@ -1536,57 +1467,57 @@
     </state>
     <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597669259582" />
     <state x="510" y="149" width="424" height="491" key="FileChooserDialogImpl/72.29.1294.739@72.29.1294.739" timestamp="1600153037699" />
-    <state width="1320" height="269" key="GridCell.Tab.0.bottom" timestamp="1602496248242">
+    <state width="1320" height="247" key="GridCell.Tab.0.bottom" timestamp="1602498889932">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="269" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602496248242" />
+    <state width="1320" height="247" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602498889932" />
     <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1601100412614" />
     <state width="1248" height="241" key="GridCell.Tab.0.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="269" key="GridCell.Tab.0.center" timestamp="1602496248232">
+    <state width="1320" height="247" key="GridCell.Tab.0.center" timestamp="1602498889927">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="269" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1602496248232" />
+    <state width="1320" height="247" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1602498889927" />
     <state width="1320" height="172" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1601100412610" />
     <state width="1248" height="241" key="GridCell.Tab.0.center/72.29.1294.739@72.29.1294.739" timestamp="1600688664531" />
-    <state width="1320" height="269" key="GridCell.Tab.0.left" timestamp="1602496248230">
+    <state width="1320" height="247" key="GridCell.Tab.0.left" timestamp="1602498889926">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="269" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1602496248230" />
+    <state width="1320" height="247" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1602498889926" />
     <state width="1320" height="172" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1601100412608" />
     <state width="1248" height="241" key="GridCell.Tab.0.left/72.29.1294.739@72.29.1294.739" timestamp="1600688664531" />
-    <state width="1320" height="269" key="GridCell.Tab.0.right" timestamp="1602496248234">
+    <state width="1320" height="247" key="GridCell.Tab.0.right" timestamp="1602498889931">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="269" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1602496248234" />
+    <state width="1320" height="247" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1602498889931" />
     <state width="1320" height="172" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1601100412612" />
     <state width="1248" height="241" key="GridCell.Tab.0.right/72.29.1294.739@72.29.1294.739" timestamp="1600688664532" />
-    <state width="1320" height="247" key="GridCell.Tab.1.bottom" timestamp="1602496118978">
+    <state width="1320" height="247" key="GridCell.Tab.1.bottom" timestamp="1602498889938">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599141908627" />
-    <state width="1320" height="247" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602496118978" />
+    <state width="1320" height="247" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602498889938" />
     <state width="1248" height="241" key="GridCell.Tab.1.bottom/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="247" key="GridCell.Tab.1.center" timestamp="1602496118975">
+    <state width="1320" height="247" key="GridCell.Tab.1.center" timestamp="1602498889936">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="247" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1602496118975" />
+    <state width="1320" height="247" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1602498889936" />
     <state width="1248" height="241" key="GridCell.Tab.1.center/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="247" key="GridCell.Tab.1.left" timestamp="1602496118974">
+    <state width="1320" height="247" key="GridCell.Tab.1.left" timestamp="1602498889934">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="247" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1602496118974" />
+    <state width="1320" height="247" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1602498889934" />
     <state width="1248" height="241" key="GridCell.Tab.1.left/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
-    <state width="1320" height="247" key="GridCell.Tab.1.right" timestamp="1602496118976">
+    <state width="1320" height="247" key="GridCell.Tab.1.right" timestamp="1602498889937">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1323" height="247" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599141908626" />
-    <state width="1320" height="247" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1602496118976" />
+    <state width="1320" height="247" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1602498889937" />
     <state width="1248" height="241" key="GridCell.Tab.1.right/72.29.1294.739@72.29.1294.739" timestamp="1600688664534" />
     <state x="24" y="27" width="1336" height="741" key="SettingsEditor" timestamp="1602487150979">
       <screen x="0" y="27" width="1366" height="741" />
