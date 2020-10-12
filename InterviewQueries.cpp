@@ -74,7 +74,7 @@ int main() {
         } else if (q == 3) {
             heapsize = length;
             if (length == 0)
-                cout<< "-1" <<endl;
+                cout << "-1" << endl;
             else {
                 max_heapify(array, 0);
                 cout << array[0] << endl;
@@ -82,7 +82,7 @@ int main() {
         } else if (q == 4) {
             heapsize = length;
             if (length == 0)
-                cout<< "-1" <<endl;
+                cout << "-1" << endl;
             else {
                 min_heapify(array, 0);
                 cout << array[0] << endl;
