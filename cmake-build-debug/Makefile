@@ -6547,6 +6547,33 @@ StackUsingQueues.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/StackUsingQueues.cpp.s
 .PHONY : StackUsingQueues.cpp.s
 
+StringStream.o: StringStream.cpp.o
+
+.PHONY : StringStream.o
+
+# target to build an object file
+StringStream.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/StringStream.cpp.o
+.PHONY : StringStream.cpp.o
+
+StringStream.i: StringStream.cpp.i
+
+.PHONY : StringStream.i
+
+# target to preprocess a source file
+StringStream.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/StringStream.cpp.i
+.PHONY : StringStream.cpp.i
+
+StringStream.s: StringStream.cpp.s
+
+.PHONY : StringStream.s
+
+# target to generate assembly for a file
+StringStream.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/StringStream.cpp.s
+.PHONY : StringStream.cpp.s
+
 StrongPassword.o: StrongPassword.cpp.o
 
 .PHONY : StrongPassword.o
@@ -8580,6 +8607,9 @@ help:
 	@echo "... StackUsingQueues.o"
 	@echo "... StackUsingQueues.i"
 	@echo "... StackUsingQueues.s"
+	@echo "... StringStream.o"
+	@echo "... StringStream.i"
+	@echo "... StringStream.s"
 	@echo "... StrongPassword.o"
 	@echo "... StrongPassword.i"
 	@echo "... StrongPassword.s"

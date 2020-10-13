@@ -158,6 +158,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Simple_Transpose.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/SparseArrays.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/SparseArrays.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/StackUsingQueues.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/StackUsingQueues.cpp.o"
+  "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/StringStream.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/StringStream.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/StrongPassword.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/StrongPassword.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/SubArrayProduct.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/SubArrayProduct.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/SumOfMinMax.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o"

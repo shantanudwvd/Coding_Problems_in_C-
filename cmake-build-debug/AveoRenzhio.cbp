@@ -6947,6 +6947,9 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/StackUsingQueues.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/StringStream.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/StrongPassword.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="StrongPassword"/>

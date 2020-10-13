@@ -155,6 +155,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/SparseArrays.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/StackUsingQueues.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/StringStream.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/StrongPassword.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/SubArrayProduct.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/SumOfMinMax.cpp.o"
