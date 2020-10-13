@@ -104,6 +104,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/AveoRenzhio.dir/Maximum_Product_ofK.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/Merge_Sort.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/MiddleOprInStack.cpp.o"
+  "CMakeFiles/AveoRenzhio.dir/MinMaxRiddle.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/MinimumAbsoluteDiffInAnArray.cpp.o"
   "CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o"

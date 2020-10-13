@@ -6760,6 +6760,9 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MiddleOprInStack.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MinMaxRiddle.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Min_steps_i_a_grid.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="Min_steps_i_a_grid"/>

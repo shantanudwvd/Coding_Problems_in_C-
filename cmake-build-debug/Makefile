@@ -5050,6 +5050,33 @@ MiddleOprInStack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MiddleOprInStack.cpp.s
 .PHONY : MiddleOprInStack.cpp.s
 
+MinMaxRiddle.o: MinMaxRiddle.cpp.o
+
+.PHONY : MinMaxRiddle.o
+
+# target to build an object file
+MinMaxRiddle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinMaxRiddle.cpp.o
+.PHONY : MinMaxRiddle.cpp.o
+
+MinMaxRiddle.i: MinMaxRiddle.cpp.i
+
+.PHONY : MinMaxRiddle.i
+
+# target to preprocess a source file
+MinMaxRiddle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinMaxRiddle.cpp.i
+.PHONY : MinMaxRiddle.cpp.i
+
+MinMaxRiddle.s: MinMaxRiddle.cpp.s
+
+.PHONY : MinMaxRiddle.s
+
+# target to generate assembly for a file
+MinMaxRiddle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinMaxRiddle.cpp.s
+.PHONY : MinMaxRiddle.cpp.s
+
 Min_steps_i_a_grid.o: Min_steps_i_a_grid.cpp.o
 
 .PHONY : Min_steps_i_a_grid.o
@@ -8451,6 +8478,9 @@ help:
 	@echo "... MiddleOprInStack.o"
 	@echo "... MiddleOprInStack.i"
 	@echo "... MiddleOprInStack.s"
+	@echo "... MinMaxRiddle.o"
+	@echo "... MinMaxRiddle.i"
+	@echo "... MinMaxRiddle.s"
 	@echo "... Min_steps_i_a_grid.o"
 	@echo "... Min_steps_i_a_grid.i"
 	@echo "... Min_steps_i_a_grid.s"

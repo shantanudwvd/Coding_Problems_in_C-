@@ -32,8 +32,4 @@ int main() {
     for (char i : str1) {
         cout<<i;
     }
-    auto index =
-    for (int i = 0; i < ; ++i) {
-        
-    }
 }

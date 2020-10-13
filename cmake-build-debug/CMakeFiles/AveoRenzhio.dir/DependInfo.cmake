@@ -107,6 +107,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Maximum_Product_ofK.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Maximum_Product_ofK.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Merge_Sort.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Merge_Sort.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MiddleOprInStack.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MiddleOprInStack.cpp.o"
+  "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MinMaxRiddle.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MinMaxRiddle.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Min_steps_i_a_grid.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/Min_steps_i_a_grid.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MinimumAbsoluteDiffInAnArray.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MinimumAbsoluteDiffInAnArray.cpp.o"
   "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MinimumSwaps2.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/AveoRenzhio.dir/MinimumSwaps2.cpp.o"
