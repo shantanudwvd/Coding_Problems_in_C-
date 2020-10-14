@@ -5443,6 +5443,33 @@ Next_Largest_Element.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Next_Largest_Element.cpp.s
 .PHONY : Next_Largest_Element.cpp.s
 
+NumberOfPrimes.o: NumberOfPrimes.cpp.o
+
+.PHONY : NumberOfPrimes.o
+
+# target to build an object file
+NumberOfPrimes.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/NumberOfPrimes.cpp.o
+.PHONY : NumberOfPrimes.cpp.o
+
+NumberOfPrimes.i: NumberOfPrimes.cpp.i
+
+.PHONY : NumberOfPrimes.i
+
+# target to preprocess a source file
+NumberOfPrimes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/NumberOfPrimes.cpp.i
+.PHONY : NumberOfPrimes.cpp.i
+
+NumberOfPrimes.s: NumberOfPrimes.cpp.s
+
+.PHONY : NumberOfPrimes.s
+
+# target to generate assembly for a file
+NumberOfPrimes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/NumberOfPrimes.cpp.s
+.PHONY : NumberOfPrimes.cpp.s
+
 Operations_in_Deque.o: Operations_in_Deque.cpp.o
 
 .PHONY : Operations_in_Deque.o
@@ -6373,6 +6400,33 @@ SheldonandValidString.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SheldonandValidString.dir/build.make CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.s
 .PHONY : SheldonandValidString.cpp.s
 
+SherlockAndSquares.o: SherlockAndSquares.cpp.o
+
+.PHONY : SherlockAndSquares.o
+
+# target to build an object file
+SherlockAndSquares.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SherlockAndSquares.cpp.o
+.PHONY : SherlockAndSquares.cpp.o
+
+SherlockAndSquares.i: SherlockAndSquares.cpp.i
+
+.PHONY : SherlockAndSquares.i
+
+# target to preprocess a source file
+SherlockAndSquares.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SherlockAndSquares.cpp.i
+.PHONY : SherlockAndSquares.cpp.i
+
+SherlockAndSquares.s: SherlockAndSquares.cpp.s
+
+.PHONY : SherlockAndSquares.s
+
+# target to generate assembly for a file
+SherlockAndSquares.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SherlockAndSquares.cpp.s
+.PHONY : SherlockAndSquares.cpp.s
+
 SherlockandSquares.o: SherlockandSquares.cpp.o
 
 .PHONY : SherlockandSquares.o
@@ -6573,6 +6627,33 @@ StackUsingQueues.s: StackUsingQueues.cpp.s
 StackUsingQueues.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/StackUsingQueues.cpp.s
 .PHONY : StackUsingQueues.cpp.s
+
+StringConstruction.o: StringConstruction.cpp.o
+
+.PHONY : StringConstruction.o
+
+# target to build an object file
+StringConstruction.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/StringConstruction.cpp.o
+.PHONY : StringConstruction.cpp.o
+
+StringConstruction.i: StringConstruction.cpp.i
+
+.PHONY : StringConstruction.i
+
+# target to preprocess a source file
+StringConstruction.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/StringConstruction.cpp.i
+.PHONY : StringConstruction.cpp.i
+
+StringConstruction.s: StringConstruction.cpp.s
+
+.PHONY : StringConstruction.s
+
+# target to generate assembly for a file
+StringConstruction.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/StringConstruction.cpp.s
+.PHONY : StringConstruction.cpp.s
 
 StringStream.o: StringStream.cpp.o
 
@@ -6807,6 +6888,33 @@ TimeinWords.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TimeinWords.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TimeinWords.dir/build.make CMakeFiles/TimeinWords.dir/TimeinWords.cpp.s
 .PHONY : TimeinWords.cpp.s
+
+TwoCharacter.o: TwoCharacter.cpp.o
+
+.PHONY : TwoCharacter.o
+
+# target to build an object file
+TwoCharacter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TwoCharacter.cpp.o
+.PHONY : TwoCharacter.cpp.o
+
+TwoCharacter.i: TwoCharacter.cpp.i
+
+.PHONY : TwoCharacter.i
+
+# target to preprocess a source file
+TwoCharacter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TwoCharacter.cpp.i
+.PHONY : TwoCharacter.cpp.i
+
+TwoCharacter.s: TwoCharacter.cpp.s
+
+.PHONY : TwoCharacter.s
+
+# target to generate assembly for a file
+TwoCharacter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/TwoCharacter.cpp.s
+.PHONY : TwoCharacter.cpp.s
 
 TwoStrings.o: TwoStrings.cpp.o
 
@@ -8520,6 +8628,9 @@ help:
 	@echo "... Next_Largest_Element.o"
 	@echo "... Next_Largest_Element.i"
 	@echo "... Next_Largest_Element.s"
+	@echo "... NumberOfPrimes.o"
+	@echo "... NumberOfPrimes.i"
+	@echo "... NumberOfPrimes.s"
 	@echo "... Operations_in_Deque.o"
 	@echo "... Operations_in_Deque.i"
 	@echo "... Operations_in_Deque.s"
@@ -8616,6 +8727,9 @@ help:
 	@echo "... SheldonandValidString.o"
 	@echo "... SheldonandValidString.i"
 	@echo "... SheldonandValidString.s"
+	@echo "... SherlockAndSquares.o"
+	@echo "... SherlockAndSquares.i"
+	@echo "... SherlockAndSquares.s"
 	@echo "... SherlockandSquares.o"
 	@echo "... SherlockandSquares.i"
 	@echo "... SherlockandSquares.s"
@@ -8637,6 +8751,9 @@ help:
 	@echo "... StackUsingQueues.o"
 	@echo "... StackUsingQueues.i"
 	@echo "... StackUsingQueues.s"
+	@echo "... StringConstruction.o"
+	@echo "... StringConstruction.i"
+	@echo "... StringConstruction.s"
 	@echo "... StringStream.o"
 	@echo "... StringStream.i"
 	@echo "... StringStream.s"
@@ -8661,6 +8778,9 @@ help:
 	@echo "... TimeinWords.o"
 	@echo "... TimeinWords.i"
 	@echo "... TimeinWords.s"
+	@echo "... TwoCharacter.o"
+	@echo "... TwoCharacter.i"
+	@echo "... TwoCharacter.s"
 	@echo "... TwoStrings.o"
 	@echo "... TwoStrings.i"
 	@echo "... TwoStrings.s"

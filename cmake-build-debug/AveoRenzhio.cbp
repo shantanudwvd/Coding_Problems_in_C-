@@ -6807,6 +6807,9 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Next_Largest_Element.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/NumberOfPrimes.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Operations_in_Deque.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="Operations_in_Deque"/>
@@ -6925,6 +6928,9 @@
 			<Option target="AveoRenzhio"/>
 			<Option target="SheldonandValidString"/>
 		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/SherlockAndSquares.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/SherlockandSquares.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="SherlockandSquares"/>
@@ -6948,6 +6954,9 @@
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/StackUsingQueues.cpp">
+			<Option target="AveoRenzhio"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/StringConstruction.cpp">
 			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/StringStream.cpp">
@@ -6979,6 +6988,9 @@
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/TimeinWords.cpp">
 			<Option target="AveoRenzhio"/>
 			<Option target="TimeinWords"/>
+		</Unit>
+		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/TwoCharacter.cpp">
+			<Option target="AveoRenzhio"/>
 		</Unit>
 		<Unit filename="/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/TwoStrings.cpp">
 			<Option target="AveoRenzhio"/>
