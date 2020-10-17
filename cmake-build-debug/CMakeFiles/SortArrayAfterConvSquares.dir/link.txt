@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -g   CMakeFiles/SortArrayAfterConvSquares.dir/SortSquares.cpp.o  -o SortArrayAfterConvSquares 

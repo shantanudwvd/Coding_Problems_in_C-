@@ -131,6 +131,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named MinMaxRiddle
+
+# Build rule for target.
+MinMaxRiddle: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 MinMaxRiddle
+.PHONY : MinMaxRiddle
+
+# fast build rule for target.
+MinMaxRiddle/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MinMaxRiddle.dir/build.make CMakeFiles/MinMaxRiddle.dir/build
+.PHONY : MinMaxRiddle/fast
+
+#=============================================================================
 # Target rules for targets named Modified_Counting_Sort
 
 # Build rule for target.
@@ -976,6 +989,19 @@ BalancedBrackets/fast:
 .PHONY : BalancedBrackets/fast
 
 #=============================================================================
+# Target rules for targets named SortSquares
+
+# Build rule for target.
+SortSquares: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 SortSquares
+.PHONY : SortSquares
+
+# fast build rule for target.
+SortSquares/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortSquares.dir/build.make CMakeFiles/SortSquares.dir/build
+.PHONY : SortSquares/fast
+
+#=============================================================================
 # Target rules for targets named LittleMonkandStevieSmith
 
 # Build rule for target.
@@ -1143,6 +1169,19 @@ PoisnousPlants: cmake_check_build_system
 PoisnousPlants/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/PoisnousPlants.dir/build.make CMakeFiles/PoisnousPlants.dir/build
 .PHONY : PoisnousPlants/fast
+
+#=============================================================================
+# Target rules for targets named MaxMin
+
+# Build rule for target.
+MaxMin: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 MaxMin
+.PHONY : MaxMin
+
+# fast build rule for target.
+MaxMin/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MaxMin.dir/build.make CMakeFiles/MaxMin.dir/build
+.PHONY : MaxMin/fast
 
 #=============================================================================
 # Target rules for targets named 3DSurfaceArea
@@ -4936,6 +4975,36 @@ MaxDiffBWTwoElements.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxDiffBWTwoElements.cpp.s
 .PHONY : MaxDiffBWTwoElements.cpp.s
 
+MaxMin.o: MaxMin.cpp.o
+
+.PHONY : MaxMin.o
+
+# target to build an object file
+MaxMin.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MaxMin.dir/build.make CMakeFiles/MaxMin.dir/MaxMin.cpp.o
+.PHONY : MaxMin.cpp.o
+
+MaxMin.i: MaxMin.cpp.i
+
+.PHONY : MaxMin.i
+
+# target to preprocess a source file
+MaxMin.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MaxMin.dir/build.make CMakeFiles/MaxMin.dir/MaxMin.cpp.i
+.PHONY : MaxMin.cpp.i
+
+MaxMin.s: MaxMin.cpp.s
+
+.PHONY : MaxMin.s
+
+# target to generate assembly for a file
+MaxMin.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MaxMin.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MaxMin.dir/build.make CMakeFiles/MaxMin.dir/MaxMin.cpp.s
+.PHONY : MaxMin.cpp.s
+
 Maximizing_XOR.o: Maximizing_XOR.cpp.o
 
 .PHONY : Maximizing_XOR.o
@@ -5056,6 +5125,7 @@ MinMaxRiddle.o: MinMaxRiddle.cpp.o
 
 # target to build an object file
 MinMaxRiddle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MinMaxRiddle.dir/build.make CMakeFiles/MinMaxRiddle.dir/MinMaxRiddle.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinMaxRiddle.cpp.o
 .PHONY : MinMaxRiddle.cpp.o
 
@@ -5065,6 +5135,7 @@ MinMaxRiddle.i: MinMaxRiddle.cpp.i
 
 # target to preprocess a source file
 MinMaxRiddle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MinMaxRiddle.dir/build.make CMakeFiles/MinMaxRiddle.dir/MinMaxRiddle.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinMaxRiddle.cpp.i
 .PHONY : MinMaxRiddle.cpp.i
 
@@ -5074,6 +5145,7 @@ MinMaxRiddle.s: MinMaxRiddle.cpp.s
 
 # target to generate assembly for a file
 MinMaxRiddle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MinMaxRiddle.dir/build.make CMakeFiles/MinMaxRiddle.dir/MinMaxRiddle.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/MinMaxRiddle.cpp.s
 .PHONY : MinMaxRiddle.cpp.s
 
@@ -6573,6 +6645,36 @@ Simple_Transpose.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/Simple_Transpose.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Simple_Transpose.dir/build.make CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.s
 .PHONY : Simple_Transpose.cpp.s
+
+SortSquares.o: SortSquares.cpp.o
+
+.PHONY : SortSquares.o
+
+# target to build an object file
+SortSquares.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortSquares.dir/build.make CMakeFiles/SortSquares.dir/SortSquares.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SortSquares.cpp.o
+.PHONY : SortSquares.cpp.o
+
+SortSquares.i: SortSquares.cpp.i
+
+.PHONY : SortSquares.i
+
+# target to preprocess a source file
+SortSquares.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortSquares.dir/build.make CMakeFiles/SortSquares.dir/SortSquares.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SortSquares.cpp.i
+.PHONY : SortSquares.cpp.i
+
+SortSquares.s: SortSquares.cpp.s
+
+.PHONY : SortSquares.s
+
+# target to generate assembly for a file
+SortSquares.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SortSquares.dir/build.make CMakeFiles/SortSquares.dir/SortSquares.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AveoRenzhio.dir/build.make CMakeFiles/AveoRenzhio.dir/SortSquares.cpp.s
+.PHONY : SortSquares.cpp.s
 
 SparseArrays.o: SparseArrays.cpp.o
 
@@ -8200,8 +8302,10 @@ help:
 	@echo "... LittleMonkandStevieSmith"
 	@echo "... LittleMonkandVirat"
 	@echo "... LittleMonkandWilliamson"
+	@echo "... MaxMin"
 	@echo "... Maximum_Product_ofK"
 	@echo "... Merge_Sort"
+	@echo "... MinMaxRiddle"
 	@echo "... Min_steps_i_a_grid"
 	@echo "... MinimumSwaps2Alternate"
 	@echo "... Minimum_Cost_Of_Ropes"
@@ -8233,6 +8337,7 @@ help:
 	@echo "... Simple_Determinant"
 	@echo "... Simple_Numbers"
 	@echo "... Simple_Transpose"
+	@echo "... SortSquares"
 	@echo "... StrongPassword"
 	@echo "... SubArrayProduct"
 	@echo "... SumOfMinMax"
@@ -8574,6 +8679,9 @@ help:
 	@echo "... MaxDiffBWTwoElements.o"
 	@echo "... MaxDiffBWTwoElements.i"
 	@echo "... MaxDiffBWTwoElements.s"
+	@echo "... MaxMin.o"
+	@echo "... MaxMin.i"
+	@echo "... MaxMin.s"
 	@echo "... Maximizing_XOR.o"
 	@echo "... Maximizing_XOR.i"
 	@echo "... Maximizing_XOR.s"
@@ -8745,6 +8853,9 @@ help:
 	@echo "... Simple_Transpose.o"
 	@echo "... Simple_Transpose.i"
 	@echo "... Simple_Transpose.s"
+	@echo "... SortSquares.o"
+	@echo "... SortSquares.i"
+	@echo "... SortSquares.s"
 	@echo "... SparseArrays.o"
 	@echo "... SparseArrays.i"
 	@echo "... SparseArrays.s"

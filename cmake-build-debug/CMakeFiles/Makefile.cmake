@@ -48,6 +48,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/MinMaxRiddle.dir/DependInfo.cmake"
   "CMakeFiles/Modified_Counting_Sort.dir/DependInfo.cmake"
   "CMakeFiles/FraudulentActivityNotifUsingCountSort.dir/DependInfo.cmake"
   "CMakeFiles/DijsktraAlgorithm.dir/DependInfo.cmake"
@@ -113,6 +114,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/funnystring.dir/DependInfo.cmake"
   "CMakeFiles/QuickSort-2.dir/DependInfo.cmake"
   "CMakeFiles/BalancedBrackets.dir/DependInfo.cmake"
+  "CMakeFiles/SortSquares.dir/DependInfo.cmake"
   "CMakeFiles/LittleMonkandStevieSmith.dir/DependInfo.cmake"
   "CMakeFiles/GamingArray.dir/DependInfo.cmake"
   "CMakeFiles/AlmostSorted.dir/DependInfo.cmake"
@@ -126,6 +128,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/CuttheSticks.dir/DependInfo.cmake"
   "CMakeFiles/PrimsMinimumSpanningTree.dir/DependInfo.cmake"
   "CMakeFiles/PoisnousPlants.dir/DependInfo.cmake"
+  "CMakeFiles/MaxMin.dir/DependInfo.cmake"
   "CMakeFiles/3DSurfaceArea.dir/DependInfo.cmake"
   "CMakeFiles/AlternatingCharacters.dir/DependInfo.cmake"
   "CMakeFiles/AngryProfessor.dir/DependInfo.cmake"
