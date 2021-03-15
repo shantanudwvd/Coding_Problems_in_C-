@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/MinimumSwaps2Alternate.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.o"
+  "/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/MinimumSwaps2Alternate.cpp" "/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

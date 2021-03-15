@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/AppendAndDeleteAlternate.cpp
+/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/Deque-STL_Optimised.cpp
 iostream
 -
-vector
+deque
 -
 

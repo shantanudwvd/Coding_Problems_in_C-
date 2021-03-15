@@ -54,19 +54,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/129/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/137/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/129/bin/cmake/linux/bin/cmake -E rm -f
+RM = /snap/clion/137/bin/cmake/linux/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-
+CMAKE_SOURCE_DIR = /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug
+CMAKE_BINARY_DIR = /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/FindTheRunningMedianAlternate.dir/depend.make
@@ -79,16 +79,16 @@ include CMakeFiles/FindTheRunningMedianAlternate.dir/flags.make
 
 CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o: CMakeFiles/FindTheRunningMedianAlternate.dir/flags.make
 CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o: ../FindTheRunningMedianAlternate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o -c /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/FindTheRunningMedianAlternate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o -c /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/FindTheRunningMedianAlternate.cpp
 
 CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/FindTheRunningMedianAlternate.cpp > CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/FindTheRunningMedianAlternate.cpp > CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.i
 
 CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/FindTheRunningMedianAlternate.cpp -o CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/FindTheRunningMedianAlternate.cpp -o CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.s
 
 # Object files for target FindTheRunningMedianAlternate
 FindTheRunningMedianAlternate_OBJECTS = \
@@ -100,7 +100,7 @@ FindTheRunningMedianAlternate_EXTERNAL_OBJECTS =
 FindTheRunningMedianAlternate: CMakeFiles/FindTheRunningMedianAlternate.dir/FindTheRunningMedianAlternate.cpp.o
 FindTheRunningMedianAlternate: CMakeFiles/FindTheRunningMedianAlternate.dir/build.make
 FindTheRunningMedianAlternate: CMakeFiles/FindTheRunningMedianAlternate.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable FindTheRunningMedianAlternate"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable FindTheRunningMedianAlternate"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/FindTheRunningMedianAlternate.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -113,6 +113,6 @@ CMakeFiles/FindTheRunningMedianAlternate.dir/clean:
 .PHONY : CMakeFiles/FindTheRunningMedianAlternate.dir/clean
 
 CMakeFiles/FindTheRunningMedianAlternate.dir/depend:
-	cd /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aveorenzhio/CLionProjects/Coding_Problems_in_C- /home/aveorenzhio/CLionProjects/Coding_Problems_in_C- /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C- /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C- /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/FindTheRunningMedianAlternate.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/FindTheRunningMedianAlternate.dir/depend
 

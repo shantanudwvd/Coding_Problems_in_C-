@@ -54,19 +54,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/129/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/137/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/129/bin/cmake/linux/bin/cmake -E rm -f
+RM = /snap/clion/137/bin/cmake/linux/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-
+CMAKE_SOURCE_DIR = /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug
+CMAKE_BINARY_DIR = /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Reverse_First_K_elements_of_Queue.dir/depend.make
@@ -79,16 +79,16 @@ include CMakeFiles/Reverse_First_K_elements_of_Queue.dir/flags.make
 
 CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o: CMakeFiles/Reverse_First_K_elements_of_Queue.dir/flags.make
 CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o: ../Reverse_First_K_elements_of_Queue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o -c /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Reverse_First_K_elements_of_Queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o -c /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/Reverse_First_K_elements_of_Queue.cpp
 
 CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Reverse_First_K_elements_of_Queue.cpp > CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/Reverse_First_K_elements_of_Queue.cpp > CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.i
 
 CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Reverse_First_K_elements_of_Queue.cpp -o CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/Reverse_First_K_elements_of_Queue.cpp -o CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.s
 
 # Object files for target Reverse_First_K_elements_of_Queue
 Reverse_First_K_elements_of_Queue_OBJECTS = \
@@ -100,7 +100,7 @@ Reverse_First_K_elements_of_Queue_EXTERNAL_OBJECTS =
 Reverse_First_K_elements_of_Queue: CMakeFiles/Reverse_First_K_elements_of_Queue.dir/Reverse_First_K_elements_of_Queue.cpp.o
 Reverse_First_K_elements_of_Queue: CMakeFiles/Reverse_First_K_elements_of_Queue.dir/build.make
 Reverse_First_K_elements_of_Queue: CMakeFiles/Reverse_First_K_elements_of_Queue.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Reverse_First_K_elements_of_Queue"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Reverse_First_K_elements_of_Queue"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Reverse_First_K_elements_of_Queue.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -113,6 +113,6 @@ CMakeFiles/Reverse_First_K_elements_of_Queue.dir/clean:
 .PHONY : CMakeFiles/Reverse_First_K_elements_of_Queue.dir/clean
 
 CMakeFiles/Reverse_First_K_elements_of_Queue.dir/depend:
-	cd /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aveorenzhio/CLionProjects/Coding_Problems_in_C- /home/aveorenzhio/CLionProjects/Coding_Problems_in_C- /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Reverse_First_K_elements_of_Queue.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C- /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C- /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug /home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Reverse_First_K_elements_of_Queue.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Reverse_First_K_elements_of_Queue.dir/depend
 

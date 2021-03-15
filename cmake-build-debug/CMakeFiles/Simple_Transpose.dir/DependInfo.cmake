@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/Simple_Transpose.cpp" "/home/aveorenzhio/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.o"
+  "/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/Simple_Transpose.cpp" "/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
