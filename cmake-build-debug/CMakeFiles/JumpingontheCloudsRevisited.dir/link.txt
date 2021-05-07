@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/JumpingontheCloudsRevisited.dir/JumpingontheCloudsRevisited.cpp.o  -o JumpingontheCloudsRevisited 
+/usr/bin/c++  -O0 -g CMakeFiles/JumpingontheCloudsRevisited.dir/JumpingontheCloudsRevisited.cpp.o -o JumpingontheCloudsRevisited 

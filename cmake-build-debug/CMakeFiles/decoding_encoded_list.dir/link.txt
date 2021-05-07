@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/decoding_encoded_list.dir/decoding_encoded_list.cpp.o  -o decoding_encoded_list 
+/usr/bin/c++  -O0 -g CMakeFiles/decoding_encoded_list.dir/decoding_encoded_list.cpp.o -o decoding_encoded_list 

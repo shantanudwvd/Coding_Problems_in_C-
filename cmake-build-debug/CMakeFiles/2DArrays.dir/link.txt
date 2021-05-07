@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/2DArrays.dir/2DArrays.cpp.o  -o 2DArrays 
+/usr/bin/c++  -O0 -g CMakeFiles/2DArrays.dir/2DArrays.cpp.o -o 2DArrays 

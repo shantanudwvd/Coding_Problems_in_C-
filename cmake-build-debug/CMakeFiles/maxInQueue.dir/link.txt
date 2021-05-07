@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/maxInQueue.dir/maxInQueue.cpp.o  -o maxInQueue 
+/usr/bin/c++  -O0 -g CMakeFiles/maxInQueue.dir/maxInQueue.cpp.o -o maxInQueue 

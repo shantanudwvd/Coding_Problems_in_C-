@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/MaxMin.dir/MaxMin.cpp.o  -o MaxMin 
+/usr/bin/c++  -O0 -g CMakeFiles/MaxMin.dir/MaxMin.cpp.o -o MaxMin 

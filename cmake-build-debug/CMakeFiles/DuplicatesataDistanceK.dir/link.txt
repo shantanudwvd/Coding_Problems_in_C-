@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.o  -o DuplicatesataDistanceK 
+/usr/bin/c++  -O0 -g CMakeFiles/DuplicatesataDistanceK.dir/DuplicatesataDistanceK.cpp.o -o DuplicatesataDistanceK 

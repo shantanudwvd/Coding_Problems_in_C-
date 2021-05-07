@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.o  -o SheldonandValidString 
+/usr/bin/c++  -O0 -g CMakeFiles/SheldonandValidString.dir/SheldonandValidString.cpp.o -o SheldonandValidString 

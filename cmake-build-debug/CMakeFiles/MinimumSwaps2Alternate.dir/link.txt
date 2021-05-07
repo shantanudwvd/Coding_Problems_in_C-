@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.o  -o MinimumSwaps2Alternate 
+/usr/bin/c++  -O0 -g CMakeFiles/MinimumSwaps2Alternate.dir/MinimumSwaps2Alternate.cpp.o -o MinimumSwaps2Alternate 

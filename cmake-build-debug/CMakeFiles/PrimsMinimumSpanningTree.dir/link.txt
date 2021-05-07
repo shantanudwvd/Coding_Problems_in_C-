@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/PrimsMinimumSpanningTree.dir/PrimsMinimumSpanningTree.cpp.o  -o PrimsMinimumSpanningTree 
+/usr/bin/c++  -O0 -g CMakeFiles/PrimsMinimumSpanningTree.dir/PrimsMinimumSpanningTree.cpp.o -o PrimsMinimumSpanningTree 

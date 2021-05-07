@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/ArrayList.dir/ArrayList.cpp.o  -o ArrayList 
+/usr/bin/c++  -O0 -g CMakeFiles/ArrayList.dir/ArrayList.cpp.o -o ArrayList 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Sample_File.dir/Sample_File.cpp.o  -o Sample_File 
+/usr/bin/c++  -O0 -g CMakeFiles/Sample_File.dir/Sample_File.cpp.o -o Sample_File 

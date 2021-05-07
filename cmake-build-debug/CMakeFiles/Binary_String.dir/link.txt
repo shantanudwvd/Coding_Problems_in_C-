@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Binary_String.dir/Binary_String.cpp.o  -o Binary_String 
+/usr/bin/c++  -O0 -g CMakeFiles/Binary_String.dir/Binary_String.cpp.o -o Binary_String 

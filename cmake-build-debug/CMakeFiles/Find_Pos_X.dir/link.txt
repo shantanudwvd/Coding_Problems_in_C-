@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Find_Pos_X.dir/Find_Pos_X.cpp.o  -o Find_Pos_X 
+/usr/bin/c++  -O0 -g CMakeFiles/Find_Pos_X.dir/Find_Pos_X.cpp.o -o Find_Pos_X 

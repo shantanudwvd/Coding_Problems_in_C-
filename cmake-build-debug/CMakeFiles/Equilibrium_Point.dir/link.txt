@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Equilibrium_Point.dir/Pallindrome_Index.cpp.o  -o Equilibrium_Point 
+/usr/bin/c++  -O0 -g CMakeFiles/Equilibrium_Point.dir/Pallindrome_Index.cpp.o -o Equilibrium_Point 

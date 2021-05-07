@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Simple_Determinant.dir/Simple_Determinant.cpp.o  -o Simple_Determinant 
+/usr/bin/c++  -O0 -g CMakeFiles/Simple_Determinant.dir/Simple_Determinant.cpp.o -o Simple_Determinant 

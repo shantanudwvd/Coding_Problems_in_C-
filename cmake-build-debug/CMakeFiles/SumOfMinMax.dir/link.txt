@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/SumOfMinMax.dir/SumOfMinMax.cpp.o  -o SumOfMinMax 
+/usr/bin/c++  -O0 -g CMakeFiles/SumOfMinMax.dir/SumOfMinMax.cpp.o -o SumOfMinMax 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/simpletexteditorusingvectors.dir/simpletexteditorusingvectors.cpp.o  -o simpletexteditorusingvectors 
+/usr/bin/c++  -O0 -g CMakeFiles/simpletexteditorusingvectors.dir/simpletexteditorusingvectors.cpp.o -o simpletexteditorusingvectors 

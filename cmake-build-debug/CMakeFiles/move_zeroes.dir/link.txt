@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/move_zeroes.dir/move_zeroes.cpp.o  -o move_zeroes 
+/usr/bin/c++  -O0 -g CMakeFiles/move_zeroes.dir/move_zeroes.cpp.o -o move_zeroes 

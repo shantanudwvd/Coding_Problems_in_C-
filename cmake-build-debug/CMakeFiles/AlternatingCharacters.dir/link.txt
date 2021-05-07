@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/AlternatingCharacters.dir/AlternatingCharacters.cpp.o  -o AlternatingCharacters 
+/usr/bin/c++  -O0 -g CMakeFiles/AlternatingCharacters.dir/AlternatingCharacters.cpp.o -o AlternatingCharacters 

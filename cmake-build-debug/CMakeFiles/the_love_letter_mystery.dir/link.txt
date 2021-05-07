@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/the_love_letter_mystery.dir/the_love_letter_mystery.cpp.o  -o the_love_letter_mystery 
+/usr/bin/c++  -O0 -g CMakeFiles/the_love_letter_mystery.dir/the_love_letter_mystery.cpp.o -o the_love_letter_mystery 

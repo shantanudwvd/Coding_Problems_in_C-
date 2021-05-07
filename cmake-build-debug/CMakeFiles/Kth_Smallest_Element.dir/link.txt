@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Kth_Smallest_Element.dir/Kth_Smallest_Element.cpp.o  -o Kth_Smallest_Element 
+/usr/bin/c++  -O0 -g CMakeFiles/Kth_Smallest_Element.dir/Kth_Smallest_Element.cpp.o -o Kth_Smallest_Element 

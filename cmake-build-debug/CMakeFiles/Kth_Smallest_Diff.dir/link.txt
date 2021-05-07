@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Kth_Smallest_Diff.dir/Kth_Smallest_Diff.cpp.o  -o Kth_Smallest_Diff 
+/usr/bin/c++  -O0 -g CMakeFiles/Kth_Smallest_Diff.dir/Kth_Smallest_Diff.cpp.o -o Kth_Smallest_Diff 

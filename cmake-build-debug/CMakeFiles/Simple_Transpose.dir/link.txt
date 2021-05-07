@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.o  -o Simple_Transpose 
+/usr/bin/c++  -O0 -g CMakeFiles/Simple_Transpose.dir/Simple_Transpose.cpp.o -o Simple_Transpose 

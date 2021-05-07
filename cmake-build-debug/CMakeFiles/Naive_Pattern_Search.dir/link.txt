@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Naive_Pattern_Search.dir/Naive_Pattern_Search.cpp.o  -o Naive_Pattern_Search 
+/usr/bin/c++  -O0 -g CMakeFiles/Naive_Pattern_Search.dir/Naive_Pattern_Search.cpp.o -o Naive_Pattern_Search 

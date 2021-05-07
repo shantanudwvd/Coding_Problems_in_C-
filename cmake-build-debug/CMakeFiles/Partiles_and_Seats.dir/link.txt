@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Partiles_and_Seats.dir/Parties_and_Seats.cpp.o  -o Partiles_and_Seats 
+/usr/bin/c++  -O0 -g CMakeFiles/Partiles_and_Seats.dir/Parties_and_Seats.cpp.o -o Partiles_and_Seats 

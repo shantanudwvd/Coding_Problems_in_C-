@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Power_Set.dir/Power_Set.cpp.o  -o Power_Set 
+/usr/bin/c++  -O0 -g CMakeFiles/Power_Set.dir/Power_Set.cpp.o -o Power_Set 

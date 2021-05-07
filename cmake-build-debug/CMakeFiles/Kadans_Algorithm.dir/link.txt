@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Kadans_Algorithm.dir/Kadans_Algorithm.cpp.o  -o Kadans_Algorithm 
+/usr/bin/c++  -O0 -g CMakeFiles/Kadans_Algorithm.dir/Kadans_Algorithm.cpp.o -o Kadans_Algorithm 

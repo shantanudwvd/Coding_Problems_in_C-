@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Queue_operations.dir/Queue_operations.cpp.o  -o Queue_operations 
+/usr/bin/c++  -O0 -g CMakeFiles/Queue_operations.dir/Queue_operations.cpp.o -o Queue_operations 

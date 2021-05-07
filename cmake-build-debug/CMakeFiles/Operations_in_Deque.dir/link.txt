@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.o  -o Operations_in_Deque 
+/usr/bin/c++  -O0 -g CMakeFiles/Operations_in_Deque.dir/Operations_in_Deque.cpp.o -o Operations_in_Deque 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/diagonal_traversal.cpp" "/home/tracxn-lp-465/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/diagonal_traversal.dir/diagonal_traversal.cpp.o"
+  "/home/shantanu/CLionProjects/Coding_Problems_in_C-/diagonal_traversal.cpp" "/home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug/CMakeFiles/diagonal_traversal.dir/diagonal_traversal.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

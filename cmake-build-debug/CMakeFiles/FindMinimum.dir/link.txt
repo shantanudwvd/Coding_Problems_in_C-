@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/FindMinimum.dir/FindMinimum.cpp.o  -o FindMinimum 
+/usr/bin/c++  -O0 -g CMakeFiles/FindMinimum.dir/FindMinimum.cpp.o -o FindMinimum 

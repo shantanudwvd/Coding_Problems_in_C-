@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/SherlockandSquares.dir/SherlockandSquares.cpp.o  -o SherlockandSquares 
+/usr/bin/c++  -O0 -g CMakeFiles/SherlockandSquares.dir/SherlockandSquares.cpp.o -o SherlockandSquares 

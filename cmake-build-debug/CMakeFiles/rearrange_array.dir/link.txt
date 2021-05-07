@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/rearrange_array.dir/rearrange_array.cpp.o  -o rearrange_array 
+/usr/bin/c++  -O0 -g CMakeFiles/rearrange_array.dir/rearrange_array.cpp.o -o rearrange_array 

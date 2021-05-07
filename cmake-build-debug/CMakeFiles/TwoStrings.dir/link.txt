@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/TwoStrings.dir/TwoStrings.cpp.o  -o TwoStrings 
+/usr/bin/c++  -O0 -g CMakeFiles/TwoStrings.dir/TwoStrings.cpp.o -o TwoStrings 

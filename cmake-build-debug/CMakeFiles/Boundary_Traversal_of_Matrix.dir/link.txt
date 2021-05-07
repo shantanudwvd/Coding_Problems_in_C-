@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Boundary_Traversal_of_Matrix.dir/Boundary_Traversal_of_Matrix.cpp.o  -o Boundary_Traversal_of_Matrix 
+/usr/bin/c++  -O0 -g CMakeFiles/Boundary_Traversal_of_Matrix.dir/Boundary_Traversal_of_Matrix.cpp.o -o Boundary_Traversal_of_Matrix 

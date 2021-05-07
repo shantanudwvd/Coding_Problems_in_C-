@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/LilysHomework.dir/LilysHomework.cpp.o  -o LilysHomework 
+/usr/bin/c++  -O0 -g CMakeFiles/LilysHomework.dir/LilysHomework.cpp.o -o LilysHomework 

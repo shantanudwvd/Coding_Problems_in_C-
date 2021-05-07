@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Minimum_Cost_Of_Ropes.dir/Minimum_Cost_Of_Ropes.cpp.o  -o Minimum_Cost_Of_Ropes 
+/usr/bin/c++  -O0 -g CMakeFiles/Minimum_Cost_Of_Ropes.dir/Minimum_Cost_Of_Ropes.cpp.o -o Minimum_Cost_Of_Ropes 

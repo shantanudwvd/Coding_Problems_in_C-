@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.o  -o BeautifulTriplets 
+/usr/bin/c++  -O0 -g CMakeFiles/BeautifulTriplets.dir/BeautifulTriplets.cpp.o -o BeautifulTriplets 

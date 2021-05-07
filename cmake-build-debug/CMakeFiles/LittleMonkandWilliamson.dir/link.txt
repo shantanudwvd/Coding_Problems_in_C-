@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/LittleMonkandWilliamson.dir/LittleMonkandWilliamson.cpp.o  -o LittleMonkandWilliamson 
+/usr/bin/c++  -O0 -g CMakeFiles/LittleMonkandWilliamson.dir/LittleMonkandWilliamson.cpp.o -o LittleMonkandWilliamson 

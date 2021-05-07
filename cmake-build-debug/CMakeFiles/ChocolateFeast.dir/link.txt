@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/ChocolateFeast.dir/ChocolateFeast.cpp.o  -o ChocolateFeast 
+/usr/bin/c++  -O0 -g CMakeFiles/ChocolateFeast.dir/ChocolateFeast.cpp.o -o ChocolateFeast 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/hiphiparray.dir/hiphiparray.cpp.o  -o hiphiparray 
+/usr/bin/c++  -O0 -g CMakeFiles/hiphiparray.dir/hiphiparray.cpp.o -o hiphiparray 

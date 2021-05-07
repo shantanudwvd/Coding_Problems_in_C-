@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/monkandrotation.dir/monkandrotation.cpp.o  -o monkandrotation 
+/usr/bin/c++  -O0 -g CMakeFiles/monkandrotation.dir/monkandrotation.cpp.o -o monkandrotation 

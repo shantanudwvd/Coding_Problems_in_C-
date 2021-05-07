@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/AlmostSorted.dir/AlmostSorted.cpp.o  -o AlmostSorted 
+/usr/bin/c++  -O0 -g CMakeFiles/AlmostSorted.dir/AlmostSorted.cpp.o -o AlmostSorted 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.o  -o best-time-to-buy-and-sell-stock-ii 
+/usr/bin/c++  -O0 -g CMakeFiles/best-time-to-buy-and-sell-stock-ii.dir/best-time-to-buy-and-sell-stock-ii.cpp.o -o best-time-to-buy-and-sell-stock-ii 

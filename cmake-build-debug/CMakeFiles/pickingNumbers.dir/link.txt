@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/pickingNumbers.dir/pickingNumbers.cpp.o  -o pickingNumbers 
+/usr/bin/c++  -O0 -g CMakeFiles/pickingNumbers.dir/pickingNumbers.cpp.o -o pickingNumbers 

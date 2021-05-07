@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/PoisnousPlantsAlternate.dir/PoisnousPlantsAlternate.cpp.o  -o PoisnousPlantsAlternate 
+/usr/bin/c++  -O0 -g CMakeFiles/PoisnousPlantsAlternate.dir/PoisnousPlantsAlternate.cpp.o -o PoisnousPlantsAlternate 

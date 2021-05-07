@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Choose_Points.dir/Choose_Points.cpp.o  -o Choose_Points 
+/usr/bin/c++  -O0 -g CMakeFiles/Choose_Points.dir/Choose_Points.cpp.o -o Choose_Points 

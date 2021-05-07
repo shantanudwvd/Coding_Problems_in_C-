@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Deque-STL_Optimised.dir/Deque-STL_Optimised.cpp.o  -o Deque-STL_Optimised 
+/usr/bin/c++  -O0 -g CMakeFiles/Deque-STL_Optimised.dir/Deque-STL_Optimised.cpp.o -o Deque-STL_Optimised 

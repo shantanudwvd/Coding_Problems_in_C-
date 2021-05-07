@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/InterviewQueries.dir/InterviewQueries.cpp.o  -o InterviewQueries 
+/usr/bin/c++  -O0 -g CMakeFiles/InterviewQueries.dir/InterviewQueries.cpp.o -o InterviewQueries 

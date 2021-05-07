@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/ClimbingTheLeaderboard.dir/ClimbingTheLeaderboard.cpp.o  -o ClimbingTheLeaderboard 
+/usr/bin/c++  -O0 -g CMakeFiles/ClimbingTheLeaderboard.dir/ClimbingTheLeaderboard.cpp.o -o ClimbingTheLeaderboard 

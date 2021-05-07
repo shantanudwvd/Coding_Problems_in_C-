@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Thoughts2BinarySampleProblem1.dir/Thoughts2BinarySampleProblem1.cpp.o  -o Thoughts2BinarySampleProblem1 
+/usr/bin/c++  -O0 -g CMakeFiles/Thoughts2BinarySampleProblem1.dir/Thoughts2BinarySampleProblem1.cpp.o -o Thoughts2BinarySampleProblem1 

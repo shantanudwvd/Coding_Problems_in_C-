@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.o  -o QuickSort-2 
+/usr/bin/c++  -O0 -g CMakeFiles/QuickSort-2.dir/Quick_Sort.cpp.o -o QuickSort-2 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Insertion_Sort_Newton_School.dir/Insertion_Sort_Newton_School.cpp.o  -o Insertion_Sort_Newton_School 
+/usr/bin/c++  -O0 -g CMakeFiles/Insertion_Sort_Newton_School.dir/Insertion_Sort_Newton_School.cpp.o -o Insertion_Sort_Newton_School 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Encryption.dir/Encryption.cpp.o  -o Encryption 
+/usr/bin/c++  -O0 -g CMakeFiles/Encryption.dir/Encryption.cpp.o -o Encryption 

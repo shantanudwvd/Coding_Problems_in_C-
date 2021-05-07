@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Addition_of_Common_Elements.dir/Addition_of_Common_Elements.cpp.o  -o Addition_of_Common_Elements 
+/usr/bin/c++  -O0 -g CMakeFiles/Addition_of_Common_Elements.dir/Addition_of_Common_Elements.cpp.o -o Addition_of_Common_Elements 

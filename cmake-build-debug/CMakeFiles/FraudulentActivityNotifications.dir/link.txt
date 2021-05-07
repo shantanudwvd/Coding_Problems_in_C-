@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/FraudulentActivityNotifications.dir/FraudulentActivityNotifications.cpp.o  -o FraudulentActivityNotifications 
+/usr/bin/c++  -O0 -g CMakeFiles/FraudulentActivityNotifications.dir/FraudulentActivityNotifications.cpp.o -o FraudulentActivityNotifications 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/strangecode.dir/strangecode.cpp.o  -o strangecode 
+/usr/bin/c++  -O0 -g CMakeFiles/strangecode.dir/strangecode.cpp.o -o strangecode 

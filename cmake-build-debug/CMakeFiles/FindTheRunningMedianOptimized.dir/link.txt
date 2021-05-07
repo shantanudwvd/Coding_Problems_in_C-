@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/FindTheRunningMedianOptimized.dir/FindTheRunningMedianOptimized.cpp.o  -o FindTheRunningMedianOptimized 
+/usr/bin/c++  -O0 -g CMakeFiles/FindTheRunningMedianOptimized.dir/FindTheRunningMedianOptimized.cpp.o -o FindTheRunningMedianOptimized 

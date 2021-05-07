@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/AndProduct.dir/ANDProduct.cpp.o  -o AndProduct 
+/usr/bin/c++  -O0 -g CMakeFiles/AndProduct.dir/ANDProduct.cpp.o -o AndProduct 

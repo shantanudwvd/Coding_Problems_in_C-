@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/halloweensale.dir/halloweensale.cpp.o  -o halloweensale 
+/usr/bin/c++  -O0 -g CMakeFiles/halloweensale.dir/halloweensale.cpp.o -o halloweensale 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/StrongPassword.dir/StrongPassword.cpp.o  -o StrongPassword 
+/usr/bin/c++  -O0 -g CMakeFiles/StrongPassword.dir/StrongPassword.cpp.o -o StrongPassword 

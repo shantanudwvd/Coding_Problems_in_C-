@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/DequeSTL.dir/DequeSTL.cpp.o  -o DequeSTL 
+/usr/bin/c++  -O0 -g CMakeFiles/DequeSTL.dir/DequeSTL.cpp.o -o DequeSTL 

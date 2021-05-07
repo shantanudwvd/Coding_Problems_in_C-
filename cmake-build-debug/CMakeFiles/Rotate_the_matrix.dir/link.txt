@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Rotate_the_matrix.dir/Rotate_the_matrix.cpp.o  -o Rotate_the_matrix 
+/usr/bin/c++  -O0 -g CMakeFiles/Rotate_the_matrix.dir/Rotate_the_matrix.cpp.o -o Rotate_the_matrix 

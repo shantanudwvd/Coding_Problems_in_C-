@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/SubArrayProduct.dir/SubArrayProduct.cpp.o  -o SubArrayProduct 
+/usr/bin/c++  -O0 -g CMakeFiles/SubArrayProduct.dir/SubArrayProduct.cpp.o -o SubArrayProduct 

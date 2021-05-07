@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Binary_Heap_Operations.dir/Binary_Heap_Operations.cpp.o  -o Binary_Heap_Operations 
+/usr/bin/c++  -O0 -g CMakeFiles/Binary_Heap_Operations.dir/Binary_Heap_Operations.cpp.o -o Binary_Heap_Operations 

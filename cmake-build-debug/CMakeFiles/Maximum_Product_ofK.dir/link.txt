@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Maximum_Product_ofK.dir/Maximum_Product_ofK.cpp.o  -o Maximum_Product_ofK 
+/usr/bin/c++  -O0 -g CMakeFiles/Maximum_Product_ofK.dir/Maximum_Product_ofK.cpp.o -o Maximum_Product_ofK 

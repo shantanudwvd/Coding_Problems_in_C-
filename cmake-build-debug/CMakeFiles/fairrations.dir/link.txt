@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/fairrations.dir/fairrations.cpp.o  -o fairrations 
+/usr/bin/c++  -O0 -g CMakeFiles/fairrations.dir/fairrations.cpp.o -o fairrations 

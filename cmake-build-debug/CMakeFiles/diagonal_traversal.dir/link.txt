@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/diagonal_traversal.dir/diagonal_traversal.cpp.o  -o diagonal_traversal 
+/usr/bin/c++  -O0 -g CMakeFiles/diagonal_traversal.dir/diagonal_traversal.cpp.o -o diagonal_traversal 

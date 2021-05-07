@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Conversion_to_one.dir/Conversion_to_one.cpp.o  -o Conversion_to_one 
+/usr/bin/c++  -O0 -g CMakeFiles/Conversion_to_one.dir/Conversion_to_one.cpp.o -o Conversion_to_one 

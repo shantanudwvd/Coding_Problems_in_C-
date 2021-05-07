@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Min_steps_i_a_grid.dir/Min_steps_i_a_grid.cpp.o  -o Min_steps_i_a_grid 
+/usr/bin/c++  -O0 -g CMakeFiles/Min_steps_i_a_grid.dir/Min_steps_i_a_grid.cpp.o -o Min_steps_i_a_grid 

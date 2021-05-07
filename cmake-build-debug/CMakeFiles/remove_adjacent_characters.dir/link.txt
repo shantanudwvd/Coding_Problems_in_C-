@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/remove_adjacent_characters.dir/remove_adjacent_characters.cpp.o  -o remove_adjacent_characters 
+/usr/bin/c++  -O0 -g CMakeFiles/remove_adjacent_characters.dir/remove_adjacent_characters.cpp.o -o remove_adjacent_characters 

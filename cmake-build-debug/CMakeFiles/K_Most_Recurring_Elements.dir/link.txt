@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/K_Most_Recurring_Elements.dir/K_Most_Recurring_Elements.cpp.o  -o K_Most_Recurring_Elements 
+/usr/bin/c++  -O0 -g CMakeFiles/K_Most_Recurring_Elements.dir/K_Most_Recurring_Elements.cpp.o -o K_Most_Recurring_Elements 

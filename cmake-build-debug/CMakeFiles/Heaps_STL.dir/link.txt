@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Heaps_STL.dir/Heaps_STL.cpp.o  -o Heaps_STL 
+/usr/bin/c++  -O0 -g CMakeFiles/Heaps_STL.dir/Heaps_STL.cpp.o -o Heaps_STL 

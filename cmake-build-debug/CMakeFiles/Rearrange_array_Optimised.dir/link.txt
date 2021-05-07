@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Rearrange_array_Optimised.dir/Rearrange_array_Optimised.cpp.o  -o Rearrange_array_Optimised 
+/usr/bin/c++  -O0 -g CMakeFiles/Rearrange_array_Optimised.dir/Rearrange_array_Optimised.cpp.o -o Rearrange_array_Optimised 

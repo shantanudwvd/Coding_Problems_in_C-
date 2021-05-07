@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/DijsktraAlgorithm.dir/DijsktraAlgorithm.cpp.o  -o DijsktraAlgorithm 
+/usr/bin/c++  -O0 -g CMakeFiles/DijsktraAlgorithm.dir/DijsktraAlgorithm.cpp.o -o DijsktraAlgorithm 

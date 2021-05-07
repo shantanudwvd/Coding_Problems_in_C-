@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/Sum_of_Product_of_Digits.dir/Sum_of_Product_of_Digits.cpp.o  -o Sum_of_Product_of_Digits 
+/usr/bin/c++  -O0 -g CMakeFiles/Sum_of_Product_of_Digits.dir/Sum_of_Product_of_Digits.cpp.o -o Sum_of_Product_of_Digits 

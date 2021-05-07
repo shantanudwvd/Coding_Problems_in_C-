@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/ArrayManipulation.dir/ArrayManipulation.cpp.o  -o ArrayManipulation 
+/usr/bin/c++  -O0 -g CMakeFiles/ArrayManipulation.dir/ArrayManipulation.cpp.o -o ArrayManipulation 

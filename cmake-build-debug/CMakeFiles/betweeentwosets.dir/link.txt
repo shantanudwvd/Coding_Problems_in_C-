@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/betweeentwosets.dir/betweeentwosets.cpp.o  -o betweeentwosets 
+/usr/bin/c++  -O0 -g CMakeFiles/betweeentwosets.dir/betweeentwosets.cpp.o -o betweeentwosets 

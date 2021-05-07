@@ -1,1 +1,1 @@
-/usr/bin/c++   -O0 -g   CMakeFiles/ACM-ICPC_Team.dir/ACM-ICPC_Team.cpp.o  -o ACM-ICPC_Team 
+/usr/bin/c++  -O0 -g CMakeFiles/ACM-ICPC_Team.dir/ACM-ICPC_Team.cpp.o -o ACM-ICPC_Team 
