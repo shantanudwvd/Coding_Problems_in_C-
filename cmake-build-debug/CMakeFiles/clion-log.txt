@@ -1,4 +1,4 @@
-/home/shantanu/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.4746.15/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/shantanu/CLionProjects/Coding_Problems_in_C-
+/home/shantanu/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.4746.93/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/shantanu/CLionProjects/Coding_Problems_in_C-
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/shantanu/CLionProjects/Coding_Problems_in_C-/cmake-build-debug
